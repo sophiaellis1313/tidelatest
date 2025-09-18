@@ -1,5 +1,5 @@
 ---
-layout: blog-simple
+layout: blog-s
 permalink: '/articles/Hidden-Gems-Rovinj-Croatia  '
 title: 'Hidden Gems: Rovinj, Croatia  '
 type: travel
