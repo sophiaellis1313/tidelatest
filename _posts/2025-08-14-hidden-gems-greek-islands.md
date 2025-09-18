@@ -1,5 +1,5 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: '/articles/Hidden-Gems-Greek-Islands '
 title: 'Hidden Gems: Greek Islands '
 type: travel
@@ -34,6 +34,6 @@ images:
 ---
 The sun-soaked isles are renowned for being naturally beautiful, produce-rich and ripe with history – but now they’re also becoming known for their eco-hotels, cutting-edge architecture and groundbreaking art, if you know where to look.
 
-![Sailing magazine TIDE magazine hidden gems greek islands](/uploads/x2a0160-copy.jpeg "Hidden Gems: Greek Islands"){: loading="lazy"}
+![Sailing magazine TIDE magazine hidden gems greek islands](/uploads/x2a0160-copy.jpeg "Hidden Gems: Greek Islands"){: loading="true"}
 
 Rather like the recent Roman Empire TikTok trend, when women asked their male partners how often they thought of the ancient civilisation – weekly? Several times a day, really? – how often do you think of the Greek Islands? Its whitewashed villages, painterly ocean blues, sun-warmed beaches. No other islands in the world have swirled in and out of our imagination quite like these Mediterranean archipelagos. Leonard Cohen’s Hydra; the Kefalonia of Captain Corelli; the Skopelos of *Mamma* *Mia*; its waters sailed by Jason and the Argonauts, and Onassis’s yacht *Christina*. The stuff of myth and legend, and secrets too. Alongside the well-known stories and the islands that everyone sets course for, here are some new venue arrivals and a few of its more off-radar destinations to inspire your travels.
