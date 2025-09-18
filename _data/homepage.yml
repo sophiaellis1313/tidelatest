@@ -209,7 +209,7 @@ content_on_image2:
     Builder Royal Huisman kept Project 404 on the down-low...
   button:
     text: More
-    link: '#'
+    link: /articles/sarissa.html
     style: white-btn
 content_on_image3:
   image:
