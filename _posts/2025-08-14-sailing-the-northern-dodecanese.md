@@ -6,7 +6,7 @@ type: travel
 byline: 'Author: Dayyan Armstrong '
 issue_no: number 13
 featured_image:
-  image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
+  image: /uploads/dodecanese-tide-mag-dja-87-1-min.jpg
   position: img-center
 video: false
 video_path:
@@ -47,7 +47,7 @@ images:
     caption: false
     credit:
 ---
-Welcome to the top of the "twelve islands", an archipelago revered for its storied past, secret bays and sense of discovery. Director and founder of Sailing Collective charters, Dayyan Armstrong shares the local intel.
+Welcome to the top of the “twelve islands”, an archipelago revered for its storied past, secret bays and sense of discovery. Director and founder of Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
 The far eastern islands of Greece lean toward Turkey, so close in places that only a few short tacks separate them. Here, in the Dodecanese Archipelago, the Greek islands take on a different personality entirely – distinct from the widely known Cyclades to the west. Grand peaks rise sharply against the horizon, their barren slopes brushed with a warmer, earthier hue than the familiar blue-and-white palette of the Aegean.
 
