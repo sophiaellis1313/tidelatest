@@ -18,19 +18,21 @@ issue_out_now_image: /uploads/issue-13/tide-magazine-13-spreads-mockup-2.jpg
 homepage_banner:
   desktop:
     url: /articles/wind-power
-    video: true
+    video: false
     video_path: /videos/sailing-wind.mp4
     poster: /images/homepage-poster.jpg
-    fallback_image: /images/homepage-banner.png
+    fallback_image: /uploads/250624-sailingenergy-syc-d0039wha.jpg
     image_position: center
-    title: Wind is power.
+    title: >-
+      “One of life's quiet excitements is to stand somewhat apart from yourself
+      and watch yourself softly becoming the author of something beautiful”. 
     tags:
       - Sailing
-      - NUMBER 11
-    description: >
-      The latest rig and sail innovations are allowing boatbuilders and
-      designers to think big when it comes to sailing vessels – and that is good
-      news for the environment.
+      - NUMBER 14
+    description: >-
+      From Iconic Maltese Falcon to the latest in electric-yacht innovation,
+      Dykstra Naval Architects seamlessly moves from one project to the next.
+      CEO Thys Nikkels shares what steers them so well...
     button:
       text: MORE
       style: white-btn
