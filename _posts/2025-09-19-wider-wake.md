@@ -6,7 +6,7 @@ type: sailing
 byline: 'Author: Samuel Jefferson '
 issue_no: number 13
 featured_image:
-  image: /uploads/dsc01506-1-min.jpg
+  image: /uploads/dsc01506-1-min-1.jpg
   position: img-center
 video: false
 video_path:
