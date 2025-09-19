@@ -87,15 +87,31 @@ cards:
       a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
       2025 – explain how she does it.
 cards2:
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-black-pearl-5.jpg
-    alt: ' Revolutionary Rigging  '
-    link: /articles/black-pearl
+  - image: /uploads/pink-gin-verde-yachtshot-h117-min.jpg
+    alt: A Class of their Own
+    link: articles/A-class-of-their-own.html
     tags:
       - Sailing
-      - number 12
-    title: ' Revolutionary Rigging  '
-    description: ' As one of the most pioneering advancements in sailing design this century, DynaRig has been turning heads and Superyacht sails for nearly two decades. TIDE gets the inside track on the system and its potential future use  '
+      - number 14
+    title: A Class of their Own
+    description: >+
+      From a term for a 60s motorbike to the name of a fast, smart and super
+      daysailer: here’s what happened when the four Baltic 68 Café Racers raced
+      together at the Superyacht Cup Palm.
+
+  - image: /uploads/audihirw2017-francolini-1753.jpg
+    alt: Drumfire Yacht
+    link: /articles/Drumfire-the-boat-to-beat%20.html
+    tags:
+      - Sailing
+      - number 13
+    title: 'Drumfire: The Boat to Beat'
+    description: >+
+      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
+      Under following decades spent in the shadow of others in Europe. The
+      boatbuilder, her Captain and new owners each share the secrets to her
+      newfound success.
+
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' On Point:  Supersloop Sarissa '
@@ -105,18 +121,6 @@ cards2:
       - number 12
     title: ' On Point:  Supersloop Sarissa '
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness. We meet her designer Malcolm McKeon and Captain Iain Cook to find out her secret '
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
-    alt: ' Ocean Breeze '
-    link: /articles/ocean-breeze
-    tags:
-      - Lifestyle
-      - number 12
-    title: ' Ocean Breeze '
-    description: >-
-      Imbibe the special treasures of the location surrounding you via a glass
-      of wine crafted at Bodega Oceánica José Ignacio, situated just back from
-      Uruguay’s Atlantic coastline 
 cards3:
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.jpg
