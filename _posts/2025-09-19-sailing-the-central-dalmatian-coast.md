@@ -49,7 +49,7 @@ images:
 ---
 The Croatian waters from Trogir to Ploče via a multitude of idyllic islands offer some of the most celebrated charter itineraries in the world – and for good reason. Dayyan Armstrong shares the inside track.
 
-![](/uploads/3.png)
+&nbsp;
 
 On land, bright limestone cliffs line the shore of the Central Dalmatian Coast, softened by rich greenery spilling down to the water’s edge. The sea here is among the clearest in the entire Mediterranean, thanks to the region’s exceptionally low turbidity. Along the shoreline, upscale marinas are dotted with excellent places to eat, while just a cove away you might find a rustic anchorage with a family-run *konoba* surrounded by serene wilderness. With endless itinerary possibilities and a finely balanced blend of sophistication and simplicity, it’s no wonder so many sailors return year after year to explore these seas.
 
