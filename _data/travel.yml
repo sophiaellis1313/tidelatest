@@ -1,3 +1,18 @@
+posts:
+  - category: "travel"
+    video: true
+    video_path: "path/to/video.mp4"
+    featured_image:
+      image: "path/to/featured-image.jpg"
+      position: "center"  # Position of the image (e.g., center, top, bottom)
+    title: " The High Low "
+    short_description: " These two beach spots offer barefoot escapes in South America: one firmly on the Atlantic Ocean in Uruguay, the other hidden away in the turquoise Caribbean in Colombia. Each is paradisiacal, just with different vibes "
+    type: "Travel"
+    issue_no: "Number 12"
+    url: "/post/sailing-adventure"
+    cover_image: "/uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-high-low-5.jpg"
+    buttontitle: "More"
+    
 cards:
   - image: /uploads/download-8.jpg
     alt: ' The High Low '
@@ -359,3 +374,4 @@ cards4:
     tags: []
     title: ' Portofino: Let''s Meet at the Mare '
     description: ' Portofino’s newly refurbished Splendido Mare is a lesson in the art of sprezzatura: the laid-back, effortless charm that defines the Italian Riviera. '
+

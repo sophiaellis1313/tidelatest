@@ -9,6 +9,48 @@ categories:
 
 <section class="grid-center category-text-on-image">
   <div class="col-12_sm-12">
+    {% assign targetCat = 'travel' %}
+    {% for post in site.data.travel.posts %}
+      {% if post.category == targetCat %}
+        <div class="relative banner-img">
+          <div class="grid">
+            <div class="col-12_sm-12 relative">
+              <a href="{{ post.url }}">
+                {% if post.video %}
+                  <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{ post.cover_image }}">
+                    <source src="{{ post.video_path }}" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
+                {% endif %}
+                <img class="img_lrge min-heigh block {{ post.featured_image.position }}" src="{{ post.featured_image.image }}" />
+              </a>
+            </div>
+            <div class="absolute top-0 center pt-50 mt-9 w-full centered white" style="z-index: 8;">
+             <a href="/">CATEGORY: <b>{{ post.category }}</b></a> 
+            </div>
+            <a href="{{ post.url }}" class="content-on-hover vw-100 container-full pt-4 d-flex align-end pb-2 mb:pb-100 overlay flex-wrap">
+              <div class="col-12 main-wrapper left">
+                <div class="d-flex gap-10 subtitle mt-2 text-white uppercase font-xs normal-letter-spacing mb-1 overpass-font-family card-tags">
+                  <span>{{ post.type }}</span>
+                  <span class="divider white-border"></span>
+                  <span>{{ post.issue_no }}</span>
+                </div>
+                <h2 class="mob-padding mt-1 mb-1 text-white h2">{{ post.title }}</h2>
+                <p class="mob-padding long-text mt-1 no-margin text-white mb-0">{{ post.short_description }}</p>
+              </div>
+              <span class="btn white-btn mt-1">{{ post.buttontitle }}</span>
+            </a>
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+
+
+<!-- <section class="grid-center category-text-on-image">
+  <div class="col-12_sm-12">
 
 
 
@@ -38,22 +80,22 @@ categories:
           <div class="d-flex gap-10 subtitle mt-2 text-white uppercase font-xs normal-letter-spacing mb-1 overpass-font-family card-tags">
             <span>{{ post.type }}</span> <span class="divider white-border "></span> <span>{{ post.issue_no }}</span>
         </div>
-          <!-- <h4 class="subtitle mt-2 text-white">  I </h4> -->
-          <h2 class="mob-padding mt-1 mb-1 text-white h2"> {{post.title}} </h2>
+          <h4 class="subtitle mt-2 text-white">  I </h4> -->
+          <!-- <h2 class="mob-padding mt-1 mb-1 text-white h2"> {{post.title}} </h2> -->
           <!-- <h2 class="mob-padding mt-1 mb-1 text-white"> {{post.title}} </h2> -->
-          <p class="mob-padding long-text mt-1 no-margin text-white mb-0"> {{post.short-description}} </p>
+          <!-- <p class="mob-padding long-text mt-1 no-margin text-white mb-0"> {{post.short-description}} </p>
         </div>
         <span class="btn white-btn mt-1">MORE</span>
       </a>
       </div>
     </div>
 
-  {% endfor %}
+  {% endfor %} -->
 
 
 
-  </div>
-</section>
+  <!-- </div>
+</section> --> 
 
 
 

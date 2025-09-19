@@ -1,3 +1,18 @@
+posts:
+  - category: "Design"
+    video: true
+    video_path: "path/to/video.mp4"
+    featured_image:
+      image: "path/to/featured-image.jpg"
+      position: "center"  # Position of the image (e.g., center, top, bottom)
+    title: " Evolving Modernism "
+    short_description: " Family-run architectural firm Estudio Ramos has been progressing high design for 35 years – putting nature first from the very beginning. We catch up with father-and-son team Juan Ignacio and Ignacio Ramos to find out more about their renowned but hushed approach "
+    type: "Design"
+    issue_no: "Number 12"
+    url: "/design"
+    cover_image: "/uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg"
+    buttontitle: "More"
+
 cards:
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1-1.jpg
     alt: ' Evolving Modernism '
