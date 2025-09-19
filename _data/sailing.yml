@@ -330,6 +330,54 @@ cards6:
       - number 02
     title: ' Perseverance on Charter '
     description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
+content_on_image:
+  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
+  alt: TIDE's Top Ten Sailing Destinations
+  tags:
+    - Travel
+    - Number 11
+  title: 'TIDE''s Top Ten Sailing Destinations '
+  description: >-
+    For decades, sailors have set a course for the Cyclades, but not only for
+    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
+    seas.
+  button:
+    text: More
+    link: /destinations
+    class: width-fit btn white-btn
+
+content_on_image2:
+  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
+  alt: TIDE's Top Ten Sailing Destinations
+  tags:
+    - Travel
+    - Number 11
+  title: 'TIDE''s Top Ten Sailing Destinations '
+  description: >-
+    For decades, sailors have set a course for the Cyclades, but not only for
+    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
+    seas.
+  button:
+    text: More
+    link: /destinations
+    class: width-fit btn white-btn
+
+content_on_image3:
+  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
+  alt: TIDE's Top Ten Sailing Destinations
+  tags:
+    - Travel
+    - Number 11
+  title: 'TIDE''s Top Ten Sailing Destinations '
+  description: >-
+    For decades, sailors have set a course for the Cyclades, but not only for
+    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
+    seas.
+  button:
+    text: More
+    link: /destinations
+    class: width-fit btn white-btn
+
 subscribe_section:
   left_image: /images/magazine.png
   right_image: /images/tablet.png
