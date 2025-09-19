@@ -160,26 +160,32 @@ cards3:
       visiting the town for years. Here he shares his essential to-dos.
 
 cards4:
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-checking-in-1.jpg
-    alt: ' Checking in: Posada Ayana '
-    link: /articles/posada-ayana
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
+    alt: Evolving Modernism
+    link: articles/estudio-ramos.html
     tags:
-      - Travel
+      - Design
       - number 12
-    title: ' Checking in: Posada Ayana '
-    description: ' Originally from Austria, Edda and Robert Kofler relocated to the tiny Uruguayan village of José Ignacio and never looked back. The result? An elegant, modern hotel with ocean views and the kind of calm one would cross oceans for '
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1-2.jpg
-    alt: ' A Taste Of Tuscany '
-    link: /articles/taste-of-tuscany
-    tags:
-      - Travel
-      - Number 11
-    title: ' A Taste Of Tuscany '
+    title: Evolving Modernism
     description: >-
-      The North American island nation has so much more beyond Havana, from
-      isolated sandy cays to lively, vibrant city centres. Here, Cuba-born Maria
-      Romeu, founder of CubaPlus Travel agency, has planned your visit for you
+      “Architecture is a little bit like music: it’s about rhythm, silences. We
+      don’t want our architecture to be loud,” says Juan Ignacio Ramos, the
+      figure behind Estudio Ramos, a 35-year-strong family-run firm with dual
+      bases in New York City and Buenos Aires.
+  - image: /uploads/download.jpg
+    alt: Expanding Horizons
+    link: articles/expanding-horizons.html
+    tags:
+      - Design
+      - Number 11
+    title: Expanding Horizons
+    description: >-
+      When you spend time examining the landscape of yacht design, you start to
+      observe that designers in the genre tend to fall into two distinct
+      categories. On the one hand you have specialists who have always focused
+      exclusively on spaces that sail, while others have come over from
+      residential projects or commercial fields and grown to include yachts in
+      their portfolios. 
 cards5:
   - image: /images/sailing-stockholm.png
     alt: ' Sailing Stockholm '
