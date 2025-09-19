@@ -3538,5 +3538,7 @@ header.scrolled .block-header-menu {
     padding-inline: 30px;
   }
 }
-
-
+.extrasdivider{
+  border-left: 2px solid #f7fff4;
+  margin-right: 7px;
+}
