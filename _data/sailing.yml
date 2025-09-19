@@ -16,6 +16,17 @@ posts:
     cover_image: /uploads/silken-2024-03-07-0953-min.jpg
     buttontitle: More
 cards:
+  - image: /uploads/bj100-2025-gotland-runt-training-at-269-min.jpg
+    alt: Black Jack 100
+    link: https://peachy-lion.cloudvent.net/articles/Black-Jack-100%20.html
+    tags:
+      - ''
+    title: Black Jack 100
+    description: >
+      Like her racing driver namesake Jack Brabham, this Reichel/Pugh design has
+      won a seemingly endless number of prestigious yacht races in her time. But
+      now, with a new super-charged owner, she just might be in the very best
+      shape of her career.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' Sailing I number 12'
     link: /articles/sarissa
@@ -56,6 +67,17 @@ cards:
       - number 10
     title: ' Maximus The Ocean Gladiator  '
     description: ' Meet the Superyacht that manages to both dominate at regattas and boast the latest in onboard luxury '
+  - image: /uploads/sw108-02-deck-24.jpg
+    alt: ''
+    link: /articles/The-beautiful-lightness-of-being%20.html
+    tags:
+      - ''
+    title: The Beautiful Lightness of Being
+    description: >-
+      Compromise is a part of life – except when you have a 108’, smart,
+      comfortable Superyacht that simultaneously handles with the daintiness of
+      a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
+      2025 – explain how she does it.
 cards2:
   - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
     alt: ' The Rise of the Supersloop '
