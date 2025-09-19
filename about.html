@@ -1,127 +1,129 @@
 ---
 layout: default
 ---
+
 <div class="container-full">
-    <div class="relative banner-img ">
-    <div class=" grid">
-
-    <div class="col-12_sm-12 relative">
-    <a href="{{post.url}}">
-    {% if post.video == true %}
-    <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{item.cover_image}}">
-    <source src="{{post.video_path}}" type="video/mp4" />
-    Your browser does not support the video tag.
-    </video>
-    {% endif %}
-    <img class="img_lrge min-heigh  block {{post.featured_image.position}}" src="../images/about-banner.png"></img>
-    </a>
-    </div>
-    <a href="{{post.url}}" class="content-on-hover  vw-100 container-full pt-4 d-flex align-end overlay flex-wrap h-full">
-    <div class="h-full w-full content-center centered">
-        <!-- <h4 class="subtitle mt-2 text-white">  I </h4> -->
-        <h2 class="mob-padding mt-1 mb-1 text-white font-s overpass-font-family letter-spacing"> WELCOME TO </h2>
-        <!-- <h2 class="mob-padding mt-1 mb-1 text-white"> {{post.title}} </h2> -->
-        <p style="place-self: center; " class="mob-padding long-text mt-1 no-margin text-white mb-0"><img src="../images/white-logo.png" width="200"> </p>
-    </div>
-    </a>
-    </div>
+    <div class="relative banner-img">
+        <div class="grid">
+            <div class="col-12_sm-12 relative">
+                <a href="{{ site.data.about.banner.link_url }}">
+                    {% if site.data.about.banner.featured_image.url %}
+                     <img class="img_lrge min-heigh block {{ site.data.about.banner.featured_image.position }}" src="{{ site.data.about.banner.featured_image.url }}" alt="Banner Image">
+                    {% else %}
+                        <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{ site.data.about.banner.cover_image }}">
+                            <source src="{{ site.data.about.banner.video_path }}" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
+                    {% endif %}
+                </a>
+            </div>
+            <a href="{{ site.data.about.banner.link_url }}" class="content-on-hover vw-100 container-full pt-4 d-flex align-end overlay flex-wrap h-full">
+                <div class="h-full w-full content-center centered">
+                    <h2 class="mob-padding mt-1 mb-1 text-white font-s overpass-font-family letter-spacing">
+                        {{ site.data.about.welcome.title }}
+                    </h2>
+                    <p style="place-self: center;" class="mob-padding long-text mt-1 no-margin text-white mb-0">
+                        <img src="{{ site.data.about.welcome.logo_url }}" width="200">
+                    </p>
+                </div>
+            </a>
+        </div>
     </div>
 </div>
+
+
+
+
 <section class="relative no-margin sticky-section">
-     <div class="navigation-bar flex-display w-full sticky--bar">
-    <a href="#about_about"  class="p0-button filter-grid-button uppercase">
-       ABOUT
+  <div class="navigation-bar flex-display w-full sticky--bar">
+  {% for item in site.data.about.navigation %}
+    <a href="{{ item.href }}" class="{{ item.class }} filter-grid-button uppercase">
+      {{ item.label }}
     </a>
-    <a href="#about_matric" class="p1-button filter-grid-button uppercase">
-       metrics
-    </a>
-    <a href="#about_partner" class="p2-button filter-grid-button uppercase">
-       PARTNER WITH TIDE
-    </a>
-    <a href="#about_contact" class="p3-button filter-grid-button uppercase">
-       CONTACT
-    </a>
-    <a href="#about_legal" class="p4-button filter-grid-button uppercase">
-       LEGAL
-    </a>
+  {% endfor %}
 </div>
-<div class="tab-section container">
-  <!-- {% include navigation-bar.html %} -->
 
-<div class="target__links" id="about_about"></div>
-<section class="about-section w-60 margin-auto centered" >
-<h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">ABOUT TIDE MAGAZINE</h2>
-<div class="underline"></div>
-<h2 class="h2">We explore the shifts and changes at the core of the sailing world...</h2>
-<p class="my-25">
-  TIDE is an independent sailing, lifestyle and travel magazine, published in print and digital.
-  We explore the shifts and changes at the core of the sailing world and the ocean adventure:
-  the vessels, the people, the experiences, the destinations — the many facets that entice
-  individuals around the world to pursue this alluring form of adventure.
-</p>
-<p class="my-25">
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-  et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-  aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-  dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-  officia deserunt mollit anim id est laborum.
-</p>
-</section>
+<div class="tab-section container">
+  <div class="target__links" id="about_about"></div>
+  <section class="about-section w-60 margin-auto centered">
+    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
+      {{ site.data.about.about_section.title }}
+    </h2>
+    <div class="underline"></div>
+    <h2 class="h2">
+      {{ site.data.about.about_section.subtitle }}
+    </h2>
+    <p class="my-25">
+      {{ site.data.about.about_section.paragraph_1 }}
+    </p>
+    <p class="my-25">
+      {{ site.data.about.about_section.paragraph_2 }}
+    </p>
+  </section>
 </div>
+
 
 <div class="target__links" id="about_matric"></div>
-  <section class="bg-grey py-70 image-with-text" >
-    <div class="d-flex gap-70 mb:gap-100 main-block">
-      <div class="mb:column-5">
-        <img src="../images/greek_islands.png">
+
+<section class="bg-grey py-70 image-with-text">
+  <div class="d-flex gap-70 mb:gap-100 main-block">
+    <div class="mb:column-5">
+      <img src="{{ site.data.about.image_with_text_section.image_1 }}" alt="Greek Islands">
+    </div>
+
+    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex">
+      <div>
+        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.issue_count }}</h2>
+        <p class="font-xxs large-line-height overpass-font-family">{{ site.data.about.image_with_text_section.stats.issue_frequency }}</p>
       </div>
 
-        <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex ">
-          <div>
-            <h2 class="font-large crimson">12 issues</h2>
-            <p class="font-xxs large-line-height overpass-font-family">ANNUALLY</p>
-          </div>
-
-          <div>
-            <h2 class="font-large crimson">10,000</h2>
-            <p class="font-xxs large-line-height overpass-font-family">monthly orders</p>
-          </div>
-        </div>
+      <div>
+        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.monthly_orders }}</h2>
+        <p class="font-xxs large-line-height overpass-font-family">monthly orders</p>
+      </div>
     </div>
-    <div class="d-flex gap-70 mb:gap-100 main-block">
-      
-        <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex justify-end">
-          <div>
-            <h2 class="font-large crimson">4 million</h2>
-            <p class="font-xxs large-line-height overpass-font-family">PAGE VIEWS</p>
-          </div>
+  </div>
 
-          <div>
-            <h2 class="font-large crimson">55,000</h2>
-            <p class="font-xxs large-line-height overpass-font-family">DIGITAL SUBSCRIBERS</p>
-          </div>
-        </div>
-        <div class="mb:column-5 right">
-        <img src="../images/tablet.png">
+  <div class="d-flex gap-70 mb:gap-100 main-block">
+    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex justify-end">
+      <div>
+        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.page_views }}</h2>
+        <p class="font-xxs large-line-height overpass-font-family">PAGE VIEWS</p>
       </div>
 
+      <div>
+        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.digital_subscribers }}</h2>
+        <p class="font-xxs large-line-height overpass-font-family">DIGITAL SUBSCRIBERS</p>
+      </div>
     </div>
-  </section>
-
-  <div class="target__links" id="about_partner"></div>
-  <section class="container" >
-    <div class="about-section w-60 margin-auto centered">
-       <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">PARTNER WITH TIDE</h2>
-        <div class="underline"></div>
-        <h2 class="h2">Reach a tailored and discerning audience in a tasteful way</h2>
-        <p class="my-25">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-        </p>
-       <a href="#" class="btn">GET STARTED</a>
+    <div class="mb:column-5 right">
+      <img src="{{ site.data.about.image_with_text_section.image_2 }}" alt="Tablet">
     </div>
-  </section>
+  </div>
+</section>
+
+
+ <div class="target__links" id="about_partner"></div>
+
+<section class="container">
+  <div class="about-section w-60 margin-auto centered">
+    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
+      {{ site.data.about.partner_with_tide_section.heading }}
+    </h2>
+    <div class="underline"></div>
+    <h2 class="h2">{{ site.data.about.partner_with_tide_section.subheading }}</h2>
+    <p class="my-25">
+      {{ site.data.about.partner_with_tide_section.description }}
+    </p>
+    <a href="{{ site.data.about.partner_with_tide_section.button_url }}" class="btn">
+      {{ site.data.about.partner_with_tide_section.button_text }}
+    </a>
+  </div>
+</section>
+
 </div>
+
+
 <div class="target__links" id="about_contact"></div>
 <section class="content_on_image position-relative w-full  no-margin" >
   <img 
@@ -175,58 +177,31 @@ layout: default
 </section>
 
 <div class="target__links" id="about_legal"></div>
-<section class="tab" >
-        <h2 class="w-full overpass-font-family font-xxs font-weight-600">LEGAL</h2>
+<section class="tab">
+  <h2 class="w-full overpass-font-family font-xxs font-weight-600">
+    {{ site.data.about.legal_section.heading }}
+  </h2>
   <div class="tab-nav">
-    <button class="tab-button" data-tab="tab1">
-      Terms and Conditions <span class="arrow">↓</span>
-    </button>
-    <div class="tab-content" id="tab1">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-      <p>
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </p>
-    </div>
-
-    <button class="tab-button" data-tab="tab2">
-      Privacy Policy <span class="arrow">↓</span>
-    </button>
-    <div class="tab-content" id="tab2">
-      <p>
-        This is the privacy policy content. You can update it with real text.
-      </p>
-    </div>
-
-    <button class="tab-button" data-tab="tab3">
-      Return Policy <span class="arrow">↓</span>
-    </button>
-    <div class="tab-content" id="tab3">
-      <p>
-        This is the return policy content. You can update it with real text.
-      </p>
-    </div>
+    {% for tab in site.data.about.legal_section.tabs %}
+      <button class="tab-button" data-tab="tab{{ loop.index }}">
+        {{ tab.title }} <span class="arrow">↓</span>
+      </button>
+      <div class="tab-content" id="tab{{ loop.index }}">
+        <p>{{ tab.content }}</p>
+      </div>
+    {% endfor %}
   </div>
 
   <!-- Desktop only content area -->
   <div class="tab-content-area">
-    <div class="tab-content active" id="tab1-desktop">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      </p>
-      <p>
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      </p>
-    </div>
-    <div class="tab-content" id="tab2-desktop">
-      <p>This is the privacy policy content.</p>
-    </div>
-    <div class="tab-content" id="tab3-desktop">
-      <p>This is the return policy content.</p>
-    </div>
+    {% for tab in site.data.about.legal_section.tabs %}
+      <div class="tab-content" id="tab{{ loop.index }}-desktop">
+        <p>{{ tab.content }}</p>
+      </div>
+    {% endfor %}
   </div>
 </section>
+
 </section>
  <script>
     document.addEventListener("DOMContentLoaded", () => {
