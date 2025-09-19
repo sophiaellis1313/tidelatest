@@ -5,6 +5,7 @@ title: 'HOTEL: Pan Deï Palais, Saint Tropez'
 type: Travel
 byline: 'WORDS: Phoebe Hunt and Louise Long | IMAGES: Louise Long'
 issue_no: number 02
+newone: yes it's new
 featured_image: 
   image: /uploads/6afkh780.jpeg
   position: img-center
