@@ -225,20 +225,22 @@ content_on_image2:
     style: white-btn
 content_on_image3:
   image:
-    src: /images/modernism.png
-    alt: modernism
+    src: /uploads/interior-studio-frers-min.jpg
+    alt: Frers Sailing Yacht Studio
   tags:
-    - DEIGN
-    - NUMBER 11
-  title: Evolving Modernism
+    - DESIGN
+    - NUMBER 14
+  title: Frers Spirit
   direction: end
-  description: >
-    “Architecture is a little bit like music: it’s about rhythm, silences. We
-    don’t want our architecture to be loud,” says Juan Ignacio Ramos, the figure
-    behind Estudio Ramos...
+  description: >+
+    The Frers name has been behind some of the most beautiful, experimental
+    yacht designs of the past century. The founder’s grandson, Mani, takes a
+    break from building a record-breaking sloop to reveal what drives his
+    studio.
+
   button:
     text: More
-    link: '#'
+    link: articles/Frers-spirit%20.html
     style: white-btn
 content_on_image4:
   image:
