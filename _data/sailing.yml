@@ -400,3 +400,19 @@ subscribe_section2:
     - text: DIGITAL
       class: btn-border
       arrow: right
+
+posts:
+  - category: "sailing"
+    video: true
+    video_path: "path/to/video.mp4"
+    featured_image:
+      image: "path/to/featured-image.jpg"
+      position: "center"  # Position of the image (e.g., center, top, bottom)
+    title: "The Rule of Aragon "
+    short_description: " Owner Karin van Leeuwen and Skipper Tom Rohde Pearce reveal why they chose to sail the 94’ Southern Wind sloop through one of the toughest sea routes on earth, straight from New Zealand to Patagonia – and how it went  "
+    type: "Sailing"
+    issue_no: "Number 45"
+    url: "/post/sailing-adventure"
+    cover_image: "/uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-aragon-5.jpg"
+    buttontitle: "More"
+
