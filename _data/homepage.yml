@@ -51,8 +51,7 @@ homepage_banner:
       text: MORE
       style: white-btn
 cards:
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-aragon-5.jpg
+  - image: /uploads/bj100-2025-gotland-runt-training-at-269-min.jpg
     alt: Black Jack 100
     link: https://peachy-lion.cloudvent.net/articles/Black-Jack-100%20.html
     tags:
@@ -64,15 +63,17 @@ cards:
       won a seemingly endless number of prestigious yacht races in her time. But
       now, with a new super-charged owner, she just might be in the very best
       shape of her career.
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-high-low-5.jpg
-    alt: ' The High Low '
-    link: /articles/high-low-south-america
+  - image: /uploads/fc5a9854-min.jpg
+    alt: 'Flavour of the Cyclades: Cookoovaya Antiparos'
+    link: articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos
     tags:
       - Travel
-      - number 12
-    title: ' The High Low '
-    description: ' These two beach spots offer barefoot escapes in South America: one firmly on the Atlantic Ocean in Uruguay, the other hidden away in the turquoise Caribbean in Colombia. Each is paradisiacal, just with different vibes '
+      - number 14
+    title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
+    description: >+
+      Chef Periklis Koskinas explains what lies at the core of his purely
+      homegrown cuisine.
+
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-itinerary-4.jpg
     alt: ' Sailing Cuba '
