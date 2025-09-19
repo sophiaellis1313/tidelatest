@@ -188,20 +188,22 @@ cards5:
       and breathed in the jasmine and wild thyme-fragranced...
 content_on_image:
   image:
-    src: /images/gems.png
-    alt: Cyclades scenery
+    src: /uploads/sw108-02-deck-24.jpg
+    alt: 'Kiboko 4 '
   tags:
-    - Travel
-    - Number 11
-  title: 'Hidden Gems: The Cyclades'
+    - Sailing
+    - Number 14
+  title: The Beautiful Lightness of Being
   direction: end
-  description: >
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+  description: >+
+    Compromise is a part of life – except when you have a 108’, smart,
+    comfortable Superyacht that simultaneously handles with the daintiness of a
+    dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of 2025
+    – explain how she does it.
+
   button:
     text: More
-    link: '#'
+    link: articles/The-beautiful-lightness-of-being%20.html
     style: white-btn
 content_on_image2:
   image:
