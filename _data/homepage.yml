@@ -209,15 +209,17 @@ content_on_image2:
     alt: Cyclades scenery
   tags:
     - SAILING
-    - NUMBER 2
-  title: 'On Point: Supersloop Sarissa'
+    - NUMBER 14
+  title: The Beautiful Lightness of Being
   direction: start
   description: >
-    You would be forgiven for missing the launch of Sarissa back in 2023.
-    Builder Royal Huisman kept Project 404 on the down-low...
+    Compromise is a part of life – except when you have a 108’, smart,
+    comfortable Superyacht that simultaneously handles with the daintiness of a
+    dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of 2025
+    – explain how she does it.
   button:
     text: More
-    link: /articles/sarissa.html
+    link: articles/The-beautiful-lightness-of-being%20.html
     style: white-btn
 content_on_image3:
   image:
