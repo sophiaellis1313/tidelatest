@@ -1,19 +1,20 @@
-
 posts:
-  - category: "sailing"
+  - category: sailing
     video: true
-    video_path: "path/to/video.mp4"
+    video_path: path/to/video.mp4
     featured_image:
-      image: "path/to/featured-image.jpg"
-      position: "center"  # Position of the image (e.g., center, top, bottom)
-    title: "The Rule of Aragon "
-    short_description: " Owner Karin van Leeuwen and Skipper Tom Rohde Pearce reveal why they chose to sail the 94’ Southern Wind sloop through one of the toughest sea routes on earth, straight from New Zealand to Patagonia – and how it went  "
-    type: "Sailing"
-    issue_no: "Number 45"
-    url: "/post/sailing-adventure"
-    cover_image: "/uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-aragon-5.jpg"
-    buttontitle: "More"
-
+      image: /uploads/silken-2024-03-07-0953-min.jpg
+      position: center
+    title: Grand Designs
+    short_description: >-
+      Thys Nikkels, CEO of Dykstra Naval Architects, shares what’s within the
+      company’s own DNA that has led to it creating just so many of the world’s
+      most beautiful classic and modern yachts.
+    type: Sailing
+    issue_no: Number 14
+    url: articles/Grand-Designs.html
+    cover_image: /uploads/silken-2024-03-07-0953-min.jpg
+    buttontitle: More
 cards:
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' Sailing I number 12'
@@ -346,22 +347,6 @@ cards6:
       - number 02
     title: ' Perseverance on Charter '
     description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
-content_on_image:
-  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
-  alt: TIDE's Top Ten Sailing Destinations
-  tags:
-    - Travel
-    - Number 11
-  title: 'TIDE''s Top Ten Sailing Destinations '
-  description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
-  button:
-    text: More
-    link: /destinations
-    class: width-fit btn white-btn
-
 content_on_image2:
   image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
   alt: TIDE's Top Ten Sailing Destinations
@@ -377,7 +362,6 @@ content_on_image2:
     text: More
     link: /destinations
     class: width-fit btn white-btn
-
 content_on_image3:
   image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
   alt: TIDE's Top Ten Sailing Destinations
@@ -393,7 +377,6 @@ content_on_image3:
     text: More
     link: /destinations
     class: width-fit btn white-btn
-
 subscribe_section:
   left_image: /images/magazine.png
   right_image: /images/tablet.png
@@ -416,5 +399,3 @@ subscribe_section2:
     - text: DIGITAL
       class: btn-border
       arrow: right
-
-
