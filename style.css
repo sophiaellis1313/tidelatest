@@ -3545,3 +3545,27 @@ header.scrolled .block-header-menu {
 .h4heading {
     font-size: 13px;
 }
+.myform input::placeholder , .myform  textarea::placeholder {
+    color: #000;
+    opacity: 1;
+}
+body .myform input ,.myform  textarea{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    display: block;
+    width: 100%;
+    font-size: 0.8rem;
+    font-family: var(--heading-font);
+    letter-spacing: 0.01rem;
+    background: transparent;
+}
+body .myform .containser {
+    margin-bottom: 20px;
+}
+.flex-controller{
+  display:flex;
+}
+body .myform input[type="submit"] {
+    cursor: pointer;
+}
