@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: '/articles/Frers-spirit '
-title: 'Frers spirit '
+title: 'Frers Spirit '
 type: sailing
 byline: 'Author: Laura Dannen Redman '
 issue_no: number 13
@@ -46,9 +46,9 @@ images:
     caption: false
     credit:
 ---
-The Frers name has been behind some of the most beautiful, experimental yacht designs of the past century. The founder's grandson, Mani, takes a break from building a record-breaking sloop to reveal what drives his studio.
+The Frers name has been behind some of the most beautiful, experimental yacht designs of the past century. The founder’s grandson, Mani, takes a break from building a record-breaking sloop to reveal what drives his studio.
 
-The world’s largest sloop – a brand-new, 85-metre, single-masted Royal Huisman – is currently navigating gale-force winds reaching 60 knots with silky smooth finesse. Which is incredibly impressive… and will be even more so when the much anticipated “85m New World Sloop” * * heads out on the open water next year. For, right now, engineers and designers have gathered around computer screens in a Milan studio, to test how their latest creation will behave in extreme weather on the virtual seas.
+The world’s largest sloop – a brand-new, 85-metre, single-masted Royal Huisman – is currently navigating gale-force winds reaching 60 knots with silky smooth finesse. Which is incredibly impressive… and will be even more so when the much anticipated “85m New World Sloop” \* \* heads out on the open water next year. For, right now, engineers and designers have gathered around computer screens in a Milan studio, to test how their latest creation will behave in extreme weather on the virtual seas.
 
 New technology allows [Frers Design](https://frers.design/) – part of a four-generation “family tradition” (not simply a business) and one of the most respected leaders in yacht design – to get even bolder with their builds, pressure testing the yachts without putting the crew at risk. With tailor-made simulator software, they measure the loads, how the ship moves and how comfortable the 280-foot yacht will be in both smooth and choppy water. The Frers team has witnessed more sudden storms in the last few years, so “we need to test how quickly we can change modes,” says Germán “Mani” Frers, son of Germán Frers and head of Frers Design in Italy. “Though, historically, storms have divided good boats and crews from bad boats and crews. Good sailors will behave well in any storm.”
 
