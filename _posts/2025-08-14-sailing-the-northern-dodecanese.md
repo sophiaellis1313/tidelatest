@@ -49,7 +49,7 @@ images:
 ---
 Welcome to the top of the “twelve islands”, an archipelago revered for its storied past, secret bays and sense of discovery. Director and founder of Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
-&nbsp;
+&nbsp;![](/uploads/3dcysxj8.jpg){: loading="lazy"}
 
 The far eastern islands of Greece lean toward Turkey, so close in places that only a few short tacks separate them. Here, in the Dodecanese Archipelago, the Greek islands take on a different personality entirely – distinct from the widely known Cyclades to the west. Grand peaks rise sharply against the horizon, their barren slopes brushed with a warmer, earthier hue than the familiar blue-and-white palette of the Aegean.
 
