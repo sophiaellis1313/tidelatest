@@ -71,7 +71,7 @@ The Jugo originates in the southern Adriatic and the wider Mediterranean. This w
 
 There are few places like Split. The city began to take its current form during the ancient Roman era, built as a palace that still beats at the heart of the city. Expanded in 305 CE by the Emperor Diocletian as his retirement residence, the palace has been transformed over the centuries into a living, breathing neighborhood. Today, it contains more than 200 buildings and houses around 3,000 residents within its formidable stone walls.
 
-![Alternate Text](/uploads/1xinxzhl-1.jpg "test"){: loading="lazy"}
+&nbsp;
 
 The Port of Split is one of the primary embarkation points for yacht charters in the region, along with nearby Marina Kaštela and the historic town of Trogir. Behind Split’s vibrant *riva*, a daily farmer’s market offers fresh local produce, cheese from the island of Pag, and a variety of locally cured meats, plus locally farmed produce.
 
