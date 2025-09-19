@@ -46,6 +46,8 @@ images:
     caption: false
     credit:
 ---
+&nbsp;
+
 From a term for a 60s motorbike to the name of a fast, smart and super daysailer: here’s what happened when the four Baltic 68 Café Racers raced together at the Superyacht Cup Palm.
 
 The term poetry in motion tends to be overused. Yet, if you were fortunate enough to be in Palma, Mallorca this June, you would have been given a helpful reminder of what it means. The sight of four Baltic 68 Café Racers sailing side by side; each team drilled to perfection and every yacht displaying equal parts power and grace in the fresh breeze gave new vibrancy to the description.
@@ -58,7 +60,7 @@ The results have been compelling. There is now a fleet of four Baltic 68’s: *P
 
 “It was truly rewarding to have the four boats together, competing head-to-head,” Alfredo Mella Hernández, Skipper of *Ganesha* enthuses. “The Baltic 68 is a very good boat for this type of inshore racing, with its selection of sails. It felt like we were sailing a smaller, and therefore more manageable, boat – we maneuvered where we wanted and when we wanted.”
 
-The clash of the four boats at the Superyacht Cup was preceded by a more relaxed sail, followed by a barbecue – and yhe Café Racers also lived up to their names by hosting coffee aboard on the first and last days of the regatta. “It was a very proud moment for all involved in the Cafe Racers, to see four of them out sailing together,” Baltic Yachts' EVP Henry Hawkins shares. “It was something we had dreamed about, but to see it in reality was very special. The atmosphere on the dock was also as we had envisaged: competitive yet very much a family spirit.”
+The clash of the four boats at the Superyacht Cup was preceded by a more relaxed sail, followed by a barbecue – and yhe Café Racers also lived up to their names by hosting coffee aboard on the first and last days of the regatta. “It was a very proud moment for all involved in the Cafe Racers, to see four of them out sailing together,” Baltic Yachts’ EVP Henry Hawkins shares. “It was something we had dreamed about, but to see it in reality was very special. The atmosphere on the dock was also as we had envisaged: competitive yet very much a family spirit.”
 
 One thing that shone through at this initial encounter was the versatility of the Baltic 68. The boats are easily handled (generally a crew of about 14 is carried in race mode, but the boat can be double-handed in cruising mode), while their manoeuvrability compared to some of the larger entrants in the regatta is clear. Add to that an exciting performance and you have an exceptional package.
 
@@ -68,9 +70,9 @@ Baltic designed the boat on an ‘unplug and play’ principle: the result is th
 
 As the four boats line up alongside one another, their differences also become clear. Each Baltic 68 is a semi-custom-build so, while the hull form may be the same, there can be big contrasts beyond that. If you compare *Pink Gin Verde* with *Open Season*, it is notable that the latter is almost 2,000kg lighter and has a deeper keel plus a single rudder, compared to the twin rudder set up on the former.
 
-Given this clear slant towards performance, it is perhaps no surprise that *Open Season* is viewed as the boat to beat by her rivals. “They've been at it for two seasons, and this is their third year,” Mella Hernández explains. “In our case, this is our first regatta, as last year we only trained and couldn't compete due to various circumstances.”
+Given this clear slant towards performance, it is perhaps no surprise that *Open Season* is viewed as the boat to beat by her rivals. “They’ve been at it for two seasons, and this is their third year,” Mella Hernández explains. “In our case, this is our first regatta, as last year we only trained and couldn’t compete due to various circumstances.”
 
-“As for *Scorpione Hormar*,” he continues, “she has just arrived from the shipyard and the crew had their first sail of the boat at the SuperYacht Cup. I'm sure it's a boat that will provide strong competition in the upcoming regattas.”
+“As for *Scorpione Hormar*,” he continues, “she has just arrived from the shipyard and the crew had their first sail of the boat at the SuperYacht Cup. I’m sure it’s a boat that will provide strong competition in the upcoming regattas.”
 
 One of the most notable features of the Baltic 68 fleet is the all-electric set-up. All the yachts feature electric motors – some with a diesel generator as back-up. This also translates to the winch system, which means that sailing is almost silent. The other great innovation that keeps these boats uncomplicated, even on the race course, is the use of Doyle Sail’s structured luff mainsail: it uses a reinforced luff on the mainsail to provide the tension and tweaking potential generally provided by check stays. Marry that to an easily driven, lightweight hull that doesn’t need to be overloaded to achieve maximum speed – and you have a yacht that is a joy to race.
 
