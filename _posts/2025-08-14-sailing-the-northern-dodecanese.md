@@ -49,6 +49,8 @@ images:
 ---
 Welcome to the top of the “twelve islands”, an archipelago revered for its storied past, secret bays and sense of discovery. Director and founder of Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
+![](/uploads/0wrfxepa.jpg "test"){: loading="lazy"}
+
 The far eastern islands of Greece lean toward Turkey, so close in places that only a few short tacks separate them. Here, in the Dodecanese Archipelago, the Greek islands take on a different personality entirely – distinct from the widely known Cyclades to the west. Grand peaks rise sharply against the horizon, their barren slopes brushed with a warmer, earthier hue than the familiar blue-and-white palette of the Aegean.
 
 Their history is layered and complex. Byzantine kingdoms once thrived here, only to cede control to the Ottomans, then the Italians, the modern Turkish state, and finally, Greece itself. This shifting sovereignty left an indelible mark on the architecture, cuisine and culture. Cut off from mainland Greece and bypassed by the tourist crowds that flood the Cyclades, the northern Dodecanese remain a frontier for yacht charters – a place where the waypoints are few, the hidden bays many and the journey still feels like an act of exploration.
