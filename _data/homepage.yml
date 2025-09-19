@@ -122,18 +122,21 @@ cards2:
     title: ' On Point:  Supersloop Sarissa '
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness. We meet her designer Malcolm McKeon and Captain Iain Cook to find out her secret '
 cards3:
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.jpg
-    alt: 'Hidden Gems: Islas Secas '
-    link: /articles/hidden-gems-islas-secas
+  - image: /uploads/makris-fine-dining-restaurant-2.jpg
+    alt: 'The High Low: The Greek Islands'
+    link: articles/The-High-Low-the-Greek-Islands%20.html
     tags:
       - Travel
-      - number 12
-    title: ' Hidden Gems: Islas Secas '
-    description: ' Explore this relatively undiscovered archipelago off Panama’s Gulf of Chiriquí for both natural, untamed wonders and the last word in eco-luxe '
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
-    alt: ' Evolving Modernism '
+      - number 13
+    title: 'The High Low: The Greek Islands'
+    description: >-
+      Wherever you find yourself on Greece’s islands, the range of epicurean
+      temptations is seemingly limitless. Sailors have long been drawn to the
+      calm, sapphire waters of the Ionian Sea, dropping anchor in protected
+      coves that scallop the coastlines of places like Corfu, Kefalonia and
+      Ithaki. 
+  - image: /uploads/image00014.jpeg
+    alt: 'Checking In: Skinopi Lodge'
     link: /articles/estudio-ramos
     tags:
       - 'Design I '
