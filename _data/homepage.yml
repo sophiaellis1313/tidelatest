@@ -205,18 +205,18 @@ content_on_image:
     style: white-btn
 content_on_image2:
   image:
-    src: /images/sarissa.png
-    alt: Cyclades scenery
+    src: /uploads/itvall-0058-min.jpg
+    alt: Valldemossa, Mallorca
   tags:
-    - SAILING
+    - TRAVEL
     - NUMBER 14
-  title: The Beautiful Lightness of Being
+  title: 'Checking In: Valldemossa, Mallorca'
   direction: start
-  description: >
-    Compromise is a part of life – except when you have a 108’, smart,
-    comfortable Superyacht that simultaneously handles with the daintiness of a
-    dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of 2025
-    – explain how she does it.
+  description: >+
+    A sancturio natural with walls dating back to the 14th century, now reborn
+    thanks to one of the Med’s most cutting-edge hoteliers – this adult-only
+    retreat is somewhere to hideaway and then emerge rebooted.
+
   button:
     text: More
     link: articles/The-beautiful-lightness-of-being%20.html
