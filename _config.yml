@@ -1,9 +1,14 @@
 collections:
- products:
-  output: true
+  products:
+    output: true
+  articles:
+    output: true
+    permalink: /articles/:title/
+
 _inputs:
   layout:
     hidden: true
+
 _select_data:
   positions:
     img-left: Left
