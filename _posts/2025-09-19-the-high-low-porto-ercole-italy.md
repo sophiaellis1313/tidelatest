@@ -57,7 +57,7 @@ Naturally, there is no shortage of excellent dining on this charmed peninsular: 
 
 Over the last few years, however, the region has seen something of a glow-up, with organic wineries, a couple of boutique hotels and sprightly young chefs coming in from Rome, Milan and beyond. Here are two of our favourite spots in Porto Ercole to visit right now.
 
-&nbsp;
+&nbsp;![test](/uploads/3obmqrkg-1.jpg "test"){: loading="lazy"}
 
 ## **The Must-Go**
 
@@ -69,7 +69,7 @@ La Roqqa is undeniably cool, in a way that Italian hotels rarely are. Assouline 
 
 Up on the rooftop, Scirocco Restaurant has the same immaculate vibes. It’s named after the warm Scirocco wind, which blows across the Mediterranean from the Sahara desert and is responsible for these balmy, al-fresco evenings. Start with aperitivo, overlooking the harbour and the little fishing boats bobbing far below. Each of Scirocco’s signature cocktails are inspired by a different Caravaggio painting, a nod to the Renaissance genius who ended his days in Porto Ercole in 1610.
 
-For dinner, guests can dine à la carte or opt for one of three different tasting menus: Earth, Garden or Sea. Head Chef Francesco Ferretti is all about celebrating the ingredients of this little corner of Tuscany. Born and raised in Italy, his menu seems to have little interest in the showy, international cuisine you’ll often find in hotel restaurants. For as Ferretti writes, “In the childhood memories of every good cook, there's a kitchen, a warm stove, a simmering pot and a grandmother.”
+For dinner, guests can dine à la carte or opt for one of three different tasting menus: Earth, Garden or Sea. Head Chef Francesco Ferretti is all about celebrating the ingredients of this little corner of Tuscany. Born and raised in Italy, his menu seems to have little interest in the showy, international cuisine you’ll often find in hotel restaurants. For as Ferretti writes, “In the childhood memories of every good cook, there’s a kitchen, a warm stove, a simmering pot and a grandmother.”
 
 Take his Spaghetti Otto Pomodori dish, for example. Tomatoes, eight different varieties, all come from an organic community allotment called L’Orto Giusto a few miles away. Since the restaurant opened, Ferretti has been working closely with the social cooperative, from planting all the way to the table. His tomato pasta, though humble in its origins, features a San Marzano jus, burnt cherry tomato gel, yellow datterino cream, dried Camone crumble, fermented green San Marzano and Costoluto tomato water. By the time the swirl of perfectly al dente spaghetti is served, the balance of flavours and umami are in a whole different league.<br>[*sciroccoristorante.com*](http://www.sciroccoristorante.com)
 
