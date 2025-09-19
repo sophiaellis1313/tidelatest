@@ -187,25 +187,42 @@ cards4:
       residential projects or commercial fields and grown to include yachts in
       their portfolios. 
 cards5:
-  - image: /images/sailing-stockholm.png
-    alt: ' Sailing Stockholm '
-    link: /articles/sailing-stockholm
+  - image: /uploads/scuba-6.jpg
+    alt: Restoring the Med
+    link: /articles/Restoring-the-Med%20.html
     tags:
-      - Travel
-      - Number 11
-    title: ' Sailing Stockholm '
-    description: ' There’s a simple beauty in the stillness of Stockholm’s archipelago. With tens of thousands of isles, the region offers an itinerary very much intended to slow one down: think straight-forward food and the easy pleasure of days spent immersed in nature  '
+      - Environmental
+      - Number 14
+    title: Restoring the Med
+    description: >-
+      The tides are turning for divers: rather than passively experiencing the
+      oceans as spectators, now they have the chance to become its stewards.
   - image: >-
       /uploads/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1-1.jpg
-    alt: Three's a Charm
-    link: /articles/gourmand-barcelona
+    alt: The Winds of Change
+    link: articles/veer.html
     tags:
-      - Travel
-      - Number 11
-    title: Three's a Charm
+      - Environmental
+      - Number 05
+    title: The Winds of Change
     description: >-
-      The day Marie-Louise Sciò first set foot on the island of Ischia in 2018
-      and breathed in the jasmine and wild thyme-fragranced...
+      In a world grappling with the early devastating effects of a warming
+      climate, the maritime world stands apart as an oft-overlooked contributor.
+      Out at sea, away from critical eyes, marine transport has long exerted a
+      significant impact on the environment, often hidden beneath the surface of
+      economic growth.
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
+    alt: A Letter From Norway
+    link: articles/letter-from-norway.html
+    tags:
+      - ''
+    title: A Letter From Norway
+    description: >
+      Pale, sunny yellow buildings dance on the surface of the dark, calm water;
+      a gap, then its neighbour, white, moves in a chaotic sort of synchrony
+      with it. The next, a rosy pink, is a little harder to make out, but adds
+      to the kaleidoscope of colour that cheers up the otherwise grey autumn sky
+      in Ålesund, a pretty port town on the west coast of Norway.
 content_on_image:
   image:
     src: /uploads/sw108-02-deck-24.jpg
