@@ -8,7 +8,7 @@ issue_no: number 14
 featured_image:
   image: /uploads/tide-magazine-croatia-dja-8072-min.jpg
   position: img-center
-video: false
+video: true
 video_path:
 short-description: >-
   Croatia’s shores offer it all: quiet coves, dreamy scenery and top quality
@@ -71,6 +71,8 @@ The Jugo originates in the southern Adriatic and the wider Mediterranean. This w
 
 There are few places like Split. The city began to take its current form during the ancient Roman era, built as a palace that still beats at the heart of the city. Expanded in 305 CE by the Emperor Diocletian as his retirement residence, the palace has been transformed over the centuries into a living, breathing neighborhood. Today, it contains more than 200 buildings and houses around 3,000 residents within its formidable stone walls.
 
+![Alternate Text](/uploads/1xinxzhl-1.jpg "test"){: loading="lazy"}
+
 The Port of Split is one of the primary embarkation points for yacht charters in the region, along with nearby Marina Kaštela and the historic town of Trogir. Behind Split’s vibrant *riva*, a daily farmer’s market offers fresh local produce, cheese from the island of Pag, and a variety of locally cured meats, plus locally farmed produce.
 
 Despite being one of the largest surviving Roman structures, the layout feels anything but grand and orderly. Walking the limestone streets is a maze of narrow passageways and crumbling marble, where every turn might reveal a sunlit courtyard, a hidden chapel or a vibey cocktail bar tucked behind centuries’-old columns.
@@ -101,7 +103,7 @@ The *riva* is a grand waterfront promenade that stretches the length of the town
 
 ACI Marina Palmižana lies on the northeast side of the small island of St. Klement, just across from Hvar Town. With 180 berths for yachts up to 40 metres, it is the most popular anchorage for mariners visiting Hvar. Private ferry boats shuttle between the marina and Hvar Town throughout the day and long into the night.
 
-The island itself is uninhabited, and the marina is surrounded by unblemished nature and a gin-clear bay. Within walking distance is Uvala Vinogradišće, a well-protected cove with laid moorings and several beach clubs and great places to eat. Continuing along the southern coast of St. Klement, you'll find a series of stunning, undeveloped little bays, ideal for anchoring and tying stern-to ashore.
+The island itself is uninhabited, and the marina is surrounded by unblemished nature and a gin-clear bay. Within walking distance is Uvala Vinogradišće, a well-protected cove with laid moorings and several beach clubs and great places to eat. Continuing along the southern coast of St. Klement, you’ll find a series of stunning, undeveloped little bays, ideal for anchoring and tying stern-to ashore.
 
 &nbsp;
 
@@ -115,4 +117,4 @@ Approximately 12nm on the far side of the island from Vis Town lies Komiža, a p
 
 Komiža remains a working fishing town, far less touristy than Vis Town. A small fleet of traditional wooden fishing boats still operates here, especially in summer, when fishermen venture out in groups using age-old methods passed down through generations.
 
-The harbour is exposed to westerly winds, especially the Ponente, which can make the anchorage unsafe. The Jugo, while partially blocked by the breakwater, can also create rough and uncomfortable conditions. It's best to consult weather forecasts carefully before spending the night.<br>[*sailingcollective.com*](https://www.sailingcollective.com/)
+The harbour is exposed to westerly winds, especially the Ponente, which can make the anchorage unsafe. The Jugo, while partially blocked by the breakwater, can also create rough and uncomfortable conditions. It’s best to consult weather forecasts carefully before spending the night.<br>[*sailingcollective.com*](https://www.sailingcollective.com/)
