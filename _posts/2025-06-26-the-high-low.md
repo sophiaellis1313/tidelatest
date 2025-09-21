@@ -1,13 +1,12 @@
 ---
 layout: blog
 permalink: /articles/high-low-south-america
-title: The High Low
+title: 'The High Low: South America'
 type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: CALA MAMBO & PARADOR LA HUELLA'
 issue_no: number 12
 featured_image:
-  image: >-
-    /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-high-low-5.jpg
+  image: /uploads/highlow-southamerica-1-min.png
   position: img-center
 video: false
 video_path: ''
@@ -49,13 +48,23 @@ images:
 ---
 From the sun-drenched Caribbean to the windswept Atlantic, South America’s coastal dining is as much about place as it is about flavour. Across the continent, food is deeply entwined with nature: shaped by the rhythms of a wild sea, an abundance of local produce and the enduring influence of ancient heritage. Now, a new generation of restaurants is reinterpreting this connection, celebrating the simplicity of good ingredients, while embracing the laid-back warmth that defines a life by the water.
 
+&nbsp;
+
+![](/uploads/highlow-southamerica-5-min.png)
+
 ## **Parador La Huella: The Legendary Summer Hotspot**
 
 In José Ignacio, time stretches and slows. Once a quiet fishing village, it has since evolved into one of Uruguay’s most coveted coastal escapes: think low-key luxury meets untamed beauty. Now attracting the most privileged of visitors, it has preserved its original, authentic charm. It’s home to one of the most famous beaches on the continent, Playa Brava, which is where Parador La Huella can be found.
 
+![](/uploads/highlow-southamerica-4.png)
+
 Coming from the Spanish root verb *parar*, to stop, a parador was once something like an inn, welcoming weary travellers to a comfortable room and simple, hearty food. Parador La Huella doesn’t offer any accommodation, but travellers will nevertheless find themselves well-nourished. On the menu is a variety of different food: of course, smoky asado, the grilled meats so typical of South American cuisine, but the star of the show is undoubtedly the fish, served rather unusually for the location as sushi, but also grilled over an open fire and served deceptively simply: a squeeze of tangy-sweet lemon, alongside a heaped serving of crispy, salty fries and charred roast vegetables from a nearby organic farm. Straightforward beach food? Yes, complete with thatched roof and tables in the sand, but while that may sound quotidian, there is nothing ordinary about the mindful simplicity that goes into La Huella’s dishes, attracting chefs and celebrities alike. As with its namesake, Parador La Huella makes people stop and take notice, featuring regularly on top restaurant lists (it has been listed multiple times as one of the World’s 50 Best Restaurants in Latin America, and was its number one spot in Uruguay in 2022). A comprehensive wine list full of local Uruguayan bottles complements the menu, but no matter your tastes, be sure to wrap up a visit with its iconic dulce de leche volcano, a warm lava cake served with ice cream and banana.
 
 [*paradorlahuella.com*](https://paradorlahuella.com/){: target="_blank" rel="noopener"}
+
+&nbsp;
+
+![](/uploads/cala-mambo-alfresco.jpg)
 
 ## **Cala Mambo: The Secluded Caribbean Retreat**
 
@@ -64,6 +73,8 @@ There are few better ways of experiencing utter tranquillity than a boat ride ac
 The private island seems like a world away; step foot onto the wooden pier and you’ll likely feel your shoulders subconsciously drop. Perhaps it’s thanks to the striking, sun-warmed colours of the buildings, rich and alive against the backdrop of sea and sky, or perhaps it’s the knowledge that the daily grind of real life is at least a whole hour away, and only accessible by boat.
 
 The location has always been a part of owner Daniel Vargas’s family. “It is very special and secluded,” he says of the island in the little Corales del Rosario National Natural Park. “For many years we lived in Spain, but five years ago, my husband and business partner and I decided to rebuild it and make it a place for short stays.”
+
+![](/uploads/cala-mambo-lunch.jpg)
 
 Now this hideaway has been crafted into the most intimate of escapes: the seven beautiful rooms have been thoughtfully designed to emphasise the view of the archipelago just outside the floor-to-ceiling windows. A reading room looking out to sea and a low coffee table stacked high with books and board games offers a quiet nook for those in search of silence, while upstairs, a rooftop bar serves sunset views and cocktails designed to complement the chic, boho vibe: think a Mambo Mezcal or a Cala Piñada. All over the island, sunbeds beckon alongside parasols whose fringes sway in the breeze mesmerisingly, as though dancing.
 
