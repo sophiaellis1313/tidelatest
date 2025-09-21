@@ -1,12 +1,13 @@
 ---
 layout: blog
 permalink: /articles/design-jarkko
-title: Changing the game
+title: Changing the Game
 type: Design
 byline: 'WORDS: SAM FORTESCUE | IMAGES: AIVAN'
 issue_no: number 09
-featured_image: 
-  image: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-design-jarkko-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-design-jarkko-1.jpg
   position: img-center
 video: false
 video_path: ''
