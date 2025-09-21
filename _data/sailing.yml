@@ -18,17 +18,6 @@ posts:
     cover_image: /uploads/audihirw2017-francolini-1753.jpg
     buttontitle: More
 cards:
-  - image: /uploads/bj100-2025-gotland-runt-training-at-269-min.jpg
-    alt: Black Jack 100
-    link: https://peachy-lion.cloudvent.net/articles/Black-Jack-100%20.html
-    tags:
-      - ''
-    title: Black Jack 100
-    description: >
-      Like her racing driver namesake Jack Brabham, this Reichel/Pugh design has
-      won a seemingly endless number of prestigious yacht races in her time. But
-      now, with a new super-charged owner, she just might be in the very best
-      shape of her career.
   - image: /uploads/sw108-02-deck-24.jpg
     alt: ''
     link: /articles/The-beautiful-lightness-of-being%20.html
@@ -40,17 +29,18 @@ cards:
       comfortable Superyacht that simultaneously handles with the daintiness of
       a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
       2025 – explain how she does it.
-  - image: /uploads/audihirw2017-francolini-1753.jpg
+  - image: /uploads/jeff-brown-jcb24539-min.jpg
     alt: ''
-    link: /articles/Drumfire-the-boat-to-beat%20.html
+    link: /articles/A-Perfect-refit.html
     tags:
       - ''
-    title: 'Drumfire: the Boat to Beat'
+    title: A Perfect Re(fit)
     description: >+
-      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
-      Under following decades spent in the shadow of others in Europe. The
-      boatbuilder, her Captain and new owners each share the secrets to her
-      newfound success.
+      What are the benefits and pitfalls of having a yacht refresh, and where
+      should you go? Miriam Cain talks to various experts, including the people
+      behind Ravenger, winner of the refit category at this year’s World
+      Superyacht Awards, to find out.
+
 
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' Sailing I number 12'
@@ -139,19 +129,18 @@ cards2:
     title: ' The Future is Now '
     description: ' At the dawn of the early Twenties, we find ourselves on the threshold of a new era in sailing; the America’s Cup enacted at speeds in excess of 40 knots and the drive towards environmental responsibility set against a backdrop of ever larger motor yacht builds. So, what does the future hold for the humble sailing yacht? '
 content_on_image:
-  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: /uploads/dsc01506-1-min.jpg
+  alt: Wider Wake
   tags:
-    - Travel
-    - Number 11
-  title: 'TIDE''s Top Ten Sailing Destinations '
+    - Sailing
+    - Number 13
+  title: Wider Wake
   description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    Sea Tilt is a high-speed multihull that’s opening up, well, any horizon for
+    its owners and crew. Skipper Sabastian Barrett shares the inside track.
   button:
     text: More
-    link: /destinations
+    link: /articles/Wider-wake.html
     class: width-fit btn white-btn
 featured_section:
   cards:
