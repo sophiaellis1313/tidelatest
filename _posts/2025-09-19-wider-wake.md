@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/Wider-wake
-title: Wider wake
+title: Wider Wake
 type: sailing
 byline: 'Author: Samuel Jefferson '
 issue_no: number 13
