@@ -112,18 +112,6 @@ content_on_image:
     class: width-fit btn white-btn
 featured_section:
   cards:
-    - image: >-
-        /uploads/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
-      alt: ' Ocean Breeze '
-      link: /articles/ocean-breeze
-      tags:
-        - Lifestyle
-        - number 12
-      title: ' Ocean Breeze '
-      description: >-
-        Imbibe the special treasures of the location surrounding you via a glass
-        of wine crafted at Bodega Oceánica José Ignacio, situated just back from
-        Uruguay’s Atlantic coastline 
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-joysail-1-1.jpg
       alt: ' A Good Weekend '
       link: /articles/joysail
