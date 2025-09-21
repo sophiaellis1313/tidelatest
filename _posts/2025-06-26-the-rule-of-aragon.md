@@ -58,6 +58,10 @@ The voyage of *Aragon* seems like the embodiment of this road less travelled. Ma
 
 Upon arrival in Punta Arena, Chile, van Leeuwen explains how this magnificent adventure came about. “It had always been my dream to sail across the world. I had a trip planned out with the ultimate goal of going to French Polynesia and then on to New Zealand. For some reason I felt like New Zealand was the end of the voyage, I’m not sure why,” she says. “It was supposed to be a one-year project, but that was an illusion because we had to plan ahead and look at where we were going next, so Tom \[Rohde Pearce, *Aragon*’s Skipper\] and I started to look at the options.”
 
+![](/uploads/aragon-4-min.png)
+
+![](/uploads/aragon-3-min.png)
+
 The pair had three choices: sell the boat, sail it or ship it. In the end, van Leeuwen’s preference was to sail the boat back. “I wanted to do a full circle,” she says. “Tom said the same.” They thought about various routes, such as via South-East Asia and the Cape of Good Hope, before Rohde Pearce mentioned the Southern Ocean. “I thought that was way better,” van Leeuwen says.
 
 It is arguable that many owners would not have been so keen to plunge into the loneliest, most desolate and dangerous stretch of ocean in the world. But then, van Leeuwen is not a typical owner. Born in the Netherlands, she was taught to sail by her father in the North Sea. “I am so grateful to him for that because it really enriched my life,” she tells us. “For me, it was always about the sailing, the journey. It’s about being out of place, out of time and out of my comfort zone. There are always reasons to not do things. I’m glad I chose to do it.”
@@ -65,6 +69,10 @@ It is arguable that many owners would not have been so keen to plunge into the l
 This perhaps explains why van Leeuwen was willing to put her boat and crew to the ultimate test of the Roaring Forties and Screaming Fifties – although not without a degree of trepidation. “I was super nervous but the moment we left, I felt better,” she remembers. “When I’m on the boat, I’m never afraid. We have had a lot of storms and wind. I’ve seen 40-50kn of wind on this passage. I’ve been worried, but the boat was so well prepared and I fully trusted the crew.”
 
 *Aragon* has a crew of eight including van Leeuwen and Rohde Pearce –<br>Viko Ferrer, Dario Didio, Ryan Bradley, Abi Newman, Nadir Ballena and Andrew Nickless – and they have been with the boat since she left Mallorca last year. For Skipper Rohde Pearce, this trip was the biggest challenge of his career so far, placing a lot of weight on the 28-year-old’s shoulders. “The motto of the trip was to prevent everything preventable,” he says. “We wanted to be ready for anything, to the extent that I’d reef six hours before the bad weather arrived. It was seamless because of that.” The crew did three months of prep for the voyage, from 7am to 7pm, thinking of every possible outcome. “We pulled the rig and checked everything we could – as we would for any trip, of course – but the big one was getting the provisioning right,” Rohde Pearce says. “We got that nailed.”
+
+![](/uploads/aragon-2-min.png)
+
+![](/uploads/aragon-1-min.png)
 
 So, what’s a 24-day trip across the stormiest ocean in the world really like? “On deck, it’s a cold, hard environment,” van Leeuwen explains. “The wind was rarely below 20kn. Most of the time it was 30kn plus and twice we saw 50kn – and it’s rough – we have seen waves of 10m.” Such conditions made it impossible to use the autopilot. “Being on the helm is intense. You don’t want to do anything that might put you or the crew at risk,” van Leeuwen continues. “On the other hand, it’s beautiful, particularly at night if you have a bit of moon and stars. You feel the enormity of the ocean and the isolation. You know that you really cannot afford to make any mistakes because you are on your own. The ocean felt so overwhelming.”
 
