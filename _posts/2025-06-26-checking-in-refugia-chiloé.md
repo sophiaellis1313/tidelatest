@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: NICOLA CHILTON | IMAGES: TIERRA CHILOÉ'
 issue_no: number 12
 featured_image:
-  image: >-
-    /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-refugia-chiloe-3.jpg
+  image: /uploads/checkin-5-min.png
   position: img-center
 video: false
 video_path: ''
@@ -46,6 +45,10 @@ Many visitors to Chile miss out on Chiloé Island completely, sailing past or fl
 
 Until April 2025 known as Tierra Chiloé, the hotel opened in 2012. Operated by the Purcell family, the owners of Chile’s 70-year-old Ski Portillo resort and co-founders of the Tierra Hotels group, this year it returns to family ownership as Refugia Chiloé. The hotel’s architecture, inspired by the island’s palafito stilt houses, combines traditional local materials and modern building techniques, resulting in a modernist silhouette that sits above the calm, clear waters of Pullao Bay. Natural cross-ventilation keeps the building cool in summer, and wooden shingles keep it warm in winter. Rooms are cosy and comforting with floors, ceilings and walls made from honey-coloured wood, large windows framing views of the sea and big bathtubs with wine holders for those times when you want to sip and soak up the view.
 
+![](/uploads/checkin-4-min.png)![](/uploads/checkin-1-min-1.png)
+
+&nbsp;
+
 There’s a small-island vibe on Chiloé, even though it measures 190 kilometres from top to bottom. During the winter, penguins flock here to escape the bitter Antarctic chill. When I visit in April, silvery dolphins race us as we head out on the *Williche*, the hotel’s wooden boat crewed by a fun and friendly team of Chilote sailors, to see neighbouring islands, UNESCO World Heritage-listed timber churches and huge sea lions lazing on top of navigation buoys.
 
 It’s excursions like this, ones that bring hotel guests and the local community together, that are part of the beauty of Refugia Chiloé. On the nearby island of Quinchao, Sandra Naimán welcomes guests to her pink wooden home and smallholding where she grows more than 60 crops. An indigenous *huilliche* woman, Naimán has single-handedly built a seed bank to safeguard the island’s native plant species, and chats over lunches of garden-fresh salads and veggies about how she empowers other island women through agriculture.
@@ -53,6 +56,10 @@ It’s excursions like this, ones that bring hotel guests and the local communit
 Over on the Pacific Coast, the 20,000-hectare Tepuhueico conservation park is the place to see Chiloé’s wilder side, with long hikes through ever-changing scenery that takes in woodland, rolling sand dunes and high sea cliffs covered in prehistoric nalca plants, along with glimpses of crested caracara raptors.
 
 Back at the hotel, the Uma Spa beckons with treatments centred on ingredients such as Chilean hazelnut, thermal mud and maqui berries, while steam and hydro-massage help soothe muscles worn out by the day’s exertions. Outside on the terrace, steam rises off the bijou infinity pool with views out over the bay, the surrounding meadows and the snow-capped Andes in the far distance.
+
+![](/uploads/checkin-5-min-1.png)
+
+![](/uploads/checkin-3-min.png)
 
 Evening is the time to pull on the woollen socks – knitted by women from the neighbouring villages – and pad your way to the lounge for pisco sours by the copper fireplace. Outside, the sunsets are so dramatic – all Tiffany-blue skies scrawled with wispy pink clouds – that the hotel staff often join guests on the wooden terrace to take photographs. Even though they see the same view every day, it never seems to lose its ability to dazzle them.
 
