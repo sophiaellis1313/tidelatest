@@ -373,19 +373,22 @@ cards6:
     title: ' Perseverance on Charter '
     description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
 content_on_image2:
-  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: /images/tide-magazine-sailing-lifestyle-travel-issue09-raven-1.jpg
+  alt: As The Raven Flies
   tags:
-    - Travel
-    - Number 11
-  title: 'TIDE''s Top Ten Sailing Destinations '
+    - Sailing
+    - Number 09
+  title: As The Raven Flies
   description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    Rarely has a sailing boat been as accurately named as the 111ft Baltic Yacht
+    Raven. She bears more than a passing resemblance to the bird, thanks to the
+    deeply arched twin foils cantilevered out amidships like wings, and the long
+    8m beak of a bowsprit. It took a remarkable owner, an unconventional Finnish
+    designer and a shipyard capable of fastidious precision to bring Raven to
+    life.
   button:
     text: More
-    link: /destinations
+    link: /articles/raven
     class: width-fit btn white-btn
 content_on_image3:
   image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
