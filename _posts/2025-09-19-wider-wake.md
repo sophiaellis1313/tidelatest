@@ -14,6 +14,7 @@ short-description: >-
   Sea Tilt is a high-speed multihull that’s opening up, well, any horizon for
   its owners and crew. Skipper Sabastian Barrett shares the inside track.
 categories:
+  - sailing
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12
@@ -52,11 +53,19 @@ The circumference of the globe is 24,000 miles, and few sailing yacht owners wou
 
 *Sea Tilt* is that boat. She’s a Gunboat 68 catamaran that has been skippered for the past three years by Sebastian Barrett, accompanied by his partner, Xiara Scott, also the Chef. During that time Barrett reckons *Sea Tilt* generally does 20,000 nautical miles per year. “We seriously try to stay off the beaten track,” he explains. “Last year we did Greenland, Hawaii, Alaska, back down the West Coast and then across to Scotland. *Sea Tilt* covers a lot of miles and we enjoy it.” Although the boat is capable of doing 30kn, Barrett suggests, “that’s pushing it and you tend to end up getting very wet!” However, she can comfortably cruise in the high teens and that “really opens up your horizons”.
 
+![](/uploads/refit-2.png)
+
+![](/uploads/refit-1.png)
+
 A recent visit to Greece was a change of pace for the team and offered something of a contrast to the wilder, more rugged destinations favoured by the owner. Nevertheless, they once again chose the road less travelled; eschewing tourist hubs in favour of the slower, more laidback Peloponnese region of Greece, checking into the country at Gythio and then exploring often overlooked islands such as Kithira, Monemvasia and Elafonisos. “In some ways this was a different sort of a trip for us,” Barrett reflects. “This is probably the trip where the boat has just anchored off small villages and everyone has chilled out much more than usual, just heading ashore for supplies or to visit a taverna. <br>
 
 “We did the trip in May so it was quiet and generally we were anchored on our own or with one other boat which was great,” he continues. “The weather was beautiful although the sea was still cool, and for the most part the wind was light. That wasn’t a problem though because in some ways, the boat is more impressive in light winds. With 8kn of breeze we will match the windspeed going upwind and be doing 10kn off the wind.”
 
 The Gunboat 68 is an all-carbon composite lightweight flier designed by VPLP. It’s a boat that needs to be sailed and, although *Sea Tilt* is only used for cruising, she is race specced and among the most performance-oriented Gunboat 68s out there. Last year the performance of the boat was further boosted as the owner removed the bow thrusters to keep weight down.
+
+![](/uploads/refit-3.png)
+
+![](/uploads/refit-4.png)
 
 “We may be cruising but when we’re sailing, it’s with a race-minded attitude,” Barrett says. “The owner loves sailing fast and if he is out with his son, they like to test the limits and that keeps me on my toes. We never motor if we can avoid it. Even if it’s a short trip, we put the sails up. Once we’re anchored, it’s out with the toys; wing foiling, snorkelling, free diving and hiking – it’s always a packed programme.”
 
