@@ -242,25 +242,22 @@ featured_section:
          Sailors dream of going off-grid – but few have achieved it so comprehensively 
         as SY Athos on her recent summer cruise through British Columbia. 
         Skipper Tony Brookes and photographer Oli Riley recount the highlights 
-  cards4:
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-batic-682.jpg
-      alt: ' Take Two '
-      link: /articles/baltic-68
-      tags:
-        - ' Sailing'
-        - number 06
-      title: ' Take Two '
-      description: |2-
-         Baltic Yachts created quite a stir when it launched its 68 Café Racer, Pink Gin Verde. Now hull number two, Open Season, 
-        is on the water and the devil is in the difference 
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
-      alt: ' Why Not! '
+    - image: >-
+        /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
+      alt: ''
       link: /articles/why-not
       tags:
-        - Sailing
-        - number 05
-      title: ' Why Not! '
-      description: ' Y Yacht’s Y9 is the brainchild of German maverick Michael Schmidt, a pure sailor. His devotion shines through in his latest boat. '
+        - ''
+      title: Why Not!
+      description: >+
+        Owning a yacht can be about so many things: often, the actual art of
+        going sailing is not top of the list. Yet a boat like the Y9
+        demonstrates precisely why it should be. In addition to being elegant
+        and artfully furnished, this 97’ vessel has a habit of reminding you how
+        joyous and vital the act of unfurling sails, pointing the bow towards
+        the horizon and leaning into the wind can be.
+
+  cards4:
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
       alt: 'The Eagle Has Landed '
       link: /articles/the-eagle
@@ -386,19 +383,22 @@ content_on_image2:
     link: /articles/raven
     class: width-fit btn white-btn
 content_on_image3:
-  image: /images/TIDE_Magazine_Issue2_Mockup_Bequia03.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-batic-682.jpg
+  alt: Take Two
   tags:
-    - Travel
-    - Number 11
-  title: 'TIDE''s Top Ten Sailing Destinations '
+    - Sailing
+    - Number 6
+  title: Take Two
   description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    Every now and again a yacht comes along that makes waves: case in point –
+    the 68’ Café Racer. Hull number one was launched in 2021 and immediately
+    created a stir, only partly down to the fact that it was a 68’ day sailer.
+    We even coined the phrase ‘pocket Superyacht’ to describe it, which has
+    certainly stuck (see The Pocket Superyacht, TIDE, Number Two). 
   button:
     text: More
-    link: /destinations
+    link: /articles/baltic-68
     class: width-fit btn white-btn
 subscribe_section:
   left_image: /images/magazine.png
