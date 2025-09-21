@@ -44,9 +44,17 @@ images:
 
 Of particular note, also in Venice (this time in 2016) – and what prompted their international approval rating to rise – was their presentation of Figueras Polo Stables, commissioned by polo player and longtime friend Nacho Figueras. Set in La Pampa, Argentina’s grassy plains, the sweeping 3,850-square-metre property combines function and flawless form. There are polo grounds and 44 stalls, though as Ramos notes in an *Equestrian Living* interview, “the stable is really a sequence of beautiful spaces,” horizontal lines and reflecting pools, “where you could put sculptures – or horses”. Low-lying concrete buildings are covered with native grass. The whole vibe is very zen, like a spa for well-bred ponies, and intentionally so.
 
+![](/uploads/modernism-1-min.png)
+
+![](/uploads/modernism-2-min.png)
+
 When Estudio Ramos selects a project, whether it’s a private residence in the Bahamas’ Exumas or a massive equestrian centre for 500 horses in a Saudi Arabian desert, one word keeps coming up: empathy. For the client, yes, but for the land on which they build and the local community – in the pursuit of true sustainability, says son Ignacio in another recent interview. It’s a line of thinking shared by his late mentor and friend, Michael Singer, a renowned Guggenheim sculptor who drew inspiration from beaver bogs in the 70s, letting nature dictate the terms of much of his art and design long before “organic” was a buzzword.
 
 “We’re designing for the future,” says Ignacio. Since Estudio Ramos opened in 1990, the brand has always embraced a challenge – and frequently asked whether its projects should exist at all. Take, for instance, the research done before designing a clubhouse and golf course on untouched stretches of privately owned Torch Cay at the southernmost tip of the Exuma chain. “Obviously the first instinct is: let’s not build anything because it’s so incredibly beautiful,” Ignacio says. But that’s part of the challenge. “Can we be extremely responsible, reduce our footprint, and keep it simple, so that we leave our ego aside?” This care is on display at the equally stunning private home built in Lyford Cay, with its peaceful ponds and secluded outdoor terraces reached by walkways that gently navigate the native flora.
+
+![](/uploads/modernism-3-min.png)
+
+![](/uploads/modernism-4-min.png)
 
 In an age of rapid-fire decision-making and mass production, the Ramos team is a throwback – a family full of designers who seek to grow their knowledge base rather than their bottom line. Some questions that come up during a work day: where do we put the manure of 500 horses in a parched Arabian desert? (Answer: turn it into biofuel to power the compound.) Is it okay to build a winery, cottages, stables and polo field in Napa, California, when the grasses can get too high and pose a fire hazard? (Answer: work with UCLA, local architects and engineers to develop a solution.) “That’s part of what’s interesting about having a global practice,” says Ignacio, “being able to absorb and learn from the different cultures, history and methods.”
 
