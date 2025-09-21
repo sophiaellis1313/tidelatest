@@ -14,14 +14,6 @@ posts:
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
     buttontitle: More
 cards:
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
-    alt: 'A Letter from Norway '
-    link: /articles/letter-from-norway
-    tags:
-      - Environment
-      - number 11
-    title: 'A Letter from Norway '
-    description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed '
   - image: >-
       /uploads/tide-magazine-sailing-lifestyle-travel-issue10-environment-1-1.jpg
     alt: ' Evolving Modernism '
@@ -85,14 +77,6 @@ featured_section:
         - number 06
       title: ' Open Source '
       description: ' How Foundation Zero is throwing out the rulebook to build a fossil-free sailing yacht '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
-      alt: 'The Winds of Change '
-      link: /articles/veer
-      tags:
-        - Environment
-        - ' number 05'
-      title: 'The Winds of Change '
-      description: ' Casting aside conventional norms, Danielle Southcott is charting a revolutionary new course in maritime shipping. With a groundbreaking new sailing cargo ship powered by the wind and clean hydrogen fuel, Veer is setting a new standard for eco-responsible practices on the high seas. '
     - image: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
       alt: ' The Conscious Traveller '
       link: /articles/conscious-traveller
