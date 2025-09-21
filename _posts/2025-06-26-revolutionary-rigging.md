@@ -16,7 +16,6 @@ short-description: >-
   DynaRig has been turning heads and Superyacht sails for nearly two decades.
   TIDE gets the inside track on the system and its potential future use 
 categories:
-  - all
   - sailing
 images:
   - image: >-
