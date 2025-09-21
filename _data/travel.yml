@@ -1,7 +1,7 @@
 posts:
   - category: travel
-    video: false
-    video_path: path/to/video.mp4
+    video: true
+    video_path: /uploads/gundari-453-edit.jpg
     featured_image:
       image: path/to/featured-image.jpg
       position: center
