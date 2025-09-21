@@ -49,7 +49,7 @@ images:
 ---
 From the sun-drenched Caribbean to the windswept Atlantic, South America’s coastal dining is as much about place as it is about flavour. Across the continent, food is deeply entwined with nature: shaped by the rhythms of a wild sea, an abundance of local produce and the enduring influence of ancient heritage. Now, a new generation of restaurants is reinterpreting this connection, celebrating the simplicity of good ingredients, while embracing the laid-back warmth that defines a life by the water.
 
-**PARADOR LA HUELLA: THE LEGENDARY SUMMER HOTSPOT**
+## **Parador La Huella: The Legendary Summer Hotspot**
 
 In José Ignacio, time stretches and slows. Once a quiet fishing village, it has since evolved into one of Uruguay’s most coveted coastal escapes: think low-key luxury meets untamed beauty. Now attracting the most privileged of visitors, it has preserved its original, authentic charm. It’s home to one of the most famous beaches on the continent, Playa Brava, which is where Parador La Huella can be found.
 
@@ -57,7 +57,7 @@ Coming from the Spanish root verb *parar*, to stop, a parador was once something
 
 [*paradorlahuella.com*](https://paradorlahuella.com/){: target="_blank" rel="noopener"}
 
-**CALA MAMBO: THE SECLUDED CARIBBEAN RETREAT**
+## **Cala Mambo: The Secluded Caribbean Retreat**
 
 There are few better ways of experiencing utter tranquillity than a boat ride across jewel-blue Caribbean waters. Just 50 minutes from Cartagena, the Rosario Islands rise up from the horizon, an archipelago of lush, untouched landscapes surrounded by clear waters leading straight to Cala Mambo.
 
