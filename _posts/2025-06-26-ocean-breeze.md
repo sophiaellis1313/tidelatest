@@ -16,7 +16,6 @@ short-description: >-
   wine crafted at Bodega Oceánica José Ignacio, situated just back from
   Uruguay’s Atlantic coastline
 categories:
-  - all
   - lifestyle
 images:
   - image: >-
@@ -32,6 +31,8 @@ When Conserva’s parents purchased the 52-hectare plot ten kilometres from the 
 
 The first wine bottled under the Bodega Oceánica José Ignacio label, a Pinot Rosé, is as delicate a shade of salmon pink as anything made in St Tropez, a place José Ignacio is often compared to. Just like the coastal wines from the likes of Château Minuty and Domaines Ott on the Côte d’Azur, it has also become the drink of summer in the town’s casually cool restaurants and at its ultra-fashionable neighbouring city, Punta del Este.
 
+![](/uploads/ocean-breeze-3-min.png)![](/uploads/ocean-breeze-4-min.png)
+
 Today, Tannat – Uruguay’s champion variety – Chardonnay and Albariño all also thrive in the bodega’s coastal soils. Overseeing the eight-hectare production is Hans Vinding Diers, a flying winemaker who came to South America via South Africa<br>and Bordeaux.
 
 Bodega Oceánica José Ignacio has grown into a boutique destination vineyard that fits in with the laid-back elegance of its setting. There’s the rust-red winery fashioned like a half wine barrel flipped over – a design that promotes gravity-flow winemaking (considered a gentler approach). The ultra-modern olive mill pairs concrete and stained glass – and has won international acclaim. A sculpture garden of statement modern art features works by renowned Uruguayan artists, while celebrated Argentine Chef Fernando Trocca opened Mostrador Bodega José Ignacio, a sibling to local dining institution Mostrador Santa Teresita, on-site two years ago.
@@ -46,17 +47,19 @@ Then there’s the Hobie Cat regatta organised by Conserva’s sailing friends a
 
 [*ojoseignacio.com*](https://ojoseignacio.com/){: target="_blank" rel="noopener"}
 
-&nbsp;
+&nbsp;![](/uploads/ocean-breeze-1-min.png)
 
-*Two further wine stops in José Ignacio to try:*
+![](/uploads/ocean-breeze-1-min-1.png)
 
-**Alto de la Ballena**
+## Two further wine stops in José Ignacio to try:
+
+### **Alto de la Ballena**
 
 In the Sierra de la Ballena mountain range, just 15 minutes from the coast in Punta del Este, this small, boutique vineyard blends the ocean breeze with stony, mountain soils. Guided tours are available, including a picturesque lunch in the vines.
 
 [*altodelaballena.com*](https://altodelaballena.com/){: target="_blank" rel="noopener"}
 
-**Bodega Garzón**
+### **Bodega Garzón**
 
 This sleek, sprawling, ultra-modern estate was Wine Enthusiast’s New World Winery of the Year in 2018 and one of only three South American names to make the top 15 of the World’s Best Vineyards 2024. Argentine superstar Chef Francis Mallmann helms the restaurant. There’s even a (members’-only) golf course.
 
