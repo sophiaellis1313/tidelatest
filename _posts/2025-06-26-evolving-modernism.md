@@ -6,8 +6,7 @@ type: Design
 byline: 'WORDS: LAURA D REDMAN | IMAGES: ESTUDIO RAMOS'
 issue_no: number 12
 featured_image:
-  image: >-
-    /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
+  image: /uploads/modernism-desktop.png
   position: img-center
 video: false
 video_path: ''
