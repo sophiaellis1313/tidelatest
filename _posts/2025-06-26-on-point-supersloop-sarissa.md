@@ -17,7 +17,6 @@ short-description: >-
   her impressive speed and unique quietness. We meet her designer Malcolm McKeon
   and Captain Iain Cook to find out her secret
 categories:
-  - all
   - sailing
 images:
   - image: >-
@@ -51,7 +50,11 @@ There was never any question of a flybridge from this experienced owner – he w
 
 Even the mighty carbon-fibre arch that keeps the mainsheet clear of the deck is understated. It has been designed with an aerofoil shape to look vanishingly slim, and yet there is enough volume to hide the lines within the traveller system. The arch is one of the few design features that the boat shares with her predecessor for the same owner, and it formed a key part of the brief.
 
-**In search of speed**
+![](/uploads/sarissa-4-min-1.png)
+
+![](/uploads/sarissa-3-min-1.png)
+
+### **In search of speed**
 
 Although that first *Sarissa* (now *Sharlou*, 2011) was built in carbon fibre, her 2023 successor has a robust aluminium hull, albeit in lightweight *Alustar*. This is primarily to reduce vibration and noise transfer below, and has surprisingly little impact on the yacht’s performance, according to McKeon. She easily matches wind speed up to about 18 knots and goes exceedingly well to windward. “Because we maximised the sail plan and stability, the light-medium airs performance was very similar to the carbon-hull option. Only downwind in heavy airs above 25 knots would the carbon-fibre hull outperform,” he explains.
 
@@ -65,7 +68,11 @@ There is a tone of delight in the Captain’s voice as he relates all this. The 
 
 Besides speed, those electric drives have another benefit: near-silent operation. Fantastic for the owner and guests, this was something of a challenge at first for the Captain. “You can’t feel them in the helm and you can’t hear them, because they’re all electrically driven,” says Cook. “You can’t see them either – there are no inputs like exhaust or cooling water that you would normally use to orient yourself. You just have to trust the systems. It takes some getting used to!”
 
-**Quiet luxury**
+![](/uploads/sarissa-2-min-1.png)
+
+![](/uploads/sarissa-1-min-1.png)
+
+### **Quiet luxury**
 
 If it’s all about sailing fast above deck, the interior of the yacht is another realm altogether. Parisian design studio Liaigre spent many years finalising elegant styling in a palette of carbon fibre and natural woods. Described as light and full of clever design details, its social hub is the huge, raised saloon area that enjoys excellent sightlines out through the cabin top.
 
