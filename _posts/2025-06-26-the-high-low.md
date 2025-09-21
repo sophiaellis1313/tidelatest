@@ -16,7 +16,6 @@ short-description: >-
   the Atlantic Ocean in Uruguay, the other hidden away in the turquoise
   Caribbean in Colombia. Each is paradisiacal, just with different vibes
 categories:
-  - all
   - travel
 images:
   - image: >-
