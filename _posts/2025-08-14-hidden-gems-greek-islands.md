@@ -15,6 +15,7 @@ short-description: >-
   ripple-effect emanating from Athens’ hot art scene: it’s all happening across
   the Greek Islands.
 categories:
+  - travel
 images:
   - image: /uploads/pf-minois-stlls-20.jpg
     width: col-6
@@ -36,6 +37,10 @@ The sun-soaked isles are renowned for being naturally beautiful, produce-rich an
 
 Rather like the recent Roman Empire TikTok trend, when women asked their male partners how often they thought of the ancient civilisation – weekly? Several times a day, really? – how often do you think of the Greek Islands? Its whitewashed villages, painterly ocean blues, sun-warmed beaches. No other islands in the world have swirled in and out of our imagination quite like these Mediterranean archipelagos. Leonard Cohen’s Hydra; the Kefalonia of Captain Corelli; the Skopelos of *Mamma* *Mia*; its waters sailed by Jason and the Argonauts, and Onassis’s yacht *Christina*. The stuff of myth and legend, and secrets too. Alongside the well-known stories and the islands that everyone sets course for, here are some new venue arrivals and a few of its more off-radar destinations to inspire your travels.
 
+![](/uploads/hiddengems-greekislands-4.png)
+
+![](/uploads/hiddengems-greekislands-3.png)
+
 ## **Spirited architecture**
 
 **<br>**[**K-Studio**](https://k-studio.gr/){: target="_blank" rel="noopener"} is one of Greece’s most innovative architectural practices, designing Kaplankaya Marina in Turkey, Navarino Bay hotel in Greece and several private villas. On the island of Samos, though, it has created a visitors’ centre for **Metaxa**, the Greek brandy distillers (try it neat or mixed with lemon juice and Cointreau for a Greek Sidecar). Rather than impose a grand design on the landscape, though, it has worked with the existing buildings of the 100-year-old Liknon vineyard, creating an experiential route that takes visitors on a top-to-bottom journey, through an underground space with a glass wall revealing the root system of the vines and culminating in a tasting room with an open entrance framing the landscape. *Yamas*, as they say in Greece.
@@ -44,15 +49,23 @@ Rather like the recent Roman Empire TikTok trend, when women asked their male pa
 
 ### **Astrotourism**
 
-It seems apt to go stargazing in Greece – after all, so many constellations and stars were given names from the Greek myths, from Andromeda and Perseus to Ursa Major and Gemini. Designated in 2023, the [**Aenos Dark Sky Park**](https://aenosdarkskypark.gr/en/){: target="_blank" rel="noopener"} \*\* \*\* can be found on the island of Kefalonia in the nature reserve of the same name, surrounded by rolling hills of fir trees and home to snake eagles, honey buzzards and a herd of semi-wild horses. The centre hosts special astronomy nights, using green lasers to point out nebulae, clusters and the other planets of our solar system. Over on the island of Tinos, the newly opened [**Odera**](https://www.oderatinos.com/){: target="_blank" rel="noopener"} – the only hotel on the island – has launched astronomy retreats guided by author Valerie Stimac, who combines tales from the myths with stargazing sessions and astrophotography. <br>
+It seems apt to go stargazing in Greece – after all, so many constellations and stars were given names from the Greek myths, from Andromeda and Perseus to Ursa Major and Gemini. Designated in 2023, the [**Aenos Dark Sky Park**](https://aenosdarkskypark.gr/en/){: target="_blank" rel="noopener"} \*\* \*\* can be found on the island of Kefalonia in the nature reserve of the same name, surrounded by rolling hills of fir trees and home to snake eagles, honey buzzards and a herd of semi-wild horses. The centre hosts special astronomy nights, using green lasers to point out nebulae, clusters and the other planets of our solar system. Over on the island of Tinos, the newly opened [**Odera**](https://www.oderatinos.com/){: target="_blank" rel="noopener"} – the only hotel on the island – has launched astronomy retreats guided by author Valerie Stimac, who combines tales from the myths with stargazing sessions and astrophotography.
+
+![](/uploads/hiddengems-greekislands-7.png)<br>
 
 ### **Island hotels**
 
 For every Mykonos and Santorini there are a dozen lesser-known islands, each with its own character and appeal. Take **Kea** in the Cyclades, for example, which may be the closest island to Athens – making it a popular weekending spot for families, although it has still retained its earthy, wild temperament. Trails of stone paths lead through oak forest and up mountains, taking you past the ruins of two temples from the ancient city-state of Karthea and to the small capital of Ioulida, with its cobblestoned streets and colourful patchwork of houses, as well as a distinctive lion sculpture, dating back to 600BC and thought to have been built by the architect with a rather more famous structure to his name: the Acropolis. There are few hotels, but the [**One&Only Kea Resort**](https://www.oneandonlyresorts.com/el/kea-island){: target="_blank" rel="noopener"} is a recent arrival, its villa suites designed in natural materials for a clean-cut minimalism, and with a beach club and spa that welcome daycationing sailors.
 
+![](/uploads/hiddengems-greekislands-5.png)
+
+![](/uploads/hiddengems-greekislands-1.png)
+
 It’s not the only new hotel on the islands. On Folegandros, a near neighbour of Santorini, the solar-powered [**Gundari**](https://www.gundari.com/){: target="_blank" rel="noopener"} eco-retreat has been sensitively built amid a nature reserve, perched on a clifftop with lookout views over the Aegean – best taken from the infinity pool’s swim-up cocktail bar. But it’s the wellness credentials that really impress, with a bioclimatic spa set in the rock-face that offers holistic practices such as energy healing, sound baths and meditation, and traditional massages using oils infused with island herbs. The [**Beach House**](https://beachhouseantiparos.com/), meanwhile, set on a quiet bay on the south coast of Antiparos, has just been revamped by Athanasia Comninos, the force behind wellness hotel The Rooster; **Andronis Minois**, which opened beachside on neighbouring Paros last summer, resembles a white-cube Cycladic village albeit with its own subterranean spa and fine-dining restaurant. And another eco-minded hotel can be found on Naxos, where [**Laguna Coast Resort**](https://lagunacoastresort.com/){: target="_blank" rel="noopener"} \*\* \*\* has opened 21 suites and villas as part of a project to protect the flamingo-flocked wetlands near Chora on the west coast.
 
-&nbsp;
+&nbsp;![](/uploads/hiddengems-greekislands-8.png)
+
+![](/uploads/hiddengems-greekislands-2.png)
 
 ### **Greek Island art**
 
