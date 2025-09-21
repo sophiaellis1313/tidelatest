@@ -6,7 +6,7 @@ type: travel
 byline: 'Author: Helen Iatrou '
 issue_no: number 13
 featured_image:
-  image: /uploads/culinary-creations-4.jpg
+  image: /uploads/high-low-desktop.png
   position: img-center
 video: false
 video_path:
