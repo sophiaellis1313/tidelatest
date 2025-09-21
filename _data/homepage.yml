@@ -90,19 +90,6 @@ cards:
       Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
 cards2:
-  - image: /uploads/audihirw2017-francolini-1753.jpg
-    alt: Drumfire Yacht
-    link: /articles/Drumfire-the-boat-to-beat%20.html
-    tags:
-      - Sailing
-      - number 13
-    title: 'Drumfire: The Boat to Beat'
-    description: >+
-      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
-      Under following decades spent in the shadow of others in Europe. The
-      boatbuilder, her Captain and new owners each share the secrets to her
-      newfound success.
-
   - image: /uploads/jeff-brown-jcb24539-min.jpg
     alt: A Perfect Re(fit)
     link: articles/A-Perfect-refit.html
@@ -124,6 +111,18 @@ cards2:
       - number 12
     title: ' On Point:  Supersloop Sarissa '
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness. We meet her designer Malcolm McKeon and Captain Iain Cook to find out her secret '
+  - image: >-
+      /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
+    alt: Wind is Power
+    link: /articles/Drumfire-the-boat-to-beat%20.html
+    tags:
+      - Sailing
+      - number 11
+    title: Wind is Power
+    description: >
+      The latest rig and sail innovations are allowing boatbuilders and
+      designers to think big when it comes to sailing vessels – and that could
+      be good news for the environment.
 cards3:
   - image: /uploads/makris-fine-dining-restaurant-2.jpg
     alt: 'The High Low: The Greek Islands'
