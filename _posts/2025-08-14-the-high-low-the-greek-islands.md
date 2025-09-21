@@ -12,6 +12,7 @@ video: false
 video_path:
 short-description: "Choose between a Michelin-starred Chef’s creative, conscious fine-dining and a couple’s heart-felt traditional home-cooking –\_or simply sail between and sample both ."
 categories:
+  - travel
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12
@@ -54,6 +55,10 @@ With its turquoise waters and slopes carpeted in olive, cypress and citrus trees
 
 More recently, sophisticated newcomers have shaken up its dining scene. Among those leading the charge is Domes Miramare Corfu, a five-star adults-only Luxury Collection beachfront resort in Moraitika on the eastern coast. The Mediterranean-chic hotel’s understated vibe belies its star-power past. In the late 60s, the Onassis family built Miramare, whose guests included Maria Callas and President Eisenhower. Today, a new generation of beau monde has discovered the delights of stepping directly out of their premium accommodations and into shallow, gin-clear waters.<br>
 
+![](/uploads/highlow-greece-4.png)
+
+![](/uploads/highlow-greece-3.png)
+
 As evening rolls around, they need not stray far to sample neo-Hellenic culinary pleasures. Overseeing open-air restaurant Makris Corfu since its inception is Chef Patron Petros Dimas. The soft-spoken Athens-based Chef’s steady pursuit of dining excellence earned Domes Resorts’ standalone restaurant Makris Athens, in the capital, a Michelin star within a year of opening. Dimas’ trademark is flourishes of vivid edible flowers that bring to mind spring mornings. Each fanciful creation is like a priceless work of art, almost too good-looking to eat. Ingredients are sourced from the Makris farm and trusted small-scale producers. In an effort to take a step closer to zero waste, peelings, trimmings and other unsung ingredients are brought to the fore in creative ways. Makris’ ultimate goal is to encourage more conscious dining. <br>
 
 Each season, Dimas assembles a crack team of culinary co-conspirators to dream up degustation menus for Makris Corfu. Guests can choose between two: Utopia and Genesis. Both feature what is set to be the signature dish of 2025 – local lamb with aubergine, rosemary, a seasonal vegetable medley and black garlic. Seafood lovers can indulge in handmade pasta with lobster and tortelloni. Sweet tooths get their just desserts, too: a light-as-a-feather strawberry creation rendering the ephemeral fragrance of early summer.
@@ -69,6 +74,8 @@ Each season, Dimas assembles a crack team of culinary co-conspirators to dream u
 Mystery surrounds Sappho. One of antiquity’s greatest poets, she is believed to have been born around 620 BCE to an aristocratic family on the Northeastern Aegean island of Lesvos. Much of her poetry focused on lovesickness. While few sailors venture to the silver-sand shores of Greece’s third-largest island, those who do fall hard for peaceful Lesvos. There are colourful traditional stone-built villages, flamingo-dotted wetlands and petrified forests to explore. <br>
 
 But what Greeks have long kept to their chest is the island’s magnificent bounty of food and drink – from the prized sardines of Kalloni Gulf to the aromatic ouzo of coastal town Plomari. On Lesvos, there are more than 11 million olive trees, from which fruity EVOO is gently coaxed. Here, the tradition of sharing meze with those closest to you (*parea*) reigns supreme. And the only rule is to take things slow (*siga, siga* in Greek).
+
+![](/uploads/highlow-greece-2.png)![](/uploads/highlow-greece-1.png)
 
 On the northern coast, a short drive south of castle-crowned Molyvos town, is Caravan By the Sea. Located above Petra’s Avlaki beach, this secluded taverna differs from the fish tavernas and ouzeries found in fishing villages and the capital Mytilini. The first thing you’ll notice is that you’re sitting in the shade of apricot trees, amid an organic garden patch bursting with seasonal vegan goodness like peppers and beetroot. <br>
 
