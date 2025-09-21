@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/estudio-ramos
-title: 'Designing for the future   '
+title: 'Designing for the Future   '
 type: Design
 byline: 'WORDS: LAURA D. REDMAN | IMAGES: ESTUDIO RAMOS'
 issue_no: number 12
