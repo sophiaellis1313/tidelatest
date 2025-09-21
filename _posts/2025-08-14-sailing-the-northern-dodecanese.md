@@ -15,6 +15,7 @@ short-description: >-
   cluster of islets to the far east of Greece, revealing beautiful beaches,
   local tavernas and ideal anchorages.
 categories:
+  - travel
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12
