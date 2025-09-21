@@ -1,31 +1,37 @@
 posts:
   - category: Lifestyle
     video: true
-    video_path: path/to/video.mp4
+    video_path: /uploads/fc5a9854-min.jpg
     featured_image:
       image: path/to/featured-image.jpg
       position: center
-    title: ' Ocean Breeze '
-    short_description: ' Imbibe the special treasures of the location surrounding you via a glass of wine crafted at Bodega Oceánica José Ignacio, situated just back from Uruguay’s Atlantic coastline '
+    title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
+    short_description: >-
+      It’s not a Chef’s cooking that leaves an impression on Antiparos, it’s
+      “the quality of each ingredient and the beauty of the setting” – and
+      that’s what Cookoovaya Antiparos’s Chef is saying himself. Try this simple
+      fish crudo recipe and see for yourself.
     type: Lifestyle
-    issue_no: Number 12
+    issue_no: Number 13
     url: /lifestyle
-    cover_image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
+    cover_image: /uploads/fc5a9854-min.jpg
     buttontitle: More
 cards:
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-flying-lunch2.jpg
-    alt: A Flying Lunch
-    link: /articles/flying-lunch
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
+    alt: Ocean Breeze
+    link: /articles/ocean-breeze.html
     tags:
       - Lifestyle
-      - number 7
-    title: A Flying Lunch
+      - number 12
+    title: Ocean Breeze
     description: >-
-      Barbuda, often described as Antigua’s sister, is a coral isle covered in
-      pink sand and untouched wildlife that sits a short helicopter ride away
-      from its sibling. Its reputation as natural and unpolished is slowly
-      changing, not least with the addition of its own Nobu restaurant.
+      So much of a wine’s identity hinges on its terroir – the growing
+      conditions unique to a particular location. At Bodega Oceánica José
+      Ignacio winery on Uruguay’s Atlantic coast, that’s a trio of clay soils, a
+      mild climate (where it never gets too hot or too cold) and an ocean air
+      that swoops up from not only the Atlantic Ocean but also the two lagoons
+      that bookend the once sleepy nearby fishing village of the same name, now
+      a bohemian hotspot and starry hangout.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: ' A Taste Of Tuscany '
     link: /articles/taste-of-tuscany

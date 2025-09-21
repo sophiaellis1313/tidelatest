@@ -1,0 +1,170 @@
+posts:
+  - category: Environment
+    video: true
+    video_path: path/to/video.mp4
+    featured_image:
+      image: path/to/featured-image.jpg
+      position: center
+    title: '  A Letter from Norway  '
+    short_description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed '
+    type: Environment
+    issue_no: Number 11
+    url: /environment
+    cover_image: >-
+      /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
+    buttontitle: More
+cards:
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
+    alt: 'A Letter from Norway '
+    link: /articles/letter-from-norway
+    tags:
+      - Environment
+      - number 11
+    title: 'A Letter from Norway '
+    description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed '
+  - image: >-
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue10-environment-1-1.jpg
+    alt: ' Evolving Modernism '
+    link: /articles/pianosa
+    tags:
+      - Environment
+      - number 10
+    title: ' The Force Of Nature '
+    description: ' After centuries of being both fought over and neglected, today the tiny isle of Pianosa has become a precious international case in the promising power of rewilding. We investigate how such an evolution came about '
+  - image: >-
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-environment-seatrees-1.jpg
+    alt: ' Life in the Meadows '
+    link: /articles/sea-trees
+    tags:
+      - 'Environment '
+      - number 09
+    title: ' Life in the Meadows '
+    description: ' Seagrass meadows, among the oldest life on earth, are our secret weapon in fighting climate change. But these hidden forests are under threat. Luckily, a Mallorcan project is diving in to help save them '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-environment-1.jpg
+    alt: ' Atoll Protected '
+    link: /articles/atoll-protected
+    tags:
+      - 'Environment '
+      - number 08
+    title: ' Atoll Protected '
+    description: ' As it undertakes its mission to conserve the islet’s special environment and culture, the hard-working Teti’aroa Society has also sketched out a pathway for the restoration of oceanic islands in general '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-environment3.jpg
+    alt: ' Dominica And The Whales '
+    link: /articles/dominica-whales
+    tags:
+      - Environment
+      - number 07
+    title: ' Dominica And The Whales '
+    description: ' With a massive decline in the global Sperm whale population caused by a combination of hunting, pollution and climate change, the species is in grave danger. But things are set to change thanks to an ambitious plan by an unlikely ally '
+content_on_image:
+  image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+  alt: The Winds of Change
+  tags:
+    - Environmental
+    - Number 05
+  title: The Winds of Change
+  description: >+
+    In a world grappling with the early devastating effects of a warming
+    climate, the maritime world stands apart as an oft-overlooked contributor.
+    Out at sea, away from critical eyes, marine transport has long exerted a
+    significant impact on the environment, often hidden beneath the surface of
+    economic growth.
+
+  button:
+    text: More
+    link: /articles/veer
+    class: width-fit btn white-btn
+featured_section:
+  cards:
+    - image: >-
+        /uploads/tide-magazine-sailing-lifestyle-travel-issue06-environment-1.jpg
+      alt: ' Open Source '
+      link: /articles/foundation-zero
+      tags:
+        - Environment
+        - number 06
+      title: ' Open Source '
+      description: ' How Foundation Zero is throwing out the rulebook to build a fossil-free sailing yacht '
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+      alt: 'The Winds of Change '
+      link: /articles/veer
+      tags:
+        - Environment
+        - ' number 05'
+      title: 'The Winds of Change '
+      description: ' Casting aside conventional norms, Danielle Southcott is charting a revolutionary new course in maritime shipping. With a groundbreaking new sailing cargo ship powered by the wind and clean hydrogen fuel, Veer is setting a new standard for eco-responsible practices on the high seas. '
+    - image: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
+      alt: ' The Conscious Traveller '
+      link: /articles/conscious-traveller
+      tags:
+        - 'Environment '
+        - number 04
+      title: ' The Conscious Traveller '
+      description: ' More and more, the sailing Superyacht community are looking for ways to add meaning and purpose to their travels without compromising on luxury. Here, we look at a few companies working to connect owners and sailors with conservationists, creating a more positive impact on local flora, fauna, and communities '
+    - image: /uploads/tide-magazine-issue04-11th-hour.jpg
+      alt: Three's a Charm
+      link: /articles/11th-hour
+      tags:
+        - Environment
+        - number 04
+      title: 'The 11th Hour '
+      description: ' Using the power of sport and travel to restore a balanced relationship between people and planet, 11th Hour Racing are working against the clock to enable others to protect and restore the health of our ocean '
+cards2:
+  - image: /uploads/untitled-design-50-1.png
+    alt: ' Rewilding the Sea '
+    link: /articles/rewilding-the-sea
+    tags:
+      - 'Environment '
+      - number 03
+    title: ' Rewilding the Sea '
+    description: ' Environmental campaigner and acclaimed author Charles Clover explains how – with a little patience and optimism – simply leaving the oceans alone to heal themselves is the best thing we can do.  '
+  - image: /uploads/1-1-1.png
+    alt: 'Rebuilding Reefs '
+    link: /articles/rebuilding-reefs
+    tags:
+      - 'Environment '
+      - ' number 02'
+    title: 'Rebuilding Reefs '
+    description: ' Marine scientists Genevieve Renaud-Byrne and Dr Molly Wilson on their mission to save Antigua’s marine ecosystems '
+  - image: /uploads/tide-magazine-issue02-design-1-1.jpg
+    alt: 'Nature In Design '
+    link: /articles/nature-in-design
+    tags:
+      - 'Environment '
+      - number 02
+    title: 'Nature In Design '
+    description: >-
+      Is it really possible to have a sustainable superyacht? TIDE talks to some
+      of the leading yacht designers who are reimagining yacht interiors with a
+      lighter carbon footprint. 
+  - image: /uploads/tide-magazine-environment-seachair-3-1.jpg
+    alt: 'Fantastic Plastic: The Sea Chair '
+    link: /articles/sea-chair
+    tags:
+      - environment
+      - number 02
+    title: 'Fantastic Plastic: The Sea Chair '
+    description: >-
+      In the face of an overwhelming plastic waste disaster in our oceans, a
+      small design initiative called Studio Swine offers a glimmer of
+      positivity, using plastic sifted from the oceans to create unique and
+      highly sought-after furniture.  
+  - image: /uploads/tide-magazine-sailing-great-circle-1-1.jpg
+    alt: ' The Great Circle '
+    link: /articles/great-circle
+    tags:
+      - 'Environment '
+      - number 01
+    title: ' The Great Circle '
+    description: ' Olympic gold sailing medallists Blair Tuke and Peter Burling on the preservation and restoration of the world’s oceans… '
+subscribe_section:
+  left_image: /images/magazine.png
+  right_image: /images/tablet.png
+  title: Subscribe
+  buttons:
+    - text: IN PRINT
+      class: btn-border
+      arrow: left
+    - text: DIGITAL
+      class: btn-border
+      arrow: right
