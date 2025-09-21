@@ -49,11 +49,11 @@ images:
 ---
 Welcome to the top of the “twelve islands”, an archipelago revered for its storied past, secret bays and sense of discovery. Director and founder of Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
-&nbsp;
-
 The far eastern islands of Greece lean toward Turkey, so close in places that only a few short tacks separate them. Here, in the Dodecanese Archipelago, the Greek islands take on a different personality entirely – distinct from the widely known Cyclades to the west. Grand peaks rise sharply against the horizon, their barren slopes brushed with a warmer, earthier hue than the familiar blue-and-white palette of the Aegean.
 
 Their history is layered and complex. Byzantine kingdoms once thrived here, only to cede control to the Ottomans, then the Italians, the modern Turkish state, and finally, Greece itself. This shifting sovereignty left an indelible mark on the architecture, cuisine and culture. Cut off from mainland Greece and bypassed by the tourist crowds that flood the Cyclades, the northern Dodecanese remain a frontier for yacht charters – a place where the waypoints are few, the hidden bays many and the journey still feels like an act of exploration.
+
+![](/uploads/dodecanese-3.png)
 
 ## **Kos**
 
@@ -69,6 +69,8 @@ North of the channel is a wide bay that includes Arginonta to Emporios. The coas
 
 Further north, Palionnisos Bay offers a spacious and sheltered anchorage with a sparsely populated shoreline. Approximately 20 moorings are available for vessels up to 20 metres long, while larger yachts can anchor in deeper water farther out. On the north side of the bay, Taverna Ilias provides an attractive stop ashore, serving simple, authentic foods in a traditional setting.
 
+![](/uploads/dodecanese-2.png)
+
 ## **Leros**
 
 In recent years, Leros has become increasingly popular, offering a strong challenge to the renowned Patmos as the area’s premier island. Located north of Kalymnos and with major historical significance, the town of Lakki was renovated by Mussolini during the first quarter of the 20th century, during the Italian occupation (1912–1943) of the Dodecanese Islands. The architectural style of Lakki reflected the vision for an Italian-run Mediterranean, marked by imposing symmetry and austere grandeur. Today, Lakki is home to one of the largest protected bays in Greece.
@@ -76,6 +78,8 @@ In recent years, Leros has become increasingly popular, offering a strong challe
 Opposite Lakki, on the east coast of Leros, several scenic coastal towns line protected bays. Panteli is one of the key destinations for yachts; the cove is large and deep, allowing Superyachts to anchor offshore while sailing yachts and motor yachts up to 40 metres long can anchor stern-to along the coast. The town is filled with classic Greek character including many windmills perched on high. The citadel towers overhead, located at the island’s highest point. Panteli is also dense with shops, cafés and restaurants worth trying. There are several moorings in the bay that accommodate vessels up to 20 metres long, and smaller yachts can anchor south of town, off Vromolithos Beach.
 
 Nearby Alinda is a large and peaceful anchorage. Upscale beachfront hotels and houses lie along the water’s edge, along with Mylos By The Sea, a long-time and well-loved restaurant located on the southern shore. Yachts can anchor in the southern bay between Mylos and the town quay, maintaining distance from the designated swimming beach.
+
+![](/uploads/dodecanese-1.png)
 
 ## **Patmos**
 
@@ -86,6 +90,8 @@ Similar to the rest of the Dodecanese Archipelago, Patmos holds notable Roman an
 Ormos Grikou lies two miles south of Skala and offers a quieter anchorage away from the thriving port. Protected by an island at the head of the bay, Grikou is surrounded by stunning architecture and prominent homes. The Patmos Aktis, a Luxury Collection Resort & Spa, is a five-star hotel located along the beachfront of Grikou Bay, with a dinghy dock situated in front. It offers fine dining as well as a private beachside pool, with easy access to taxis for exploring the rest of the island.
 
 Chora, a lively town located around the Holy Monastery of Saint John the Theologian, comes alive at night. The imposing walls of the monastery are illuminated and can be seen from anchorages all across Patmos. The ancient village thrives with restaurants scattered throughout the resilient citadel.
+
+![](/uploads/dodecanese-4.png)
 
 ## **Lipsi**
 
