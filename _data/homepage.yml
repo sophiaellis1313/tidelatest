@@ -260,21 +260,22 @@ content_on_image:
     style: white-btn
 content_on_image2:
   image:
-    src: /uploads/itvall-0058-min.jpg
-    alt: Valldemossa, Mallorca
+    src: /uploads/gundari-453-edit.jpg
+    alt: 'Gundari Resort TIDE Magazine '
   tags:
     - TRAVEL
     - NUMBER 14
-  title: 'Checking In: Valldemossa, Mallorca'
+  title: 'Hidden Gems: Greek Islands'
   direction: start
   description: >+
-    A sancturio natural with walls dating back to the 14th century, now reborn
-    thanks to one of the Med’s most cutting-edge hoteliers – this adult-only
-    retreat is somewhere to hideaway and then emerge rebooted.
+    The sun-soaked isles are renowned for being naturally beautiful,
+    produce-rich and ripe with history – but now they’re also becoming known for
+    their eco-hotels, cutting-edge architecture and groundbreaking art, if you
+    know where to look.
 
   button:
     text: More
-    link: articles/The-beautiful-lightness-of-being%20.html
+    link: articles/Hidden-Gems-Greek-Islands%20.html
     style: white-btn
 content_on_image3:
   image:
