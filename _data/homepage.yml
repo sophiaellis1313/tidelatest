@@ -17,36 +17,40 @@ design_image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-d
 issue_out_now_image: /uploads/issue-13/tide-magazine-13-spreads-mockup-2.jpg
 homepage_banner:
   desktop:
-    url: https://peachy-lion.cloudvent.net/articles/Grand-Designs.html
+    url: /articles/Drumfire-the-boat-to-beat%20.html
     video: false
-    video_path: /videos/sailing-wind.mp4
+    video_path: /uploads/OrotonDrumfire©Bennett9299.png
     poster: /images/homepage-poster.jpg
-    fallback_image: /uploads/250624-sailingenergy-syc-d0039wha.jpg
+    fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
     image_position: center
-    title: "Grand Designs\L"
+    title: 'Drumfire: The Boat to Beat'
     tags:
       - Sailing
-      - NUMBER 14
-    description: >-
-      From Iconic Maltese Falcon to the latest in electric-yacht innovation,
-      Dykstra Naval Architects seamlessly moves from one project to the next.
-      CEO Thys Nikkels shares what steers them so well...
+      - NUMBER 13
+    description: >+
+      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
+      Under following decades spent in the shadow of others in Europe. The
+      boatbuilder, her Captain and new owners each share the secrets to her
+      newfound success.
+
     button:
       text: MORE
       style: white-btn
   mobile:
-    url: /articles/wind-power
+    url: articles/Drumfire-the-boat-to-beat%20.html
     video: false
-    fallback_image: /uploads/250624-sailingenergy-syc-d0039wha.jpg
+    fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
     image_position: center
-    title: "Grand Designs\L"
+    title: 'Drumfire: The Boat to Beat'
     tags:
       - Sailing
-      - NUMBER 14
-    description: >-
-      From Iconic Maltese Falcon to the latest in electric-yacht innovation,
-      Dykstra Naval Architects seamlessly moves from one project to the next.
-      CEO Thys Nikkels shares what steers them so well...
+      - NUMBER 13
+    description: >+
+      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
+      Under following decades spent in the shadow of others in Europe. The
+      boatbuilder, her Captain and new owners each share the secrets to her
+      newfound success.
+
     button:
       text: MORE
       style: white-btn
