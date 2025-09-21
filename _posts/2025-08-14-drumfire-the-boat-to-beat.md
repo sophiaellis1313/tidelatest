@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: '/articles/Drumfire-the-boat-to-beat '
-title: 'Drumfire: the boat to beat '
+title: 'Drumfire: the Boat to Beat '
 type: sailing
 byline: 'Author: Sam Fortescue'
 issue_no: number 13

@@ -1,19 +1,21 @@
 posts:
   - category: sailing
     video: true
-    video_path: path/to/video.mp4
+    video_path: /uploads/audihirw2017-francolini-1753.jpg
     featured_image:
       image: /uploads/silken-2024-03-07-0953-min.jpg
       position: center
-    title: Grand Designs
-    short_description: >-
-      Thys Nikkels, CEO of Dykstra Naval Architects, shares what’s within the
-      company’s own DNA that has led to it creating just so many of the world’s
-      most beautiful classic and modern yachts.
+    title: 'Drumfire: the Boat to Beat '
+    short_description: >+
+      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
+      Under following decades spent in the shadow of others in Europe. The
+      boatbuilder, her Captain and new owners each share the secrets to her
+      newfound success.
+
     type: Sailing
-    issue_no: Number 14
-    url: articles/Grand-Designs.html
-    cover_image: /uploads/silken-2024-03-07-0953-min.jpg
+    issue_no: Number 13
+    url: /articles/Drumfire-the-boat-to-beat%20.html
+    cover_image: /uploads/audihirw2017-francolini-1753.jpg
     buttontitle: More
 cards:
   - image: /uploads/bj100-2025-gotland-runt-training-at-269-min.jpg
