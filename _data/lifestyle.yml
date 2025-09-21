@@ -1,27 +1,31 @@
 posts:
-  - category: "Lifestyle"
+  - category: Lifestyle
     video: true
-    video_path: "path/to/video.mp4"
+    video_path: path/to/video.mp4
     featured_image:
-      image: "path/to/featured-image.jpg"
-      position: "center"  # Position of the image (e.g., center, top, bottom)
-    title: " Ocean Breeze "
-    short_description: " Imbibe the special treasures of the location surrounding you via a glass of wine crafted at Bodega Oceánica José Ignacio, situated just back from Uruguay’s Atlantic coastline "
-    type: "Lifestyle"
-    issue_no: "Number 12"
-    url: "/lifestyle"
-    cover_image: "/uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg"
-    buttontitle: "More"
-
+      image: path/to/featured-image.jpg
+      position: center
+    title: ' Ocean Breeze '
+    short_description: ' Imbibe the special treasures of the location surrounding you via a glass of wine crafted at Bodega Oceánica José Ignacio, situated just back from Uruguay’s Atlantic coastline '
+    type: Lifestyle
+    issue_no: Number 12
+    url: /lifestyle
+    cover_image: >-
+      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
+    buttontitle: More
 cards:
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-top-ten-2.jpg
-    alt: ' TIDE''s Top Ten Sailing Destinations '
-    link: /articles/top-ten
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-flying-lunch2.jpg
+    alt: A Flying Lunch
+    link: /articles/flying-lunch
     tags:
       - Lifestyle
-      - number 10
-    title: ' TIDE''s Top Ten Sailing Destinations '
-    description: ' In celebration of our tenth issue, we consider the many destinations we’ve featured so far to bring you our essential shortlist (in no particular order) '
+      - number 7
+    title: A Flying Lunch
+    description: >-
+      Barbuda, often described as Antigua’s sister, is a coral isle covered in
+      pink sand and untouched wildlife that sits a short helicopter ride away
+      from its sibling. Its reputation as natural and unpolished is slowly
+      changing, not least with the addition of its own Nobu restaurant.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: ' A Taste Of Tuscany '
     link: /articles/taste-of-tuscany
