@@ -49,7 +49,7 @@ Chef Periklis Koskinas explains what lies at the core of his purely homegrown cu
 
 “Wherever I’m near the sea, I feel a sense of belonging, of being at home,” says Chef Periklis Koskinas. Growing up on Corfu, the Ionian Sea was his playground. “I spent all my time near or on the water and I’ve always loved fishing. The sea is in my cells, it’s part of me.” So the setting for the summer outpost of Cookoovaya, Koskinas’ acclaimed Athenian restaurant, could not be more perfect: a simple limewashed terrace shaded by tamarisk trees on the shoreline of Apantima bay on Antiparos, a small Cycladic island with a huge following among Greek island cognoscenti.
 
-![](/uploads/coocoovaya-1-min.png)<br><br>![](/uploads/coocoovaya-2-min.png)
+![](/uploads/coocoovaya-1-min.png)<br>
 
 From Cookoovaya’s plain white tables, you can watch kids dive bombing off the concrete jetty, while a local fisherman untangles nets on his pot-bellied wooden boat. Almost completely open-air, the restaurant’s sun-dappled deck feels like an old friend’s summer house, where you can watch your lunch being prepared with a glass of saline, flinty Assyrtiko wine. “We didn’t want to do anything to impose on the landscape,” Koskinas explains. This approach chimes with his culinary philosophy of apheresis, or subtraction – paring Greek dishes back to their purest essence. “If you have proper ingredients, in season, you don’t need to do very much to them. It’s not your cooking that will make an impression, it’s the quality of each ingredient and the beauty of the setting.”
 
@@ -69,7 +69,7 @@ After lunch, you could pad across the sand for a cocktail at The Beach House, a 
 
 **![](/uploads/cookoovaya-4.png)<br>**“The parrotfish – *skaros* in Greek – is perhaps the most characteristic fish of the Cycladic Islands, and certainly of Antiparos.” Here Chef **Periklis Koskina** shares how to prepare it
 
-**Ingredients**
+### **Ingredients**
 
 * Raw parrotfish, wild thyme blossom, lemon, extra virgin olive oil
 * Ingredients
