@@ -70,19 +70,22 @@ cards:
     title: ' Lighting the Way '
     description: ' Designer Mark Whiteley explains why he’s keeping it simple '
 content_on_image:
-  image: /images/tide-banner2.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: /uploads/modernism-desktop.png
+  alt: Evolving Modernism
   tags:
-    - Travel
-    - Number 11
-  title: TIDE's Top Ten Sailing Destinations
+    - Design
+    - Number 12
+  title: Evolving Modernism
   description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    “Architecture is a little bit like music: it’s about rhythm, silences. We
+    don’t want our architecture to be loud,” says Juan Ignacio Ramos, the figure
+    behind Estudio Ramos, a 35-year-strong family-run firm with dual bases in
+    New York City and Buenos Aires. Despite their desire not to “scream
+    anything” with their work, Ramos and his son and partner, Ignacio Ramos,
+    have certainly caught the design world’s attention.
   button:
     text: More
-    link: /destinations
+    link: /articles/estudio-ramos.html
     class: width-fit btn white-btn
 featured_section:
   cards:
