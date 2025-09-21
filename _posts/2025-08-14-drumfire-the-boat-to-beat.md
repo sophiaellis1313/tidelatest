@@ -15,6 +15,7 @@ short-description: >-
   suddenly achieving the race record of her life in her new Pacific home. Her
   Captain, owners and Hoek himself reveal why.
 categories:
+  - sailing
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12
@@ -53,6 +54,10 @@ The first of Andre Hoek’s Truly Classic 78s has come into her own Down Under f
 
 Having taken first place the previous year in the division governed by the Performance Handicapping System (PHS), *Drumfire* is the boat to beat for a non-IRC fleet that runs from a 37-footer to an Oyster 100 via an Imoca 60. After a race that swung from perfect reaching conditions to a gale on the nose, then on to a flat calm, *Drumfire* again produced another first place in her division. “It’s really hard to win twice,” says Captain Neil. “In fact, it’s supposed to be almost impossible – that’s the point of the system!”
 
+![](/uploads/drumfire-2-min.png)
+
+![](/uploads/drumfire-3-min.png)
+
 His pride is obvious, and justified. The current owners bought a boat that had been idling delightfully in the western Mediterranean for most of her life and shipped her to Australia to race. Not fooled by her elegant, traditional looks, they knew that she concealed a finely tuned modern hull that is the very essence of Dutch designer Andre Hoek’s Truly Classic line.
 
 “We were drawn to Hoek’s designs for their classic look and beauty. They have very pretty lines and we have always admired them,” says Jane Vicars – one half of the ownership team with husband Will. “I love her comfort and style, but also how beautifully she sails. She gives it her all and it’s such a joy. I never want to get off. I hate leaving her.”
@@ -62,6 +67,10 @@ Hoek is equally delighted by *Drumfire*’s performance, but expresses it in his
 Far from being a compromise, the boat’s classic lines actually improve performance, he says. The long overhangs at either end reduce the amount of hull dragging through the water downwind, but increase the waterline length and speed potential as she heels upwind. And as the bow or stern digs into a wave, the buoyancy pulls it right back up again, suiting her well for offshore conditions.
 
 “In 50 knots of wind and 5m swells of water coming straight off Antarctica – the boat’s completely buried in a wave,” says Captain Neil. “Even we’re leaking then – unless you’re sailing in a Coke bottle, you do in those conditions. It’s pretty gnarly. But we can get through those conditions while other, smaller boats have gone into survival mode.”
+
+![](/uploads/drumfire-1-min.png)
+
+![](/uploads/drumfire-4-min.png)
 
 *Drumfire* is, it must be said, in absolutely tip-top condition. Her owner is able to maintain several yachts and ensures that she is kept in good shape. The carbon mast and boom are in for a respray as you read this and the standing rigging is being replaced. A few racing scars are being patched up, alongside a bit of teak deck work and a touch-up for that achingly beautiful brightwork.
 
