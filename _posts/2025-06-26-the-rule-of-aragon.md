@@ -16,7 +16,6 @@ short-description: >-
   sail the 94’ Southern Wind sloop through one of the toughest sea routes on
   earth, straight from New Zealand to Patagonia – and how it went 
 categories:
-  - all
   - sailing
 images:
   - image: >-
