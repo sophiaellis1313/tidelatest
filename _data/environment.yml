@@ -1,18 +1,18 @@
 posts:
-  - category: "Environment"
+  - category: Environment
     video: true
-    video_path: "path/to/video.mp4"
+    video_path: path/to/video.mp4
     featured_image:
-      image: "path/to/featured-image.jpg"
-      position: "center"  # Position of the image (e.g., center, top, bottom)
-    title: "  A Letter from Norway  "
-    short_description: " The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed "
-    type: "Environment"
-    issue_no: "Number 11"
-    url: "/environment"
-    cover_image: "/uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg"
-    buttontitle: "More"
-
+      image: path/to/featured-image.jpg
+      position: center
+    title: '  A Letter from Norway  '
+    short_description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed '
+    type: Environment
+    issue_no: Number 11
+    url: /environment
+    cover_image: >-
+      /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
+    buttontitle: More
 cards:
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
     alt: 'A Letter from Norway '
@@ -57,19 +57,22 @@ cards:
     title: ' Dominica And The Whales '
     description: ' With a massive decline in the global Sperm whale population caused by a combination of hunting, pollution and climate change, the species is in grave danger. But things are set to change thanks to an ambitious plan by an unlikely ally '
 content_on_image:
-  image: /images/tide-banner2.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+  alt: The Winds of Change
   tags:
-    - Travel
-    - Number 11
-  title: TIDE's Top Ten Sailing Destinations
-  description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    - Environmental
+    - Number 05
+  title: The Winds of Change
+  description: >+
+    In a world grappling with the early devastating effects of a warming
+    climate, the maritime world stands apart as an oft-overlooked contributor.
+    Out at sea, away from critical eyes, marine transport has long exerted a
+    significant impact on the environment, often hidden beneath the surface of
+    economic growth.
+
   button:
     text: More
-    link: /destinations
+    link: /articles/veer
     class: width-fit btn white-btn
 featured_section:
   cards:
