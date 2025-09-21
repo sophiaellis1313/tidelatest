@@ -204,30 +204,16 @@ cards4:
       foiling fantasy may be his first sailing boat, but make no mistake: it
       will not be his last.
 cards5:
-  - image: /uploads/scuba-6.jpg
-    alt: Restoring the Med
-    link: /articles/Restoring-the-Med%20.html
-    tags:
-      - Environmental
-      - Number 14
-    title: Restoring the Med
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-environment-1.jpg
+    alt: The Force of Nature
+    link: articles/pianosa
+    tags: []
+    title: The Force of Nature
     description: >-
-      The tides are turning for divers: rather than passively experiencing the
-      oceans as spectators, now they have the chance to become its stewards.
-  - image: >-
-      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1-1.jpg
-    alt: The Winds of Change
-    link: articles/veer.html
-    tags:
-      - Environmental
-      - Number 05
-    title: The Winds of Change
-    description: >-
-      In a world grappling with the early devastating effects of a warming
-      climate, the maritime world stands apart as an oft-overlooked contributor.
-      Out at sea, away from critical eyes, marine transport has long exerted a
-      significant impact on the environment, often hidden beneath the surface of
-      economic growth.
+      On the island of Pianosa, surrounded by the vividly cerulean waves of the
+      Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
+      piece of land – just a little more than ten square kilometres – and
+      noticeably flat, with a maximum elevation of 29 metres above sea level.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
     alt: A Letter From Norway
     link: articles/letter-from-norway.html
@@ -240,6 +226,19 @@ cards5:
       with it. The next, a rosy pink, is a little harder to make out, but adds
       to the kaleidoscope of colour that cheers up the otherwise grey autumn sky
       in Ålesund, a pretty port town on the west coast of Norway.
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+    alt: The Winds of Change
+    link: articles/veer.html
+    tags:
+      - Environmental
+      - Number 05
+    title: The Winds of Change
+    description: >-
+      In a world grappling with the early devastating effects of a warming
+      climate, the maritime world stands apart as an oft-overlooked contributor.
+      Out at sea, away from critical eyes, marine transport has long exerted a
+      significant impact on the environment, often hidden beneath the surface of
+      economic growth.
 content_on_image:
   image:
     src: /uploads/sw108-02-deck-24.jpg
