@@ -15,6 +15,7 @@ short-description: >-
   intel from various yards, including the winner of the Refit category at this
   year’s World Superyacht Awards.
 categories:
+  - sailing
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12
@@ -53,11 +54,19 @@ When it comes to updating a yacht, choosing a yard with experience of refitting 
 
 Having worked on her original and rather eclectic insides, Design Unlimited were brought in once again to reimagine her aesthetics, as well as to install new sailing systems, rigging and sailplan. “An extensive refit, such as *Ravenger*, can be no less involved than a new build project,” explains Henry Hawkins, Executive Vice President at Baltic. “But as we knew every element of the yacht from the initial build, we were able to convert *Ravenger* from a cruising sailing yacht into a combination of both cruising and racing yacht.”
 
+![](/uploads/ravenger-3.png)
+
+![](/uploads/ravenger-5.png)
+
 This included the adoption of a square-headed main sail and associated aft rigging changes, the lowering of the jib tack and the extending of the bowsprit by 1.5-metres, all of which provided the opportunity for huge performance gains. “Although *Ravenger*’s new sail plan was very much driven by the owner and his sailing team, engaging the same in-house engineers who designed the systems and the same foreman and production teams with their inherent knowledge to undertake the associated deck upgrades was invaluable both in time and expense,” explains Hawkins.
 
 The shipyard also worked closely with the designer Jakko Jämsén on the styling of the external areas, along with Design Unlimited on the interior design. “At the time of her build, *Pink Gin VI* had pushed the design boundaries in terms of her colourful and playful interior design,” says Design Unlimited’s founder, Mark Tucker. “Her new owner, however, was looking for a more serene Scandinavian style, with neutral tones and natural materials replacing the original’s more eclectic furnishings. We had all of the interior design and system drawings, so for us this was really straightforward – we were excited to reimagine and refresh one of our original designs.”<br>
 
 Having recently been awarded a World Superyacht Award precisely for her refit, it seems that returning to the original yard where she was built was the right decision for *Ravenger*’s owner. However, returning to a yacht’s original shipyard might not always be an option. “The main issue when it comes to selecting a shipyard is their availability,” says Hawkins. “It comes down to planning and organisation, and owners (or their management companies and Captains) need to plan well in advance.” Of course, other issues come into play, including location, pricing, reputation and reliability. “Baltic Yachts differ from many of the other northern European shipyards,” Hawkins continues. “We have every discipline under one roof which gives us complete control over every element, including those that might crop up during a refit.”
+
+![](/uploads/ravenger-4.png)
+
+![](/uploads/ravenger-2.png)
 
 Fortunately, the majority of shipyards, serve both as a refit yard for their own builds as well as others. “The sailing Superyacht world is a small community and collaboration between shipyards in order to support our clients is perhaps more common than you would think,” says Hawkins. “We are currently refitting the 30m (100ft) *Gaia*. The vessel was in the Baltic and so our location suited the owner, along with our reputation for quality, of course.”
 
