@@ -1,9 +1,9 @@
 ---
 layout: blog
 permalink: /articles/estudio-ramos
-title: Evolving Modernism
+title: 'Designing for the future   '
 type: Design
-byline: 'WORDS: LAURA D REDMAN | IMAGES: ESTUDIO RAMOS'
+byline: 'WORDS: LAURA D. REDMAN | IMAGES: ESTUDIO RAMOS'
 issue_no: number 12
 featured_image:
   image: /uploads/modernism-desktop.png
