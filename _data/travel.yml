@@ -21,7 +21,7 @@ cards:
     alt: 'The High Low: the Greek Islands'
     link: /articles/The-High-Low-the-Greek-Islands%20.html
     tags: []
-    title: 'The High Low: The Greek Islans'
+    title: 'The High Low: The Greek Islands'
     description: >-
       From a Michelin-starred Chef’s scene-changing concoctions and drive to run
       a zero-waste kitchen to a local couple’s much-loved new taverna set under
@@ -101,19 +101,19 @@ cards:
     title: ' Checking In: Hermitage Bay, Antigua '
     description: ' The Antiguan hideaway is open once more following a large-scale but sensitive update. We met with new owner, Daniel Shamoon, to find out more    '
 content_on_image:
-  image: /images/tide-banner2.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: /uploads/download-8.jpg
+  alt: The High Low
   tags:
     - Travel
-    - Number 11
-  title: TIDE's Top Ten Sailing Destinations
+    - Number 12
+  title: 'The High Low: South America'
   description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    Salty, sun-kissed dining on two sides of the South American continent: we
+    head to Uruguay and Colombia to check out a pair of establishments that are
+    equally iconic, but in different ways.
   button:
     text: More
-    link: /destinations
+    link: /articles/high-low-south-america
     class: width-fit btn white-btn
 featured_section:
   cards:
