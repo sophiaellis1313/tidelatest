@@ -92,56 +92,6 @@ cards:
     tags: []
     title: ' Checking In: Hermitage Bay, Antigua '
     description: ' The Antiguan hideaway is open once more following a large-scale but sensitive update. We met with new owner, Daniel Shamoon, to find out more    '
-content_on_image:
-  image: /uploads/download-8.jpg
-  alt: The High Low
-  tags:
-    - Travel
-    - Number 12
-  title: 'The High Low: South America'
-  description: >-
-    Salty, sun-kissed dining on two sides of the South American continent: we
-    head to Uruguay and Colombia to check out a pair of establishments that are
-    equally iconic, but in different ways.
-  button:
-    text: More
-    link: /articles/high-low-south-america
-    class: width-fit btn white-btn
-featured_section:
-  cards:
-    - image: /uploads/download-15.jpg
-      alt: ' Checking In: Bawah Reserve, Indonesia '
-      link: /articles/bawah-reserve
-      tags:
-        - ' Travel I'
-        - ' number 11'
-      title: ' Checking In: Bawah Reserve, Indonesia '
-      description: ' This unique eco-resort offers guests a life-giving sojourn in the arms of Mother Nature '
-    - image: /uploads/download-16.jpg
-      alt: ' Three''s a Charm '
-      link: /articles/hotel-mezzatore
-      tags:
-        - ' Travel I '
-        - number 10
-      title: ' Three''s a Charm '
-      description: ' On the island of Ischia, one family has brought Italy’s ‘good life’ to a historic watchtower – by transforming it into their third smart hotel '
-    - image: /uploads/download-17.jpg
-      alt: ' The High Low: Elba '
-      link: /articles/high-low-elba
-      tags:
-        - ' Travel I '
-        - number 10
-      title: ' The High Low: Elba '
-      description: ' If you’re going to drink sundowners overlooking the Med and eat pasta in Italy – do it right. Introducing Elba’s Ibiza-infused Bleep bar and Ischia’s thoroughly Italian La Baia restaurant, which are each as different as they are exciting '
-    - image: /uploads/download-18.jpg
-      alt: ' La Dolce Vita Itinerary '
-      link: /articles/dolce-vita
-      tags:
-        - ' Travel I'
-        - ' number 10'
-      title: ' La Dolce Vita Itinerary '
-      description: ' From imperial Elba to rustic Ponza, here’s a sailing schedule that serves up the innately Italian ‘good life’ via idyllic landscapes, laid-back living and consistently phenomenal food and innovative techniques to create a food legacy all of its own.  Here, Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta,  celebrates her home’s past and present with a much-loved intrinsic dish '
-cards2:
   - image: /uploads/download-19.jpg
     alt: ' Hidden Gems: Elba '
     link: /articles/elba
@@ -208,8 +158,56 @@ cards2:
     tags: []
     title: ' The Kamalame Cay '
     description: ' Under the careful watch of the Hew family, an untouched strip of sand in the Bahamas was transformed into Kamalame Cay, a laidback private-island resort  '
-featured_section2:
+
+content_on_image:
+  image: /uploads/download-8.jpg
+  alt: The High Low
+  tags:
+    - Travel
+    - Number 12
+  title: 'The High Low: South America'
+  description: >-
+    Salty, sun-kissed dining on two sides of the South American continent: we
+    head to Uruguay and Colombia to check out a pair of establishments that are
+    equally iconic, but in different ways.
+  button:
+    text: More
+    link: /articles/high-low-south-america
+    class: width-fit btn white-btn
+featured_section:
   cards:
+    - image: /uploads/download-15.jpg
+      alt: ' Checking In: Bawah Reserve, Indonesia '
+      link: /articles/bawah-reserve
+      tags:
+        - ' Travel I'
+        - ' number 11'
+      title: ' Checking In: Bawah Reserve, Indonesia '
+      description: ' This unique eco-resort offers guests a life-giving sojourn in the arms of Mother Nature '
+    - image: /uploads/download-16.jpg
+      alt: ' Three''s a Charm '
+      link: /articles/hotel-mezzatore
+      tags:
+        - ' Travel I '
+        - number 10
+      title: ' Three''s a Charm '
+      description: ' On the island of Ischia, one family has brought Italy’s ‘good life’ to a historic watchtower – by transforming it into their third smart hotel '
+    - image: /uploads/download-17.jpg
+      alt: ' The High Low: Elba '
+      link: /articles/high-low-elba
+      tags:
+        - ' Travel I '
+        - number 10
+      title: ' The High Low: Elba '
+      description: ' If you’re going to drink sundowners overlooking the Med and eat pasta in Italy – do it right. Introducing Elba’s Ibiza-infused Bleep bar and Ischia’s thoroughly Italian La Baia restaurant, which are each as different as they are exciting '
+    - image: /uploads/download-18.jpg
+      alt: ' La Dolce Vita Itinerary '
+      link: /articles/dolce-vita
+      tags:
+        - ' Travel I'
+        - ' number 10'
+      title: ' La Dolce Vita Itinerary '
+      description: ' From imperial Elba to rustic Ponza, here’s a sailing schedule that serves up the innately Italian ‘good life’ via idyllic landscapes, laid-back living and consistently phenomenal food and innovative techniques to create a food legacy all of its own.  Here, Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta,  celebrates her home’s past and present with a much-loved intrinsic dish '
     - image: /uploads/download-29.jpg
       alt: ' Bermuda to the Bahamas '
       link: /articles/bermuda-bahamas
@@ -242,6 +240,39 @@ featured_section2:
         - number 06
       title: ' Hidden Gems: Sardinia and Corsica '
       description: ' The Mediterranean islands reward those who explore off the beaten track by revealing their secrets: wild interiors, powdery white beaches, delicious local cuisine and colourful festivals '
+    - image: /uploads/download-41.jpg
+      alt: ' The Nature Island: Secret Bay, Dominica '
+      link: /articles/secret-bay-dominica
+      tags:
+        - ' Travel I number 03'
+        - number 03
+      title: ' The Nature Island: Secret Bay, Dominica '
+      description: ' Discover eco-luxury at its finest on the verdant Caribbean island of Dominica, where night snorkelling, waterfall hiking and stargazing and are a way of life. '
+    - image: /uploads/download-42.jpg
+      alt: ' Hidden Gems: St Vincent and The Grenadines '
+      link: /articles/hidden-gems-st-vincent-the-grenadines
+      tags:
+        - ' Travel I '
+        - number 03
+      title: ' Hidden Gems: St Vincent and The Grenadines '
+      description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season. '
+    - image: /uploads/download-43.jpg
+      alt: ' HOTEL: Pan Deï Palais, Saint Tropez '
+      link: /articles/hotel-pan-deï-palais
+      tags:
+        - ' Travel I '
+        - number 02
+      title: ' HOTEL: Pan Deï Palais, Saint Tropez '
+      description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835.  '
+    - image: /uploads/download-44.jpg
+      alt: ' Hidden Gems: St Tropez & the Côte d’Azur '
+      link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur
+      tags:
+        - ' Travel I'
+        - ' number 02'
+      title: ' Hidden Gems: St Tropez & the Côte d’Azur '
+      description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d''Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.  '
+
 cards3:
   - image: /uploads/download-32.jpg
     alt: ' Checking In: Les Regalia, Corsica '
@@ -297,52 +328,6 @@ cards3:
     tags: []
     title: ' A French-Créole sweet spot - Colibri, Antigua '
     description: ' Run by husband and wife team Didier and Leah Deleau, relaxed yet sophisticated Colibri brings French-Créole flair to the island’s culinary scene.  '
-subscribe_section:
-  left_image: /images/magazine.png
-  right_image: /images/tablet.png
-  title: Subscribe
-  buttons:
-    - text: IN PRINT
-      class: btn-border
-      arrow: left
-    - text: DIGITAL
-      class: btn-border
-      arrow: right
-featured_section3:
-  cards:
-    - image: /uploads/download-41.jpg
-      alt: ' The Nature Island: Secret Bay, Dominica '
-      link: /articles/secret-bay-dominica
-      tags:
-        - ' Travel I number 03'
-        - number 03
-      title: ' The Nature Island: Secret Bay, Dominica '
-      description: ' Discover eco-luxury at its finest on the verdant Caribbean island of Dominica, where night snorkelling, waterfall hiking and stargazing and are a way of life. '
-    - image: /uploads/download-42.jpg
-      alt: ' Hidden Gems: St Vincent and The Grenadines '
-      link: /articles/hidden-gems-st-vincent-the-grenadines
-      tags:
-        - ' Travel I '
-        - number 03
-      title: ' Hidden Gems: St Vincent and The Grenadines '
-      description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season. '
-    - image: /uploads/download-43.jpg
-      alt: ' HOTEL: Pan Deï Palais, Saint Tropez '
-      link: /articles/hotel-pan-deï-palais
-      tags:
-        - ' Travel I '
-        - number 02
-      title: ' HOTEL: Pan Deï Palais, Saint Tropez '
-      description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835.  '
-    - image: /uploads/download-44.jpg
-      alt: ' Hidden Gems: St Tropez & the Côte d’Azur '
-      link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur
-      tags:
-        - ' Travel I'
-        - ' number 02'
-      title: ' Hidden Gems: St Tropez & the Côte d’Azur '
-      description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d''Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.  '
-cards4:
   - image: /uploads/download-45.jpg
     alt: ' Hidden Gems in St Vincent and The Grenadines '
     link: /articles/hidden-gems-caribbean
@@ -398,3 +383,17 @@ cards4:
     tags: []
     title: ' Portofino: Let''s Meet at the Mare '
     description: ' Portofino’s newly refurbished Splendido Mare is a lesson in the art of sprezzatura: the laid-back, effortless charm that defines the Italian Riviera. '
+
+subscribe_section:
+  left_image: /images/magazine.png
+  right_image: /images/tablet.png
+  title: Subscribe
+  buttons:
+    - text: IN PRINT
+      class: btn-border
+      arrow: left
+    - text: DIGITAL
+      class: btn-border
+      arrow: right
+
+

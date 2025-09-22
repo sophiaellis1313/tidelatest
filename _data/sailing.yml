@@ -17,6 +17,7 @@ posts:
     url: /articles/Drumfire-the-boat-to-beat%20.html
     cover_image: /uploads/audihirw2017-francolini-1753.jpg
     buttontitle: More
+    
 cards:
   - image: /uploads/sw108-02-deck-24.jpg
     alt: ''
@@ -81,8 +82,7 @@ cards:
       - ' Sailing '
       - number 10
     title: ' Maximus The Ocean Gladiator  '
-    description: ' Meet the Superyacht that manages to both dominate at regattas and boast the latest in onboard luxury '
-cards2:
+    description: ' Meet the Superyacht that manages to both dominate at regattas and boast the latest in onboard luxury'
   - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
     alt: ' The Rise of the Supersloop '
     link: /articles/supersloop
@@ -128,6 +128,132 @@ cards2:
       - number 01
     title: ' The Future is Now '
     description: ' At the dawn of the early Twenties, we find ourselves on the threshold of a new era in sailing; the America’s Cup enacted at speeds in excess of 40 knots and the drive towards environmental responsibility set against a backdrop of ever larger motor yacht builds. So, what does the future hold for the humble sailing yacht? '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-ribelle-6.jpg
+    alt: 'Ribelle with a cause '
+    link: /articles/ribelle
+    tags:
+      - ' Sailing'
+      - number 08
+    title: 'Ribelle with a cause '
+    description: ' Even at seven years old, this 33m lightweight Superyacht remains a masterclass in boat-craft. Here, her Skipper and creator share what makes – and keeps – her a cut above '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-asahi-3.jpg
+    alt: ' Asahi''s Secret '
+    link: /articles/asahi
+    tags:
+      - ' Sailing '
+      - number 08
+    title: ' Asahi''s Secret '
+    description: ' Captain Angus Biffin and his crew reveal the endless passion and meticulous processes that go on behind the scenes to ensure the yacht charter is equally magical and unique for every client that steps onboard  '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.jpg
+    alt: ' A Tale of Two Owners '
+    link: /articles/two-owners
+    tags:
+      - ' Sailing'
+      - ' number 08'
+    title: ' A Tale of Two Owners '
+    description: ' Every yacht has a yarn to tell, but with both these especially beautiful, traditional-yet-contemporary examples, it’s more joyful than usual – thanks, in no small part, to the love bestowed on them by their owners '
+  - image: >-
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1-1.jpg
+    alt: ''
+    link: /articles/wendys-house
+    tags:
+      - ''
+    title: 'Wendy''s House: Elfje'
+    description: >-
+      Wendy Schmidt’s first sailing experience did little to foreshadow the
+      role that boats would later come to play in her life. In fact, I can
+      almost hear her shrugging when I ask her about it. “I have a memory from
+      my childhood when I was nine years old,” she recounts.
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-canova2.jpg
+    alt: ' Creating Canova '
+    link: /articles/canova
+    tags:
+      - Sailing
+      - number 07
+    title: ' Creating Canova '
+    description: ' What happens when a Superyacht owner refuses to compromise during the design and creation process? Baltic Yachts, designer Guiseppe Martines and Bruce Farr’s team took on the challenge with outstanding results. But was the man behind the initial vision satisfied? We investigate  '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-gelliceaux1.jpg
+    alt: ' A Green Revolution: Gelliceaux '
+    link: /articles/gelliceaux
+    tags:
+      - 'Sailing I '
+      - number 07
+    title: ' A Green Revolution: Gelliceaux '
+    description: ' With Gelliceaux, Southern Wind has successfully created a boat that is almost as sustainable as it is stylish. Here we explore how   '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
+    alt: 'The Seas Less Sailed '
+    link: /articles/athos
+    tags:
+      - ' Sailing '
+      - number 06
+    title: 'The Seas Less Sailed '
+    description: |2-
+        Sailors dream of going off-grid – but few have achieved it so comprehensively 
+      as SY Athos on her recent summer cruise through British Columbia. 
+      Skipper Tony Brookes and photographer Oli Riley recount the highlights 
+  - image: >-
+      /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
+    alt: ''
+    link: /articles/why-not
+    tags:
+      - ''
+    title: Why Not!
+    description: >+
+      Owning a yacht can be about so many things: often, the actual art of
+      going sailing is not top of the list. Yet a boat like the Y9
+      demonstrates precisely why it should be. In addition to being elegant
+      and artfully furnished, this 97’ vessel has a habit of reminding you how
+      joyous and vital the act of unfurling sails, pointing the bow towards
+      the horizon and leaning into the wind can be.
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
+    alt: 'The Eagle Has Landed '
+    link: /articles/the-eagle
+    tags:
+      - Sailing I
+      - number 05
+    title: 'The Eagle Has Landed '
+    description: ' All the headlines around the 81m schooner Sea Eagle inevitably involve flying puns. She was ‘spreading her wings’ when she was shipped out of Royal Huisman’s Vollenhove yard in January 2020. And she was said to be ‘soaring’ when stunning new pictures of her cruising in French Polynesia were released recently. Fascinating, then, that the man for whom the yacht was actually built reportedly never once sailed her. '
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.jpg
+    alt: ' Ghosted: In Good Company '
+    link: /articles/ghosted
+    tags:
+      - Sailing I
+      - number 05
+    title: ' Ghosted: In Good Company '
+    description: ' True to her name, 37m Vitters sloop Ghost keeps a low profile. Sam Fortescue catches up with Michael “Hutch” Hutchison, her captain for the last 16 years, to learn more. '
+  - image: /uploads/tide-magazine-issue04-two-ketches-2-1.jpg
+    alt: ' A Tale of  Two Ketches '
+    link: /articles/two-ketches
+    tags:
+      - Sailing
+      - number 04
+    title: ' A Tale of  Two Ketches '
+    description: ' As Vitters launch another ketch of extraordinary proportions this summer, TIDE looks back on Adele, who broke the mould 20 years ago and still turns heads today. '
+  - image: /uploads/tide-magazine-issue04-pot-of-gold-4-1.jpg
+    alt: ' A Pot of Gold: J Class Rainbow '
+    link: /articles/a-pot-of-gold
+    tags:
+      - 'Sailing '
+      - number 04
+    title: ' A Pot of Gold: J Class Rainbow '
+    description: ' The original ‘super’ yacht, the J-Class may be a throwback to the golden age of sailing, but these titans of the sea continue to turn heads as they carve through the waves with grace and power. As the J-Class racing scene gathers momentum in the lead up to the 2024 World Championship, TIDE takes a look behind the lens of one of the most beautiful modern-day J-Class yachts, the 131ft (39.95m) Rainbow '
+  - image: /uploads/fs-h8yzu-2.jpg
+    alt: 'A Touch of Nordic Cool - Sørvind '
+    link: /articles/a-touch-of-nordic-cool-sorvind
+    tags:
+      - 'Sailing '
+      - number 03
+    title: 'A Touch of Nordic Cool - Sørvind '
+    description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
+  - image: /uploads/deiz3z3k.jpg
+    alt: 'Nautor Swan: Innovating through tradition '
+    link: /articles/nautor-swan
+    tags:
+      - ' Sailing '
+      - number 03
+    title: 'Nautor Swan: Innovating through tradition '
+    description: ' Redefining high-performance cruising, the new generation of Swan 98 offers speed and luxury. Just as comfortable crossing oceans as hopping between shallow tropical islands, racing around headlands or navigating the fjords, the Finnish-built yachts are widely touted as the best of all worlds. TIDE speaks with Nautor Swan’s team to find out what the 98 is all about. '
+
 content_on_image:
   image: /uploads/dsc01506-1-min.jpg
   alt: Wider Wake
@@ -142,6 +268,7 @@ content_on_image:
     text: More
     link: /articles/Wider-wake.html
     class: width-fit btn white-btn
+
 featured_section:
   cards:
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-gunboat-2-1.jpg
@@ -177,229 +304,98 @@ featured_section:
         - number 09
       title: ' Ocean’s Twelve '
       description: ' Famed for their beauty as well as their brawn, Twelve Metre Class yachts were a result of leading designers being put into the tightest of spots – and flourishing. Here we highlight some of the very finest  '
-  cards2:
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-ribelle-6.jpg
-      alt: 'Ribelle with a cause '
-      link: /articles/ribelle
+    - image: /uploads/glclzrga-1.jpg
+      alt: ' A Global Range: The Schooner '
+      link: /articles/a-global-range-the-schooner
       tags:
-        - ' Sailing'
-        - number 08
-      title: 'Ribelle with a cause '
-      description: ' Even at seven years old, this 33m lightweight Superyacht remains a masterclass in boat-craft. Here, her Skipper and creator share what makes – and keeps – her a cut above '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-asahi-3.jpg
-      alt: ' Asahi''s Secret '
-      link: /articles/asahi
-      tags:
-        - ' Sailing '
-        - number 08
-      title: ' Asahi''s Secret '
-      description: ' Captain Angus Biffin and his crew reveal the endless passion and meticulous processes that go on behind the scenes to ensure the yacht charter is equally magical and unique for every client that steps onboard  '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.jpg
-      alt: ' A Tale of Two Owners '
-      link: /articles/two-owners
-      tags:
-        - ' Sailing'
-        - ' number 08'
-      title: ' A Tale of Two Owners '
-      description: ' Every yacht has a yarn to tell, but with both these especially beautiful, traditional-yet-contemporary examples, it’s more joyful than usual – thanks, in no small part, to the love bestowed on them by their owners '
-    - image: >-
-        /uploads/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1-1.jpg
-      alt: ''
-      link: /articles/wendys-house
-      tags:
-        - ''
-      title: 'Wendy''s House: Elfje'
-      description: >-
-        Wendy Schmidt’s first sailing experience did little to foreshadow the
-        role that boats would later come to play in her life. In fact, I can
-        almost hear her shrugging when I ask her about it. “I have a memory from
-        my childhood when I was nine years old,” she recounts.
-  cards3:
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-canova2.jpg
-      alt: ' Creating Canova '
-      link: /articles/canova
-      tags:
-        - Sailing
-        - number 07
-      title: ' Creating Canova '
-      description: ' What happens when a Superyacht owner refuses to compromise during the design and creation process? Baltic Yachts, designer Guiseppe Martines and Bruce Farr’s team took on the challenge with outstanding results. But was the man behind the initial vision satisfied? We investigate  '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-gelliceaux1.jpg
-      alt: ' A Green Revolution: Gelliceaux '
-      link: /articles/gelliceaux
-      tags:
-        - 'Sailing I '
-        - number 07
-      title: ' A Green Revolution: Gelliceaux '
-      description: ' With Gelliceaux, Southern Wind has successfully created a boat that is almost as sustainable as it is stylish. Here we explore how   '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
-      alt: 'The Seas Less Sailed '
-      link: /articles/athos
-      tags:
-        - ' Sailing '
-        - number 06
-      title: 'The Seas Less Sailed '
-      description: |2-
-         Sailors dream of going off-grid – but few have achieved it so comprehensively 
-        as SY Athos on her recent summer cruise through British Columbia. 
-        Skipper Tony Brookes and photographer Oli Riley recount the highlights 
-    - image: >-
-        /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
-      alt: ''
-      link: /articles/why-not
-      tags:
-        - ''
-      title: Why Not!
-      description: >+
-        Owning a yacht can be about so many things: often, the actual art of
-        going sailing is not top of the list. Yet a boat like the Y9
-        demonstrates precisely why it should be. In addition to being elegant
-        and artfully furnished, this 97’ vessel has a habit of reminding you how
-        joyous and vital the act of unfurling sails, pointing the bow towards
-        the horizon and leaning into the wind can be.
-
-  cards4:
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
-      alt: 'The Eagle Has Landed '
-      link: /articles/the-eagle
-      tags:
-        - Sailing I
-        - number 05
-      title: 'The Eagle Has Landed '
-      description: ' All the headlines around the 81m schooner Sea Eagle inevitably involve flying puns. She was ‘spreading her wings’ when she was shipped out of Royal Huisman’s Vollenhove yard in January 2020. And she was said to be ‘soaring’ when stunning new pictures of her cruising in French Polynesia were released recently. Fascinating, then, that the man for whom the yacht was actually built reportedly never once sailed her. '
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.jpg
-      alt: ' Ghosted: In Good Company '
-      link: /articles/ghosted
-      tags:
-        - Sailing I
-        - number 05
-      title: ' Ghosted: In Good Company '
-      description: ' True to her name, 37m Vitters sloop Ghost keeps a low profile. Sam Fortescue catches up with Michael “Hutch” Hutchison, her captain for the last 16 years, to learn more. '
-  cards5:
-    - image: /uploads/tide-magazine-issue04-two-ketches-2-1.jpg
-      alt: ' A Tale of  Two Ketches '
-      link: /articles/two-ketches
-      tags:
-        - Sailing
-        - number 04
-      title: ' A Tale of  Two Ketches '
-      description: ' As Vitters launch another ketch of extraordinary proportions this summer, TIDE looks back on Adele, who broke the mould 20 years ago and still turns heads today. '
-    - image: /uploads/tide-magazine-issue04-pot-of-gold-4-1.jpg
-      alt: ' A Pot of Gold: J Class Rainbow '
-      link: /articles/a-pot-of-gold
-      tags:
-        - 'Sailing '
-        - number 04
-      title: ' A Pot of Gold: J Class Rainbow '
-      description: ' The original ‘super’ yacht, the J-Class may be a throwback to the golden age of sailing, but these titans of the sea continue to turn heads as they carve through the waves with grace and power. As the J-Class racing scene gathers momentum in the lead up to the 2024 World Championship, TIDE takes a look behind the lens of one of the most beautiful modern-day J-Class yachts, the 131ft (39.95m) Rainbow '
-    - image: /uploads/fs-h8yzu-2.jpg
-      alt: 'A Touch of Nordic Cool - Sørvind '
-      link: /articles/a-touch-of-nordic-cool-sorvind
-      tags:
-        - 'Sailing '
-        - number 03
-      title: 'A Touch of Nordic Cool - Sørvind '
-      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
-    - image: /uploads/deiz3z3k.jpg
-      alt: 'Nautor Swan: Innovating through tradition '
-      link: /articles/nautor-swan
-      tags:
-        - ' Sailing '
-        - number 03
-      title: 'Nautor Swan: Innovating through tradition '
-      description: ' Redefining high-performance cruising, the new generation of Swan 98 offers speed and luxury. Just as comfortable crossing oceans as hopping between shallow tropical islands, racing around headlands or navigating the fjords, the Finnish-built yachts are widely touted as the best of all worlds. TIDE speaks with Nautor Swan’s team to find out what the 98 is all about. '
-cards6:
-  - image: /uploads/glclzrga-1.jpg
-    alt: ' A Global Range: The Schooner '
-    link: /articles/a-global-range-the-schooner
-    tags:
       - ' Sailing'
       - number 03
-    title: ' A Global Range: The Schooner '
-    description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
-  - image: /uploads/lsr8twys.jpg
-    alt: ' A True Classic '
-    link: /articles/a-true-classic
-    tags:
+      title: ' A Global Range: The Schooner '
+      description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
+    - image: /uploads/lsr8twys.jpg
+      alt: ' A True Classic '
+      link: /articles/a-true-classic
+      tags:
       - Sailing
       - number 01
-    title: ' A True Classic '
-    description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
-  - image: /uploads/qhxzfote.jpg
-    alt: 'The Pocket Superyacht '
-    link: /articles/the-pocket-superyacht
-    tags:
+      title: ' A True Classic '
+      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
+    - image: /uploads/qhxzfote.jpg
+      alt: 'The Pocket Superyacht '
+      link: /articles/the-pocket-superyacht
+      tags:
       - 'Sailing '
       - number 02
-    title: 'The Pocket Superyacht '
-    description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht. '
-  - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
-    alt: ' A Touch of Nordic Cool - Sørvind '
-    link: /articles/sorvind
-    tags:
+      title: 'The Pocket Superyacht '
+      description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht. '
+    - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
+      alt: ' A Touch of Nordic Cool - Sørvind '
+      link: /articles/sorvind
+      tags:
       - 'Sailing I '
       - Number 03
-    title: ' A Touch of Nordic Cool - Sørvind '
-    description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
-  - image: /uploads/deiz3z3k.jpg
-    alt: ' A Global Range: The Schooner '
-    link: /articles/schooner
-    tags:
+      title: ' A Touch of Nordic Cool - Sørvind '
+      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
+    - image: /uploads/deiz3z3k.jpg
+      alt: ' A Global Range: The Schooner '
+      link: /articles/schooner
+      tags:
       - Sailing
       - Number 03
-    title: ' A Global Range: The Schooner '
-    description: ' With the upcoming launch of 63m Athos, TIDE takes a look at some of the most famous schooners afloat today. Inspired by both past and future, these multi-mast vessels are hard to beat for a truly authentic sailing experience. '
-  - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
-    alt: ' The Adventure Squad '
-    link: /articles/sonny
-    tags:
+      title: ' A Global Range: The Schooner '
+      description: ' With the upcoming launch of 63m Athos, TIDE takes a look at some of the most famous schooners afloat today. Inspired by both past and future, these multi-mast vessels are hard to beat for a truly authentic sailing experience. '
+    - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
+      alt: ' The Adventure Squad '
+      link: /articles/sonny
+      tags:
       - ' Sailing'
       - number 02
-    title: ' The Adventure Squad '
-    description: ' When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds '
-  - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
-    alt: ' Perseverance on Charter '
-    link: /articles/perseverance
-    tags:
+      title: ' The Adventure Squad '
+      description: ' When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds '
+    - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
+      alt: ' Perseverance on Charter '
+      link: /articles/perseverance
+      tags:
       - Sailing
       - number 02
-    title: ' Perseverance on Charter '
-    description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
-content_on_image2:
-  image: /images/tide-magazine-sailing-lifestyle-travel-issue09-raven-1.jpg
-  alt: As The Raven Flies
-  tags:
-    - Sailing
-    - Number 09
-  title: As The Raven Flies
-  description: >-
-    Rarely has a sailing boat been as accurately named as the 111ft Baltic Yacht
-    Raven. She bears more than a passing resemblance to the bird, thanks to the
-    deeply arched twin foils cantilevered out amidships like wings, and the long
-    8m beak of a bowsprit. It took a remarkable owner, an unconventional Finnish
-    designer and a shipyard capable of fastidious precision to bring Raven to
-    life.
-  button:
-    text: More
-    link: /articles/raven
-    class: width-fit btn white-btn
-content_on_image3:
-  image: >-
-    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-batic-682.jpg
-  alt: Take Two
-  tags:
-    - Sailing
-    - Number 6
-  title: Take Two
-  description: >-
-    Every now and again a yacht comes along that makes waves: case in point –
-    the 68’ Café Racer. Hull number one was launched in 2021 and immediately
-    created a stir, only partly down to the fact that it was a 68’ day sailer.
-    We even coined the phrase ‘pocket Superyacht’ to describe it, which has
-    certainly stuck (see The Pocket Superyacht, TIDE, Number Two). 
-  button:
-    text: More
-    link: /articles/baltic-68
-    class: width-fit btn white-btn
+      title: ' Perseverance on Charter '
+      description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
+# content_on_image2:
+#   image: /images/tide-magazine-sailing-lifestyle-travel-issue09-raven-1.jpg
+#   alt: As The Raven Flies
+#   tags:
+#     - Sailing
+#     - Number 09
+#   title: As The Raven Flies
+#   description: >-
+#     Rarely has a sailing boat been as accurately named as the 111ft Baltic Yacht
+#     Raven. She bears more than a passing resemblance to the bird, thanks to the
+#     deeply arched twin foils cantilevered out amidships like wings, and the long
+#     8m beak of a bowsprit. It took a remarkable owner, an unconventional Finnish
+#     designer and a shipyard capable of fastidious precision to bring Raven to
+#     life.
+#   button:
+#     text: More
+#     link: /articles/raven
+#     class: width-fit btn white-btn
+# content_on_image3:
+#   image: >-
+#     /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-batic-682.jpg
+#   alt: Take Two
+#   tags:
+#     - Sailing
+#     - Number 6
+#   title: Take Two
+#   description: >-
+#     Every now and again a yacht comes along that makes waves: case in point –
+#     the 68’ Café Racer. Hull number one was launched in 2021 and immediately
+#     created a stir, only partly down to the fact that it was a 68’ day sailer.
+#     We even coined the phrase ‘pocket Superyacht’ to describe it, which has
+#     certainly stuck (see The Pocket Superyacht, TIDE, Number Two). 
+#   button:
+#     text: More
+#     link: /articles/baltic-68
+#     class: width-fit btn white-btn
 subscribe_section:
   left_image: /images/magazine.png
   right_image: /images/tablet.png
