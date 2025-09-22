@@ -75,7 +75,7 @@ hide-nav: hide-nav
         
         <!-- Check if post has any common categories with the current page -->
         {% for category in post.categories %}
-          {% if category in page.categories %}
+          {% if page.categories contains category %}
             {% assign is_related = true %}
           {% endif %}
         {% endfor %}
