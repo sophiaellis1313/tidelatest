@@ -226,14 +226,13 @@
 
 
 <!-- Popup Overlay -->
-<div class="newsletter-popup w-full" id="newsletterPopup">
+<!-- <div class="newsletter-popup w-full" id="newsletterPopup">
   <div class="newsletter-popup-content w-full">
     <button class="popup-close" id="closePopup">&times;</button>
     
     <section class="newsletter-section w-full">
       <div class="newsletter-wrapper w-full">
         
-        <!-- Left Content -->
         <div class="content-block">
           <div class="content-container">
             <p class="tagline">DIGITAL TIDE</p>
@@ -243,7 +242,7 @@
               interest categories below. Select a few categories:
             </p>
 
-            <!-- Categories -->
+            
             <div class="categories">
               <button class="category-btn crimson"><img src="./images/sailing-stockholm.png" /> Sailing</button>
               <button class="category-btn crimson active"><img src="./images/sailing-stockholm.png" /> Lifestyle</button>
@@ -252,10 +251,49 @@
               <button class="category-btn crimson"><img src="./images/sailing-stockholm.png" /> Environment</button>
             </div>
 
-            <!-- Subscribe -->
             <form class="subscribe-form">
               <input type="email" placeholder="your email" />
               <button class="btn width-fit" type="submit">Subscribe</button>
+            </form>
+          </div>
+        </div>
+
+        <div class="image-block">
+          <img src="../images/newslatter.png" alt="Tablet preview" />
+        </div>
+      </div>
+    </section>
+  </div>
+</div> -->
+
+
+<div class="newsletter-popup w-full" id="newsletterPopup">
+  <div class="newsletter-popup-content w-full">
+    <button class="popup-close" id="closePopup">&times;</button>
+
+    <section class="newsletter-section w-full">
+      <div class="newsletter-wrapper w-full">
+        <!-- Left Content -->
+        <div class="content-block">
+          <div class="content-container">
+            <p class="tagline">{{ site.data.signup.tagline }}</p>
+            <h2>{{ site.data.signup.title }}</h2>
+            <p class="content">{{ site.data.signup.description }}</p>
+
+            <!-- Categories -->
+           <div class="categories">
+              {% for category in site.data.signup.categories %}
+                <button class="category-btn crimson" onclick="toggleActiveClass(this)">
+                  <img src="{{ category.image }}" alt="{{ category.name }}" />
+                  {{ category.name }}
+                </button>
+              {% endfor %}
+            </div>
+
+            <!-- Subscribe -->
+            <form class="subscribe-form" action="https://formspree.io/f/yourFormID" method="POST">
+              <input type="email" name="email" placeholder="{{ site.data.signup.email_placeholder }}" required />
+              <button class="btn width-fit" type="submit">{{ site.data.signup.button_text }}</button>
             </form>
           </div>
         </div>
@@ -268,6 +306,8 @@
     </section>
   </div>
 </div>
+
+
 
 
 
@@ -360,6 +400,15 @@ document.getElementById("newsletterPopup").addEventListener("click", function(e)
   }
 });
 
+
+  function toggleActiveClass(button) {
+    // Remove the 'active' class from all category buttons
+    const buttons = document.querySelectorAll('.category-btn');
+    buttons.forEach(btn => btn.classList.remove('active'));
+
+    // Add the 'active' class to the clicked button
+    button.classList.add('active');
+  }
 </script>
 
   

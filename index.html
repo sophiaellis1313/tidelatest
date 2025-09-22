@@ -9,28 +9,33 @@ meta-description: "TIDE is adventure, travel, design, modernity, environment, te
 {% include homepage-banner-desktop.html banner=site.data.homepage.homepage_banner.desktop %}
 {% include homepage-banner-mobile.html banner=site.data.homepage.homepage_banner.mobile %}
 
+{% assign buttontext1 = site.data.homepage.buttonlabel1 %}
+{% assign buttontext2 = site.data.homepage.buttonlabel2 %}
+{% assign buttontext3 = site.data.homepage.buttonlabel3 %}
+{% assign buttontext4 = site.data.homepage.buttonlabel4 %}
+{% assign buttontext5 = site.data.homepage.buttonlabel5 %}
 
 <!-- New Designs -->
 
-  {% include slidernew.html cards=site.data.homepage.cards %}
+  {% include slidernew.html cards=site.data.homepage.cards buttontext=buttontext1 %}
 
   {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image %}
 
-  {% include slidernew.html cards=site.data.homepage.cards2 %}
+  {% include slidernew.html cards=site.data.homepage.cards2 buttontext=buttontext1 %}
 
   {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image2 %}
 
-  {% include slidernew.html cards=site.data.homepage.cards3 %}
+  {% include slidernew.html cards=site.data.homepage.cards3 buttontext=buttontext1 %}
 
   {% include subscribe.html subscribe=site.data.homepage.subscribe %}
 
  {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image3 %}
 
- {% include slidernew.html cards=site.data.homepage.cards4 %}
+ {% include slidernew.html cards=site.data.homepage.cards4 buttontext=buttontext1 %}
 
  {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image4 %}
 
- {% include slidernew.html cards=site.data.homepage.cards5 %}
+ {% include slidernew.html cards=site.data.homepage.cards5 buttontext=buttontext1 %}
 
 
 

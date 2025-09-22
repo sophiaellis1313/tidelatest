@@ -4,6 +4,11 @@ meta-description: >-
   TIDE is adventure, travel, design, modernity, environment, technology, culture
   and cuisine.
 subtitle: This is my test subtitle from test
+buttonlabel1: 'button 1'
+buttonlabel2: 'button 2'
+buttonlabel3: 'button 3'
+buttonlabel4: 'button 4'
+buttonlabel5: 'button 5'
 desktop_first_image: /uploads/issue-13/issuenumber13-tm-cover-image-2.jpg
 desktop_first_image_position: img-left
 mobile_first_image: /uploads/issue-13/issuenumber13-tm-cover-image-2.jpg

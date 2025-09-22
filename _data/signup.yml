@@ -1,16 +1,18 @@
+# _data/signup.yml
+
+title: "Our latest, tailored for you"
+tagline: "DIGITAL TIDE"
+description: "Get a curated selection of our latest stories and articles based on your interest categories below. Select a few categories:"
 categories:
-  - name: Sailing
+  - name: "Sailing"
     image: "/images/sailing-stockholm.png"
-    active: false
-  - name: Lifestyle
+  - name: "Lifestyle"
     image: "/images/sailing-stockholm.png"
-    active: true
-  - name: Design
+  - name: "Design"
     image: "/images/sailing-stockholm.png"
-    active: false
-  - name: Travel
+  - name: "Travel"
     image: "/images/sailing-stockholm.png"
-    active: false
-  - name: Environment
+  - name: "Environment"
     image: "/images/sailing-stockholm.png"
-    active: false
+email_placeholder: "your email"
+button_text: "Subscribe"

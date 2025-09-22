@@ -929,7 +929,7 @@ h3 {
 
 p {
   font-family: var(--heading-font);
-  font-size: 1rem;
+  font-size: 18px;
   font-weight: 300;
   /* color: #4B4A4A; */
   -webkit-font-smoothing: antialiased !important;
@@ -2667,7 +2667,9 @@ footer {
 }
 .subscribe-text {
   text-align: center;
-  width: 1000px;
+  /* width: 100px; */
+  width: -webkit-fill-available;
+  max-width: 1000px;
 }
 .subscribe-text .buttons {
   display: flex;
@@ -3303,17 +3305,21 @@ footer .btn {
 @media screen and (min-width: 768px) {
 header:not(.scrolled) .burger-menu-block {
   order: 1;
+  flex: 1;
 }
 header:not(.scrolled) .logo-block {
   order: 2;
+  flex: 1;
 }
 header:not(.scrolled) .block-header-menu {
   order: 3;
+  flex: 1;
+  justify-content: end;
 }
 header.scrolled .burger-menu-block,
 header.scrolled .logo-block,
 header.scrolled .block-header-menu {
-  order: unset; /* या जो भी order चाहिए */
+  order: unset; 
 }
 }
 /* Show only on screens <= 767px */
@@ -3366,6 +3372,7 @@ header.scrolled .block-header-menu {
     order: 3;
     border: 1px solid #001c3880;
     padding: 15px 12px;
+    display: none;
   }
   .scrolled .burger-menu-block {
     border: 1px solid hsla(0, 0%, 100%, 0.5);
@@ -3578,4 +3585,10 @@ body .myform .containser {
 }
 body .myform input[type="submit"] {
     cursor: pointer;
+}
+
+
+.burger-menu-block{
+  visibility: hidden;
+  pointer-events: none;
 }
