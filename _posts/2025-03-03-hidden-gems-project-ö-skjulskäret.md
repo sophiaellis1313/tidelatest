@@ -32,9 +32,17 @@ Those few days alone on tiny Skjulskäret, a measle of granite and gneiss among 
 
 Project Ö is the passion project of Aleksi Hautamäki, the co-founder of Helsinki creative agency Bond, which he has built with the help of his partner, Milla Selkimäki. Aleksi was initially drawn to the archipelago’s mind-peace nothingness. He first sailed here with his father more than 15 years ago, at a time when it felt remote even to Helsinki-dwellers. Over time it became “the place where my heart wanted to be”; the place he’d sail to alone when work became too much, sleeping on his boat and resetting his mind.
 
+![](/uploads/foto-2023-08-20-15-00-18.jpg)
+
+![](/uploads/terrace-01.png)
+
 A typical Finn – with a bone-dry humour and a subtly traceable romantic streak – he missed the sauna on these trips. So, having searched for years for an archipelago islet to call their own, in 2018 he and Milla eventually found their Goldilocks island, around half an hour by boat from the quaint harbour town of Kasnäs, at the western edge of a vast spread of lands that stretch east and north towards Turku. They began building what is now Project Ö: a solar-heated, small-house minimal building in thermally treated Finnish pine, with the best views (naturally) from the glass-fronted sauna. Aleksi taught himself carpentry to build the jetty and wooden walkways that lead round the island’s little bays and rocky outlooks to a greenhouse-like dining pavilion, perched over the water, with a full professional kitchen for wild locavore dining. They’ve since expanded to a smaller and even more remote off-grid cabin with wood-fired hot tub on Gåsskären, a micro-archipelago of ten tiny islands.
 
 Project Ö is part of a wider reappraisal of the mostly Swedish-speaking Saaristo, as Finns call the archipelago. While the chain’s easternmost Åland Islands, closer to Sweden than the Finnish mainland, have long been well-known as a tourist destination, much of the archipelago – including the pristine Archipelago National Park that is home to the Project Ö properties – has remained relatively quiet, and virtually empty when much of the sea freezes in winter. But in a world of digital overload, geopolitical horrors and a combination of rising temperatures and visitor numbers in parts of the Mediterranean, the so-called coolcation has never been more in vogue. And the mindful solitude of what Aleksi describes as “just being alone with the water” makes more sense than ever.
+
+![](/uploads/foto-2023-08-20-15-00-18-1.jpg)
+
+![](/uploads/foto-2023-08-21-19-56-39.jpg)
 
 As well as timeless attractions – spotting seals and white-tailed eagles, or the orchids of Jungfruskär – there are increasingly smart places to stay and eat across the archipelago, with rising demand meaning that local hoteliers and restaurateurs can survive on a relatively short season. Hautamäki says there’s been an increase in people like him buying islands to build smart, eco-focused places to stay – some of which have private harbours open to people who want to stay on their boats. With his Bond agency, Hautamäki has also been working on a rebranding of the Saaristo, with “Saaristo” spelled out by the shapes of real islands. Still in its early stages, its homepage is more romantic than most, listing “staring into the vastness” as an archetypal activity. “This area has really been unknown,” says Hautamäki. “We want to build on the interest, but to do it slowly and carefully. The area will never be overrun, and we don’t want it to be.”
 
