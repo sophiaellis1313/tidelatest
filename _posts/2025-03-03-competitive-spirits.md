@@ -41,11 +41,15 @@ Together, these two grandes dames sparred among the “rock soup” of the Stock
 
 “This was the first time that we could really go and put the two boats to the test,” says *Geist*’s owner. “It’s quite important to understand that there is not much competition for a modern classic that is this fast. Being able to match the two boats up against each other was an opportunity I couldn’t miss.”
 
+![](/uploads/20240812-dsc05678.jpg)
+
 For all that, the race was somewhat providential. An earlier date for the Spirit Yachts regatta in Guernsey had been missed. But *Gaia* was based in Stockholm, and *Geist* had been gravitating towards the region for some time, so the idea quickly hatched. The rules of engagement were hammered out between the Skippers to create maximum enjoyment for minimum risk. Day one would see three races along a standard 2nm windward-leeward course off Sandhamn, followed on day two by a three-leg passage race into the centre of Stockholm, on the inshore route of the Round Gotland race, only in reverse.
 
 “We designed it so it wasn’t full contact like in match racing – more of a choreographed dance,” says *Gaia* Captain Erik Malmberg. Remarkably, this is his first command, although as a former engineer for Seldén Mast AB, he has plenty of experience in racing yachts. “We had a five-metre safety rule (not 40m as in Superyachts), but it was all very well managed, with absolutely no contact. Both boats reach away from the line, and you choose whether you want to be leading in or chasing in. It’s good for your nerves with one minute to go!”
 
 *Gaia*’s owner arrived hot foot from a classic regatta in a smaller boat, and threw himself straight into the match race. Luckily, there was relatively little preparation required, because the boat is kept in day-sailer readiness with minimum inventory and clutter aboard. This was less the case with *Geist*, which is cruised and raced vigorously from the Med to the Caribbean.
+
+![](/uploads/20240814-untitled-1-166-1.jpg)
 
 “The furniture stays – it’s not removable,” says Captain Justin Pope of the extraordinary organic teak and walnut interior that made *Geist* an instant cover model and garnered several design awards. “But anything not mission-critical for racing comes out: anchors, radars, lazarettes, all the spares. If it’s not bolted down, it goes on the dock! We need three containers for *Geist* – with one specifically for racing.
 
@@ -56,6 +60,8 @@ Both owners helm their boats, and it’s clear that they love the sensation. “
 Seeing them in Sweden, jockeying at the start and locked in tacking battles between the granite skerries, you’d be forgiven for thinking that they were built to race. It’s true that Spirit turns a slippery, efficient hull, but both boats were really conceived more as family cruisers with an occasional racing brief. *Geist*, in particular, has spent time and money to boost performance. The boat may have only been launched in 2020, but after being bitten by the racing bug, her owner has had her back ashore in Mallorca for a far-reaching refit. This covered simple things such as better electronics and a more sensitive wind sensor at the masthead, but also major work including replacing the keel, remodelling the rudder and stiffening the mast.
 
 “When the boat evolved slightly more into racing, we started hanging code zeros and it became apparent there was too much fall-off on the rig,” says Pope. “So, we put in a diamond jumper set up to give us about 60 per cent more strength. We also ripped out a cruising hydraulic system and upgraded it to deliver three times the amount of power as previously with twin 400V race pumps. This enabled us to upgrade the primary winches and dial everything up to 11.
+
+![](/uploads/v3-20240812-s7304561.jpg)
 
 BAR Technologies put a whole new keel on the boat and designed the fastest bulb and skeg for her. Pope’s team also added a new carbon rudder with a far deeper draught, and a racier profile which, all combined, according to Pope, has made a dramatic improvement. “She is far more responsive and balanced, and goes upwind far better than she used to.”
 
