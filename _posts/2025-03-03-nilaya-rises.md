@@ -48,6 +48,10 @@ Imagine cruising at 18 knots, hard pressed under sail, in total silence. For mos
 
 The Superyacht is the fruit of a collaboration between design house Reichel/Pugh, which drew up her lines, Nauta Design, which styled both the interior and exterior, and Royal Huisman, which built the boat.
 
+![](/uploads/de8a2171-copia-giuliano-sargentini.jpg)
+
+![](/uploads/nilaya-231005-nm-9752-nicomartinez-for-studio-borlenghi.jpg)
+
 The brief presented to this team was unbelievably tough. As an experienced sailor, the owner had campaigned the previous *Nilaya*, a 34m all-carbon maxi racer built by Baltic Yachts, successfully on the racing circuit. Now he was after something different. “I was previously Skipper of the old *Nilaya* and she was fast but, being all carbon, not that quiet,” Loopik explains. “The owner wanted to focus on cruising for his new yacht, so he wanted a boat that was less noisy at sea. At the same time, he wanted it to be two knots faster on every point of sail.”
 
 This requirement for silence ruled carbon fibre out and presented her design team with something of a dilemma. “I started thinking that an aluminium hull weighs 60-70 per cent more than a carbon boat, but the weight of the hull and deck is only about 15 per cent of the total weight of a sailing yacht,” Nauta’s co-founder and designer Mario Pedol explains. “Our early intuition was that an aluminium construction sailing yacht could be much lighter than the existing aluminium fleet. Royal Huisman supported this vision with enthusiasm and accepted the challenging target of building a light displacement yacht.”
@@ -61,6 +65,10 @@ In the meantime, the design team at Reichel/Pugh were far from idle, and adopted
 No stone was left unturned as they sought for the right hull shape: 15 prototypes were drawn up. It was at this point that the expertise of Mario Caponnetto and Francis Hueber was called upon. This pairing first came to prominence during the 1992 America’s Cup where their testing work on the Italian challenger *Il Moro di Venezia* won them great respect. Times have changed and the duo, still involved in the America’s Cup foiling boats, used their powerful Computational Fluid Dynamics software to develop the ideal hydrodynamic hull shape for *Nilaya*, which, beneath the waterline, features twin rudders, relatively broad aft sections with a double chine, plus a lifting keel which gives a draft of between 15-23ft.
 
 Simultaneously, the ‘working’ area of the boat was put in the hands of Whitbread and Volvo Ocean Race legend Bouwe Bekking, whose expertise ensured that the running rigging setup was spot on. “Having Bouwe involved from the start was really important; he was very clear about what we needed – lots of hydraulic power for one thing – and he was also involved in the deck layout,” explains Loopik. “I was amazed at how he got all of it right in terms of the positioning of the kit. It was impressive and a joy to see – everything was right from the start and we didn’t have to move anything.”
+
+![](/uploads/nilaya154-cb2324311-carloborlenghi.jpg)
+
+![](/uploads/silken-2024-03-22-1892.jpg)
 
 On deck she features three distinct and separate lounging spaces. At the bow there is recessed seating which can also accommodate *Nilaya*’s tender, with a section of deck sliding back into place if the boat is in racing mode or on passage. The main seating area is in the cockpit aft of the carbon composite coachroof and features a targa top that can also be removed for racing. Head aft towards the transom and there is another lounging area based around the bathing platform, which folds out to reveal a broad teak stairway down to the water’s edge.The interior of the boat was designed by Nauta, with decor and styling by May Vervoodt.
 
