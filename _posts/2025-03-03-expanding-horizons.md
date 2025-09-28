@@ -42,11 +42,19 @@ Combining Bonelli’s high-end residential and retail architectural skills with 
 
 The duo’s combined work history brings a wealth of knowledge to the drawing board and allows them to create truly stunning locations that always manage to be both attractive and functional. “A key part of our design philosophy is creating spaces that work for modern-day living,” says Bonelli. Whether this is a boutique, members’ club, home renovation or Superyacht interior, m<sup>2</sup>atelier always applies its signature, contemporary, pared-back aesthetic.
 
+![](/uploads/01-m2-studio23-826.jpg)
+
+![](/uploads/m2atelier-sept16-542.jpg)
+
 That’s not to say that it isn’t flexible. “We were first approached by the owner of a 65-metre yacht to help design the interior,” says Bonelli. Although Radovic already had some personal experience in maritime design, having been involved in the refit of a classic canoe-sterned yacht, and Bonelli had also already worked on various seaborne interiors, the project was the couple’s first yacht together. “It was no steeper a learning curve than designing a retail space or private residence,” says Bonelli. “We treat every project individually, helping our clients realise their dreams and desires within their distinctive environment, collaborating with the Superyacht owner, fashion designer or residential client on the creative process to deliver results that are unique.”
 
 This is where m<sup>2</sup>atelier excels. Its aesthetically beautiful and groundbreaking projects are a blend of a client’s vision but designed within the studio’s style parameters. Its philosophy is rooted in the belief that essential, streamlined designs can harmoniously blend elegance, practicality and sustainability. “We like to listen to the owner’s lifestyle and give the design a life, ensuring that every space will be used and lived in,” says Radovic. “This is especially important in yacht design, where space management is one of the biggest challenges. On land, there’s more flexibility with layouts, and more space in general, but on a yacht, every centimetre counts. Our designs feature clean lines and thoughtful spatial arrangements, allowing for a seamless flow that enhances both comfort and utility.”
 
 It helps that the studio has a deep understanding of materials and finishes – something that is especially important in the interior design of a yacht. High-quality fabrics need to stand up to inclement weather and sun cream, while furniture needs to be able to withstand motion – and as much as possible should be fixed down.
+
+![](/uploads/m2atelier-sept16-613.jpg)
+
+![](/uploads/39-m2-maggio2020-70513.jpg)
 
 “Movement and stability are critical factors, influencing how materials, furniture and fixtures are chosen and designed,” says Radovic. “We prioritise materials that are both beautiful and durable for the marine environment. Our favourites are those that strike a balance between sustainability, performance and visual appeal. Focusing on the tactile as well as the decorative quality of a material, m<sup>2</sup>atelier creates interiors that are not merely for show, but are long-lasting and encourage relaxed atmospheres to flow within them. “Our goal is to design environments that prioritise comfort and enjoyment, avoiding overdesign,” says Radovic. “For us, less is enough – a philosophy that underscores all our designs, from yachts to residential.”
 
