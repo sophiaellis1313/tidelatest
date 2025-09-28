@@ -6,8 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATION: JOSE WALKER'
 issue_no: number 10
 featured_image:
-  image: >-
-    /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-environment-1.jpg
+  image: /uploads/environment-example-2.png
   position: img-center
 video: false
 video_path: ''

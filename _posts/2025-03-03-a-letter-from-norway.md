@@ -6,8 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: JOSE WALKER'
 issue_no: number 11
 featured_image:
-  image: >-
-    /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
+  image: /uploads/environment-example.png
   position: img-center
 video: false
 video_path: ''
