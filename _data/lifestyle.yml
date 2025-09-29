@@ -134,23 +134,20 @@ cards:
       - Lifestyle
       - number 01
     title: ' An endless summer '
-    description: |2-
-       Chef Pippa Crowley on spicing up galley life
-  
+    description: ' Chef Pippa Crowley on spicing up galley life'
   - image: /uploads/tide-magazine-issue04-high-low-2-1.jpg
     alt: ' The High Low: Croatia '
     link: /articles/high-low-croatia
     tags:
-        - Lifestyle
-        - ' number 04'
+      - Lifestyle
+      - ' number 04'
     title: ' The High Low: Croatia '
     description: ' Whether you’re after an impressive tasting menu or some freshly grilled fish to the sound of cicadas and lapping waves, Croatia has got all the bases covered if you know where to look. Superyacht chef Jemma Harrison lets you in on two of her favourite spots around the glistening waters of the Adriatic '
-
 content_on_image:
   image: /images/tide-banner2.png
   alt: TIDE's Top Ten Sailing Destinations
   tags:
-    - Travel
+    - Lifestyle
     - Number 11
   title: TIDE's Top Ten Sailing Destinations
   description: >-
