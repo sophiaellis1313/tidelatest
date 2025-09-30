@@ -5,8 +5,9 @@ title: Dominica And The Whales
 type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATIONS: MOLLY WILSON'
 issue_no: number 07
-featured_image: 
-  image: /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-environment3.jpg
+featured_image:
+  image: >-
+    /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-environment3.jpg
   position: img-center
 video: false
 video_path: ''
@@ -34,17 +35,23 @@ images:
 ---
 Since ancient times, Sperm whales have been pursued by humans for their oil, blubber and meat. But more recently, whalers have begun hunting them at an even more monstrous scale. Over a course of 400-odd years, these mythical sea serpents of the deep have been decimated. Some scientists estimate declines of up to 90 per cent. But what these hunters didn’t know – couldn’t have known – is that these whales have always been far more valuable to the world alive than captured, commodified and sold for parts.
 
+![](/uploads/screenshot-2025-09-30-193707.png)
+
 Every ecosystem is a delicate balance, and when one native species is hunted to the point of near extinction, it sets off an ecological ripple that disrupts everything downwind. Today, in the face of a warming world, we are just beginning to appreciate the essential role the great whales play in regulating our climate.
 
 Sperm whales specifically are leading carbon capturers, both directly and indirectly. Simply enough, their bodies hold huge amounts of carbon, and when they die, they take that carbon with them to the depths of the ocean, where it stays for a long time. But they also stimulate the production of plankton which use carbon dioxide for photosynthesis, locking up an estimated 20 to 40 per cent of the carbon in their microscopic bodies when they too die – by transporting nutrients to the surface of the waters in which they roam. In this way, these tiny plankton are estimated to sequester approximately 200,000 tonnes of carbon, the equivalent of more than 110,000 hectares of forest.
 
 The whales have such a massive impact on our world that even the International Monetary Fund is involved in efforts to conserve the species, estimating their value at more than $2 million each, and over $1 trillion for the entire current global stock of whales.
 
+![](/uploads/screenshot-2025-09-30-193637.png)
+
 Although the 1986 International Whaling Commission’s moratorium ending the mass hunting of whales is still in place today, this ban on whaling is not enough. Whale populations need time and space to revitalise, to bounce back from the damage humans have caused over thousands of years. However, overfishing, pollution, shipping accidents and climate change continue to put stress on an already endangered species.
 
 That’s why, in November 2023, the tiny Caribbean paradise of Dominica announced a world-first Sperm whale reserve, to be created off the western side of the island. Dominica is one of few countries that sees Sperm whale populations year-round. At roughly 800 square kilometres, scientists involved in the project estimate the benefits of this will be felt at a global scale, and will encompass important feeding and nursing grounds.
 
 “The 200 or so Sperm whales that call our sea home are prized citizens of Dominica,” says its Prime Minister, Roosevelt Skerrit. “Their ancestors likely inhabited Dominica before humans arrived. We want to ensure these majestic and highly intelligent animals are safe from harm and continue keeping our waters and our climate healthy. Dominica is honoured to establish the first Sperm whale reserve on our planet.”
+
+![](/uploads/screenshot-2025-09-30-193656.png)
 
 The whales of Dominica are a unique population. For reasons we don’t quite understand yet, they prefer the island over the others in the Caribbean. Even their communication is distinct from the global Sperm whale population, with specific vocalisations not found outside of these local family groups. The problem is, they live so close to humans that they’re often more at risk than other Sperm whales. The risks posed by fishing nets, noise pollution, trash and ship collisions, coupled with an already declining population, paint a distressing picture of their future.
 
