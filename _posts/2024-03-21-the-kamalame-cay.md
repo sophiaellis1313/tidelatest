@@ -5,7 +5,7 @@ title: The Kamalame Cay
 type: Travel
 byline: 'WORDS: CHRISSIE MCCLATCHIE | IMAGES: LYNDAH WELLS'
 issue_no: number 07
-featured_image: 
+featured_image:
   image: /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-hotel2.jpg
   position: img-center
 video: false
@@ -32,15 +32,21 @@ images:
 ---
 Almost 30 years ago, Brian and Jennifer Hew came across a slither of an island in the Andros archipelago, the Bahamas. Swept away by the untouched charm of the location – separated by a shallow channel from the sparsely-populated Andros Island and a mere mile away from the world’s third largest Great Barrier Reef – their hearts soon set on buying the 96-acre stretch of sand.
 
+![](/uploads/aerial-overwater-spa-2-1.jpg)
+
 Far from the parachute tourists who fly in, fly out for the weekend with no ties to the country, the Caribbean was the Hew’s home turf. Childhood sweethearts who had met at school in Jamaica, they were newly married and had recently moved their young family to Miami to open a plant nursery. Any spare time was spent on their sailboat, enjoying the idyllic conditions on their doorstep.
 
 The sellers – the Bahamian government – set down some tough conditions: for the purchase to go through, the couple must commit to building a hotel on the island and employing Bahamians. It was an easy yes for the duo, who named the island Kamalame Cay after its tall, red bark trees with healing properties native to Central and South America.
 
 Bringing Kamalame to life became a family affair: Jennifer sketched out the villas, while Brian oversaw their construction. Their two children, as well as parents and siblings, chipped in to add the finishing touches.
 
+![](/uploads/ferry-dock1.jpg)
+
 The property welcomed its first guests in 1997 with just four cottages and a simple wheelbarrow to transport luggage along sandy trails where freshly planted coconut palms, hibiscus, bougainvillea, frangipani and ginger lily were beginning to bloom.
 
 “When the Cay first opened, it was primarily a fishing lodge for bonefish, reef and deep sea fishing,” Kamalame CEO Michael King-Hew tells TIDE. “After a long day on the water, dinner was eaten together at one long table, everyone sharing stories of the day’s adventures – and the ones that got away.”
+
+![](/uploads/coconut-palm.jpg)
 
 Over the decades, the property has thrived, much like the lush foliage that now covers the island, making it an enchanting tropical garden. There are more than 50 beachfront cottages and bungalows scattered across the Cay. Each has its own character, yet they all share a stylish, whitewashed aesthetic with wrap-around verandas and a breezy, feet-in-the-sand setting.
 
@@ -48,9 +54,13 @@ As Kamalame’s footprint has expanded, so has its reputation. “Today the Cay 
 
 Pioneers of barefoot luxury before it even had a name, Kamalame isn’t the place for suits or heels. Instead, the dress code is sarongs and swimming costumes, whether sipping a sundowner by the pool at Tiki Bar & Beach Club, tasting Asian-accented Bahamian cuisine over a candle-lit dinner in the Great House dining room or supping on a nightcap at Monkey Bar.
 
+![](/uploads/island-road-1.jpg)
+
 Guests come initially for the swaying palm trees, buttermilk beaches, crystalline water and castaway vibe, but what keeps them returning year after year is the Hew family and their personal touch. “People tell us that arriving in Kamalame is like coming home to the family they never knew,” King-Hew explains.
 
 The holiday season is a particularly special time of the year, as returning guests as well as over a dozen residents who own residential villas on Kamalame come together “in celebration of life on the Cay”, he says. “Our Thanksgiving and Christmas dinners are usually noisy affairs with more than 120 people.” Around the table are generations of guests, all having left their imprint on the property — and vice versa. “A few years ago, we had a group that ranged from 102 years old, all the way down to just three months old,” he continues.
+
+![](/uploads/kampowai-living-room-1.tif)
 
 Michael and David took over operations of the resort in 2012. With a background in advertising and publishing, the couple has brought a new dynamism to Kamalame, without compromising the laidback charm and community feel that sets it apart among Bahamian luxury destinations. David’s sister Kimberly now manages the Reservations Office, ensuring the running of Kamalame remains a family affair.
 
