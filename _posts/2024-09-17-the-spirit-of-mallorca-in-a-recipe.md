@@ -5,8 +5,9 @@ title: The Spirit Of  Mallorca In A Recipe
 type: Lifestyle
 byline: 'WORDS: LIBBY TRAVERS | IMAGES: ANA LUI'
 issue_no: number 09
-featured_image: 
-  image: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -35,13 +36,19 @@ images:
 ---
 As is the way with many Mediterranean isles, the Mallorcan heritage is a tapestry woven by invaders and ingredients, occupations and innovations. The complex layers of its past are seen in the architecture, the agriculture, the traditions and, of course, in the food. The Balearic Islands, representing a mid-point between Africa, Spain, France and Italy, were particularly sought after and consequently jostled from one ruling power to the next.
 
+![](/uploads/cn-mallorca-115-1.jpeg)
+
 Their kitchens were shaken up too. Beyond the marauding, the Phoenicians, Carthaginians and Romans brought with them vines and olive trees, while the Arabs helped transform the steep slopes, adding irrigation and dry-stone terraces. The grafting of the olives into the wild oleaster created a unique Mallorquin terrain, as the landscape was reshaped not just for ease of planting but also to quell the water when big rains came and to gather it when the rains were sparse – the results so special they are now protected as a UNESCO World Heritage Site. Sephardic Jews and the Moors (both from similar geographic roots, albeit with different cooking styles) paired sweet with sour and savoury, along with layering flavours with robust, aromatic herbs and spices and the Catalans, well they brought the Spanish.
 
 Even the invasion of mass tourism in the 1950s – Mallorca was one of the first destinations to offer cheap package holidays – has had its influence. At first, the gastronomic heritage suffered as the female population abandoned the stoves and the men likewise deserted the fields for more lucrative work in hotels and tourism. However, decades of hindsight have allowed Mallorca to become a leader in the anti-tourism (or at least ‘anti-sameness’) movement. Turning back to the history that originally shaped the island, this ancestral knowledge is being transmitted with new energy by producers, artisans, Chefs and sommeliers.
 
+![](/uploads/cn-mallorca-127.jpeg)
+
 Maria and her sister Teresa Sollivellas are among the leaders of this gentle yet powerful revival. They run their restaurant from a sensitively renovated house in the village of Caimari, in the heart of the Serra de Tramuntana. Their simple, honest and, indeed, feminine approach has inspired praise and admiration across the globe. The sisters (Maria in the kitchen, Teresa on the floor and running their extensive local wine programme) use their restaurant as a tool of expression to say who they are and what their island is to them. The food is firmly rooted in the land, techniques and recipes inspired by tradition, while the organic produce is brought directly from soil to table – even their plates draw on the island’s clay. “We have enormous respect for the women of previous generations whom I call the guardians of the seeds,” says Maria. “We would like to take up their torch, in a way.”
 
 When asked to act as interpreter, not of language per se, but of her landscape and her way of life, Maria doesn’t hesitate. “I am going to explain Mallorca to you in a single dish,” she explains. “It is the dish Mallorcans turn to when we have to improvise a dinner, when we eat together in an informal way. It is called Pa amb Oli (‘Bread with Oil’), and is a faithful reflection of the quintessential Mediterranean trident: olive oil, wheat and wine. But we Mallorcans add a few elements to this trilogy that help define the Mallorcan landscape and culture.”
+
+![](/uploads/cn-mallorca-135.jpeg)
 
 *canatoneta.com*
 
@@ -80,3 +87,5 @@ When asked to act as interpreter, not of language per se, but of her landscape a
 **METHOD**
 
 “Pa amb Oli is nothing more than a slice of bread, rubbed with tomato, a good splash of virgin olive oil and a sprinkling of fleur de sel. This simple preparation makes a Mallorcan extremely happy. I don’t know anyone who is not enthusiastic about Pa amb Oli and who does not eat it at least once a week. In a simple sandwich we can synthesise the history of an island, draw its landscape and intuit its culture: who we are, where we come from and where we are going.”
+
+![](/uploads/cn-mallorca-155.jpeg)
