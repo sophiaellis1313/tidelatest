@@ -47,7 +47,7 @@ images:
     caption: false
     credit:
 ---
-Charismatic, entwined with the sea and rich with stories and increasingly good food and wine – it’s no wonder Travel Writer Rick Jordan has been visiting the town for years. Here he shares his essential to-dos.
+![](/uploads/elba-tuscan-archipelago-003.jpg)Charismatic, entwined with the sea and rich with stories and increasingly good food and wine – it’s no wonder Travel Writer Rick Jordan has been visiting the town for years. Here he shares his essential to-dos.
 
 Standing on top of the church of St Euphemia in Rovinj is a statue of the saint whose body turns in the wind like a weathervane – when the wind changes direction, she performs a slow pirouette. Virtually surrounded by the sea, this northern Croatian town feels almost like an island, with medieval streets winding up to its highest point, the church; from her crow’s-nest position, the saint can see out over the ocean for miles.
 
@@ -62,6 +62,8 @@ Later in the day, I’ll cycle out around the harbour and headland, past the mas
 ### **Where to Eat and Drink:**
 
 A few years ago, Rovinj was drenched by a storm so wild that the waves crashed over the rocks and left fish stranded on the roof of La Puntulina, the restaurant run by Mirjana and Giovanni Pellizzer. Usually, though, they’re to be found on the plate, smoky from the grill and drizzled with lemon and olive oil – red snapper, sea bream, monkfish, with octopus salad and anchovies before, and perhaps a bowl of handmade Istrian pasta with prawns. The family are deeply embedded in Rovinj – Giovanni’s father used to run Yugoslavia’s first disco here during the communist era, and they’re also behind the Rio Bar, on the harbourside, and the long-standing Giannino Restaurant. There are other tables here, though: I go to Balbi for its vongole, and Brasserie Adriatic for its scallops with sea fennel pesto. In recent years, the familiar seafood joints have been joined by slicker, more stylish outfits such as the harbourside Kantinon Tavern (order the cuttlefish risotto), Articoka (try the pork belly with cuttlefish) and Twin Figs, where creative cocktails such as the house Negroni with Fernet amaro are served alongside brunch and suppers of sea bass tortellini. Unsurprisingly, Rovinj is carving a Michelin reputation for itself, thanks to names such as Monte, set at the foot of St Euphemia’s Church in the family house of Chef Danijel Dekic, who prepares intricate tasting-menu dishes such as lobster mezzalune with carrot fudge; and Agli Amici Rovinj at the Grand Park Hotel, Croatia’s first two Michelin-star restaurant as of 2025, for pretty dishes such as scampi with courgette and courgette flowers, and turbot with seaweed. Istrian wines are among the best in Croatia – no mean feat, considering how much the country’s wine has progressed in the past decade – and several *terans* (the local reds) and *malvazijas* (the whites) can be tasted at Vino Vigneto wine bar or straight from the source at the family owned Dobravac Winery.
+
+&nbsp;
 
 &nbsp;
 
