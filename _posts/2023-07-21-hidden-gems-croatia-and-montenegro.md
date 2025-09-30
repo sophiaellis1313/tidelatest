@@ -5,7 +5,7 @@ title: 'Hidden Gems: Croatia and Montenegro'
 type: Travel
 byline: 'WORDS: PHOEBE HUNT |  IMAGES: NATALIE OBRADOVICH'
 issue_no: number 04
-featured_image: 
+featured_image:
   image: /uploads/TIDE-Magazine-issue04-hidden-gems-3.jpg
   position: img-center
 video: false
@@ -29,6 +29,8 @@ images:
     credit:
 ---
 One of the four historical regions of Croatia, the Dalmatian Coast is fast surpassing Greece, Italy and the South of France as far as the elite sailing community are concerned. This section of the famously beautiful Adriatic coastline has hundreds of sandy islands, walled citadels, and among the most spectacular turquoise waters in Europe. The region is also home to some of the most famous cities, towns and tourist attractions in Croatia, including Dubrovnik, Šibenik, Split and Zadar, as well as an array of UNESCO World Heritage Sites. Aside from these main attractions, though, there are still countless hidden gems to be found if you know where to look. Just down the coast in little Montenegro, meanwhile, adventurous sailors are rewarded with steep, dramatic mountain landscapes sloping straight down into the water. The sea here is cool, clean and impossibly deep blue, a world apart from the Italian coastline just a short hop across the Adriatic sea.
+
+![](/uploads/138a3504-natalie-1.jpg)
 
 **Hvar**
 
