@@ -77,6 +77,8 @@ Tony Rey, formerly of Doyle Sails, came in as tactician and both he and Loftus b
 
 Across the Atlantic, Antigua beckoned, followed quickly by the St Barths Bucket. “When you start a programme like this, you don’t spend any time hanging around,” shrugs Loftus when asked whether he felt under time pressure.
 
+![](/uploads/maximus-air-14.jpg)
+
 With just days to spare, he managed to fit in some training for the new crew ahead of Antigua. In fact, they treated the whole event as a training session, going cautiously with the new rig. Naturally enough, such prudence didn’t pay off in the rankings, with *Maximus* coming in fourth of four in her class. But this provided a stepping stone to St Barths, where the crew managed to fix a massive failure of the headsail foil inside 28 hours to reach the start on time. And by the time she crossed the finish line of the St Regis Race at the Palma Superyacht Cup in June, she was scoring bullets.
 
 “We learn something every time and, like any race programme, you learn as much about what you can do as what you can’t,” says Loftus. “There are times when you think you can make an improvement and it turns out you were wrong. But the difference between us in St Barths and us in Palma is massive. The amount of effort and just heroics that took place is almost impossible to explain unless you were there.”
