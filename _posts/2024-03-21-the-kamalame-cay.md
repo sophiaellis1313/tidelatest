@@ -60,14 +60,18 @@ Guests come initially for the swaying palm trees, buttermilk beaches, crystallin
 
 The holiday season is a particularly special time of the year, as returning guests as well as over a dozen residents who own residential villas on Kamalame come together “in celebration of life on the Cay”, he says. “Our Thanksgiving and Christmas dinners are usually noisy affairs with more than 120 people.” Around the table are generations of guests, all having left their imprint on the property — and vice versa. “A few years ago, we had a group that ranged from 102 years old, all the way down to just three months old,” he continues.
 
-![](/uploads/kampowai-living-room-1.tif)
+![](/uploads/island-golf-carts.jpg)
 
 Michael and David took over operations of the resort in 2012. With a background in advertising and publishing, the couple has brought a new dynamism to Kamalame, without compromising the laidback charm and community feel that sets it apart among Bahamian luxury destinations. David’s sister Kimberly now manages the Reservations Office, ensuring the running of Kamalame remains a family affair.
 
 Along with expanding the accommodation, food and drink options and overwater spa (the only of its kind in the Bahamas), the trio have set up a marine conservation and coral nursery programme, planted a farm on nearby Andros to ensure a steady supply of home-grown produce, added dozens of off-island excursions and adventures for guests and launched COCO Bahamas Seaplanes to fly them to the island from Nassau.
 
+![](/uploads/rock-house-living-room.jpg)
+
 It’s a similarly stylish arrival for sailors, too. Vessels up to 20 metre can tie up at one of the hotel’s private slips for the day or for a two-night minimum stay. King-Hew explains plans are underway to create a marina village, complete with overwater bungalows, a restaurant and retail facilities. “The future of the Cay is very exciting,” he says, simply.
 
 While there’s plenty to look forward to, Kamalame’s recent 25th anniversary allowed the family to reflect on everything they have built. For King-Hew, whose own children are now growing up on the island, the 10-day celebration cast the most precious memories of all.
+
+![](/uploads/overwater-spa-entrance.jpg)
 
 “Watching Brian and Jennifer surrounded by their nearest and dearest friends and family is probably my favourite moment here,” he says. “There was much love and respect for doing what so many told them was impossible and for making a place that everyone can call home.”
