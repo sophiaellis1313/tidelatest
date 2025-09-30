@@ -55,6 +55,8 @@ But traditional lines don’t necessarily equate to traditional performance. Fre
 
 The result is a “wolf in sheep’s clothing”, to borrow Vitters’ chosen phrase. Above the waterline, her low-profile topsides and modest deckhouse belong to a past era of more elegant design, with whispers of the golden age of yachting. But out of sight, her hull is a work of state-of-the-art efficiency – finely tuned for optimum performance and minimal drag.
 
+![](/uploads/2024-05-05-guy-fleury-vitters-shipyard-shoot-sy-maximus-282.jpg)
+
 A lot of thought has gone into the sail handling systems of the boat. Soft sails are stored on large hydraulic drums below deck that make a far more efficient way of storing canvas than the more typical sail bags stuffed into a locker. It also means that they can be more easily deployed at the touch of a button, allowing just two crew to handle the hoist and drop in cruising mode.
 
 Line handling is just as carefully laid out. Only the mizzen lines come back to winches aft – the other sails are all raised and trimmed using captive winches or the giant Harken sheet winches forward of the deckhouse. Rated to handle 25 tonnes of tension, Barrett believes that they are the biggest ever built by the company. The captive winches, meanwhile, are all located in a pit just forward of the main mast. Normally covered with a carbon hatch, this only needs to be accessed by a pair of trimmers during racing.
