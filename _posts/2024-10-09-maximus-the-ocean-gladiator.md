@@ -71,6 +71,8 @@ To deliver on such a promise takes more than just cutting-edge design. You also 
 
 It is the first ketch that Loftus has captained on a full-time basis, and he says it is heavy on manpower. “It’s two big sloops going round the track with soft sails flying off both rigs – that’s a lot of sails to put up and take down. You get to the gybe and you think, ‘Where is everybody?’ You don’t put a crew like that together overnight.”
 
+![](/uploads/maximus-air-03.jpg)
+
 Tony Rey, formerly of Doyle Sails, came in as tactician and both he and Loftus brought in other guys from their black books too. Among a host of big names, Nick Bice stands out as Crew Boss and Nacho Postigo as Navigator. And they had to get down to business more or less directly, as the boat was delivered slightly behind schedule in the autumn of 2023.
 
 Across the Atlantic, Antigua beckoned, followed quickly by the St Barths Bucket. “When you start a programme like this, you don’t spend any time hanging around,” shrugs Loftus when asked whether he felt under time pressure.
