@@ -61,6 +61,8 @@ A lot of thought has gone into the sail handling systems of the boat. Soft sails
 
 Line handling is just as carefully laid out. Only the mizzen lines come back to winches aft – the other sails are all raised and trimmed using captive winches or the giant Harken sheet winches forward of the deckhouse. Rated to handle 25 tonnes of tension, Barrett believes that they are the biggest ever built by the company. The captive winches, meanwhile, are all located in a pit just forward of the main mast. Normally covered with a carbon hatch, this only needs to be accessed by a pair of trimmers during racing.
 
+![](/uploads/maximus-air-11.jpg)
+
 **Building a race crew**
 
 To deliver on such a promise takes more than just cutting-edge design. You also need the Captain who can help you exploit it, and in the case of *Maximus*, that person was Lars Loftus – a veteran racer from the *Velsheda* campaign. While handling a thoroughbred J-Class yacht presents its own specific challenges, it has plenty in common with racing a 59m ketch.
