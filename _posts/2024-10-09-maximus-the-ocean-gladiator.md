@@ -43,6 +43,8 @@ You might have thought that the era of watching men battle for sport died with t
 
 It is a tale that begins in 2021, when the experienced owner reassembled a familiar team in the form of owner’s representative Jon Barrett and the aforementioned storied Dutch shipyard, Vitters. It was not his first yacht, but it was to be his biggest, and the brief was for a Superyacht that could be raced and cruised. The renowned Germán Frers was selected for the  hull lines.
 
+![](/uploads/2024-05-05-guy-fleury-vitters-shipyard-shoot-sy-maximus-9.jpg)
+
 “The 1999 ketch *Rebecca* was a big influence in the design of *Maximus*,” says Barrett. “Both her classic deck structures and sheerlines, and the way she sailed and performed well. That’s how Germán Frers was introduced to the owner, but the yacht had to be bigger. There was a certain requirement for volume and cabins and so forth, which brought her up to the 59m mark.”
 
 With *Rebecca* serving as inspiration, the key elements of *Maximus* were already in place – not least the ketch rig. The advantages of this traditional sailplan are undeniable: smaller masts to achieve the same sail area give the boat lower air draught to fit under more bridges, while the sail handling in cruising mode is decidedly easier. “Lots of big boats tend not to get sailed much on passage because the booms are incredibly big, and in a big sloppy seaway, it’s hard to control,” says Barrett. “On *Maximus*, they’re able to furl and unfurl the jib, staysail and mizzen jib with no booms to worry about – think of it like a  staysail schooner.”
