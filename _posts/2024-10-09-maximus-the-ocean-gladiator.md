@@ -85,6 +85,8 @@ With just days to spare, he managed to fit in some training for the new crew ahe
 
 The Ibiza Joy Sail is the next event on the horizon – fast becoming a fixture for well-connected Superyachts. But it is not just about racing. The yacht is fitted out for comfortable cruising and recently finished an Amalfi trip. She is also available for race and cruising charter through Burgess.
 
+![](/uploads/maximus-air-19.jpg)
+
 To imagine that *Maximus* is all about winning performances would be to misunderstand this project. From the off, the brief required a supremely comfortable interior that would keep guests in fine style during a longer cruise. So, although the twin deckhouse saloons and their bimini-shaded cockpits are the natural place to relax on deck, there is a lot more to *Maximus* than meets a casual glance.
 
 The master suite runs the full beam of the boat, for example, and is positioned aft, where it benefits from more privacy. There are two guest cabins aft that can be configured as doubles or as twins with the added accommodation offered by Pullman berths, as well as a further VIP forward of the main saloon. With the full complement of nine permanent crew aboard, the service ratio is exceptionally high.
