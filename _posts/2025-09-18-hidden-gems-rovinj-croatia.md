@@ -47,7 +47,9 @@ images:
     caption: false
     credit:
 ---
-![](/uploads/elba-tuscan-archipelago-003.jpg)Charismatic, entwined with the sea and rich with stories and increasingly good food and wine – it’s no wonder Travel Writer Rick Jordan has been visiting the town for years. Here he shares his essential to-dos.
+&nbsp;
+
+Charismatic, entwined with the sea and rich with stories and increasingly good food and wine – it’s no wonder Travel Writer Rick Jordan has been visiting the town for years. Here he shares his essential to-dos.
 
 Standing on top of the church of St Euphemia in Rovinj is a statue of the saint whose body turns in the wind like a weathervane – when the wind changes direction, she performs a slow pirouette. Virtually surrounded by the sea, this northern Croatian town feels almost like an island, with medieval streets winding up to its highest point, the church; from her crow’s-nest position, the saint can see out over the ocean for miles.
 
