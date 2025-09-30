@@ -5,8 +5,9 @@ title: 'Wendy’s House: Elfje'
 type: Sailing
 byline: 'WORDS: SAM FORTESCUE  |  IMAGES: CORY SILKEN'
 issue_no: number 07
-featured_image: 
-  image: /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.jpg
+featured_image:
+  image: >-
+    /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -33,17 +34,23 @@ images:
 ---
 Wendy Schmidt’s first sailing experience did little to foreshadow the role that boats would later come to play in her life. In fact, I can almost hear her shrugging when I ask her about it. “I have a memory from my childhood when I was nine years old,” she recounts. “We took a family trip to Bermuda – it was the only aeroplane trip we ever took. My three brothers were in the cockpit of a 20ft sailboat on some sort of tourist experience. I’m sitting behind – my head is tossed back and I’m super relaxed. I was having a different experience to them.”
 
+![](/uploads/392-1-sailing-royalhuisman-elfje-corysilken-2015-02-09-0092.jpg)
+
 It would take another 42 years before Schmidt sailed again. Yet today she is the owner of multiple boats, from wooden motor launches to carbon-fibre racers. One of the fleet stands out in particular: the 46m *Elfje*. With her 6m-long bowsprit, towering ketch rig and pilot cutter looks, she is easy on the eye in the same way as all the great classically proportioned yachts. Make no mistake, though: this is a decidedly modern boat that was delivered as recently as 2014.
 
 Her creator, along with Schmidt herself, is Dutch designer André Hoek. His studio, in an old orphanage in the town of Edam, is one of the best in the world at combining the beauty of classic lines with state-of-the-art naval architecture – and it is this which imparts *Elfje*’s unmistakable character. “She’s one of the favourites in our design office – of our achievements,” says Ruurt Meulemans, partner at Hoek Design. “*Elfje* came out really nicely sailing-wise and in aesthetics. Wendy gave us plenty of opportunities to excel.”
 
 Schmidt remembers how the idea of *Elfje* grew out of the positive experience of her friend Bill Joy, who was building 58m *Ethereal* at Royal Huisman at the time. “In some sense, we chose the yard before we had chosen someone to design it or even knew what kind of boat we would build,” she says. “There is a whole community around Huisman.
 
+![](/uploads/use1.jpg)
+
 “Then we interviewed all the leading design firms and fell in love with André Hoek. He had aquarelle renderings of all the boats he had designed – that’s when we realised that we were talking to an artist and thought, ‘he’s the one for us’.” Schmidt then went on to choose Redman Whiteley Dixon for the interior.
 
 Now, having appointed some of the world’s pre-eminent designers and a yard with a track record in large sailing boats, some owners would have been tempted to hand things off to a management team. But for Schmidt, the three-and-a-half-year project was a reward in its own right, and she instituted full team meetings every six weeks in locations from New York and Nantucket to the UK and the Netherlands. “It became as much of a social experience as it was a technical one,” she remembers. “I insisted in the beginning that we get everyone on the same drawing – it normally goes from department to department, but we thought this gave room for miscommunication. With everybody present, everything can move in lockstep. I like to do all my projects that way – I believe in transparency, openness.”
 
 With lines rooted in Hoek’s favoured ‘pilot cutter’ aesthetic, the beauty of the yacht was always front and centre. Thanks to the plumb bow and relatively low freeboard, her twin deckhouses – one containing a guest lounge and the other a dedicated owner’s space – look ravishingly sleek and low-slung. “She is so nicely balanced in the looks and the proportions of the deckhouse,” says Meulemans.
+
+![](/uploads/392-1-sailing-royalhuisman-elfje-corysilken-2015-02-09-0313cres.jpg)
 
 His real focus was below the waterline, however, where five different hull lines were developed. They were all put through Hoek’s CFD \[Computational Fluid Dynamics\] programme and the best one built as a 6m model for tank testing at the Marin laboratory. “She was going to be a cruising yacht, but she had to do very well on the racecourse as well,” adds Meulemans. “She has a lifting keel and spade rudder.”
 
