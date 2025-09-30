@@ -49,6 +49,8 @@ It is a tale that begins in 2021, when the experienced owner reassembled a famil
 
 With *Rebecca* serving as inspiration, the key elements of *Maximus* were already in place – not least the ketch rig. The advantages of this traditional sailplan are undeniable: smaller masts to achieve the same sail area give the boat lower air draught to fit under more bridges, while the sail handling in cruising mode is decidedly easier. “Lots of big boats tend not to get sailed much on passage because the booms are incredibly big, and in a big sloppy seaway, it’s hard to control,” says Barrett. “On *Maximus*, they’re able to furl and unfurl the jib, staysail and mizzen jib with no booms to worry about – think of it like a  staysail schooner.”
 
+![](/uploads/maximus-01.jpg)
+
 But traditional lines don’t necessarily equate to traditional performance. Frers was tasked with designing a hull that would allow the yacht to compete hard at the world’s top Superyacht regattas. To that end, he used all the power of modern software to develop a slippery hull form with a lifting keel that varies the draught from 5m to 8m, twin balanced rudders and submarine anchors.
 
 The result is a “wolf in sheep’s clothing”, to borrow Vitters’ chosen phrase. Above the waterline, her low-profile topsides and modest deckhouse belong to a past era of more elegant design, with whispers of the golden age of yachting. But out of sight, her hull is a work of state-of-the-art efficiency – finely tuned for optimum performance and minimal drag.
