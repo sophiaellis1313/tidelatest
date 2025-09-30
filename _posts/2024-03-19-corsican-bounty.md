@@ -5,8 +5,9 @@ title: Corsican Bounty
 type: Lifestyle
 byline: 'WORDS: CHLOÉ BRAITHWAITE  |  IMAGES: MURTOLI'
 issue_no: number 06
-featured_image: 
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-restaurant1.jpg
+featured_image:
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-restaurant1.jpg
   position: img-center
 video: false
 video_path: ''
