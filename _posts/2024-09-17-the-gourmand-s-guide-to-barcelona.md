@@ -5,8 +5,9 @@ title: The Gourmand's Guide to Barcelona
 type: Lifestyle
 byline: 'WORDS: LUCIE GARDINER | IMAGES: BIBIANA CRISTINA'
 issue_no: number 09
-featured_image: 
-  image: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -53,6 +54,8 @@ images:
 ---
 As the 37th America’s Cup approaches, Barcelona is not just preparing for an influx of sailing enthusiasts, but also for food lovers eager to explore its culinary landscape. There is no city quite like Barcelona in terms of dining, where the essence of Catalan cuisine, market-fresh produce, Modernisme design, the Mediterranean Sea and innovative Chefs converge to create a foodie’s dream. With more than 8,000 eateries and 35 Michelin stars, there is much to devour.
 
+![](/uploads/ladama-10901-1.jpg)
+
 Like the islands of the Balearic Sea, Barcelona’s position as a significant port has made it a medley of cooking influences: spices, techniques and ingredients arrived from across the Mediterranean and beyond. The publication of the first European cookbook here is a testament to its significance in the gastronomical world. Today, its food scene thrives on a dynamic interplay of history and modernity, constantly evolving while celebrating its storied culinary past. Drawing inspiration from local farms and global flavours, the city’s groundbreaking Chefs are creating a new wave of Catalan cuisine.
 
 **Market fresh**
@@ -62,6 +65,8 @@ Catalunya is the garden of Europe, and La Boqueria, one of Europe’s largest an
 **Cooking pioneers**
 
 The city’s modern restaurant scene is a blend of tradition and high modernisation. This balance is perfectly exemplified by restaurants such as Disfrutar, helmed by Oriol Castro, Eduard Xatruch and Mateu Casañas. This trio, who met at the famed El Bulli, have transformed Catalan dishes into high-level fine dining with next-level molecular gastronomy, earning them three Michelin stars. Disfrutar’s combination of flavours, textures and techniques creates a must-experience, unforgettable dining journey. The restaurant’s tasting menus take the diner through the imaginative and avant-garde, each dish a testament to the Chefs’ creativity and technical prowess. Nestled in Barcelona’s upmarket Eixample neighbourhood, the interiors takes inspiration from the local Mironian ceramics, while the dining room opens up into a light-filled space with a terrace and kitchen visible to clients, so that you can watch Disfrutar’s culinary alchemists weave their magic as <br>you feast.
+
+![](/uploads/the-sea-garden-02.jpg)
 
 But you don’t need to go to Michelin-starred establishments to enjoy stand-out food. Barcelona’s eating revolution is driven by Chefs operating at all levels. A standout example is Maleducat in the Sant Antoni neighbourhood. Here, a young and energetic team brings creativity rooted in local traditions and seasonal ingredients with flair. The menu includes small bites such as wild boar rolls dipped in chocolate and larger shared dishes such as the Bluefin red tuna tartare, with smoked egg yolk, miso and pickles. This restaurant has quickly become a favourite among locals and visitors for the exciting mix offered at an excellent price point.
 
@@ -76,5 +81,7 @@ Described very aptly as “veggies for veggies” and “veggies for non-veggies
 **The America’s Cup way**
 
 It’s not necessary to even come ashore to taste Barcelona’s haute cuisine during the America’s Cup – hosts Marina Port Vell are offering onboard food in collaboration with Wajer Yachts. Guests can enjoy the regatta from a yacht while taking in a menu designed by the three-Michelin-starred Hermanos Torres. Dishes will be delivered directly to your vessel, so you won’t miss a second of the racing. Hermanos Torres is also running a pop-up at the Marina’s Sea Garden event space, if you prefer your dining quayside.
+
+![](/uploads/ladamaexteriores2792.jpg)
 
 As you enjoy the buzz of the America’s Cup, take time to explore the city’s gastronomic treasures. From bustling markets and Michelin-starred restaurants to elegant dining rooms and creative eateries, Barcelona offers a culinary adventure as rich as its cultural heritage. As the locals say, ”Bon Profit!”
