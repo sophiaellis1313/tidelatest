@@ -5,7 +5,7 @@ title: 'Checking In: Le Taha''a'
 type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: LE TAHA''A'
 issue_no: number 08
-featured_image: 
+featured_image:
   image: /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-hotel-2.jpg
   position: img-center
 video: false
@@ -34,9 +34,13 @@ images:
 ---
 French Polynesia is, for many, the ultimate in escapism. Tucked away islands, sultry, warm sunlight, sugar-soft sand and a somehow powerfully restorative culture – these are all the things that beckon visitors to this far-away land. The food happens to be exceptional too, and many also love the fact that a lot of its locations offer little in the way of phone reception – a rare benefit in today’s hyperconnected world – resulting in the archipelago nation becoming known for off-the-grid retreats, the kind that truly allow people to disengage from the everyday and relearn how to relax.
 
+&nbsp;
+
 Le Taha’a by Pearl Resorts (or Le Taha’a for short) is one such resort, based on a private *motu* (little islet set on coral reefs) just off the island of Taha’a, south-east of Bora Bora. The closest island, and upon which it is dependent, is Raiatea, about 30 minutes’ away by helicopter. The proximity to the hub is convenient, but thankfully the tranquillity of the motu makes it easy to forget other people exist at all.
 
 La Taha’a is also known as Vanilla Island, thanks to the production of the coveted spice. Incredibly fragrant and highly coveted by chefs all around the world, the vanilla that scents the air of Taha’a is the same that perfumes the hotel’s lobby, cocktails, desserts – and some of the main dishes. Much of the produce comes from the resort’s vegetable garden, and what cannot be grown is sourced locally from small producers whenever possible.
+
+![](/uploads/romantic-dinner.jpg)
 
 This local mindset is at the heart of Le Taha’a. It’s a traditional Polynesian value to be as respectful of the natural environment as possible, and, as such, the hotel is designed to blend in. The architecture favours materials such as bamboo, wood, leaves, coconut fibre, stones and coral, and the main buildings often appear to be in the middle of a wild mutiny, so enveloped in their surroundings they look like they may become part of them one day.
 
