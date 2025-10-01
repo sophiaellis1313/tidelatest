@@ -14,8 +14,7 @@ posts:
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
     buttontitle: More
 cards:
-  - image: >-
-      /uploads/tide-magazine-sailing-lifestyle-travel-issue10-environment-1-1.jpg
+  - image: /uploads/environment-example-2-2.png
     alt: ' Evolving Modernism '
     link: /articles/pianosa
     tags:
@@ -87,7 +86,6 @@ cards:
       - number 01
     title: ' The Great Circle '
     description: ' Olympic gold sailing medallists Blair Tuke and Peter Burling on the preservation and restoration of the world’s oceans… '
-
 content_on_image:
   image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
   alt: The Winds of Change
