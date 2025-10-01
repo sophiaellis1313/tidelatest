@@ -3,7 +3,7 @@ posts:
     video: true
     video_path: path/to/video.mp4
     featured_image:
-      image: path/to/featured-image.jpg
+      image: /uploads/environment-example.png
       position: center
     title: '  A Letter from Norway  '
     short_description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed '

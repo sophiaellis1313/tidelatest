@@ -5,8 +5,8 @@ title: Life in the Meadows
 type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATION: JOSE WALKER'
 issue_no: number 09
-featured_image: 
-  image: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-environment-seatrees-1.jpg
+featured_image:
+  image: /uploads/tide-magazine-life-in-the-meadows.png
   position: img-center
 video: false
 video_path: ''
