@@ -34,7 +34,7 @@ images:
 ---
 French Polynesia is, for many, the ultimate in escapism. Tucked away islands, sultry, warm sunlight, sugar-soft sand and a somehow powerfully restorative culture – these are all the things that beckon visitors to this far-away land. The food happens to be exceptional too, and many also love the fact that a lot of its locations offer little in the way of phone reception – a rare benefit in today’s hyperconnected world – resulting in the archipelago nation becoming known for off-the-grid retreats, the kind that truly allow people to disengage from the everyday and relearn how to relax.
 
-&nbsp;
+&nbsp;![](/uploads/drone-12.jpg)
 
 Le Taha’a by Pearl Resorts (or Le Taha’a for short) is one such resort, based on a private *motu* (little islet set on coral reefs) just off the island of Taha’a, south-east of Bora Bora. The closest island, and upon which it is dependent, is Raiatea, about 30 minutes’ away by helicopter. The proximity to the hub is convenient, but thankfully the tranquillity of the motu makes it easy to forget other people exist at all.
 
@@ -46,7 +46,11 @@ This local mindset is at the heart of Le Taha’a. It’s a traditional Polynesi
 
 This is especially the case at Tāvai Spa. Set among coconut palms and jutting out over the lagoon, the Spa offers a variety of treatments complemented by traditional Polynesian massages using deeply hydrating coconut oil infused with *monoï*, a tiaré flower.
 
+&nbsp;
+
 Then, there are the bungalows. Overwater, of course. On stilts, overlooking the limpid, opalescent waters of the Taha’a lagoon – or, if you’re lucky, the sunset – these tiny homes suspended above the waterline are havens that feel at once indulgent and comfortable. They blend authentic Polynesian design – complete with thatched roofs crafted from dried pandanus leaves – with modern accoutrements, and offer direct access to the water. For a more secluded getaway, opt for the newly renovated royal villas: both 260m<sup>2</sup> and facing the lagoon, they have been built using traditional Polynesian techniques and include intricate carvings, an outdoor dinner deck called a *fare* *pōte’e*, as well as a private garden with pool and direct beach access.
+
+![](/uploads/royal-villa-1.jpg)
 
 Days at Le Taha’a look a little like this: slow, lazy mornings that somehow blend into lunch – note that the hotel is happy to deliver dishes to the beach or even the heart-shaped sandbank in the middle of the lagoon – after which follows a waterside siesta in the sunshine, feeling satisfied and relaxed. Dinner, a gourmet affair, can be found at one of the three on-site restaurants, each with a different vista: Hawaiki Nui is set high among the trees and puts on a vibrant live show on Tuesdays featuring traditional dancers and songs. Titiraina is al fresco, right on the beach. On the menu is Tahiti’s traditional *poisson cru*, raw tuna marinated in lime and coconut milk. Tipairua, meanwhile, serves French-Polynesian fusions on its five-course menu by chef David Pelet: think motu coconut soup with Colonnata bacon and curry with breadfruit croutons and duck foie gras; or lagoon fish, jammy-sweet candied tomatoes, asparagus stuffed with black garlic, Taha’a lemon vanilla reduction and piquillo coulis.
 
