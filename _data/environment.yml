@@ -22,8 +22,7 @@ cards:
       - number 10
     title: ' The Force Of Nature '
     description: ' After centuries of being both fought over and neglected, today the tiny isle of Pianosa has become a precious international case in the promising power of rewilding. We investigate how such an evolution came about '
-  - image: >-
-      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-environment-seatrees-1.jpg
+  - image: /uploads/tide-magazine-life-in-the-meadows.png
     alt: ' Life in the Meadows '
     link: /articles/sea-trees
     tags:
