@@ -5,8 +5,9 @@ title: Atoll Protected
 type: Environment
 byline: 'WORDS: CHRISSIE MCCLATCHIE  | ILLUSTRATOR: JOSE WALKER'
 issue_no: number 08
-featured_image: 
-  image: /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-environment-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-environment-1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -25,9 +26,15 @@ images:
 ---
 Teti’aroa, the castaway atoll in the middle of the Pacific Ocean, has always been a hallowed place for royalty. In years gone by, Tahitian monarchs and their families would retreat to its shallow shores, called to its *maraes* (meeting grounds) by the echoes of Polynesian tribes from centuries past.
 
+![](/uploads/pieces.jpg)
+
+&nbsp;
+
 These tribes would come together on the scattering of *motus* (sandy islets) for sacred ceremonies and meetings that welded their culture, customs and religions with nature. Beneath their feet, under the coral reef that encircled them, lay an immense atoll, bursting with unbridled marine life (see *Hidden Gems*, page 64, for more on its long and fascinating history).
 
 Motus are just the tip of the iceberg when it comes to atolls, immense underwater formations that evolve as volcanoes subside. At Teti’aroa, that volcano is more than three million years old and the mass that peeks out above the waterline is a mere one per cent of the formation’s total size.
+
+![](/uploads/palm2.jpg)
 
 Late actor and activist Marlon Brando immediately understood the significance of the rich history and scientific insight that Teti’aroa possesses after discovering the islet whilst on a hike during the shooting of 1962 film *Mutiny on the Bounty*. His estate continues to hold the 99-year lease he quickly signed, as well as operate The Brando, the sustainable luxury resort he instigated there. Aware of his role as a steward – the link between Teti’aroa’s past and its future – Brando’s intent was always “to protect the atoll for the people who came before \[him\] as much as for those who came after”. And these wishes are being carried on by Teti’aroa Society, a non-profit founded by the Brando Estate and Pacific Beachcomber, the owner of The Brando.
 
@@ -35,9 +42,13 @@ Late actor and activist Marlon Brando immediately understood the significance of
 
 “The mission of Teti’aroa Society is to conserve and protect the atoll of Teti’aroa and develop models for the conservation of oceanic islands and atolls in particular,” explains Frank Murphy, Executive Director. From its base near The Brando, known as the Ecostation (built and gifted to the society by the owner), a team of international scientists as well as locals and naturalist guides from neighbouring islands work to bring this mission to life through education, conservation, science and guide programmes that fuse both academic and ancient knowledge.
 
+![](/uploads/nightwave.jpg)
+
 Their little slice of Polynesia teems with biodiversity: out of the entire Society Islands (the archipelago where the atoll is located), Teti’aroa is noted for having the highest variety of coral and is home to a dazzling array of exotic fish species with suitably evocative names, such as lemonpeel angelfish, slingjaw wrasse and blotch-eye soldierfish.
 
 The atoll is also one of French Polynesia’s major seabird breeding grounds: of the nine species of seabirds who nest here, four are on the International Union for Conservation of Nature (IUCN)’s list of locally-threatened species: grey-backed tern, great crested tern, bristle-thighed curlew and the brown booby. Green sea turtles and coconut crabs also call Teti’aroa’s motus <br>their home.
+
+![](/uploads/barbados3-2x.jpg)
 
 But this happy ecosystem has long had threats to its peace, including two species of rodents, the Polynesia rat and the black rat, who wreak havoc on the island and its marine ecosystem. These rodents prey on seabirds and feed on their eggs, along with hatchling turtles emerging from the nest. They are also a predator of land crabs.
 
