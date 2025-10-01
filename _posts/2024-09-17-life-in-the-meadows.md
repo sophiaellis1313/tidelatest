@@ -29,17 +29,25 @@ images:
 ---
 A slick, shiny creature darts between long blades of jade green grass. He’s cautious. The grass is safe, but his silvery body sparkles against the sun’s rays; flickering between shadows, he’s easy to spot. Gently, he sways to the same slow rhythm as his grass forest, carried along by invisible currents. Curious, soulful black eyes watch, darting left, right, up, down. Then there: a second, smaller silvery-gold being. The first doesn’t move, doesn’t react; a friend? Certainly not foe, that’s for sure. Within seconds, they flit away together in the same direction, attention captured by something deeper within the fronds. With such little hesitation, the meadow looks to be familiar, home. But it may not be for much longer.
 
+![](/uploads/fish16-1.jpg)
+
 Meadows don’t only exist on land. This one is made of Posidonia oceanica, and it goes by many names: Posidonia to some, Neptune grass to others – even the lungs of the sea. It’s a seagrass, native to the Mediterranean, though seagrass exists in oceans all over the globe.
 
 The importance of seagrass meadows can’t be overstated. As well as being home to shiny, silvery, curious little fishes, they’re also instrumental in the global fight against climate change by capturing and sequestering huge amounts of carbon.
+
+![](/uploads/fish18.jpg)
 
 Each hectare can retain thousands of kilograms of carbon dioxide for thousands of years, just like forests on land. The amount of carbon sequestered by the seagrasses in the Mediterranean is estimated to be up to 20 per cent of the total carbon captured by all seagrasses on Earth – not insignificant. In fact, Posidonia specifically is estimated to be responsible for 40 per cent of the total carbon captured annually of all coastal vegetation combined. In Formentera, in an area designated a World Heritage Site by UNESCO, a single hectare sequesters as much carbon as 15 hectares of the Amazon.
 
 The waters between Ibiza and Formentera are home to 55,000 such hectares; it is thought by many to be one of, if not the oldest organism in the world, at around 100,000 years old. As such, it’s an important natural carbon sink, and a nursery site for fish – both of which play essential roles in fighting climate change by reducing erosion, increasing biodiversity and cleaning the water, giving the seas around the islands their famous turquoise hue. On top of all that, seagrasses such as P. oceanica are habitat-forming species. Essentially, if we plant it, they – the fishes – will come.
 
+![](/uploads/fish21.jpg)
+
 And yet, our Posidonia meadows are in danger. Much like the oft-reported bleaching and death of coral reefs, seagrasses are facing a similar fate. They’re also fragile, and slow to grow, at a rate of just one centimetre a year. That means natural colonisation is slow going, which is why local efforts to preserve and replant are crucial.
 
 Mallorcan initiative Fundación Cleanwaves, working with California-based SeaTrees, is striving to do just that. Together, their MedGardens Seagrass and Macroalgae Restoration Project aims to protect and regenerate the land and sea in the Mediterranean. “The preservation and restoration of P. oceanica meadows are crucial for environmental and economic stability, and the well-being of coastal communities,” explains José Escaño, the co-founder of Fundación Cleanwaves. “The ecosystem services alone provided by Posidonia meadows can be valued between thousands and millions of euros per hectare, supporting local economies through tourism, fisheries and coastal protection.”
+
+![](/uploads/fish23.jpg)
 
 The restoration of seagrass meadows involves collecting healthy fragments, disconnected from the seabed by storms, turbulence or human interaction, and transplanting them into areas where damage has occurred. They also use algae, seeding locally made clay tiles before attaching them to rock reefs. Both these algae tiles and seagrass fragments grow up to reforest their little patch of the seafloor, providing much-needed ecosystems for marine life.
 
