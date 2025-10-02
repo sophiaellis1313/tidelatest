@@ -51,13 +51,19 @@ images:
 
 Charismatic, entwined with the sea and rich with stories and increasingly good food and wine – it’s no wonder Travel Writer Rick Jordan has been visiting the town for years. Here he shares his essential to-dos.
 
+![](/uploads/a-rovinj.jpg)
+
 Standing on top of the church of St Euphemia in Rovinj is a statue of the saint whose body turns in the wind like a weathervane – when the wind changes direction, she performs a slow pirouette. Virtually surrounded by the sea, this northern Croatian town feels almost like an island, with medieval streets winding up to its highest point, the church; from her crow’s-nest position, the saint can see out over the ocean for miles.
 
 <br><br>Set on the Istrian peninsula, Rovinj’s history and culture is salt-crusted, as intricately entwined with the sea as the nets you see gathered in cloud-like bales on the harbour side. Ancient Greek ships sailed here to trade, followed by the Romans; during its time as part of the Venetian Empire its sea Captains were renowned for their nautical skills and courage, clashing in battles with the Ottomans and building grand houses with their riches. In the 19th century, steamships sailed here from Trieste, bringing the top-hatted Habsburg elite to their summer houses – now their modern counterparts moor their yachts at the box-fresh marina below the Grand Park Hotel.
 
+![](/uploads/b-rovinj.jpg)
+
 I’ve been coming to Rovinj (tempting to pronounce the name to rhyme with ‘hinge’, but actually the ‘j’ is silent and you linger on the ‘n’ with a flourish) for over a decade, drawn back out of season when the crowds from Austria and Italy have subsided, but when the water is still warm enough to dive into, the tables of pavement cafés still fluttering paper menus. It has all the charisma of a Hollywood actor from the 1950s, chiselled in white limestone, capped with terracotta roofs. Walking over the time-polished stone steps of the old town, I’ll pass some familiar sights: the antique diving suit – the sort that you might see in *Tintin* – welcoming diners at Veli Joze restaurant; the washing hung up like semaphore messages between buildings in the narrow alleys, buzzed by swifts that hurtle past with a screech. At the market, grizzled men order mid-morning glasses of wine at Grota bar, gathered around upturned barrels next to a model of a 19th-century sailing ship, and scorpion fish redden the ice at the fishmongers.
 
 Later in the day, I’ll cycle out around the harbour and headland, past the masts of fishing boats that click in the breeze like knitting needles, and freewheel along the promontory, past the Mulini beach club with its navy blue parasols and sunbeds. The trail takes me through a pine forest, and past little coves where idling sunbathers have stacked bleach-white pebbles into teetering cairns. Stripping off, you use the rocks as stepping stones to the sea, launching out into water that’s so clear you can see your toes scrunching over the seabed. Easy to while away an afternoon here, until, with sunset approaching, you cycle back to the old town and make for the Mediterraneo bar, facing west as the sky turns orange and red, watching local teenagers take turns to dive off the rocks and, if you’re lucky, a dolphin or two leaping out of the water.
+
+![](/uploads/rovinj-21021-danijelakrekovic.jpg)
 
 &nbsp;
 
@@ -72,6 +78,8 @@ A few years ago, Rovinj was drenched by a storm so wild that the waves crashed o
 ### **Karst Adrift**
 
 <br>Beaches, sunshine and sailing, yes; but do many people come to Istria for the geology? They should. Croatia is one of the great karst countries of the world, alongside China, Thailand and Vietnam, with much of its landscape defined by porous limestone sculpted by the elements into dramatic shapes. In Mexico, this erosion creates the underground swimming pools known as cenotes; in southern China, the spiny, stone forests of Shilin. Around Rovinj, it has carved out sea caves, the Lim Fjord and the archipelago of islands just offshore, with bare-knuckle cliffs for jumping off into the water below. There are fantastical inland caves, too, such as the one at Festinsko, and the limestone and dolomite quarry at Kamenolom Fantazija, where trails lead around immense cross-sections of rock, allowing you to see the intricate geological formations. Most dramatic of all, though, is the Pazin Abyss, about a 40-minute drive from Rovinj, where a zipline will take you skimming above a craggy karst landscape that inspired French author Jules Verne.[<br>*https://geofantazija.hr*](https://geofantazija.hr)
+
+![](/uploads/rovinj-21022-danijelakrekovic.jpg)
 
 &nbsp;
 
