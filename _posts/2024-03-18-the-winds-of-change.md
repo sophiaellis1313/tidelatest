@@ -5,8 +5,9 @@ title: The Winds of Change
 type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE |  IMAGES: VEER GROUP'
 issue_no: number 05
-featured_image: 
-  image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+featured_image:
+  image: >-
+    /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -30,19 +31,27 @@ images:
 ---
 In a world grappling with the early devastating effects of a warming climate, the maritime world stands apart as an oft-overlooked contributor. Out at sea, away from critical eyes, marine transport has long exerted a significant impact on the environment, often hidden beneath the surface of economic growth.
 
+![](/uploads/veer-group-design-n-1-rendering-2.png)
+
 However, as ships crisscross our oceans, their operations emit substantial greenhouse gases, contribute to air pollution, and pose dire threats to our fragile marine ecosystems. In the last three decades, the volume of international maritime trade has increased significantly, and while it is one of the most energy-efficient modes of transport, it is also a growing source of concern: by 2019, emissions from this sector had increased by 34 per cent compared with 1990—the fastest growth in the whole transport sector, alongside aviation, and the only sector in which emissions have risen since 1990.
 
 Within this sphere is the world of cargo shipping, responsible for moving 90 percent of all goods—a colossal task valued at over $1 trillion.
 
+![](/uploads/veer-group-design-n-1-rendering-3.png)
+
 Considering the relentless impact of conventional ships on the environment, one might expect a sombre narrative. However, Danielle Southcott is optimistic. She is the Founder and CEO of Veer, a pioneering force with a resolute vision to revolutionise cargo shipping and foster a cleaner, greener future. At the heart of her ethos lies the development of a ground-breaking sailing cargo ship, one powered primarily by wind, complemented by clean hydrogen fuel cells, to propel vessels across the seas.
 
 “Clean, to me, means zero combustible fuel,” says Danielle. “There are no toxic, negative greenhouse emissions at all associated with the propulsion of this vessel. That means zero carbon emissions, zero sulphur oxides and zero nitrous oxides.”
+
+![](/uploads/veer-group-design-n-1-rendering-4.png)
 
 Their first design, aptly named Nº1, will eliminate 100 percent of fossil fuel use.
 
 “A traditional cargo ship typically burns bunker fuel, which is the least-refined, lowest-grade fuel in the world. Ships’ fuel is so dirty and full of impurities that, in colder temperatures, it is solid enough to walk across. So, we are completely eliminating this.”
 
 Danielle’s business energy is one of optimism, possibility and practicality, weaving each into a compelling narrative.
+
+![](/uploads/veer-group-design-n-1-rendering-7.jpg)
 
 While her vision may appear ambitious, bordering on science fiction, the truth is far simpler. Danielle and her collaborators don’t seek to reinvent the wheel; instead, they leverage tried-and-tested technologies. Yet, overcoming the perception of novelty remains Veer’s greatest challenge.
 
