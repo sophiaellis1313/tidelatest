@@ -5,11 +5,11 @@ title: Panama to the Pacific
 type: Travel
 byline: 'WORDS: Phoebe Hunt | IMAGES: Stuart M Boliter'
 issue_no: number 02
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-panama-pacific-10.jpg
   position: img-center
 video: false
-video_path: 
+video_path:
 short-description: >
   An epic voyage spanning over 7000 nautical miles, we follow photographer
   Stuart M Boliter to bring you to our favourite destinations in Panama and
@@ -21,34 +21,38 @@ categories:
 images:
   - image: /uploads/tide-magazine-travel-panama-pacific-9.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-2.jpg
     caption: false
-    credit:  
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-3.jpg
     caption: false
-    credit:  
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-4.jpg
     caption: false
-    credit:  
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-5.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-6.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-7.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-travel-panama-pacific-8.jpg
     caption: false
-    credit: 
+    credit:
 ---
 An epic voyage spanning over 7000 nautical miles, we follow photographer Stuart M Boliter to bring you to our favourite destinations in Panama and across the Pacific: luminescent turquoise waters, world class surfing, impossibly white beaches and myriad tiny islands teeming with sea life.
+
+![](/uploads/pacificcrossing-latifa-gh-1.jpg)
 
 The Pacific Passage is not one for the faint hearted, with vast distances between land, and lightning, sunken reefs and rapid currents to contend with. Still, if you know what you’re doing, the ocean voyage can take you to some of the most pristine and undiscovered corners of the earth.
 
 To discover some highlights of from Panama to the Pacific, we sit down with seasoned photographer Stuart M Boliter. Starting in the San Blas islands and crossing through the Panama Canal, Stuart’s itinerary begins with the so-called “Milk Run” - the route of choice for the first leg of the Pacific. The journey is best started in March or April, after winter in the Caribbean, meaning you pass French Polynesia towards the end of the Southern cyclone season. After this, routes through the West Pacific vary, but Stuart takes us to the crystal waters of Fiji for epic surfing and water sports, before heading to the Solomon Islands for WWII shipwrecks and more.
+
+![](/uploads/pacificcrossing-latifa-gh-2.jpg)
 
 **San Blas**
 
@@ -58,9 +62,13 @@ Our journey begins in San Blas, a cluster of over 300 islands and cays off locat
 
 Entering the Pacific through the Panama Canal, the first thing you’ll notice around Panama is the massive abundance of sea life – throughout the summer months, humpback and pilot whales arrive *en masse* to give birth to their calves, and you’ll find walls of hammerhead sharks.
 
+![](/uploads/pacificcrossing-latifa-gh-3.jpg)
+
 For anyone with a passion for wildlife, Coiba National Park in the Gulf of Chiriqui off Panama is gloriously wild and unspoilt; a true hidden gem for snorkelling, diving and bird watching. Encompassing 38 islands, the marine reserve has remained so pristine in part because it was a prison until 2004, meaning tourists were banned. Now, despite gaining UNESCO world heritage status, tour operators are diligent in keeping the eco-system protected and unpolluted, and it still feels totally remote.
 
 For a slice of luxury before the leaving the coast of Panama behind, spend a few days at Islas Secas Hotel, where nine stunning eco lodges across different private islands were opened to much excitement this January. The properties are surrounded by untouched wilderness, with a restaurant serving simple yet sensational local cuisine.
+
+![](/uploads/pacificcrossing-latifa-gh-4.jpg)
 
 **French Polynesia**
 
@@ -68,9 +76,13 @@ Next on the Milk Run agenda and a mere 4,800 nautical miles later, we reach Fren
 
 Tahiti is known for its surfing, with deep southern ocean swell hitting the reef, and Teahupo’o one of the largest and most famous waves in the world. Between here and Moraya, a fast flow of water means huge pods of humpback whales come to feed, and the sea is filled with ocean life. The northernmost islands are perhaps the most spectacular of all. In Fakarava and Rangiroa, immense lagoons that are classified as biosphere reserves, it’s common to see huge pods of friendly dolphins feeding in the path of the incoming tide. Pair this with dramatic scenery - massive mountains that rise out of the oceans – and that crystal blue island water, and it’s likely to be one of the greatest stops on the voyage.
 
+![](/uploads/pacificcrossing-latifa-gh-5.jpg)
+
 **Fiji**
 
 In Fiji, it’s all about rugged landscapes, palm-lined beaches and more coral reefs with lagoons teeming with sea life. The collection of islands and islets aren’t as pristine as others in the Pacific, but they do offer some of the best water sport conditions. An abundance of waves means there are spots for all levels of surfing, and the steady winds providing a haven for kite-surfing, wind-surfing and more. The Lau islands east of Fiji are perfect for super yachts, offering calm and protected anchorage inside the reef and wonderful cruising as unearthly green islands rise up from the sea. Hire a local to take you swimming with turtles, gliding over long sea grass filled with colourful fish. A word of advice, though: when you arrive, it’s customary to bring an offering of kava root to the local village chief in return for mooring off their waters, a native plant which gives a mild euphoric high when consumed. This can be picked up when doing provisions in the capital of Suva, and is crushed into a paste and mixed with water before being shared at elaborate cava festivals.
+
+![](/uploads/pacificcrossing-latifa-gh-6.jpg)
 
 **Solomon Islands**
 
