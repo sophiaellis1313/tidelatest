@@ -5,7 +5,7 @@ title: 'Checking In: Bill & Coo, Mykonos '
 type: Travel
 byline: 'WORDS: PHOEBE HUNT | IMAGES: BILL & COO'
 issue_no: number 05
-featured_image: 
+featured_image:
   image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-hotel1.jpg
   position: img-center
 video: false
@@ -35,11 +35,15 @@ images:
 ---
 Mykonos is not known for doing things in halves. Love it or hate it, every mile of the best-known island in the Cyclades reveals yet more magical corners and luxury hangouts. This makes it all the more challenging for a newcomer to do something differently, and carve out an individually tailored experience.
 
+![](/uploads/bill-coo-suite-infinity-pool.jpg)
+
 This didn’t stop Bill & Coo’s founders from pursuing their vision for a place that breaks away from the glitzy party scene. The family-run Greek hospitality brand bucks the trend in the island’s more-is-more mentality with a delightfully minimal atmosphere. As the immensely personable staff will tell you on arrival, sliding a cocktail into your hand, it’s a place for walking around barefoot, for soaking up the views and energy of neighbouring Delos Island, and for jumping into the crystal-clear waters from the beautiful, exclusive stretch of beach.
 
 The hotel’s main buildings are inspired by the typical island architecture, making use of local stone and Cycladic features. Though it was all constructed less than twenty years ago, there’s an eclectic irregularity to the buildings that makes it feel like a timeless hamlet. The interiors, meanwhile, are characterised by a light-filled open-plan living area, where guests can relax or be treated to a memorable meal or grill prepared by a private chef. Aside from the infinity pool ideal for a sunset dip before dinner, save time to indulge in the Valmont Spa, a true sanctuary of calm and well-being concealed below the main hotel.
 
 The main hotel has 33 rooms and suites, each slightly unique. For the ultimate experience, opt for the deluxe suite with a plunge pool, or the honeymoon suite with a rooftop jacuzzi overlooking the ocean below. Inside the suites, the little touches are what sets this place apart among the rest of the island’s 5-star offering. Diptyque toiletries, an integrated sound system, a thoughtfully curated snack selection in the minibar… though it’s got all the trappings of other luxury dwellings, the owners are not afraid to do things slightly differently.
+
+![](/uploads/bill-coo-suites-and-lounge-entrance.jpg)
 
 Meanwhile, the three new Bill & Coo Villas – tucked just behind the hotel for those who prefer a mini villa experience with all the hotel amenities - combine the authentic aesthetic of Mykonos with cleaner white lines and natural materials. Each one has a 120 sqm outdoor terrace and a private swimming pool, overlooking the sea and catching long hours of sunshine.
 
