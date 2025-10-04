@@ -5,7 +5,7 @@ title: A Kind of Magic
 type: Design
 byline: 'WORDS: EMMA BAMFORD | IMAGE: ZELMIRA FRERS'
 issue_no: number 05
-featured_image: 
+featured_image:
   image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-design.jpg
   position: img-center
 video: false
@@ -23,6 +23,8 @@ images:
     credit:
 ---
 I’ve been writing about sailing for more than a decade now, and the one astonishing fact that stood out to me beyond any other is that when the beautiful 42.4 metre Spirit of Tradition ketch *Rebecca* was first being designed, she had no bow.
+
+![](/uploads/9-ph-zelmira-frers-dsc-5385-german-frers-recluta-2018.webp)
 
 Even the most confirmed landlubber understands that a boat with no bow cannot float, but when the project began, her designer and naval architect Germán Frers and the owner were still in discussion about the final shape of the bow. Unperturbed, Frers started work without one.
 
