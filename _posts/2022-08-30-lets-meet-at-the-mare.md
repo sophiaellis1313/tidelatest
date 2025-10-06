@@ -1,5 +1,6 @@
 ---
 layout: blog
+author: test
 permalink: /articles/portofino
 title: 'Portofino: Let''s Meet at the Mare'
 type: Travel

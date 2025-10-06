@@ -34,17 +34,21 @@ hide-nav: hide-nav
   </div>
 
   <!-- Post meta -->
-  <section class="container-full rte">
-    <div class="d-flex gap-10 uppercase mb-10 font-xs normal-letter-spacing mb-1 justify-center pt-2 blog-details align-center" style="display: none;">
-      {% if page.author %}
-        <span class="h4heading">WORDS: {{ page.author }}</span>
-        <span class="divider"></span>
+  <section class="container-full rte" style="margin-top:15px">
+     {% if page.byline %}
+    <div class="d-flex gap-10 uppercase font-xs normal-letter-spacing mb-1 justify-center pt-2 blog-details align-center">
+      {% assign byline_parts = page.byline | split: ' | ' %}
+      
+      <!-- Display Words -->
+      {% if byline_parts[0] %}
+      <span class="h4heading">{{ byline_parts[0] }}</span>
       {% endif %}
-      {% if page.issue_no %}
-        <span class="h4heading">{{ page.issue_no }}</span>
+      {% if byline_parts[1] %}
+      <span class="divider"></span>
+      <span class="h4heading">{{ byline_parts[1] }}</span>
       {% endif %}
     </div>
-
+    {% endif %}
     <!-- Post content -->
     <div class="blog-content">
       {{ content }}
