@@ -3,7 +3,7 @@ layout: blog
 permalink: '/articles/Frers-spirit '
 title: 'Frers Spirit '
 type: sailing
-byline: 'Author: Laura Dannen Redman '
+byline: 'WORDS: LAURA D REDMAN  |  IMAGES: FRERS STUDIO'
 issue_no: number 13
 featured_image:
   image: /uploads/interior-studio-frers-min.jpg
