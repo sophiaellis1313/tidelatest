@@ -262,8 +262,7 @@ content_on_image:
 
   button:
     text: More
-    link: >-
-      https://peachy-lion.cloudvent.net/articles/The-beautiful-lightness-of-being.html
+    link: /articles/The-beautiful-lightness-of-being%20.html
     style: white-btn
 content_on_image2:
   image:
@@ -282,7 +281,7 @@ content_on_image2:
 
   button:
     text: More
-    link: articles/Hidden-Gems-Greek-Islands%20.html
+    link: /articles/Hidden-Gems-Greek-Islands%20.html
     style: white-btn
 content_on_image3:
   image:
