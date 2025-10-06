@@ -3,7 +3,7 @@ layout: blog
 permalink: '/articles/The-High-Low-the-Greek-Islands '
 title: 'The High Low: the Greek Islands '
 type: travel
-byline: 'Author: Helen Iatrou '
+byline: 'WORDS: HELEN IATROU  |  IMAGES: DOMES RESORTS & CLAIRE LLOYD'
 issue_no: number 13
 featured_image:
   image: /uploads/high-low-desktop.png
