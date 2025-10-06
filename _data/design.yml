@@ -122,7 +122,11 @@ subscribe_section:
   buttons:
     - text: IN PRINT
       class: btn-border
+      link: "https://www.mymagazinesub.co.uk"
       arrow: left
     - text: DIGITAL
       class: btn-border
+      link: "#"
       arrow: right
+
+

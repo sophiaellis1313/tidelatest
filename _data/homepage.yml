@@ -330,6 +330,9 @@ subscribe:
       alt: Tablet
   buttons:
     - text: IN PRINT
+      link: "https://www.mymagazinesub.co.uk"
       position: left
     - text: DIGITAL
+      link: "#"
       position: right
+
