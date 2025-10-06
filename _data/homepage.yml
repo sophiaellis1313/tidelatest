@@ -26,7 +26,7 @@ homepage_banner:
     video: false
     video_path: Issue Number Fourteen | 14 in store now
     poster: /images/homepage-poster.jpg
-    fallback_image: /uploads/issue-14-tide-cover-aquarius.png
+    fallback_image: /uploads/issue-14-tide-desktop.png
     image_position: center
     title: Issue Number Fourteen | 14 in store now
     tags:
