@@ -24,19 +24,15 @@ homepage_banner:
   desktop:
     url: /articles/Drumfire-the-boat-to-beat%20.html
     video: false
-    video_path: /uploads/OrotonDrumfire©Bennett9299.png
+    video_path: /uploads/issue-14-tide-cover-aquarius-desktop.png
     poster: /images/homepage-poster.jpg
-    fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
+    fallback_image: /uploads/issue-14-tide-cover-aquarius.png
     image_position: center
-    title: 'Drumfire: The Boat to Beat'
+    title: 'Out now: Issue 14'
     tags:
-      - Sailing
-      - NUMBER 13
-    description: >+
-      The first of Andre Hoek’s Truly Classic 78s has come into her own Down
-      Under following decades spent in the shadow of others in Europe. The
-      boatbuilder, her Captain and new owners each share the secrets to her
-      newfound success.
+      - Issue
+      - NUMBER 14
+    description: |+
 
     button:
       text: MORE
