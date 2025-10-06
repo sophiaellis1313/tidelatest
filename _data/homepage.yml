@@ -24,7 +24,7 @@ homepage_banner:
   desktop:
     url: /articles/Drumfire-the-boat-to-beat%20.html
     video: false
-    video_path: /uploads/issue-14-tide-cover-aquarius-desktop.png
+    video_path: /uploads/issue-14-tide-desktop.png
     poster: /images/homepage-poster.jpg
     fallback_image: /uploads/issue-14-tide-cover-aquarius.png
     image_position: center
