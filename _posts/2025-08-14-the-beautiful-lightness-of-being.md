@@ -3,7 +3,7 @@ layout: blog
 permalink: '/articles/The-beautiful-lightness-of-being '
 title: 'The beautiful lightness of being '
 type: sailing
-byline: 'Author: Samuel Jefferson '
+byline: 'WORDS: SAMUEL JEFFERSON  |  IMAGES: ORIOL ESTEVE'
 issue_no: number 13
 featured_image:
   image: /uploads/sw108-02-deck-24.jpg
