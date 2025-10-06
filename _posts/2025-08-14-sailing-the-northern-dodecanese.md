@@ -3,7 +3,7 @@ layout: blog
 permalink: /articles/Sailing-the-Northern-Dodecanese
 title: Sailing the Northern Dodecanese
 type: travel
-byline: 'Author: Dayyan Armstrong '
+byline: 'WORDS AND IMAGES: DAYYAN ARMSTRONG '
 issue_no: number 13
 featured_image:
   image: /uploads/dodecanese-tide-mag-dja-87-1-min.jpg
