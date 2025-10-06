@@ -3,7 +3,7 @@ layout: blog
 permalink: '/articles/Checking-in-Skinopi-Lodge '
 title: 'Checking in: Skinopi Lodge '
 type: travel
-byline: 'Author: Rachel Howard'
+byline: 'Words: Rachel Howard | Images: Lucy Laucht'
 issue_no: number 13
 featured_image:
   image: /uploads/image00014.jpeg
