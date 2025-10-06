@@ -262,9 +262,7 @@ content_on_image:
 
   button:
     text: More
-    link: >-
-      https://peachy-lion.cloudvent.net/articles/The-beautiful-lightness-of-being
-      .html
+    link: "https://peachy-lion.cloudvent.net/articles/The-beautiful-lightness-of-being.html"
     style: white-btn
 content_on_image2:
   image:
