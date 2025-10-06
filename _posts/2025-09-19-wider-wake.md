@@ -3,7 +3,7 @@ layout: blog
 permalink: /articles/Wider-wake
 title: Wider Wake
 type: sailing
-byline: 'Author: Samuel Jefferson '
+byline: 'WORDS: SAMUEL JEFFERSON  |  IMAGES: SEBASTIAN BARRETT'
 issue_no: number 13
 featured_image:
   image: /uploads/dsc01506-1-min-1.jpg
