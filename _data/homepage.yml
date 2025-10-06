@@ -9,9 +9,9 @@ buttonlabel2: VIEW ALL
 buttonlabel3: VIEW ALL
 buttonlabel4: VIEW ALL
 buttonlabel5: VIEW ALL
-desktop_first_image: /uploads/issue-13/issuenumber13-tm-cover-image-2.jpg
+desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
 desktop_first_image_position: img-left
-mobile_first_image: /uploads/issue-13/issuenumber13-tm-cover-image-2.jpg
+mobile_first_image: /uploads/issue-14-tide-cover-aquarius.png
 mobile_first_image_position: img-left-center
 sailing_image: /uploads/perserveance-sailing-yaght-tide-magazine-playlist-soudns.png
 lifestyle_image: /images/sailing-stockholm.png
@@ -262,7 +262,8 @@ content_on_image:
 
   button:
     text: More
-    link: "https://peachy-lion.cloudvent.net/articles/The-beautiful-lightness-of-being.html"
+    link: >-
+      https://peachy-lion.cloudvent.net/articles/The-beautiful-lightness-of-being.html
     style: white-btn
 content_on_image2:
   image:
@@ -328,9 +329,8 @@ subscribe:
       alt: Tablet
   buttons:
     - text: IN PRINT
-      link: "https://www.mymagazinesub.co.uk"
+      link: https://www.mymagazinesub.co.uk
       position: left
     - text: DIGITAL
-      link: "#"
+      link: '#'
       position: right
-
