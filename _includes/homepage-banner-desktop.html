@@ -23,8 +23,15 @@
         </div>
  
         <p class="mob-padding long-text mt-1 mb-1 text-white">{{ include.banner.description }}</p>
-        <span class="btn {{ include.banner.button.style }}">{{ include.banner.button.text }}</span>
+        <span data-link="{{ include.banner.button.link }}" class="btn trigggerrrrr {{ include.banner.button.style }}">{{ include.banner.button.text }}</span>
       </div>
     </a>
   </div>
 </section>
+
+<script>
+  // $('.trigggerrrrr').click(function(){
+  // var linkk = $(this).attr('data-link');
+  // window.location = linkk;
+  // });
+</script>
