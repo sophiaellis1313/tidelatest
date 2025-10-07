@@ -16,7 +16,7 @@ layout: default
       <div class="margin grid">
      
       <div class="col-12_sm-12 relative">
-        <a href="{{post.url}}">
+        <a href="/">
         {% if post.video == true %}
         <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{item.cover_image}}">
         <source src="{{post.video_path}}" type="video/mp4" />
@@ -26,7 +26,7 @@ layout: default
         <img class="img_lrge {{post.featured_image.position}}" src="{{ post.featured_image.image }}"></img>
         </a>
       </div>
-      <a href="{{post.url}}">
+      <a href="/">
         <div class="col-12 container">
           <h4 class="subtitle mt-2"> {{ post.type }} I {{ post.issue_no }}</h4>
           <h2 class="mob-padding mt-1 mb-1"> {{post.title}} </h2>

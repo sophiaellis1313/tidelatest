@@ -103,6 +103,11 @@ $(".burger-menu").click(function(){
 
 // Gallery pop up
 
+$('.featured-card').click(function(){
+var link = $(this).find('a').attr('href');
+window.location = link;
+});
+
 lightGallery(document.getElementById('lightgallery'), {
   speed: 500,
   download: false

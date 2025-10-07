@@ -3586,8 +3586,9 @@ body .myform .containser {
 body .myform input[type="submit"] {
     cursor: pointer;
 }
-
-
+.featured-card {
+    cursor: pointer;
+}
 .burger-menu-block{
   visibility: hidden;
   pointer-events: none;
