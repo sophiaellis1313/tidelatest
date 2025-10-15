@@ -1,0 +1,35 @@
+content_on_image1:
+  heading: "Explore Buy Subscribe to our latest issue, browse and purchase back issues."
+  primary_button:
+    text: "SUBSCRIBE NOW"
+    link: "#"
+  secondary_button:
+    text: "BROWSE ALL ISSUES"
+    link: "#"
+  image: "/assets/images/TIDE-issue-05-multi-cover-mockup.png"
+  alt: "Magazine mockup"
+  bg_class: "grey-bg"
+
+content_on_image2:
+  heading: "Join our exclusive club — early access to new issues and special editions."
+  primary_button:
+    text: "JOIN NOW"
+    link: "#"
+  secondary_button:
+    text: "VIEW COLLECTION"
+    link: "#"
+  image: "/assets/images/TIDE-issue-06-cover.png"
+  alt: "Exclusive cover"
+  bg_class: "white-bg"
+
+content_on_image3:
+  heading: "Discover stories that matter. Subscribe and never miss an update."
+  primary_button:
+    text: "SUBSCRIBE"
+    link: "#"
+  secondary_button:
+    text: "READ ARTICLES"
+    link: "#"
+  image: "/assets/images/TIDE-issue-07-cover.png"
+  alt: "Magazine preview"
+  bg_class: "light-grey-bg"

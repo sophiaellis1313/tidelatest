@@ -18,9 +18,13 @@ section.no-margin {
 :root {
   --xl-line-height: 22px;
   --xxl-line-height: 33px;
+  --global-line-height: 1.2;
   --xxxl-line-height: 45px;
   --heading-font: "Crimson Pro", serif;
   --overpass-family: "Overpass";
+}
+.global-line-height{
+  line-height: var(--global-line-height);
 }
 .medium-line-height {
   line-height: var(--xl-line-height); 
@@ -37,6 +41,9 @@ section.no-margin {
 }
 .letter-spacing {
   letter-spacing: 1.5px;
+}
+.grey-bg , .newsletter-popup-content.grey-bg{
+  background-color: #f9f9f9;
 }
 
 .border-bottom {
@@ -915,6 +922,10 @@ a {
 }
 .block {
   display: block;
+}
+.dark-btn.btn-border {
+    background: #001C38;
+    color: #fff;
 }
 
 /* typography */
@@ -3279,9 +3290,15 @@ footer .btn {
     padding: 40px 20px;
     margin: 0;
   }
+  .image-with-text-section .image-block{
+    display: block;
+  }
   .newsletter-section .image-block {
     margin-right: 0;
     display: none;
+  }
+    .image-with-text-section .image-block{
+    display: block;
   }
   .content-container{
     max-width: 100%;
@@ -3437,6 +3454,10 @@ header.scrolled .block-header-menu {
   .newsletter-section .image-block {
     display: none;
   }
+  .image-with-text-section .image-block{
+    display: block;
+    padding-inline: 0;
+  }
   .newsletter-section .categories {
     margin: 20px 0 100px;
   }
@@ -3451,6 +3472,9 @@ header.scrolled .block-header-menu {
   }
   .image-with-text-block , .rightbar {
     display: none !important;
+  }
+  .image-with-text-block .image-with-text-block{
+    display: block;
   }
   .sidebar-menu {
     max-width: 50%;
@@ -3592,4 +3616,10 @@ body .myform input[type="submit"] {
 .burger-menu-block{
   visibility: hidden;
   pointer-events: none;
+}
+.image-with-text-section .newsletter-popup-content{
+  box-shadow: unset;
+}
+.image-with-text-section .newsletter-section .image-block img{
+  max-height: unset;
 }
