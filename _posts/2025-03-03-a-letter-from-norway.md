@@ -6,7 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: JOSE WALKER'
 issue_no: number 11
 featured_image:
-  image: /uploads/environment-example.png
+  image: /uploads/environment-example-1.png
   position: img-center
 video: false
 video_path: ''
