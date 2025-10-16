@@ -2000,8 +2000,8 @@ form .btn-border {
 }
  .newsletter-popup {
   position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
+  bottom: 0; left: 0;
+  width: 100%; height: fit-content;
   background: rgba(0,0,0,0.6);
   display: none; /* hidden by default */
   align-items: center;
@@ -3392,14 +3392,33 @@ body .myform input[type="submit"] {
 .event-popup .newsletter-section .image-block img{
   object-fit: cover;
 }
-.event-popup.newsletter-popup{
+.event-popup.newsletter-popup.active{
   display: block;
+}
+.overlay-work.activee {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 9;
+    cursor: pointer;
+    bottom: 0;
+}
+.newsletter-popup-content.showmore p.description2 {
+    display: block !important;
 }
 /* Responsive design */
 
 .image-with-text-section p {
     margin-top: 14px;
     max-width: 360px;
+}
+.event-popup .showmore .blog-details {
+    max-height: 230px;
+    overflow: auto;
 }
 /* Responsive */
 @media (max-width: 991px) {

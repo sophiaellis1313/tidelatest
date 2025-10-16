@@ -1,15 +1,32 @@
 ---
 layout: blog
 title: "Hidden Gems of the Cyclades"
-categories: [travel]
-video: false
-video_path: /videos/hidden_gems.mp4
-cover_image: /images/hidden_gems_cover.jpg
-featured_image:
-  image: /images/hidden_gems_thumb.jpg
-  position: center
-short-description: "A glimpse into the secret islands of the Cyclades..."
+categories: ["travel"]
 type: "Feature"
 issue_no: "23"
+
+# Media
+video: false
+video_path: "/videos/hidden_gems.mp4"
+cover_image: "/images/hidden_gems_cover.jpg"
+featured_image:
+  image: "/images/hidden_gems_thumb.jpg"
+  position: "center"
+
+# Summary
+short_description: "A glimpse into the secret islands of the Cyclades — uncovering tranquil bays, timeless villages, and hidden adventures."
+
+# Section: Image with Text
+image_with_text1:
+  title: "Explore, Buy, and Subscribe to Our Latest Issue — or Browse and Purchase Past Editions."
+  description: "Stay in the loop with curated updates featuring new issues, exclusive articles, and upcoming events."
+  button_primary:
+    label: "Subscribe Now"
+    link: "#"
+  button_secondary:
+    label: "Browse All Issues"
+    link: "#"
+  image: "/images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png"
+  background_class: "grey-bg"
 ---
 Your markdown content here...

@@ -23,18 +23,19 @@ meta-description: "TIDE is adventure, travel, design, modernity, environment, te
 
   {% include slidernew.html cards=site.data.homepage.cards2 buttontext=buttontext2 %}
 
-  {% include image-banner.html %}
-
+  {% include image-banner.html content_banner=site.data.homepage.banner_section %}
+ 
   {% include slidernew.html cards=site.data.homepage.cards4 buttontext=buttontext4 %}
 
-{% include image-with-content.html content_on_image=site.data.homepage.content_on_image1 %}
+  {% include image-with-content.html content_on_image=site.data.homepage.image_with_text1 %}
+
  {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image3 %}
 
 
   {% include slidernew.html cards=site.data.homepage.cards3 buttontext=buttontext3 %}
 
   
-{% include image-with-content.html content_on_image=site.data.homepage.content_on_image2 %}
+  {% include image-with-content.html content_on_image=site.data.homepage.image_with_text2 %}
 
   {% include hidden-gems.html content_on_image=site.data.homepage.content_on_image2 %}
 

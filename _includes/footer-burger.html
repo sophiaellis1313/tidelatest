@@ -49,7 +49,11 @@
 
 <script>
 $('.featured-card').click(function(){
+if($(this).hasClass('not-trigger')){
+}
+else{
 var link = $(this).find('a').attr('href');
 window.location = link;
+}
 });
 </script>

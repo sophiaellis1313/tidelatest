@@ -1,42 +1,62 @@
 <section class="relative banner-img no-margin">
   <div class="grid">
     <div class="col-12_sm-12 relative">
-      <img class="img_lrge min-heigh block {{ site.data.event.banner.image_position }}" 
-           src="{{ site.data.event.banner.image }}" alt="Banner Image" />
+      <img class="img_lrge min-heigh block {{ include.content_banner.image_position }}" 
+           src="{{ include.content_banner.image }}" 
+           alt="Banner Image" />
     </div>
+
     <div class="content-on-hover py-30 dark-overlay vw-100 container-full pt-4 d-flex align-end overlay flex-wrap h-full">
       <div class="h-full w-full content-center centered banner--main">
-        <!-- <h2 class="mob-padding mt-1 mb-1 text-white font-s overpass-font-family mb-10 large-letter-spacing">
-          {{ site.data.event.banner.heading }}
-        </h2> -->
+
+        {% if include.content_banner.tags %}
         <div class="d-flex gap-10 uppercase font-xs normal-letter-spacing mb-1 align-center overpass-font-family card-tags mob-padding mb-1 text-white mb-10 large-letter-spacing justify-center">
-                  
-                    <span>Design</span>
-                    <span class="divider white-border"></span>
-                  
-                    <span>Number 11</span>
-                    
-                  
-                </div>
-        <div>
-          <p class="mob-padding long-text mt-1 text-white mb-2" style="place-self: center;">
-            <img src="../images/pursuit.png" 
-                 width="225px" />
-          </p>
-          <h3 class="overpass-font-family font-small extra-large-line-height font-weight-600">
-            {{ site.data.event.banner.date }}
-          </h3>
-          <h3 class="font-ss overpass-font-family d-flex gap-10 justify-center flex-wrap">
-            <i class="crimson">{{ site.data.event.banner.location.prefix }}</i>
-            <span class="font-weight-600">{{ site.data.event.banner.location.place }}</span>
-            <i class="crimson">{{ site.data.event.banner.location.suffix }}</i>
-            <span class="font-weight-600">{{ site.data.event.banner.location.partners }}</span>
-          </h3>
+          {% for tag in include.content_banner.tags %}
+            <span>{{ tag }}</span>
+            {% unless forloop.last %}
+              <span class="divider white-border"></span>
+            {% endunless %}
+          {% endfor %}
         </div>
-        <a href="{{ site.data.site.banner.button.link }}" 
-           class="btn white-btn mt-2">
-          {{ site.data.event.banner.button.text }}
+        {% endif %}
+
+        <div>
+          {% if include.content_banner.logo %}
+          <p class="mob-padding long-text mt-1 text-white mb-2" style="place-self: center;">
+            <img src="{{ include.content_banner.logo }}" width="{{ include.content_banner.logo_width }}" />
+          </p>
+          {% endif %}
+
+          {% if include.content_banner.date %}
+          <h3 class="overpass-font-family font-small extra-large-line-height font-weight-600">
+            {{ include.content_banner.date }}
+          </h3>
+          {% endif %}
+
+          {% if include.content_banner.location %}
+          <h3 class="font-ss overpass-font-family d-flex gap-10 justify-center flex-wrap">
+            {% if include.content_banner.location.prefix %}
+              <i class="crimson">{{ include.content_banner.location.prefix }}</i>
+            {% endif %}
+            {% if include.content_banner.location.place %}
+              <span class="font-weight-600">{{ include.content_banner.location.place }}</span>
+            {% endif %}
+            {% if include.content_banner.location.suffix %}
+              <i class="crimson">{{ include.content_banner.location.suffix }}</i>
+            {% endif %}
+            {% if include.content_banner.location.partners %}
+              <span class="font-weight-600">{{ include.content_banner.location.partners }}</span>
+            {% endif %}
+          </h3>
+          {% endif %}
+        </div>
+
+        {% if include.content_banner.button %}
+        <a href="{{ include.content_banner.button.link }}" class="btn white-btn mt-2">
+          {{ include.content_banner.button.text }}
         </a>
+        {% endif %}
+        
       </div>
     </div>
   </div>

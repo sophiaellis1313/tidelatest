@@ -52,11 +52,54 @@ layout: default
       
      {% for card in site.data.event.cards %}
         <div class="swiper-slide ">
-          <div class="featured-card{% if forloop.first %} {% endif %}">
+          <div class="data-popup" style="display: none;">
+          
+            <div class="event-popup newsletter-popup w-full grey-bg" id="eventPopup">
+            <div class="newsletter-popup-content w-full grey-bg">
+              <button class="popup-close" id="closePopup">&times;</button>
+              
+              <section class="newsletter-section w-full">
+                <div class="newsletter-wrapper w-full">
+                  
+                  <div class="content-block">
+                    <span class="font-xs overpass-font-family block font-weight-400"> TIDE <b>EVENT</b> </span>
+                    <div class="content-container global-line-height font-weight-400">
+                      <h2 class="h2 font-weight-400">{{ card.popup_title }}</h2>
+
+                      <div class="date_time">
+                      <p class="large-line-height overpass-font-family font-s font-weight-400">{{ card.popup_date }}</p>
+                      <p class="large-line-height overpass-font-family font-s font-weight-400" >{{ card.popup_name }}</p>
+                    </div>
+
+                    <div class="blog-details">
+                      <p class=" font-s font-weight-400">
+                        {{ card.popup_description }}
+                      </p>
+                      <p class="description2  font-s font-weight-400" style="display: none;">
+                        {{ card.popup_description2 }}
+                      </p>
+                    </div>
+                    <div class="mt-mob mt-big d-flex gap-15">
+                      <a  class="dark-btn btn-border readmoree">{{ card.popup_button_label }}</a>
+                      <a href="{{ card.popup_button_link2 }}" class="btn-border">{{ card.popup_button_label2 }} </a>
+                    </div>
+                    </div>
+                  
+                  </div>  
+
+                  <div class="image-block">
+                    <img src="{{ card.image }}" alt="{{ card.alt }}" />
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+
+          </div>
+          <div class="featured-card{% if forloop.first %} {% endif %} not-trigger">
             <img src="{{ card.image }}" alt="{{ card.alt }}" class="w-full h-auto mb-20 d-block" />
 
             <div class="featured-detail pt-24 px-10">
-              <a href="{{ card.link }}">
                 <div class="d-flex gap-10 uppercase font-xs normal-letter-spacing mb-1 align-center overpass-font-family card-tags">
                   {% for tag in card.tags %}
                     <span>{{ tag }}</span>
@@ -66,7 +109,9 @@ layout: default
 
                 <h2 class="mob-padding title-block h2">{{ card.title }}</h2>
                 <p class="mob-padding long-text w-36">{{ card.description }}</p>
-              </a>
+              <div class="more_button_popup mt-1 more_button_popup btn-border block">
+                  More
+                </div>
             </div>
           </div>
         </div>
@@ -80,6 +125,8 @@ layout: default
 </section>
 
  {% include event-popup.html %}
+ 
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   let swiperInstance; 
@@ -102,4 +149,6 @@ document.addEventListener("DOMContentLoaded", function () {
   initOrDestroySwiper();
   window.addEventListener("resize", initOrDestroySwiper);
 });
+
+
 </script>

@@ -104,9 +104,40 @@ $(".burger-menu").click(function(){
 // Gallery pop up
 
 $('.featured-card').click(function(){
+if($(this).hasClass('not-trigger')){
+}
+else{
 var link = $(this).find('a').attr('href');
 window.location = link;
+}
 });
+
+
+$('.featured-card.not-trigger').click(function(event){
+event.preventDefault();
+$('.overlay-work').addClass('activee');
+var datahtml = $(this).parents('.swiper-slide').find('.data-popup .event-popup.newsletter-popup').html();
+$(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(datahtml).addClass('active');
+});
+
+
+$(document).on('click','.overlay-work.activee',function(){
+$('.overlay-work').removeClass('activee');
+$(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html('').removeClass('active');
+});
+
+$(document).on('click','a.readmoree',function(){
+    var $this = $(this);
+    var $parent = $this.parents('.newsletter-popup-content');
+    $parent.toggleClass('showmore');
+    if ($parent.hasClass('showmore')) {
+        $this.html('Read Less');
+    } else {
+        $this.html('Read More');
+    } 
+});
+
+
 
 lightGallery(document.getElementById('lightgallery'), {
   speed: 500,

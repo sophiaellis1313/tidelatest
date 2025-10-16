@@ -1,27 +1,38 @@
-<section>
-  <div class="image-with-text-section w-full grey-bg">
-  <div class="newsletter-popup-content w-full grey-bg">
-    <button class="popup-close" id="closePopup">&times;</button>
-    
-    <section class="newsletter-section w-full">
-      <div class="newsletter-wrapper w-full">
-        
-        <div class="content-block">
-          <div class="content-container global-line-height">
-            <h2>Explore Buy Subscribe to our lastest issue, browse and purchase back issues.</h2>
+<section class="no-margin">
+  <div class="image-with-text-section w-full {{ include.content_on_image.background_class }}">
+    <div class="newsletter-popup-content w-full {{ include.content_on_image.background_class }}">
+      <button class="popup-close" id="closePopup">&times;</button>
+      
+      <section class="newsletter-section w-full">
+        <div class="newsletter-wrapper w-full">
+          
+          <div class="content-block">
+            <div class="content-container global-line-height">
+              <h2>{{ include.content_on_image.title }}</h2>
+            </div>
+            <p>{{ include.content_on_image.description }}</p>
+            <div class="mt-mob mt-big d-flex gap-15">
+              {% if include.content_on_image.button_primary %}
+                <a href="{{ include.content_on_image.button_primary.link }}" class="dark-btn btn-border">
+                  {{ include.content_on_image.button_primary.label }}
+                </a>
+              {% endif %}
+              {% if content_on_image.button_secondary %}
+                <a href="{{ include.content_on_image.button_secondary.link }}" class="btn-border">
+                  {{ include.content_on_image.button_secondary.label }}
+                </a>
+              {% endif %}
+            </div>
           </div>
-          <p>Stay in the loop with curated emails featuring new issues, articles, and upcoming events.</p>
-          <div class="mt-mob mt-big d-flex gap-15">
-            <a href="#" class="dark-btn btn-border"> subscribe now </a>
-            <a href="#" class="btn-border">BROWSE ALL ISSUES</a>
-          </div>
-        </div>
 
-        <div class="image-block">
-          <img src="../images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png" alt="Tablet preview" />
+          <div class="image-block">
+            {% if include.content_on_image.image %}
+              <img src="{{ include.content_on_image.image }}" alt="Image section" />
+            {% endif %}
+          </div>
+
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   </div>
-</div>
 </section>
