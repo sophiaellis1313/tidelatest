@@ -26,7 +26,7 @@ navigation:
     href: '#about_legal'
     class: p4-button
 about_section:
-  title: ABOUT TIDE MAGAZINE
+  title:
   subtitle: >-
     TIDE offers an authentic and sophisticated perspective; the chance to
     explore the shifts and changes at the very core of the sailing Superyacht
@@ -52,14 +52,6 @@ image_with_text_section:
   image_1: ../images/greek_islands.png
   image_2: ../images/tablet.png
   stats:
-    issue_count: "12 issues"
-    issue_frequency: "ANNUALLY"
-    monthly_orders: "10,000"
-    page_views: "4 million"
-    digital_subscribers: ""
-
-# _data/about.yml
-
     issue_count: 12 issues
     issue_frequency: ANNUALLY
     monthly_orders: 10,000
