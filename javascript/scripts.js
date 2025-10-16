@@ -124,6 +124,13 @@ $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(
 $(document).on('click','.overlay-work.activee',function(){
 $('.overlay-work').removeClass('activee');
 $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html('').removeClass('active');
+$(this).parents('body').find('.newsletter-popup').css('display','none');
+});
+
+$('a.dark-btn.btn-border.JoinNow').click(function(event){
+ event.preventDefault();
+$(this).parents('body').find('.newsletter-popup').css('display','flex');
+$('.overlay-work').addClass('activee'); 
 });
 
 $(document).on('click','a.readmoree',function(){

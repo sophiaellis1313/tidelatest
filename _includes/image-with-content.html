@@ -13,12 +13,12 @@
             <p>{{ include.content_on_image.description }}</p>
             <div class="mt-mob mt-big d-flex gap-15">
               {% if include.content_on_image.button_primary %}
-                <a href="{{ include.content_on_image.button_primary.link }}" class="dark-btn btn-border">
+                <a href="{{ include.content_on_image.button_primary.link }}" class="dark-btn btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
                   {{ include.content_on_image.button_primary.label }}
                 </a>
               {% endif %}
               {% if content_on_image.button_secondary %}
-                <a href="{{ include.content_on_image.button_secondary.link }}" class="btn-border">
+                <a href="{{ include.content_on_image.button_secondary.link }}" class="btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
                   {{ include.content_on_image.button_secondary.label }}
                 </a>
               {% endif %}

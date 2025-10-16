@@ -385,6 +385,10 @@ document.querySelectorAll(".subscribe-btn").forEach(btn => {
   btn.addEventListener("click", function(e) {
     e.preventDefault(); // prevent page jump if it's a link
     document.getElementById("newsletterPopup").style.display = "flex";
+    var itemss = document.querySelector('.overlay-work');
+    if(itemss){
+    itemss.classList.add('activee')
+    }
   });
 });
 

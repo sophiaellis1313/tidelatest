@@ -39,7 +39,7 @@ footer_columns:
   - heading: "Legal"
     links:
       - name: "Terms & Conditions"
-        url: "/terms"
+        url: "/terms-and-conditions"
       - name: "Privacy Policy"
         url: "/policies"
 
