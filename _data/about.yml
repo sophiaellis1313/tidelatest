@@ -1,129 +1,132 @@
-# Banner section
 banner:
-  video: true  # Set to false if you want to show an image instead of a video
-  video_path: "/path/to/video.mp4"  # Path to the video file
-  cover_image: "/images/about-banner.png"  # Poster image for the video
+  video: true
+  video_path: /path/to/video.mp4
+  cover_image: /images/about-banner.png
   featured_image:
-    url: "/images/about-banner.png"  # Path to the image when video is disabled
-    position: "center"  # Position of the image, e.g., "center", "top", "bottom"
-  link_url: "/about"  # URL to navigate to when the banner is clicked
-
+    url: /images/about-banner.png
+    position: center
+  link_url: /about
 welcome:
-  title: "WELCOME TO"
-  logo_url: "/images/white-logo.png" 
-
-# _data/about.yml
-
+  title: WELCOME TO
+  logo_url: /images/white-logo.png
 navigation:
-  - label: "ABOUT"
-    href: "#about_about"
-    class: "p0-button"
-  - label: "METRICS"
-    href: "#about_matric"
-    class: "p1-button"
-  - label: "PARTNER WITH TIDE"
-    href: "#about_partner"
-    class: "p2-button"
-  - label: "CONTACT"
-    href: "#about_contact"
-    class: "p3-button"
-  - label: "LEGAL"
-    href: "#about_legal"
-    class: "p4-button"
-
-# _data/about.yml
-
+  - label: ABOUT
+    href: '#about_about'
+    class: p0-button
+  - label: METRICS
+    href: '#about_matric'
+    class: p1-button
+  - label: PARTNER WITH TIDE
+    href: '#about_partner'
+    class: p2-button
+  - label: CONTACT
+    href: '#about_contact'
+    class: p3-button
+  - label: LEGAL
+    href: '#about_legal'
+    class: p4-button
 about_section:
-  title: "ABOUT TIDE MAGAZINE"
-  subtitle: "We explore the shifts and changes at the core of the sailing world..."
-  paragraph_1: |
-    TIDE is an independent sailing, lifestyle, and travel magazine, published in print and digital.
-    We explore the shifts and changes at the core of the sailing world and the ocean adventure: 
-    the vessels, the people, the experiences, the destinations — the many facets that entice 
-    individuals around the world to pursue this alluring form of adventure.
-  paragraph_2: |
-   
-
-# _data/about.yml
-
+  title: ABOUT TIDE MAGAZINE
+  subtitle: >-
+    TIDE offers an authentic and sophisticated perspective; the chance to
+    explore the shifts and changes at the very core of the sailing Superyacht
+    world.
+  paragraph_1: >-
+    the boats, the people, the experiences, the destinations – the many facets
+    that entice so many individuals to pursue this alluring form of
+    international exploration. From the much beloved to the off-grid, it reveals
+    the inside track on the most exquisite Superyacht stops across the globe, as
+    well as recognises and celebrates the sense of kinship that exists between
+    those drawn to this exciting lifestyle.  Providing a sought-after platform
+    for the Superyacht sailing community to share their stories, TIDE is also a
+    space to hear more from the vanguard of the industry’s designers and
+    engineers on the cutting-edge technologies they apply – with a newfound
+    emphasis on sustainability – to produce the most extraordinary vessels
+    launched to date. These yachts traverse the oceans that connect us,
+    exploring up-close the most miraculous natural wonders out there.  Through
+    its high quality writing and exceptional photography, new and non-sailors
+    are also given a true taste of the extraordinary lifestyle it embodies – the
+    ultimate, beautiful and audacious escape.
+  paragraph_2: ''
 image_with_text_section:
-  image_1: "../images/greek_islands.png"
-  image_2: "../images/tablet.png"
+  image_1: ../images/greek_islands.png
+  image_2: ../images/tablet.png
   stats:
-    issue_count: "12 issues"
-    issue_frequency: "ANNUALLY"
-    monthly_orders: "10,000"
-    page_views: "4 million"
-    digital_subscribers: "55,000"
-
-# _data/about.yml
-
+    issue_count: 12 issues
+    issue_frequency: ANNUALLY
+    monthly_orders: 10,000
+    page_views: 4 million
+    digital_subscribers: 55,000
 partner_with_tide_section:
-  heading: "PARTNER WITH TIDE"
-  subheading: "Reach a tailored and discerning audience in a tasteful way"
-  description: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  button_text: "GET STARTED"
-  button_url: "#"
-
-# _data/about.yml
-
+  heading: PARTNER WITH TIDE
+  subheading: Reach a tailored and discerning audience in a tasteful way
+  description: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  button_text: GET STARTED
+  button_url: '#'
 legal_section:
-  heading: "LEGAL"
+  heading: LEGAL
   tabs:
-    - title: "Terms and Conditions"
-      content: |
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    - title: "Privacy Policy"
+    - title: Terms and Conditions
+      content: >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+        ut aliquip ex ea commodo consequat.
+    - title: Privacy Policy
       content: |
         This is the privacy policy content. You can update it with real text.
-    - title: "Return Policy"
+    - title: Return Policy
       content: |
         This is the return policy content. You can update it with real text.
-
-
-# Stats section
 stats_section:
   - image: /images/greek_islands.png
     stats:
-      - number: "12 issues"
-        label: "ANNUALLY"
-      - number: "10,000"
-        label: "monthly orders"
+      - number: 12 issues
+        label: ANNUALLY
+      - number: 10,000
+        label: monthly orders
   - image: /images/tablet.png
     stats:
-      - number: "4 million"
-        label: "PAGE VIEWS"
-      - number: "55,000"
-        label: "DIGITAL SUBSCRIBERS"
-
-# Partner Section
+      - number: 4 million
+        label: PAGE VIEWS
+      - number: 55,000
+        label: DIGITAL SUBSCRIBERS
 partner_section:
-  title: "PARTNER WITH TIDE"
-  subtitle: "Reach a tailored and discerning audience in a tasteful way"
-  content: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  button_text: "GET STARTED"
-  button_url: "#"
-
-# Contact Section
+  title: PARTNER WITH TIDE
+  subtitle: Reach a tailored and discerning audience in a tasteful way
+  content: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  button_text: GET STARTED
+  button_url: '#'
 contact_section:
   image: /images/contact-form.png
-  title: "Contact us"
-  email: "info@tide-magazine.com"
-  instagram: "https://www.instagram.com/thetidemagazine"
-  facebook: "https://www.facebook.com/thetidemagazine/"
-
-# Legal tabs
+  title: Contact us
+  email: info@tide-magazine.com
+  instagram: https://www.instagram.com/thetidemagazine
+  facebook: https://www.facebook.com/thetidemagazine/
 legal_tabs:
-  - title: "Terms and Conditions"
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: "Privacy Policy"
+  - title: Terms and Conditions
+    content: >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+      aliquip ex ea commodo consequat.
+  - title: Privacy Policy
     content: |
       This is the privacy policy content. You can update it with real text.
-  - title: "Return Policy"
+  - title: Return Policy
     content: |
       This is the return policy content. You can update it with real text.
