@@ -3,7 +3,7 @@ banner:
   video_path: /path/to/video.mp4
   cover_image: /images/about-banner.png
   featured_image:
-    url: /images/about-banner.png
+    url: /images/aboutbanner.png
     position: center
   link_url: /about
 welcome:

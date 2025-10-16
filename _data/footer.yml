@@ -41,7 +41,7 @@ footer_columns:
       - name: "Terms & Conditions"
         url: "/terms-and-conditions"
       - name: "Privacy Policy"
-        url: "/policies"
+        url: "/privacy"
 
 social_links:
   - icon_class: "fab fa-facebook-f"  # FontAwesome icon class

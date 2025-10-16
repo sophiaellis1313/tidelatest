@@ -1,23 +1,29 @@
 ---
 layout: default
-title: T&Cs Tide Magazine
+title: Privacy Tide Magazine
 meta-description: >-
   TIDE is adventure, travel, design, modernity, environment, technology, culture
   and cuisine.
 ---
 <section class="grid-center padded">
   <div class="col-9_sm-11 editable policy-page">
-    <h4 class="mb-3 centered medium">{{ site.data.terms.title }}</h4>
-    <p class="mb-3">{{ site.data.terms.intro }}</p>
+    <h4 class="mb-3 centered medium">{{ site.data.privacy.title }}</h4>
+     {% if site.data.privacy.intro %}
+    <p class="mb-3">{{ site.data.privacy.intro }}</p>
+    {% endif %}
 
-    {% for section in site.data.terms.sections %}
+    {% for section in site.data.privacy.sections %}
       <h3 class="mb-1">{{ section.heading }}</h3>
+      {% if section.content %}
       <p class="mb-3">{{ section.content | markdownify }}</p>
+      {% endif %}
     {% endfor %}
 
 <div class="end-heading"> 
 
-<p>Our updated policy, outlined below. By continuing to use our site after this date, you agree to these updated terms. This privacy policy may change from time to time so please check back here regularly.</p>
+
+
+    <p>Our updated policy, outlined below. By continuing to use our site after this date, you agree to these updated terms. This privacy policy may change from time to time so please check back here regularly.</p>
 <h3>1. What information do we collect from you?</h3>
 
 <p>The information you give us may include your name and contact details, including address, telephone number, and email address, as well as your payment information. This occurs when you place an order on our online shop; email us your information in regards to an order; create an online account; subscribe to our newsletter; and/or participate in a reader’s survey or competition.</p>
@@ -77,7 +83,12 @@ meta-description: >-
  
 <p>We use Cookies on the site to collect anonymous data about our visitors, and we use this data to improve our services to you. We never track our website users for the purposes of displaying targeted advertising. By using the website, you agree to our use of Cookies.</p>
 
+
+
+
+
 </div>
+
   </div>
 </section>
 

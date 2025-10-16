@@ -83,10 +83,10 @@
   <link rel="stylesheet" href="/style.css"/>
 
 </head>
-<body class="{{page.colour-bg}}">
+<body class="{{page.colour-bg}} {% if page.name == 'about.html' %}aboutus{% endif %}">
 <div class="overlay-work"></div>
 
-<header class="grid-spaceBetween justify-between pb-0 header">
+<header class="grid-spaceBetween justify-between pb-0 header {% if page.name == 'about.html' %}transparent{% endif %}">
 
         <div class="container-full burger-menu relative">
             <div class="menu--block sidebar-menu pt-2">
