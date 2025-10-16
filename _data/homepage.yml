@@ -381,14 +381,14 @@ banner_section:
   image: /images/event-banner.png
   image_position: left
   tags:
-    - Design
-    - Number 11
+    - EVENTS
+    - TIDE
   logo: /images/pursuit.png
   logo_width: 225px
   date: 2025-10-01T05:30:00+05:30
   location:
     prefix: at
-    place: Antigua + Barbuda
+    place: ANTIGUA + BARBUDA
     suffix: with
     partners: HERMITAGE BAY + NOBU BARBUDA
   button:
