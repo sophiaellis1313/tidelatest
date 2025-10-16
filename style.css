@@ -332,6 +332,9 @@ a {
 .font-medium {
   font-size: 20px;
 }
+.font-xl{
+  font-size: 38px;
+}
 .font-large {
   font-size: 44px;
 }
@@ -3130,7 +3133,11 @@ body.active-header .overlay-work {
   padding: 60px 10px 60px 80px;
   box-sizing: border-box;
 }
-
+.event-popup .newsletter-section .content-block {
+  width: 60%;
+  padding: 60px 10px 60px 80px;
+  box-sizing: border-box;
+}
 .newsletter-section .image-block {
   width: 50%;
   position: relative;
@@ -3176,6 +3183,9 @@ body.active-header .overlay-work {
 .newsletter-section h2 {
   font-size: 38px;
 }
+.event-popup .newsletter-section h2{
+  font-size: 28px;
+}
 .newsletter-section .content {
   margin: 11px 0 28px;
   font-size: 14px;
@@ -3215,6 +3225,13 @@ body.active-header .overlay-work {
 }
 .content-container {
   max-width: 499px;
+}
+.event-popup .content-container {
+  max-width: 521px;
+  margin-top: 21px;
+}
+.date_time {
+    margin-block: 27px;
 }
 .footer-column .nav-heading {
     letter-spacing: 0;
@@ -3276,6 +3293,114 @@ footer .btn {
     background: #fff;
     z-index: 9;
 }
+.extrasdivider{
+  border-left: 2px solid #f7fff4;
+  margin-right: 7px;
+} 
+.h4heading {
+    font-size: 13px;
+}
+.myform input::placeholder , .myform  textarea::placeholder {
+    color: #000;
+    opacity: 1;
+}
+body .myform input ,.myform  textarea{
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    display: block;
+    width: 100%;
+    font-size: 0.8rem;
+    font-family: var(--heading-font);
+    letter-spacing: 0.01rem;
+    background: transparent;
+}
+body .myform .containser {
+    margin-bottom: 20px;
+}
+.flex-controller{
+  display:flex;
+}
+body .myform input[type="submit"] {
+    cursor: pointer;
+}
+.featured-card {
+    cursor: pointer;
+}
+.burger-menu-block{
+  visibility: hidden;
+  pointer-events: none;
+}
+.image-with-text-section .newsletter-popup-content{
+  box-shadow: unset;
+}
+.image-with-text-section .newsletter-section .image-block img{
+  max-height: unset;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Container section */
+.partner-with-tide {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Background image grid */
+.magazine-background img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  filter: brightness(0.9);
+}
+
+/* White content box overlay */
+.content-box {
+    background: #ffffff;
+    padding: 60px 60px;
+    max-width: 784px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -220px;
+    z-index: 3;
+    position: relative;
+}
+/* Typography */
+.content-box .small-heading {
+    text-transform: uppercase;
+    font-size: 12px;
+    /* letter-spacing: 1.8px; */
+    margin-bottom: 15px;
+    max-width: fit-content;
+    margin: 0 auto;
+    padding-bottom: 25px;
+    border-bottom: 1px solid;
+}
+.event-popup .newsletter-section .image-block {
+    margin-right: unset;
+}
+.event-popup .newsletter-section .image-block img{
+  object-fit: cover;
+}
+.event-popup.newsletter-popup{
+  display: block;
+}
+/* Responsive design */
+
+.image-with-text-section p {
+    margin-top: 14px;
+    max-width: 360px;
+}
 /* Responsive */
 @media (max-width: 991px) {
   .text-on-image.content-wrapper{
@@ -3285,7 +3410,8 @@ footer .btn {
     flex-direction: column;
   }
   .newsletter-section .content-block,
-  .newsletter-section .image-block {
+  .newsletter-section .image-block,
+  .event-popup .newsletter-section .content-block {
     width: 100%;
     padding: 40px 20px;
     margin: 0;
@@ -3300,8 +3426,9 @@ footer .btn {
     .image-with-text-section .image-block{
     display: block;
   }
-  .content-container{
+  .content-container , .event-popup .content-container , .event-popup .newsletter-section .content-block{
     max-width: 100%;
+    width: 100%;
   }
 }
 
@@ -3454,10 +3581,15 @@ header.scrolled .block-header-menu {
   .newsletter-section .image-block {
     display: none;
   }
-  .image-with-text-section .image-block{
-    display: block;
-    padding-inline: 0;
-  }
+
+  .content-box {
+    background: #ffffff;
+    padding: 30px 20px;
+    margin-top: -80px;
+    z-index: 3;
+    position: relative;
+    width: 94%;
+}
   .newsletter-section .categories {
     margin: 20px 0 100px;
   }
@@ -3546,6 +3678,19 @@ header.scrolled .block-header-menu {
 .scrolled .block-header-menu {
     margin-left: 0px;
 }
+
+  .content-box h2 {
+    font-size: 20px;
+  }
+
+  .content-box .description {
+    font-size: 14px;
+  }
+  .image-with-text-section .image-block{
+    display: block;
+    padding-inline: 0;
+    padding-bottom: 0px;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -3578,48 +3723,4 @@ header.scrolled .block-header-menu {
   .banner-img .content-on-hover.container-full{
     padding-inline: 30px;
   }
-}
-.extrasdivider{
-  border-left: 2px solid #f7fff4;
-  margin-right: 7px;
-} 
-.h4heading {
-    font-size: 13px;
-}
-.myform input::placeholder , .myform  textarea::placeholder {
-    color: #000;
-    opacity: 1;
-}
-body .myform input ,.myform  textarea{
-    padding: 12px;
-    border: 1px solid #ccc;
-    border-radius: 4px 0 0 4px;
-    display: block;
-    width: 100%;
-    font-size: 0.8rem;
-    font-family: var(--heading-font);
-    letter-spacing: 0.01rem;
-    background: transparent;
-}
-body .myform .containser {
-    margin-bottom: 20px;
-}
-.flex-controller{
-  display:flex;
-}
-body .myform input[type="submit"] {
-    cursor: pointer;
-}
-.featured-card {
-    cursor: pointer;
-}
-.burger-menu-block{
-  visibility: hidden;
-  pointer-events: none;
-}
-.image-with-text-section .newsletter-popup-content{
-  box-shadow: unset;
-}
-.image-with-text-section .newsletter-section .image-block img{
-  max-height: unset;
 }
