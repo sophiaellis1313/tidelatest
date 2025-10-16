@@ -89,9 +89,11 @@ stats_section:
   - image: /images/greek_islands.png
     stats:
       - number: 12 issues
-        label: ANNUALLY
+        label: >-
+          Copies in high-wealth areas, ports of call and sailing destinations
+          throughout Europe, the USA and the Pacific.
       - number: 10,000
-        label: monthly orders
+        label: by monthly, per year
   - image: /images/tablet.png
     stats:
       - number: 4 million
