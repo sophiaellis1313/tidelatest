@@ -228,7 +228,7 @@ cards4:
       foiling fantasy may be his first sailing boat, but make no mistake: it
       will not be his last.
 cards5:
-  - image: /uploads/environment-example-2-1.png
+  - image: /uploads/environment-example-2-3.png
     alt: The Force of Nature
     link: articles/pianosa
     tags: []
@@ -238,7 +238,7 @@ cards5:
       Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
       piece of land – just a little more than ten square kilometres – and
       noticeably flat, with a maximum elevation of 29 metres above sea level.
-  - image: /uploads/environment-example.png
+  - image: /uploads/environment-example-1.png
     alt: A Letter From Norway
     link: articles/letter-from-norway.html
     tags:
@@ -351,46 +351,46 @@ subscribe:
     - text: DIGITAL
       link: '#'
       position: right
-
 image_with_text1:
-  title: "Explore Buy Subscribe to our latest issue, browse and purchase back issues."
-  description: "Stay in the loop with curated emails featuring new issues, articles, and upcoming events."
+  title: Explore Buy Subscribe to our latest issue, browse and purchase back issues.
+  description: >-
+    Stay in the loop with curated emails featuring new issues, articles, and
+    upcoming events.
   button_primary:
-    label: "Subscribe Now"
-    link: "#"
+    label: Subscribe Now
+    link: https://www.mymagazinesub.co.uk/tide/
   button_secondary:
-    label: "Browse All Issues"
-    link: "#"
-  image: "../images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png"
-  background_class: "grey-bg"
-
+    label: Browse All Issues
+    link: https://www.mymagazinesub.co.uk/tide/
+  image: ../images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png
+  background_class: grey-bg
 image_with_text2:
-  title: "Join the community and discover exclusive content."
-  description: "Get access to bonus interviews, downloadable archives, and special newsletters."
+  title: Join the community and discover exclusive content.
+  description: >-
+    Get access to bonus interviews, downloadable archives, and special
+    newsletters.
   button_primary:
-    label: "Join Now"
-    link: "#join"
+    label: Join Now
+    link: '#join'
   button_secondary:
-    label: "Learn More"
-    link: "#learn"
-  image: "../images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png"
-  background_class: "white-bg"
-
+    label: Learn More
+    link: '#learn'
+  image: /uploads/tideexample.png
+  background_class: white-bg
 banner_section:
-  image: "/images/event-banner.png"
-  image_position: "left" # use "right" or "left"
+  image: /images/event-banner.png
+  image_position: left
   tags:
-    - "Design"
-    - "Number 11"
-  logo: "/images/pursuit.png"
-  logo_width: "225px"
-  date: "October 2025"
+    - Design
+    - Number 11
+  logo: /images/pursuit.png
+  logo_width: 225px
+  date: October 2025
   location:
-    prefix: "at"
-    place: "New York"
-    suffix: "|"
-    partners: "Creative Minds"
+    prefix: at
+    place: New York
+    suffix: '|'
+    partners: Creative Minds
   button:
-    text: "Discover More"
-    link: "#discover"
-
+    text: Discover More
+    link: '#discover'
