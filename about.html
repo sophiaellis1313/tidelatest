@@ -27,6 +27,9 @@ layout: default
                     </p>
                 </div>
             </a>
+            <div class="bottom-heading">
+              A WAY OF LIFE. A LIFE OF ADVENTURE.
+            </div>
         </div>
     </div>
 </div>
@@ -46,9 +49,11 @@ layout: default
 <div class="tab-section container">
   <div class="target__links" id="about_about"></div>
   <section class="about-section w-60 margin-auto centered">
+    {% if site.data.about.about_section.title %}
     <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
       {{ site.data.about.about_section.title }}
     </h2>
+    {% endif %}
     <div class="underline"></div>
     <h2 class="h2">
       {{ site.data.about.about_section.subtitle }}
@@ -65,7 +70,7 @@ layout: default
 
 <div class="target__links" id="about_matric"></div>
 
-<section class="bg-grey py-70 image-with-text">
+<section class="bg-grey py-70 image-with-text no-margin">
   <div class="d-flex gap-70 mb:gap-100 main-block">
     <div class="mb:column-5">
       <img src="{{ site.data.about.image_with_text_section.image_1 }}" alt="Greek Islands">
@@ -74,27 +79,29 @@ layout: default
     <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex">
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.issue_count }}</h2>
-        <p class="font-xxs large-line-height overpass-font-family">{{ site.data.about.image_with_text_section.stats.issue_frequency }}</p>
+        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">Copies in high-wealth areas, ports of call and sailing destinations throughout Europe, the USA and the Pacific.</p>
       </div>
 
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.monthly_orders }}</h2>
-        <p class="font-xxs large-line-height overpass-font-family">monthly orders</p>
+        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">by monthly, per year</p>
       </div>
     </div>
   </div>
 
   <div class="d-flex gap-70 mb:gap-100 main-block">
     <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex justify-end">
-      <div>
-        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.page_views }}</h2>
-        <p class="font-xxs large-line-height overpass-font-family">PAGE VIEWS</p>
+      <div class="firsthandler">
+        <h2 class="font-large crimson">A diverse  digital audience</h2>
+        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">TIDE is read by a diverse audience—from high-net-worth individuals and yacht owners to sailors, crew, and ocean-loving adventurers—all united by a passion for the sea, exploration, and sustainability.</p>
       </div>
 
-      <div>
+      {% if site.data.about.image_with_text_section.stats.digital_subscribers != blank %}
+      <div class="firsthandler">
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.digital_subscribers }}</h2>
-        <p class="font-xxs large-line-height overpass-font-family">DIGITAL SUBSCRIBERS</p>
+        <p class="font-xxs large-line-height  overpass-font-family">DIGITAL SUBSCRIBERS</p>
       </div>
+      {% endif %}
     </div>
     <div class="mb:column-5 right">
       <img src="{{ site.data.about.image_with_text_section.image_2 }}" alt="Tablet">
@@ -105,7 +112,7 @@ layout: default
 
  <div class="target__links" id="about_partner"></div>
 
-<section class="container">
+<!-- <section class="container">
   <div class="about-section w-60 margin-auto centered">
     <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
       {{ site.data.about.partner_with_tide_section.heading }}
@@ -118,6 +125,28 @@ layout: default
     <a href="{{ site.data.about.partner_with_tide_section.button_url }}" class="btn">
       {{ site.data.about.partner_with_tide_section.button_text }}
     </a>
+  </div>
+</section> -->
+
+
+<section class="partner-with-tide mb-0 no-margin">
+  <div class="magazine-background">
+    <img src="../images/above-banner.png" alt="TIDE magazines" />
+  </div>
+
+  <div class="content-box ">
+    <p class="small-heading overpass-font-family font-weight-600">PARTNER WITH TIDE</p>
+    <h2 class="h2 mt-2">Reach a tailored and discerning audience in a tasteful way</h2>
+    <p class="description font-weight-400 mt-2">
+      TIDE collaborates with top writers, photographers, and creatives from the
+      Superyachting world to produce honest, visually striking content that
+      speaks directly to a highly engaged, curated audience. Each issue blends
+      in-depth industry insights with award-winning storytelling, captivating
+      visuals, and timeless inspiration. Our content aligns with the yachting
+      calendar, ensuring timely, relevant storytelling that keeps readers
+      inspired—and advertisers front of mind.
+    </p>
+    <a href="#" class="btn-border mt-2">Get Started</a>
   </div>
 </section>
 

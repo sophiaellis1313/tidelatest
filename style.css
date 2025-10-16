@@ -263,6 +263,21 @@ a {
 .slider-section{
   overflow: hidden;
 }
+.bottom-heading {
+    font-family: Overpass;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 35px;
+    letter-spacing: 6%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    bottom: 30px;
+    z-index: 9;
+    left: 50%;
+    transform: translateX(-50%);
+}
 @media (max-width: 767px) {
   .container-full {
     padding-inline: 15px;
