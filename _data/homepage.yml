@@ -385,12 +385,12 @@ banner_section:
     - Number 11
   logo: /images/pursuit.png
   logo_width: 225px
-  date: October 2025
+  date: 2025-10-01T05:30:00+05:30
   location:
     prefix: at
-    place: New York
-    suffix: '|'
-    partners: Creative Minds
+    place: Antigua + Barbuda
+    suffix: with
+    partners: HERMITAGE BAY + NOBU BARBUDA
   button:
     text: Discover More
     link: '#discover'
