@@ -14,11 +14,11 @@ buttonlabel4: VIEW ALL
 buttonlink4: '#'
 buttonlabel5: VIEW ALL
 buttonlink5: '#'
-maintitle1: Articles
-maintitle2: Articles
-maintitle3: Articles
-maintitle4: Articles
-maintitle5: Articles
+cardmaintitle1: Articles
+cardmaintitle2: Articles
+cardmaintitle3: Articles
+cardmaintitle4: Articles
+cardmaintitle5: Articles
 desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
 desktop_first_image_position: img-left
 mobile_first_image: /uploads/issue-14-tide-cover-aquarius.png
