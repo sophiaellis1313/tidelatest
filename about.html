@@ -212,7 +212,7 @@ layout: default
   </h2>
   <div class="tab-nav">
     {% for tab in site.data.about.legal_section.tabs %}
-      <button class="tab-button active" data-tab="tab{{ loop.index }}">
+      <button data-index="data-{{ forloop.index }}" class="tab-button {% if forloop.index == 1 %}active{% endif %}" data-tab="tab{{ loop.index }}">
         {{ tab.title }} <span class="arrow">↓</span>
       </button>
       <div class="tab-content" id="tab{{ loop.index }}">
@@ -224,7 +224,7 @@ layout: default
   <!-- Desktop only content area -->
   <div class="tab-content-area">
     {% for tab in site.data.about.legal_section.tabs %}
-      <div class="tab-content targetitt {% if forloop.index == 1 %}active{% endif %}" id="tab{{ loop.index }}-desktop">
+      <div data-index="data-{{ forloop.index }}" class="tab-content targetitt {% if forloop.index == 1 %}active{% endif %}" id="tab{{ loop.index }}-desktop">
         {{ tab.content }}
       </div>
     {% endfor %}
@@ -257,6 +257,13 @@ layout: default
     });
   });
 });
+
+$(document).on('click','body.aboutus .tab-button',function(){
+$(this).parents('section.tab').find('.tab-content.targetitt').removeClass('active');
+var indexx = $(this).attr('data-index');
+$(this).parents('section.tab').find('.tab-content.targetitt[data-index="'+indexx+'"]').addClass('active');
+});
+
 document.addEventListener("DOMContentLoaded", function() {
   new Swiper(".swiper", {
     spaceBetween: 50, // default

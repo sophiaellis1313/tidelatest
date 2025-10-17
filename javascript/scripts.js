@@ -103,22 +103,21 @@ $(".burger-menu").click(function(){
 
 // Gallery pop up
 
-$('.featured-card').click(function(){
-if($(this).hasClass('not-trigger')){
-}
-else{
-var link = $(this).find('a').attr('href');
-window.location = link;
-}
+$('.featured-card').not('.not-trigger').click(function() {
+  var link = $(this).find('a').attr('href');
+  if (link) {
+    window.location = link;
+  }
 });
 
 
-$('.featured-card.not-trigger').click(function(event){
-event.preventDefault();
-$('.overlay-work').addClass('activee');
-var datahtml = $(this).parents('.swiper-slide').find('.data-popup .event-popup.newsletter-popup').html();
-$(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(datahtml).addClass('active');
+$(document).on('click','.featured-card.not-trigger',function(event){
+  event.preventDefault();
+  $('.overlay-work').addClass('activee');
+  var datahtml = $(this).parents('.selectedthiss').find('.data-popup .event-popup.newsletter-popup').html();
+  $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(datahtml).addClass('active');
 });
+
 
 
 $(document).on('click','.overlay-work.activee',function(){

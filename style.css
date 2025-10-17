@@ -6,6 +6,12 @@
   box-sizing: border-box;
   /* border: 2px solid white; */
 }
+
+.center{
+  text-align: center;
+}
+
+
 section {
   margin-block: 70px 150px;
 }
@@ -463,6 +469,11 @@ a {
 .pb-2 {
   padding-bottom: 2rem;
 }
+
+.pb-30{
+  padding-bottom: 30px;
+}
+
 .pb-4 {
   padding-bottom: 40px;
 }
@@ -901,7 +912,7 @@ a {
 .header.transparent {
     position: fixed;
     top: 0;
-    z-index: 1;
+    z-index: 99;
     background: hsla(0, 0%, 0%, 0.5);
     /* filter: invert(1); */
     backdrop-filter: blur(10px);
@@ -1683,6 +1694,11 @@ footer {
   -webkit-appearance: none;
 }
 
+.border-white{
+  border: 1px solid rgb(255,255,255,0.5);
+  color: #fff;
+}
+
 .button-text {
   font-family: "Overpass", sans-serif;
   text-decoration: none;
@@ -1984,6 +2000,17 @@ form .btn-border {
   transition-duration: 0.5s;
   pointer-events: none;
 } */
+
+.event-hero-banner{
+  padding-top: 135px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 80px;
+}
+.event-hero-banner .summary-block,
+.event-hero-banner .button_linkkk{
+  margin-top: auto;
+}
 
 .burger-menu {
     font-family: "Overpass", serif;
@@ -2382,6 +2409,13 @@ footer {
 .aboutus .container-full{
   padding: 0;
 }
+
+.event-hero-banner-image{
+    height: 90vh;
+  }
+.event-popup.newsletter-popup.appendhereee.active{
+  display: block !important;
+}
 @media (min-width: 1600px) {
   .hide-xl {
     display: none;
@@ -2534,7 +2568,7 @@ footer {
   }
   .bigger {
     font-size: 1.4rem;
-  }
+  }  
 
   /* header and footer  */
 
@@ -3428,11 +3462,11 @@ body .myform input[type="submit"] {
     margin-right: unset;
 }
 .event-popup .newsletter-section .image-block img{
-  object-fit: cover;
+  object-fit: cover; 
 }
-.event-popup.newsletter-popup.active{
-  display: block;
-}
+body .event-popup.newsletter-popup.active{
+  display: block !important;
+} 
 .overlay-work.activee {
     position: fixed;
     width: 100%;

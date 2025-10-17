@@ -109,7 +109,9 @@ banner:
   overlay_logo:
     src: /images/pursuit.png
     width: 200
-  heading: EVENTS X TIDE
+  heading: TIDE
+  subheading: COLLECTIVE
+  smallheading: events and more
   date: FEBRUARY 26TH-28TH, 2026
   location:
     prefix: at
@@ -117,6 +119,6 @@ banner:
     suffix: with
     partners: HERMITAGE BAY + NOBU BARBUDA
   button:
-    text: MORE
-    link: /events
+    text: CONTACT US
+    link: /contact
     class: width-fit btn white-btn mt-2px mb-3
