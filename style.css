@@ -2002,10 +2002,10 @@ form .btn-border {
 } */
 
 .event-hero-banner{
-  padding-top: 135px;
+  padding-top: 115px;
   display: flex;
   flex-direction: column;
-  padding-bottom: 80px;
+  padding-bottom: 117px;
 }
 .event-hero-banner .summary-block,
 .event-hero-banner .button_linkkk{
@@ -2412,7 +2412,7 @@ footer {
 
 .event-hero-banner-image{
     height: 100vh;
-    object-position: bottom center;
+    object-position:  bottom center;
   }
 .event-popup.newsletter-popup.appendhereee.active{
   display: block !important;
