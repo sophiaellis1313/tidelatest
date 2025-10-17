@@ -5,18 +5,18 @@ meta-description: >-
   and cuisine. 
 subtitle: This is my test subtitle from test
 buttonlabel1: VIEW ALL
-buttonlink1: https://www.mymagazinesub.co.uk/tide/
+buttonlink1: '#'
 buttonlabel2: VIEW ALL
 buttonlink2: '#'
 buttonlabel3: VIEW ALL
-buttonlink3: '#'
+buttonlink3: /sailing
 buttonlabel4: VIEW ALL
 buttonlink4: '#'
 buttonlabel5: VIEW ALL
 buttonlink5: '#'
 cardmaintitle1: Articles
 cardmaintitle2: Articles
-cardmaintitle3: Articles
+cardmaintitle3: SAILING
 cardmaintitle4: Articles
 cardmaintitle5: Articles
 desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
