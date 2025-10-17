@@ -47,7 +47,7 @@ homepage_banner:
       launched in 2017, makes a fitting cover as we speak with the designers
       behind both yachts, Dykstra Naval Architects and Royal Huisman.
     button:
-      text: MORE
+      text: PURCHASE NOW
       style: white-btn
   mobile:
     url: /uploads/issue-14-tide-cover-aquarius.png
@@ -64,7 +64,7 @@ homepage_banner:
       behind both yachts, Dykstra Naval Architects and Royal Huisman, in this
       issue.
     button:
-      text: MORE
+      text: PURCHASE NOW
       style: white-btn
 cards:
   - image: /uploads/fc5a9854-min.jpg
@@ -170,6 +170,17 @@ cards3:
       eco-chic boathouse-villas, located on arguably the most stunning of all
       the Cyclades islands. Owner Nausika Georgiadou gives us the downlow.
 
+  - image: /uploads/dodecanese-tide-mag-dja-87-1-min-1.jpg
+    alt: ''
+    link: /articles/Sailing-the-Northern-Dodecanese.html
+    tags:
+      - ''
+    title: Sailing the Northern Dodecanese
+    description: >+
+      Welcome to the top of the “twelve islands”, an archipelago revered for its
+      storied past, secret bays and sense of discovery. Director and founder of
+      Sailing Collective charters, Dayyan Armstrong shares the local intel.
+
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.jpg
     alt: 'Hidden Gems: Islas Secas'
@@ -184,17 +195,6 @@ cards3:
       dozens of islands sewn from ancient volcanoes and some of the richest
       virgin coastal rainforest in the region, it’s a world unto its own, thanks
       to its isolated position and topography unfazed by El Niño’s colder winds.
-  - image: /uploads/dodecanese-tide-mag-dja-87-1-min-1.jpg
-    alt: ''
-    link: /articles/Sailing-the-Northern-Dodecanese.html
-    tags:
-      - ''
-    title: Sailing the Northern Dodecanese
-    description: >+
-      Welcome to the top of the “twelve islands”, an archipelago revered for its
-      storied past, secret bays and sense of discovery. Director and founder of
-      Sailing Collective charters, Dayyan Armstrong shares the local intel.
-
 cards4:
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
     alt: 'Designing for the Future   '
@@ -291,22 +291,22 @@ content_on_image:
     style: white-btn
 content_on_image2:
   image:
-    src: /uploads/gundari-453-edit.jpg
+    src: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
     alt: 'Gundari Resort TIDE Magazine '
   tags:
-    - TRAVEL
-    - NUMBER 13
-  title: 'Hidden Gems: Greek Islands'
+    - ENVIRONMENT
+    - NUMBER 4
+  title: The Conscious Traveller
   direction: start
-  description: >+
-    The sun-soaked isles are renowned for being naturally beautiful,
-    produce-rich and ripe with history – but now they’re also becoming known for
-    their eco-hotels, cutting-edge architecture and groundbreaking art, if you
-    know where to look.
-
+  description: >
+    A recent trend report published by luxury travel specialists Pelorus, in
+    association with the travel trend forecasting agency Globetrotter, predicts
+    that over the next five years there will be substantially increased demand
+    for high-impact conservation from high net worth clients who really want to
+    make a difference and not just pay lip service. 
   button:
     text: More
-    link: /articles/Hidden-Gems-Greek-Islands%20.html
+    link: https://peachy-lion.cloudvent.net/articles/conscious-traveller.html
     style: white-btn
 content_on_image3:
   image:
