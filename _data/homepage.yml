@@ -279,17 +279,15 @@ content_on_image:
   tags:
     - Sailing
     - Number 13
-  title: The Beautiful Lightness of Being
+  title: 'Drumfire: the boat to beat'
   direction: end
-  description: >+
-    Compromise is a part of life – except when you have a 108’, smart,
-    comfortable Superyacht that simultaneously handles with the daintiness of a
-    dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of 2025
-    – explain how she does it.
-
+  description: >
+    The first of Andre Hoek’s Truly Classic 78s has come into her own Down Under
+    following decades spent in the shadow of others in Europe. The boatbuilder,
+    her Captain and new owners each share the secrets to her newfound success.
   button:
     text: More
-    link: /articles/The-beautiful-lightness-of-being%20.html
+    link: https://peachy-lion.cloudvent.net/articles/Drumfire-the-boat-to-beat .html
     style: white-btn
 content_on_image2:
   image:
