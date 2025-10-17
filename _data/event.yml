@@ -104,7 +104,7 @@ cards:
     popup_button_label2: CONTACT FOR MORE INFO
     popup_button_link2: mailto:garry@tide-magazine.com
 banner:
-  image: /uploads/newbanner2.jpg
+  image: /uploads/newwww.jpg
   image_position: center
   overlay_logo:
     src: /images/pursuit.png
