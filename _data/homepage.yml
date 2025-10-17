@@ -310,22 +310,21 @@ content_on_image2:
     style: white-btn
 content_on_image3:
   image:
-    src: /uploads/interior-studio-frers-min.jpg
-    alt: Frers Sailing Yacht Studio
+    src: /uploads/gundari_453-Edit-min.jpg
+    alt: Gundari Resort Greece
   tags:
-    - Design
+    - Travel
     - NUMBER 13
-  title: Frers Spirit
+  title: 'Hidden Gems: Greek Islands '
   direction: end
-  description: >+
-    The Frers name has been behind some of the most beautiful, experimental
-    yacht designs of the past century. The founder’s grandson, Mani, takes a
-    break from building a record-breaking sloop to reveal what drives his
-    studio.
-
+  description: >
+    The sun-soaked isles are renowned for being naturally beautiful,
+    produce-rich and ripe with history – but now they’re also becoming known for
+    their eco-hotels, cutting-edge architecture and groundbreaking art, if you
+    know where to look...
   button:
     text: More
-    link: /articles/Frers-spirit%20.html
+    link: https://peachy-lion.cloudvent.net/articles/Hidden-Gems-Greek-Islands .html
     style: white-btn
 content_on_image4:
   image:
