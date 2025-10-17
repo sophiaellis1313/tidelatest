@@ -22,7 +22,7 @@ image_with_text1:
   description: "Stay in the loop with curated updates featuring new issues, exclusive articles, and upcoming events."
   button_primary:
     label: "Subscribe Now"
-    link: "#"
+    link: "https://www.mymagazinesub.co.uk/tide/"
   button_secondary:
     label: "Browse All Issues"
     link: "#"

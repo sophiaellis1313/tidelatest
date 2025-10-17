@@ -1,5 +1,5 @@
 <section class="no-margin">
-  <div class="image-with-text-section w-full {{ include.content_on_image.background_class }}">
+  <div class="image-with-text-section w-full {{  include.content_on_image.paddingclass }} {{ include.content_on_image.background_class }}">
     <div class="newsletter-popup-content w-full {{ include.content_on_image.background_class }}">
       <button class="popup-close" id="closePopup">&times;</button>
       
@@ -13,12 +13,12 @@
             <p>{{ include.content_on_image.description }}</p>
             <div class="mt-mob mt-big d-flex gap-15">
               {% if include.content_on_image.button_primary %}
-                <a href="{{ include.content_on_image.button_primary.link }}" class="dark-btn btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
+                <a href="{{ include.content_on_image.button_primary.link }}" target="_blank" class="dark-btn btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
                   {{ include.content_on_image.button_primary.label }}
                 </a>
               {% endif %}
               {% if content_on_image.button_secondary %}
-                <a href="{{ include.content_on_image.button_secondary.link }}" class="btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
+                <a href="{{ include.content_on_image.button_secondary.link }}" target="_blank" class="btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
                   {{ include.content_on_image.button_secondary.label }}
                 </a>
               {% endif %}

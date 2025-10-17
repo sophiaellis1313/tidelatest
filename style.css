@@ -3457,6 +3457,9 @@ body .myform input[type="submit"] {
     max-height: 230px;
     overflow: auto;
 }
+.padding0tott{
+  padding:45px 0px;
+}
 /* Responsive */
 @media (max-width: 991px) {
   .text-on-image.content-wrapper{
