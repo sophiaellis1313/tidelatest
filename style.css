@@ -3150,6 +3150,7 @@ body.active-header .overlay-work {
 }
 .image-with-text .content-block {
   padding-inline: 20px;
+  height: min-content;
 }
 
 .newsletter-section {
@@ -3460,10 +3461,37 @@ body .myform input[type="submit"] {
 .padding0tott{
   padding:45px 0px;
 }
+.tab-section .about-section {
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+.targetitt p , .targettedclasss p {
+  margin-bottom: 1rem;
+  color: #000;
+}
+h3.h3eeee {
+    font-family: Crimson Pro;
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    text-align: right;
+}
+.main-wrapper.myhomeeee {
+    max-width: 375px;
+}
+.main-wrapper.myhomeeee p{
+    width: 350px;
+    margin-left: auto;
+}
 /* Responsive */
 @media (max-width: 991px) {
   .text-on-image.content-wrapper{
   padding-inline: 15px;
+}
+h3.h3eeee {
+    font-size: 30px;
+    line-height: 32px;
 }
   .newsletter-wrapper {
     flex-direction: column;
@@ -3523,6 +3551,9 @@ header.scrolled .burger-menu-block,
 header.scrolled .logo-block,
 header.scrolled .block-header-menu {
   order: unset; 
+}
+.right-sideimage img{
+  padding-left: 40px;
 }
 }
 /* Show only on screens <= 767px */

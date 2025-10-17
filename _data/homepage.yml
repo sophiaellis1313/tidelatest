@@ -14,6 +14,11 @@ buttonlabel4: VIEW ALL
 buttonlink4: "#"
 buttonlabel5: VIEW ALL
 buttonlink5: "#"
+maintitle1: "Articles"
+maintitle2: "Articles"
+maintitle3: "Articles"
+maintitle4: "Articles"
+maintitle5: "Articles"
 desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
 desktop_first_image_position: img-left
 mobile_first_image: /uploads/issue-14-tide-cover-aquarius.png
@@ -33,15 +38,16 @@ homepage_banner:
     poster: /images/homepage-poster.jpg
     fallback_image: /uploads/issue-14-tide-desktop.png
     image_position: center
-    title: ""
+    title: "Issue 14 is in stores now."
     tags:
       - Issue
       - NUMBER 14
     description: >-
-      Described by her owners as ‘close to perfect’, the original Aquarius,
-      launched in 2017, makes a fitting cover as we speak with the designers
-      behind both yachts, Dykstra Naval Architects and Royal Huisman, in this
-      issue.
+      Described by her owners as ‘close to perfect’,
+      the original Aquarius, launched in 2017,
+      makes a fitting cover as we speak with
+      the designers behind both yachts,
+      Dykstra Naval Architects and Royal Huisman.
     button:
       text: MORE
       style: white-btn
@@ -50,7 +56,7 @@ homepage_banner:
     video: false
     fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
     image_position: center
-    title: Issue Number Fourteen | 14 in store now
+    title: "Issue 14 is in stores now."
     tags:
       - Sailing
       - NUMBER 14

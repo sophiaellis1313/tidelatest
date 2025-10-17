@@ -40,7 +40,7 @@ layout: default
 <section class="relative no-margin sticky-section">
   <div class="navigation-bar flex-display w-full sticky--bar">
   {% for item in site.data.about.navigation %}
-    <a href="{{ item.href }}" class="{{ item.class }} filter-grid-button uppercase">
+    <a href="{{ item.href }}" class="{{ item.class }} {% if forloop.index == 1 %}active{% endif %} filter-grid-button uppercase">
       {{ item.label }}
     </a>
   {% endfor %}
@@ -48,7 +48,7 @@ layout: default
 
 <div class="tab-section container">
   <div class="target__links" id="about_about"></div>
-  <section class="about-section w-60 margin-auto centered">
+  <section class="no-margin about-section w-60 margin-auto centered">
     {% if site.data.about.about_section.title %}
     <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
       {{ site.data.about.about_section.title }}
@@ -58,9 +58,9 @@ layout: default
     <h2 class="h2">
       {{ site.data.about.about_section.subtitle }}
     </h2>
-    <p class="my-25">
+    <div class="my-25 targettedclasss">
       {{ site.data.about.about_section.paragraph_1 }}
-    </p>
+    </div>
     <p class="my-25">
       {{ site.data.about.about_section.paragraph_2 }}
     </p>
@@ -71,39 +71,39 @@ layout: default
 <div class="target__links" id="about_matric"></div>
 
 <section class="bg-grey py-70 image-with-text no-margin">
-  <div class="d-flex gap-70 mb:gap-100 main-block">
+  <div class="d-flex gap-70 mb:gap-100 main-block align-center">
     <div class="mb:column-5">
       <img src="{{ site.data.about.image_with_text_section.image_1 }}" alt="Greek Islands">
     </div>
 
-    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex">
+    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-top d-flex ">
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.issue_count }}</h2>
-        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">Copies in high-wealth areas, ports of call and sailing destinations throughout Europe, the USA and the Pacific.</p>
+        <p style="max-width: 288px;" class="medium-line-height">Copies in high-wealth areas, ports of call and sailing destinations throughout Europe, the USA and the Pacific.</p>
       </div>
 
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.monthly_orders }}</h2>
-        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">by monthly, per year</p>
+        <p style="max-width: 400px;" class="medium-line-height">by monthly, per year</p>
       </div>
     </div>
   </div>
 
-  <div class="d-flex gap-70 mb:gap-100 main-block">
-    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-center d-flex justify-end">
+  <div class="d-flex gap-70 mb:gap-100 main-block align-center">
+    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-top d-flex justify-end">
       <div class="firsthandler">
         <h2 class="font-large crimson">A diverse  digital audience</h2>
-        <p style="max-width: 435px;" class="font-xxs medium-line-height  overpass-font-family">TIDE is read by a diverse audience—from high-net-worth individuals and yacht owners to sailors, crew, and ocean-loving adventurers—all united by a passion for the sea, exploration, and sustainability.</p>
+        <p style="max-width: 400px;" class="medium-line-height">TIDE is read by a diverse audience—from high-net-worth individuals and yacht owners to sailors, crew, and ocean-loving adventurers—all united by a passion for the sea, exploration, and sustainability.</p>
       </div>
 
       {% if site.data.about.image_with_text_section.stats.digital_subscribers != blank %}
       <div class="firsthandler" style="display: none;">
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.digital_subscribers }}</h2>
-        <p class="font-xxs large-line-height  overpass-font-family">DIGITAL SUBSCRIBERS</p>
+        <p class=" large-line-height">DIGITAL SUBSCRIBERS</p>
       </div>
       {% endif %}
     </div>
-    <div class="mb:column-5 right">
+    <div class="mb:column-5 right right-sideimage">
       <img src="{{ site.data.about.image_with_text_section.image_2 }}" alt="Tablet">
     </div>
   </div>
@@ -212,7 +212,7 @@ layout: default
   </h2>
   <div class="tab-nav">
     {% for tab in site.data.about.legal_section.tabs %}
-      <button class="tab-button" data-tab="tab{{ loop.index }}">
+      <button class="tab-button active" data-tab="tab{{ loop.index }}">
         {{ tab.title }} <span class="arrow">↓</span>
       </button>
       <div class="tab-content" id="tab{{ loop.index }}">
@@ -224,8 +224,8 @@ layout: default
   <!-- Desktop only content area -->
   <div class="tab-content-area">
     {% for tab in site.data.about.legal_section.tabs %}
-      <div class="tab-content" id="tab{{ loop.index }}-desktop">
-        <p>{{ tab.content }}</p>
+      <div class="tab-content targetitt {% if forloop.index == 1 %}active{% endif %}" id="tab{{ loop.index }}-desktop">
+        {{ tab.content }}
       </div>
     {% endfor %}
   </div>
