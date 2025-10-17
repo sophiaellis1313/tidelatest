@@ -11,7 +11,7 @@ buttonlink2: https://www.mymagazinesub.co.uk/tide/
 buttonlabel3: VIEW ALL
 buttonlink3: /sailing
 buttonlabel4: VIEW ALL
-buttonlink4: '#'
+buttonlink4: https://peachy-lion.cloudvent.net/design
 buttonlabel5: VIEW ALL
 buttonlink5: https://peachy-lion.cloudvent.net/environment
 cardmaintitle1: Articles
@@ -274,8 +274,8 @@ cards5:
       economic growth.
 content_on_image:
   image:
-    src: /uploads/sw108-02-deck-24.jpg
-    alt: 'Kiboko 4 '
+    src: /uploads/drumfire-1-min.png
+    alt: Drumfire
   tags:
     - Sailing
     - Number 13
