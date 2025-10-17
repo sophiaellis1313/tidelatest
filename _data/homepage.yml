@@ -2,23 +2,23 @@ layout: default
 title: Homepage Data
 meta-description: >-
   TIDE is adventure, travel, design, modernity, environment, technology, culture
-  and cuisine.
+  and cuisine. 
 subtitle: This is my test subtitle from test
 buttonlabel1: VIEW ALL
-buttonlink1: "#"
+buttonlink1: https://www.mymagazinesub.co.uk/tide/
 buttonlabel2: VIEW ALL
-buttonlink2: "#"
+buttonlink2: '#'
 buttonlabel3: VIEW ALL
-buttonlink3: "#"
+buttonlink3: '#'
 buttonlabel4: VIEW ALL
-buttonlink4: "#"
+buttonlink4: '#'
 buttonlabel5: VIEW ALL
-buttonlink5: "#"
-cardmaintitle1: "Articles"
-cardmaintitle2: "Articles"
-cardmaintitle3: "Articles"
-cardmaintitle4: "Articles"
-cardmaintitle5: "Articles"
+buttonlink5: '#'
+maintitle1: Articles
+maintitle2: Articles
+maintitle3: Articles
+maintitle4: Articles
+maintitle5: Articles
 desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
 desktop_first_image_position: img-left
 mobile_first_image: /uploads/issue-14-tide-cover-aquarius.png
@@ -38,16 +38,14 @@ homepage_banner:
     poster: /images/homepage-poster.jpg
     fallback_image: /uploads/issue-14-tide-desktop.png
     image_position: center
-    title: "Issue 14 is in stores now."
+    title: Issue 14 is in stores now.
     tags:
       - Issue
       - NUMBER 14
     description: >-
-      Described by her owners as ‘close to perfect’,
-      the original Aquarius, launched in 2017,
-      makes a fitting cover as we speak with
-      the designers behind both yachts,
-      Dykstra Naval Architects and Royal Huisman.
+      Described by her owners as ‘close to perfect’, the original Aquarius,
+      launched in 2017, makes a fitting cover as we speak with the designers
+      behind both yachts, Dykstra Naval Architects and Royal Huisman.
     button:
       text: MORE
       style: white-btn
@@ -56,7 +54,7 @@ homepage_banner:
     video: false
     fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
     image_position: center
-    title: "Issue 14 is in stores now."
+    title: Issue 14 is in stores now.
     tags:
       - Sailing
       - NUMBER 14
@@ -375,7 +373,7 @@ image_with_text1:
     link: https://www.mymagazinesub.co.uk/tide/
   image: ../images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png
   background_class: grey-bg
-  paddingclass: ""
+  paddingclass: ''
 image_with_text2:
   title: Join the community and discover exclusive content.
   description: >-
@@ -389,7 +387,7 @@ image_with_text2:
     link: '#learn'
   image: /uploads/tideexample.png
   background_class: grey-bg
-  paddingclass: "padding0tott"
+  paddingclass: padding0tott
 banner_section:
   image: /images/event-banner.png
   image_position: left
