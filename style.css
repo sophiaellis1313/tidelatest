@@ -2411,7 +2411,8 @@ footer {
 }
 
 .event-hero-banner-image{
-    height: 90vh;
+    height: 100vh;
+    object-position: bottom center;
   }
 .event-popup.newsletter-popup.appendhereee.active{
   display: block !important;
