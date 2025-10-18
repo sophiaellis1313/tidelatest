@@ -393,7 +393,7 @@ banner_section:
     - TIDE
   logo: /images/pursuit.png
   logo_width: 225px
-  date: 2025-10-01T00:00:00+05:30
+  date:
   location:
     prefix: at
     place: ANTIGUA + BARBUDA
