@@ -13,7 +13,7 @@ posts:
       studio.
     type: Design
     issue_no: Number 13
-    url: /articles/Frers-spirit%20.html
+    url: https://peachy-lion.cloudvent.net/articles/Frers-spirit .html
     cover_image: /uploads/interior-studio-frers-min.jpg
     buttontitle: More
 cards:
@@ -128,4 +128,3 @@ image_with_text1:
     link: https://www.mymagazinesub.co.uk/tide/
   image: /images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png
   background_class: grey-bg
-
