@@ -14,7 +14,7 @@ posts:
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-environment-5.jpg
     buttontitle: More
 cards:
-  - image: /uploads/environment-example-2-2.png
+  - image: /uploads/environment-example-2-3.png
     alt: ' Evolving Modernism '
     link: /articles/pianosa
     tags:
@@ -145,9 +145,9 @@ subscribe_section:
   buttons:
     - text: IN PRINT
       class: btn-border
-      link: "https://www.mymagazinesub.co.uk"
+      link: https://www.mymagazinesub.co.uk
       arrow: left
     - text: DIGITAL
       class: btn-border
-      link: "#"
+      link: '#'
       arrow: right
