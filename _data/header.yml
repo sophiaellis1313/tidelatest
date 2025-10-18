@@ -5,10 +5,10 @@ header_columns:
         url: /sailing
       - name: Lifestyle
         url: /lifestyle
-      - name: Environment
-        url: /environment
       - name: Travel
         url: /travel
+      - name: Environment
+        url: /environment
       - name: Design
         url: /design
     image_with_text_block:
