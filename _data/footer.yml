@@ -1,56 +1,44 @@
 footer_logo:
-  image: "/images/tide-magazine-sailing-lifestyle-travel-logo-blue.png"       # Logo image path
-  height: "60px"                         # Logo height
-  subscribe_link: "/subscribe"           # Subscribe button link
-  subscribe_text: "Subscribe Now"        # Subscribe button text
-
+  image: /images/tide-magazine-sailing-lifestyle-travel-logo-blue.png
+  height: 60px
+  subscribe_link: /subscribe
+  subscribe_text: Subscribe Now
 footer_columns:
-  - heading: "Categories"
+  - heading: Categories
     links:
-      - name: "Sailing"
-        url: "/sailing"
-      - name: "Lifestyle"
-        url: "/lifestyle"
-      - name: "Environment"
-        url: "/environment"
-      - name: "Travel"
-        url: "/travel"
-      - name: "Design"
-        url: "/design"
-
-  - heading: "More"
+      - name: Sailing
+        url: /sailing
+      - name: Lifestyle
+        url: /lifestyle
+      - name: Environment
+        url: /environment
+      - name: Travel
+        url: /travel
+      - name: Design
+        url: /design
+  - heading: More
     links:
-      - name: "Events"
-        url: "/events"
-      - name: "Print Magazine"
-        url: "/magazine"
-
-  - heading: "Company"
+      - name: Events
+        url: /events
+      - name: Print Magazine
+        url: /magazine
+  - heading: Company
     links:
-      - name: "About Us"
-        url: "/about"
-      - name: "For Partners"
-        url: "/partner"
-      - name: "For Media"
-        url: "/media"
-      - name: "Contact"
-        url: "/contact"
-
-  - heading: "Legal"
+      - name: About Us
+        url: /about
+      - name: Contact
+        url: /contact
+  - heading: Legal
     links:
-      - name: "Terms & Conditions"
-        url: "/terms-and-conditions"
-      - name: "Privacy Policy"
-        url: "/privacy"
-
+      - name: Terms & Conditions
+        url: /terms-and-conditions
+      - name: Privacy Policy
+        url: /privacy
 social_links:
-  - icon_class: "fab fa-facebook-f"  # FontAwesome icon class
-    url: "https://facebook.com/"
-  - icon_class: "fab fa-twitter"
-    url: "https://twitter.com/"
-  - icon_class: "fab fa-instagram"
-    url: "https://instagram.com/"
-
+  - icon_class: fab fa-facebook-f
+    url: https://facebook.com/
+  - icon_class: fab fa-instagram
+    url: https://instagram.com/
 footer_bottom:
-  year_id: "footerYear"   # span ID in HTML
-  klioh_link: "https://kliohstudio.com"
+  year_id: footerYear
+  klioh_link: https://kliohstudio.com
