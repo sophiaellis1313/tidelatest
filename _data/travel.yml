@@ -13,7 +13,8 @@ posts:
       you know where to look.
     type: Travel
     issue_no: Number 13
-    url: /articles/Hidden-Gems-Greek-Islands%20.html
+    url: >-
+      https://peachy-lion.cloudvent.net/articles/Hidden-Gems-Greek-Islands%20.html
     cover_image: /uploads/gundari-453-edit.jpg
     buttontitle: More
 cards:
@@ -158,7 +159,6 @@ cards:
     tags: []
     title: ' The Kamalame Cay '
     description: ' Under the careful watch of the Hew family, an untouched strip of sand in the Bahamas was transformed into Kamalame Cay, a laidback private-island resort  '
-
 content_on_image:
   image: /uploads/download-8.jpg
   alt: The High Low
@@ -272,7 +272,6 @@ featured_section:
         - ' number 02'
       title: ' Hidden Gems: St Tropez & the Côte d’Azur '
       description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d''Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.  '
-
 cards3:
   - image: /uploads/download-32.jpg
     alt: ' Checking In: Les Regalia, Corsica '
@@ -396,6 +395,3 @@ image_with_text1:
     link: https://www.mymagazinesub.co.uk/tide/
   image: /images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png
   background_class: grey-bg
-
-
-
