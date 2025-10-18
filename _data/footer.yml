@@ -8,12 +8,12 @@ footer_columns:
     links:
       - name: Sailing
         url: /sailing
+      - name: Travel
+        url: /travel
       - name: Lifestyle
         url: /lifestyle
       - name: Environment
         url: /environment
-      - name: Travel
-        url: /travel
       - name: Design
         url: /design
   - heading: More
