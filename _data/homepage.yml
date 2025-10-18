@@ -391,8 +391,8 @@ banner_section:
   tags:
     - EVENTS
     - TIDE
-  logo: /images/pursuit.png
-  logo_width: 225px
+  logo: /uploads/Pursuit1.png
+  logo_width: 300px
   date:
   location:
     prefix: at
