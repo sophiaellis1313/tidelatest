@@ -4,7 +4,7 @@ footer_logo:
   subscribe_link: /subscribe
   subscribe_text: Subscribe Now
 footer_columns:
-  - heading: Categories
+  - heading:
     links:
       - name: Sailing
         url: /sailing
