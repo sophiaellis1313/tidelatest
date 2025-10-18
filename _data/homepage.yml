@@ -32,7 +32,7 @@ design_image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-d
 issue_out_now_image: /uploads/issue-13/tide-magazine-13-spreads-mockup-2.jpg
 homepage_banner:
   desktop:
-    url: /uploads/issue-14-tide-desktop.png
+    url: https://www.mymagazinesub.co.uk/tide/
     video: false
     video_path: Issue Number Fourteen | 14 in store now
     poster: /images/homepage-poster.jpg
