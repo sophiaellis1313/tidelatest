@@ -17,7 +17,7 @@
                   {{ include.content_on_image.button_primary.label }}
                 </a>
               {% endif %}
-              {% if content_on_image.button_secondary %}
+              {% if include.content_on_image.button_secondary %}
                 <a href="{{ include.content_on_image.button_secondary.link }}" target="_blank" class="btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
                   {{ include.content_on_image.button_secondary.label }}
                 </a>
