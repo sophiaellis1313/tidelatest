@@ -36,9 +36,9 @@ footer_columns:
         url: /privacy
 social_links:
   - icon_class: fab fa-facebook-f
-    url: https://facebook.com/
+    url: https://www.facebook.com/thetidemagazine/
   - icon_class: fab fa-instagram
-    url: https://instagram.com/
+    url: https://www.instagram.com/thetidemagazine
 footer_bottom:
   year_id: footerYear
   klioh_link: https://kliohstudio.com
