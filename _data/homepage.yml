@@ -50,9 +50,9 @@ homepage_banner:
       text: PURCHASE NOW
       style: white-btn
   mobile:
-    url: /uploads/issue-14-tide-cover-aquarius.png
+    url: https://www.mymagazinesub.co.uk/tide/
     video: false
-    fallback_image: /uploads/OrotonDrumfire©Bennett9299.png
+    fallback_image: /uploads/issue-14-tide-cover-aquarius.png
     image_position: center
     title: Issue 14 is in stores now.
     tags:
