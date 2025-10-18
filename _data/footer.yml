@@ -16,19 +16,19 @@ footer_columns:
         url: /environment
       - name: Design
         url: /design
-  - heading: More
+  - heading:
     links:
       - name: Events
         url: /events
       - name: Print Magazine
         url: /magazine
-  - heading: Company
+  - heading:
     links:
       - name: About Us
         url: /about
       - name: Contact
         url: /contact
-  - heading: Legal
+  - heading:
     links:
       - name: Terms & Conditions
         url: /terms-and-conditions
