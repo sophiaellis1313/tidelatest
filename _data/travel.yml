@@ -383,19 +383,19 @@ cards3:
     tags: []
     title: ' Portofino: Let''s Meet at the Mare '
     description: ' Portofino’s newly refurbished Splendido Mare is a lesson in the art of sprezzatura: the laid-back, effortless charm that defines the Italian Riviera. '
+image_with_text1:
+  title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions
+  description: >-
+    Stay in the loop with curated updates featuring new issues, exclusive
+    articles, and upcoming events.
+  button_primary:
+    label: Subscribe Now
+    link: https://www.mymagazinesub.co.uk/tide/
+  button_secondary:
+    label: Browse All Issues
+    link: https://www.mymagazinesub.co.uk/tide/
+  image: /images/TIDE-issue-05-multi-cover-mockup_copy-removebg-preview 1.png
+  background_class: grey-bg
 
-subscribe_section:
-  left_image: /images/magazine.png
-  right_image: /images/tablet.png
-  title: Subscribe
-  buttons:
-    - text: IN PRINT
-      class: btn-border
-      link: "https://www.mymagazinesub.co.uk"
-      arrow: left
-    - text: DIGITAL
-      class: btn-border
-      link: "#"
-      arrow: right
 
 
