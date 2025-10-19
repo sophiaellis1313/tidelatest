@@ -6,7 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATION: JOSE WALKER'
 issue_no: number 09
 featured_image:
-  image: /uploads/tide-magazine-life-in-the-meadows.png
+  image: /uploads/environ-2.png
   position: img-center
 video: false
 video_path: ''
