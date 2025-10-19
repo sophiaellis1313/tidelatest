@@ -111,3 +111,14 @@ markdown:
       tr: none
       td: none
       li: right-of-prefix
+_inputs:
+  popup_date:
+    type: text
+    comment: Custom date format field
+    options:
+      empty_type: string
+  date:
+    type: text
+    comment: Custom date format field
+    options:
+      empty_type: string
