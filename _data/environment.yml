@@ -1,6 +1,6 @@
 posts:
   - category: Environment
-    video: true
+    video: false
     video_path: path/to/video.mp4
     featured_image:
       image: /uploads/environment-example.png
