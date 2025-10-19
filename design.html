@@ -14,7 +14,7 @@ categories:
         <div class="relative banner-img">
           <div class="grid">
             <div class="col-12_sm-12 relative">
-              <a href="/">
+              <a href="{{ post.url | '/' }}">
                 {% if post.video %}
                   <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{ post.cover_image }}">
                     <source src="{{ post.video_path }}" type="video/mp4" />
