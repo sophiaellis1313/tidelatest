@@ -194,7 +194,7 @@ featured_section:
       alt: ' Checking In: Bawah Reserve, Indonesia '
       link: /articles/bawah-reserve
       tags:
-        - ' Travel I'
+        - ' Travel '
         - ' number 11'
       title: ' Checking In: Bawah Reserve, Indonesia '
       description: ' This unique eco-resort offers guests a life-giving sojourn in the arms of Mother Nature '
@@ -202,7 +202,7 @@ featured_section:
       alt: ' Three''s a Charm '
       link: /articles/hotel-mezzatore
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 10
       title: ' Three''s a Charm '
       description: ' On the island of Ischia, one family has brought Italy’s ‘good life’ to a historic watchtower – by transforming it into their third smart hotel '
@@ -210,7 +210,7 @@ featured_section:
       alt: ' The High Low: Elba '
       link: /articles/high-low-elba
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 10
       title: ' The High Low: Elba '
       description: ' If you’re going to drink sundowners overlooking the Med and eat pasta in Italy – do it right. Introducing Elba’s Ibiza-infused Bleep bar and Ischia’s thoroughly Italian La Baia restaurant, which are each as different as they are exciting '
@@ -218,7 +218,7 @@ featured_section:
       alt: ' La Dolce Vita Itinerary '
       link: /articles/dolce-vita
       tags:
-        - ' Travel I'
+        - ' Travel '
         - ' number 10'
       title: ' La Dolce Vita Itinerary '
       description: ' From imperial Elba to rustic Ponza, here’s a sailing schedule that serves up the innately Italian ‘good life’ via idyllic landscapes, laid-back living and consistently phenomenal food and innovative techniques to create a food legacy all of its own.  Here, Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta,  celebrates her home’s past and present with a much-loved intrinsic dish '
@@ -226,7 +226,7 @@ featured_section:
       alt: ' Bermuda to the Bahamas '
       link: /articles/bermuda-bahamas
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 07
       title: ' Bermuda to the Bahamas '
       description: ' From antique cavalry to secret beaches, it’s possible to experience some real riches among the Atlantic Oceans’ more remote anchorages. Here we share how to find them  '
@@ -234,7 +234,7 @@ featured_section:
       alt: ' Hidden Gems: San Blas Islands, Panama '
       link: /articles/san-blas
       tags:
-        - ' Travel I'
+        - ' Travel '
         - ' number 07'
       title: ' Hidden Gems: San Blas Islands, Panama '
       description: ' Nestled in the azure embrace of the Caribbean Sea is this timeless, pristine archipelago, otherwise known as the Land of the Guna – and a treasure for all that discover it  '
@@ -242,7 +242,7 @@ featured_section:
       alt: ' West Coast Wilderness '
       link: /articles/itinerary-canada
       tags:
-        - ' Travel I'
+        - ' Travel '
         - ' number 06'
       title: ' West Coast Wilderness '
       description: ' Here are the essential stops to make on a journey along British Columbia’s coastline, one of the most naturally magnificent and wildlife-rich on earth '
@@ -250,7 +250,7 @@ featured_section:
       alt: ' Hidden Gems: Sardinia and Corsica '
       link: /articles/sardinia-corsica
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 06
       title: ' Hidden Gems: Sardinia and Corsica '
       description: ' The Mediterranean islands reward those who explore off the beaten track by revealing their secrets: wild interiors, powdery white beaches, delicious local cuisine and colourful festivals '
@@ -266,7 +266,7 @@ featured_section:
       alt: ' Hidden Gems: St Vincent and The Grenadines '
       link: /articles/hidden-gems-st-vincent-the-grenadines
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 03
       title: ' Hidden Gems: St Vincent and The Grenadines '
       description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season. '
@@ -274,7 +274,7 @@ featured_section:
       alt: ' HOTEL: Pan Deï Palais, Saint Tropez '
       link: /articles/hotel-pan-deï-palais
       tags:
-        - ' Travel I '
+        - ' Travel '
         - number 02
       title: ' HOTEL: Pan Deï Palais, Saint Tropez '
       description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835.  '
@@ -282,7 +282,7 @@ featured_section:
       alt: ' Hidden Gems: St Tropez & the Côte d’Azur '
       link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur
       tags:
-        - ' Travel I'
+        - ' Travel '
         - ' number 02'
       title: ' Hidden Gems: St Tropez & the Côte d’Azur '
       description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d''Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.  '
@@ -291,7 +291,7 @@ cards3:
     alt: ' Checking In: Les Regalia, Corsica '
     link: /articles/les-regalia
     tags:
-      - ' Travel I '
+      - ' Travel '
       - number 06
     title: ' Checking In: Les Regalia, Corsica '
     description: ' The Mediterranean islands reward those who explore off the beaten track by revealing their secrets: wild interiors, powdery white beaches, delicious local cuisine and colourful festivals '
@@ -299,7 +299,7 @@ cards3:
     alt: ' Hidden Gems: The Cyclades '
     link: /articles/cyclades-hidden-gems
     tags:
-      - ' Travel I '
+      - ' Travel '
       - number 05
     title: ' Hidden Gems: The Cyclades '
     description: ' Challenging sailing conditions in this corner of the Greek islands during July and August means they’re not always the first choice for sailors. Those who do take them on are rewarded with azure waters, excellent food and strong winds adding a sense of adventure, as well as long and pleasant shoulder seasons in Spring and Autumn. '
@@ -307,7 +307,7 @@ cards3:
     alt: ' Hailing Maine '
     link: /articles/maine
     tags:
-      - ' Travel I '
+      - ' Travel '
       - number 05
     title: ' Hailing Maine '
     description: ' Maine is a place with a humble appreciation for fine craftsmanship and a love for the sea. Its coast lures the sailor in with its quaint nautical heritage and bountiful charm. Whether these are familiar waters or the first inklings of a plan, the abundance of islands, bays, inlets and passageways will satisfy any voyager for a lifetime.  '
@@ -315,7 +315,8 @@ cards3:
     alt: ' Checking In: Bill & Coo, Mykonos  '
     link: /articles/bill-and-coo
     tags:
-      - ''
+      - travel
+      - number 05
     title: ' Checking In: Bill & Coo, Mykonos  '
     description: ' Escape the crowds on the hedonistic Greek island of Mykonos with pared-back architecture and unbridled luxury at Bill & Coo, a sun-drenched oasis tucked away on the edge of Mykonos town. On the most stylish of all the Greek islands, Bill & Coo is becoming a favourite with in-the-know insiders and return Superyacht visitors. '
   - image: /uploads/download-36.jpg

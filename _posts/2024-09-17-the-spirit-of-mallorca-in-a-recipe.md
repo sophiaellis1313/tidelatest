@@ -18,7 +18,6 @@ short-description: >-
   Sollivellas, Chef and co-owner of Restaurant Ca na Toneta,  celebrates her
   home’s past and present with a much-loved intrinsic dish
 categories:
-  - all
   - lifestyle
 images:
   - image: >-
