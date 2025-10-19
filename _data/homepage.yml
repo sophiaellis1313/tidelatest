@@ -252,48 +252,48 @@ cards5:
       On the island of Pianosa, surrounded by the vividly cerulean waves of the
       Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
       piece of land – just a little more than ten square kilometres... 
-  - image: >-
-      /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
-    alt: A Taste of Tuscany
-    link: articles/taste-of-tuscany
+  - image: /uploads/environment-example-1.png
+    alt: A Letter from Norway
+    link: articles/letter-from-norway.html
     tags:
       - ENVIRONMENT
-      - number 10
-    title: A Taste of Tuscany
-    description: >-
-      Thoughts of Tuscany are often accompanied by visuals of rolling green
-      hills and dirt roads lined by fragrant cypress. Groves of ancient olive
-      trees sit beside sun-drenched fields of golden wheat and vineyards full of
-      plump grapes ready to be crushed and fermented into bottles of heady
-      Tuscan reds. 
+      - number 11
+    title: A Letter from Norway
+    description: >+
+      Pale, sunny yellow buildings dance on the surface of the dark, calm water;
+      a gap, then its neighbour, white, moves in a chaotic sort of synchrony
+      with it. The next, a rosy pink, is a little harder to make out, but adds
+      to the kaleidoscope of colour that cheers up the otherwise grey autumn sky
+      in Ålesund, a pretty port town on the west coast of Norway.
+
   - image: >-
-      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
-    alt: The Spirit Of Mallorca In A Recipe
-    link: articles/mallorcan-food
+      /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+    alt: The Winds of Change
+    link: articles/veer
     tags:
-      - Lifestyle
-      - Number 09
-    title: The Spirit Of Mallorca In A Recipe
-    description: >-
-      As is the way with many Mediterranean isles, the Mallorcan heritage is a
-      tapestry woven by invaders and ingredients, occupations and innovations.
-      The complex layers of its past are seen in the architecture, the
-      agriculture, the traditions and, of course, in the food. 
-  - image: >-
-      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
-    alt: The Gourmand's Guide to Barcelona
-    link: articles/gourmand-barcelona
+      - Environment
+      - Number 05
+    title: The Winds of Change
+    description: >+
+      In a world grappling with the early devastating effects of a warming
+      climate, the maritime world stands apart as an oft-overlooked contributor.
+      Out at sea, away from critical eyes, marine transport has long exerted a
+      significant impact on the environment, often hidden beneath the surface of
+      economic growth.
+
+  - image: /uploads/environ-2.png
+    alt: Life in the Meadows
+    link: articles/sea-trees
     tags:
-      - lifestyle
+      - environment
       - number 09
-    title: The Gourmand's Guide to Barcelona
+    title: Life in the Meadows
     description: >-
-      As the 37th America’s Cup approaches, Barcelona is not just preparing for
-      an influx of sailing enthusiasts, but also for food lovers eager to
-      explore its culinary landscape. There is no city quite like Barcelona in
-      terms of dining, where the essence of Catalan cuisine, market-fresh
-      produce, Modernisme design, the Mediterranean Sea and innovative Chefs
-      converge to create a foodie’s dream. 
+      A slick, shiny creature darts between long blades of jade green grass.
+      He’s cautious. The grass is safe, but his silvery body sparkles against
+      the sun’s rays; flickering between shadows, he’s easy to spot. Gently, he
+      sways to the same slow rhythm as his grass forest, carried along by
+      invisible currents. 
 cards6:
   - image: /uploads/environment-example-2-3.png
     alt: The Force of Nature New
