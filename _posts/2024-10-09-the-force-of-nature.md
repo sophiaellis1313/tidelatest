@@ -15,7 +15,6 @@ short-description: >-
   of Pianosa has become a precious international case in the promising power of
   rewilding. We investigate how such an evolution came about
 categories:
-  - all
   - environment
 images:
   - image: >-
