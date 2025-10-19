@@ -1,9 +1,9 @@
 footer_logo:
   image: /images/tide-magazine-sailing-lifestyle-travel-logo-blue.png
   height: 60px
-  subscribe_link: /subscribe
+  subscribe_link: https://www.mymagazinesub.co.uk/tide/
   subscribe_text: Subscribe Now
-  join_now_text: Join Now
+  join_now_text: Get Updates
   join_now_link: '#join'
 footer_columns:
   - heading:
