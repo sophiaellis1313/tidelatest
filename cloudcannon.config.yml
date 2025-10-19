@@ -1,4 +1,14 @@
-_schema: _schema
+_schema:
+  data/event.yml:
+    properties:
+      cards:
+        type: array
+        items:
+          properties:
+            popup_date:
+              type: string
+              title: Popup date
+              description: Treated as plain text (no date/time picker)
 paths:
   uploads: uploads
   static: ''
@@ -83,10 +93,6 @@ collections_config:
     disable_add: true
     disable_add_folder: true
     disable_file_actions: true
-    _inputs:
-      popup_date:
-        type: text
-        label: Event Date
 _snippets_imports:
   jekyll: true
 timezone: Asia/Calcutta
