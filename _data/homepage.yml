@@ -80,7 +80,7 @@ cards:
 
   - image: /uploads/sw108-02-deck-24.jpg
     alt: ' Sailing Cuba '
-    link: articles/The-beautiful-lightness-of-being%20.html
+    link: /articles/The-beautiful-lightness-of-being.html
     tags:
       - Sailing
       - Number 13
@@ -126,7 +126,7 @@ cards2:
   - image: >-
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
     alt: Wind is Power
-    link: /articles/Drumfire-the-boat-to-beat%20.html
+    link: /articles/Drumfire-the-boat-to-beat.html
     tags:
       - Sailing
       - number 11
@@ -147,7 +147,7 @@ cards2:
 cards3:
   - image: /uploads/makris-fine-dining-restaurant-2.jpg
     alt: 'The High Low: The Greek Islands'
-    link: articles/The-High-Low-the-Greek-Islands%20.html
+    link: /articles/The-High-Low-the-Greek-Islands.html
     tags:
       - Travel
       - number 13
@@ -160,7 +160,7 @@ cards3:
       Ithaki. 
   - image: /uploads/image00014.jpeg
     alt: 'Checking In: Skinopi Lodge'
-    link: articles/Checking-in-Skinopi-Lodge%20.html
+    link: /articles/Checking-in-Skinopi-Lodge.html
     tags:
       - Travel
       - number 13
