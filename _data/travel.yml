@@ -20,7 +20,8 @@ cards:
   - image: /uploads/high-low-desktop.png
     alt: 'The High Low: the Greek Islands'
     link: /articles/The-High-Low-the-Greek-Islands%20.html
-    tags: []
+    tags:
+      - ''
     title: 'The High Low: The Greek Islands'
     description: >-
       From a Michelin-starred Chef’s scene-changing concoctions and drive to run
@@ -29,7 +30,8 @@ cards:
   - image: /uploads/image00014.jpeg
     alt: 'Checking in: Skinopi Lodge'
     link: /articles/Checking-in-Skinopi-Lodge%20.html
-    tags: []
+    tags:
+      - ''
     title: 'Checking in: Skinopi Lodge'
     description: >+
       Go back to soothingly simpler times in comfort via a stay at one of these
@@ -39,7 +41,8 @@ cards:
   - image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
     alt: Sailing the Northern Dodecanese
     link: articles/Sailing-the-Northern-Dodecanese.html
-    tags: []
+    tags:
+      - ''
     title: Sailing the Northern Dodecanese
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
@@ -65,31 +68,36 @@ cards:
   - image: /uploads/download-11.jpg
     alt: ' Checking in: Refugia Chiloé '
     link: /articles/refugia-chiloe
-    tags: []
+    tags:
+      - ''
     title: ' Checking in: Refugia Chiloé '
     description: ' This just-rebranded island retreat is as welcoming and soul-reviving as its name suggests. Nicola Chilton shares what to expect following her stay, from ravishing sunsets to unique local dishes and bathtubs with a view '
   - image: /uploads/download-12.jpg
     alt: ' Checking in: Posada Ayana '
     link: /articles/posada-ayana
-    tags: []
+    tags:
+      - ''
     title: ' Checking in: Posada Ayana '
     description: ' Originally from Austria, Edda and Robert Kofler relocated to the tiny Uruguayan village of José Ignacio and never looked back. The result? An elegant, modern hotel with ocean views and the kind of calm one would cross oceans for '
   - image: /uploads/download-13.jpg
     alt: ' Sailing Stockholm '
     link: /articles/sailing-stockholm
-    tags: []
+    tags:
+      - ''
     title: ' Sailing Stockholm '
     description: ' There’s a simple beauty in the stillness of Stockholm’s archipelago. With tens of thousands of isles, the region offers an itinerary very much intended to slow one down: think straight-forward food and the easy pleasure of days spent immersed in nature  '
   - image: /uploads/download-14.jpg
     alt: ' Hidden Gems: Project Ö, Skjulskäret '
     link: /articles/project-o
-    tags: []
+    tags:
+      - ''
     title: ' Hidden Gems: Project Ö, Skjulskäret '
     description: ' With a growing number of smart eco-focused stays across the Finnish archipelago, this little-known part of the world is having a – very quiet – moment  '
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-hermitage-2.jpg
     alt: ' Checking In: Hermitage Bay, Antigua '
     link: /articles/hermitage-bay
-    tags: []
+    tags:
+      - ''
     title: ' Checking In: Hermitage Bay, Antigua '
     description: ' The Antiguan hideaway is open once more following a large-scale but sensitive update. We met with new owner, Daniel Shamoon, to find out more    '
   - image: /uploads/download-19.jpg
@@ -119,43 +127,50 @@ cards:
   - image: /uploads/download-22.jpg
     alt: 'Hidden Gems: Menorca '
     link: /articles/hidden-gems-menorca
-    tags: []
+    tags:
+      - ''
     title: ' Hidden Gems: Menorca '
     description: ' More peaceful than sister islands Ibiza and Mallorca and with UNESCO status as a Biosphere Reserve, this Balearic may offer as close to an unspoilt paradise as you can get  '
   - image: /uploads/download-23.jpg
     alt: ' Checking In: Petunia Hotel, Ibiza '
     link: /articles/petunia-hotel
-    tags: []
+    tags:
+      - ''
     title: ' Checking In: Petunia Hotel, Ibiza '
     description: ' Step into a world of tranquillity, where nature reigns and Balearic flavours tantalise the palate '
   - image: /uploads/download-24.jpg
     alt: ' The High Low: French Polynesia '
     link: /articles/the-brando
-    tags: []
+    tags:
+      - ''
     title: ' The High Low: French Polynesia '
     description: ' French Polynesia brings to mind ambrosia; lush days spent lounging on chalk-fine sand, crystalline waters lapping gently along the shore. But there’s more to this archipelago nation than palm trees and beaches, and one way to get to know her is through her rich food heritage '
   - image: /uploads/download-25.jpg
     alt: ' Hidden Gems: Teti’aroa, French Polynesia '
     link: /articles/tetiaroa
-    tags: []
+    tags:
+      - ''
     title: ' Hidden Gems: Teti’aroa, French Polynesia '
     description: ' It was the dreamily secluded island atoll that stole Marlon Brando’s heart. Now, with a flock of celebrities using it as their get-off-the-grid getaway, Teti’aroa’s own star status is rising even higher, thanks to its stunning vistas, exceptional food and incredible backstory as an elite royal Tahitian retreat '
   - image: /uploads/download-26.jpg
     alt: ' French Polynesia '
     link: /articles/french-polynesia
-    tags: []
+    tags:
+      - ''
     title: ' French Polynesia '
     description: ' While the Marquesas have unmissable mountains, the Windward Islands have enormous pods of humpback whales and the Tuamotus have some of the most stunning natural shows on earth. Here are all the places to make the very most of all these sensational islands  '
   - image: /uploads/download-27.jpg
     alt: ' Checking In: Le Taha''a '
     link: /articles/le-tahaa
-    tags: []
+    tags:
+      - ''
     title: ' Checking In: Le Taha''a '
     description: ' There’s a subtle scent of vanilla flower mixed in with the gentle breeze that’s pulling in salty sea air. Underfoot is the palest blue-turquoise water of a shallow lagoon. Ahead: nothing but the horizon. This is Le Taha’a by Pearl Resorts, an award-winning resort by a motu of the same name '
   - image: /uploads/download-28.jpg
     alt: ' The Kamalame Cay '
     link: /articles/kamalame-cay
-    tags: []
+    tags:
+      - ''
     title: ' The Kamalame Cay '
     description: ' Under the careful watch of the Hew family, an untouched strip of sand in the Bahamas was transformed into Kamalame Cay, a laidback private-island resort  '
 content_on_image:
@@ -299,31 +314,36 @@ cards3:
   - image: /uploads/download-35.jpg
     alt: ' Checking In: Bill & Coo, Mykonos  '
     link: /articles/bill-and-coo
-    tags: []
+    tags:
+      - ''
     title: ' Checking In: Bill & Coo, Mykonos  '
     description: ' Escape the crowds on the hedonistic Greek island of Mykonos with pared-back architecture and unbridled luxury at Bill & Coo, a sun-drenched oasis tucked away on the edge of Mykonos town. On the most stylish of all the Greek islands, Bill & Coo is becoming a favourite with in-the-know insiders and return Superyacht visitors. '
   - image: /uploads/download-36.jpg
     alt: ' Hotel Excelsior Dubrovnik '
     link: /articles/hotel-excelsior
-    tags: []
+    tags:
+      - ''
     title: ' Hotel Excelsior Dubrovnik '
     description: ' Dreaming of panoramic views and sun-drenched afternoons, TIDE checks out Dubrovnik’s Balkan beauty from the shoreline at Hotel Excelsior ahead of the 2023 Summer season '
   - image: /uploads/download-37.jpg
     alt: ' Hidden Gems: Croatia and Montenegro '
     link: ''
-    tags: []
+    tags:
+      - ''
     title: ' Hidden Gems: Croatia and Montenegro '
     description: ' Glistening blue waters, rugged rocky outcrops, and hundreds of islands and islets to explore all make for excellent off-grid yachting adventures around Croatia and Montenegro '
   - image: /uploads/download-39.jpg
     alt: ' Finding Fjorland '
     link: /articles/finding-fjorland
-    tags: []
+    tags:
+      - ''
     title: ' Finding Fjorland '
     description: ' Half inside the Arctic Circle and bristling with glaciers, sea cliffs and deep fjords, Norway is a cruising ground which inspires a mix of trepidation and longing among sailors worldwide '
   - image: /uploads/download-40.jpg
     alt: ' A French-Créole sweet spot - Colibri, Antigua '
     link: /articles/colibri-antigua
-    tags: []
+    tags:
+      - ''
     title: ' A French-Créole sweet spot - Colibri, Antigua '
     description: ' Run by husband and wife team Didier and Leah Deleau, relaxed yet sophisticated Colibri brings French-Créole flair to the island’s culinary scene.  '
   - image: /uploads/download-45.jpg
@@ -354,31 +374,36 @@ cards3:
   - image: /uploads/download-48.jpg
     alt: ' Island Five Spice '
     link: /articles/four-islands
-    tags: []
+    tags:
+      - ''
     title: ' Island Five Spice '
     description: ' If armed with fearless curiosity and a sailing yacht as a chariot, the world opens up in unimaginable ways. Taking to the open seas to chase the unfamiliar can lead to discoveries otherwise inaccessible. Considering the excitement and hunger for adventure that grip today’s intrepid sailors, a getaway to islands untrodden could be the perfect antidote to a year spent in lockdown.  '
   - image: /uploads/download-49.jpg
     alt: ' Hidden Gems: Naples & The Amalfi Coast '
     link: /articles/hidden-gems-naples-amalfi
-    tags: []
+    tags:
+      - ''
     title: ' Hidden Gems: Naples & The Amalfi Coast '
     description: ' The Bay of Naples and its glittering islands need no introduction. Get away from the crowded hotspots with these lesser-known beaches, secret caves and waterside trattorias.  '
   - image: /uploads/download-50.jpg
     alt: ' The Azores - A Place to Sea '
     link: /articles/azores
-    tags: []
+    tags:
+      - ''
     title: ' The Azores - A Place to Sea '
     description: ' The Azores — Portuguese-speaking, verdant and wild — is that rare destination where a remote setting gives way to having it all… '
   - image: /uploads/download-51.jpg
     alt: ' Sailing in the City - New York '
     link: /articles/new-york
-    tags: []
+    tags:
+      - ''
     title: ' Sailing in the City - New York '
     description: ' New York City reserves some of its most spectacular panoramas for those lucky enough to visit by boat. '
   - image: /uploads/download-52.jpg
     alt: ' Portofino: Let''s Meet at the Mare '
     link: /articles/portofino
-    tags: []
+    tags:
+      - ''
     title: ' Portofino: Let''s Meet at the Mare '
     description: ' Portofino’s newly refurbished Splendido Mare is a lesson in the art of sprezzatura: the laid-back, effortless charm that defines the Italian Riviera. '
 image_with_text1:
