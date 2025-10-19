@@ -316,11 +316,7 @@
 <div class="container footer-logo w-full justify-between d-flex centered align-center container-full">
   <img src="{{ site.data.footer.footer_logo.image }}" style="height: {{ site.data.footer.footer_logo.height }}" />
   <!-- <a class="btn subscribe-btn" href="{{ site.data.footer.footer_logo.subscribe_link }}"> {{ site.data.footer.footer_logo.subscribe_text }} </a> -->
-         {% if include.footer.footer_logo.join_now_button %}
-                <a href="{{ include.footer.footer_logo.join_now_button.join_now_link | default:'/'}}" target="_blank" class="dark-btn btn-border {{ include.footer.footer_logo.join_now_button.join_now_text | remove: ' ' }}">
-                  {{ include.footer.footer_logo.join_now_button.join_now_text }}
-                </a>
-              {% endif %}
+  <a href="{{ site.data.footer.footer_logo.join_now_link | default:'/'}}" class="btn subscribe-btn"> {{ site.data.footer.footer_logo.join_now_text }} </a>
   <a class="btn subscribe-btn"> {{ site.data.footer.footer_logo.subscribe_text }} </a>
 </div>
 
