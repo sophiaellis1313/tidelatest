@@ -1,14 +1,4 @@
-_schema:
-  data/event.yml:
-    properties:
-      cards:
-        type: array
-        items:
-          properties:
-            popup_date:
-              type: string
-              title: Popup date
-              description: Treated as plain text (no date/time picker)
+_schema: _schema
 paths:
   uploads: uploads
   static: ''
