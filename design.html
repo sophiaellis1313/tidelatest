@@ -27,7 +27,7 @@ categories:
             <div class="absolute top-0 center pt-50 mt-9 w-full centered white" style="z-index: 8;display: none;">
              <a href="/">CATEGORY: <b>{{ post.category }}</b></a> 
             </div>
-            <a href={{post.url}} class="content-on-hover vw-100 container-full pt-4 d-flex align-end pb-2 mb:pb-100 overlay flex-wrap">
+            <a href="{{ post.url | default: '/' }}" class="content-on-hover vw-100 container-full pt-4 d-flex align-end pb-2 mb:pb-100 overlay flex-wrap">
               <div class="col-12 main-wrapper left">
                 <div class="d-flex gap-10 subtitle mt-2 text-white uppercase font-xs normal-letter-spacing mb-1 overpass-font-family card-tags">
                   <span>{{ post.type }}</span>
