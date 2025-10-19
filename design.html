@@ -14,7 +14,7 @@ categories:
         <div class="relative banner-img">
           <div class="grid">
             <div class="col-12_sm-12 relative">
-              <a href="{{ post.url | default: '/' }}">
+              <a href="/">
                 {% if post.video %}
                   <video id="myVideo" class="bg-video bg_cover vw-100 vh-100" autoplay muted playsinline autobuffer="true" loop poster="{{ post.cover_image }}">
                     <source src="{{ post.video_path }}" type="video/mp4" />
@@ -37,7 +37,7 @@ categories:
                 <h2 class="mob-padding mt-1 mb-1 text-white h2">{{ post.title }}</h2>
                 <p class="mob-padding long-text mt-1 no-margin text-white mb-0">{{ post.short_description }}</p>
               </div>
-              <span class="btn white-btn mt-1">{{ post.buttontitle }}</span>
+             <a href={{post.url}}> <span class="btn white-btn mt-1">{{ post.buttontitle }}</span></a>
             </a>
           </div>
         </div>
