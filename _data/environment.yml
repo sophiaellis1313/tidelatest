@@ -138,6 +138,33 @@ featured_section:
         - number 03
       title: ' Rewilding the Sea '
       description: ' Environmental campaigner and acclaimed author Charles Clover explains how – with a little patience and optimism – simply leaving the oceans alone to heal themselves is the best thing we can do.  '
+    - image: /uploads/tide-magazine-rebuilding-reefs.png
+      alt: ''
+      link: articles/rebuilding-reefs
+      tags:
+        - 'Environment '
+        - number 02
+      title: Rebuilding Reefs
+      description: >+
+        Antigua’s white sandy beaches, azure waters, abundant coral reefs,
+        seagrass and mangroves make it an impeccable destination for both novice
+        and experienced sailors, a tropical destination long sought after. But
+        this is all under threat. Once thriving, the island’s ocean habitats are
+        degrading “at an alarming rate,” according to the Elkhorn Marine
+        Conservancy (EMC), a non-profit dedicated to enhancing Antigua’s marine
+        ecosystems.
+
+    - image: /uploads/tide-magazine-great-circle.png
+      alt: The Great Circle
+      link: articles/great-circle
+      tags:
+        - environment
+        - number 01
+      title: The Great Circle
+      description: >+
+        Olympic gold sailing medallists Blair Tuke and Peter Burling on the
+        preservation and restoration of the world’s oceans…
+
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions
   description: >-
