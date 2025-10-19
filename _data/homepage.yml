@@ -382,9 +382,6 @@ image_with_text2:
   button_primary:
     label: Join Now
     link: '#join'
-  button_secondary:
-    label: Learn More
-    link: '#learn'
   image: /uploads/tideexample.png
   background_class: grey-bg
   paddingclass: padding0tott
