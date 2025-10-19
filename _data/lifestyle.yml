@@ -3,7 +3,7 @@ posts:
     video: false
     video_path: /uploads/fc5a9854-min.jpg
     featured_image:
-      image: path/to/featured-image.jpg
+      image: /uploads/fc5a9854-min.jpg
       position: center
     title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
     short_description: >-
