@@ -14,11 +14,14 @@ buttonlabel4: VIEW ALL
 buttonlink4: https://peachy-lion.cloudvent.net/travel
 buttonlabel5: VIEW ALL
 buttonlink5: https://peachy-lion.cloudvent.net/environment
+buttonlabel6: VIEW ALL
+buttonlink6: https://peachy-lion.cloudvent.net/environment
 cardmaintitle1: ARTICLES
 cardmaintitle2: SAILING  ARTICLES
 cardmaintitle3: DESIGN  ARTICLES
 cardmaintitle4: TRAVEL  ARTICLES
 cardmaintitle5: ENVIRONMENT  ARTICLES
+cardmaintitle6: New Slider
 desktop_first_image: /uploads/issue-14-tide-cover-aquarius-desktop.png
 desktop_first_image_position: img-left
 mobile_first_image: /uploads/issue-14-tide-cover-aquarius.png
@@ -244,6 +247,45 @@ cards5:
       - 'Environment '
       - number 10
     title: The Force of Nature
+    description: >-
+      On the island of Pianosa, surrounded by the vividly cerulean waves of the
+      Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
+      piece of land – just a little more than ten square kilometres – and
+      noticeably flat, with a maximum elevation of 29 metres above sea level.
+  - image: /uploads/environment-example-1.png
+    alt: A Letter From Norway
+    link: articles/letter-from-norway.html
+    tags:
+      - ENVIRONMENT
+      - number 11
+    title: A Letter From Norway
+    description: >
+      Pale, sunny yellow buildings dance on the surface of the dark, calm water;
+      a gap, then its neighbour, white, moves in a chaotic sort of synchrony
+      with it. The next, a rosy pink, is a little harder to make out, but adds
+      to the kaleidoscope of colour that cheers up the otherwise grey autumn sky
+      in Ålesund, a pretty port town on the west coast of Norway.
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+    alt: The Winds of Change
+    link: articles/veer.html
+    tags:
+      - Environmental
+      - Number 05
+    title: The Winds of Change
+    description: >-
+      In a world grappling with the early devastating effects of a warming
+      climate, the maritime world stands apart as an oft-overlooked contributor.
+      Out at sea, away from critical eyes, marine transport has long exerted a
+      significant impact on the environment, often hidden beneath the surface of
+      economic growth.
+cards6:
+  - image: /uploads/environment-example-2-3.png
+    alt: The Force of Nature New
+    link: articles/pianosa
+    tags:
+      - 'Environment '
+      - number 10
+    title: The Force of Nature New
     description: >-
       On the island of Pianosa, surrounded by the vividly cerulean waves of the
       Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
