@@ -5,7 +5,7 @@ title: A Fresh Wave - Spinta Studio
 type: 'Lifestyle '
 byline: 'WORDS: PAUL JOSEPH | IMAGES: SPINTA STUDIO'
 issue_no: number 03
-featured_image: 
+featured_image:
   image: /uploads/fbdx0xvo.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   With the launch of Spinta Studio, Italian-born naval architect Vittorio Papa
   balances function and aesthetic with a strong environmental conscience.
 categories:
-  - all
   - design
 images:
   - image: /uploads/fbdx0xvo-2.jpg
@@ -35,7 +34,7 @@ By the time he had finished his studies, Papa was a professional sailor and race
 
 In early 2013, just months after finishing his course in Southampton, Papa got his big break by landing a role at Hoek Design in Holland. Here, he was put in charge of performance analysis based on ‘computational fluid dynamics and velocity prediction programmes’.
 
-Over the next four years, Papa worked on a number of ground-breaking projects, among them the *WallyNano MKII* (2016), 152ft ketch *Elfje*, 128ft *Atalante*, 50m ketch *Meraki,* and J-Class yachts *Topaz* and *Svea*. He also became the designated Naval Architect for J-Class *Svea* (2019) which continues to compete and race, while receiving widespread acclaim for its fusion of 1930s design and cutting-edge technology. It was then agreed that Papa would head to Mallorca – the hub of the Mediterranean Superyacht scene – while continuing to work for Hoek. It was an offer he couldn’t refuse.
+Over the next four years, Papa worked on a number of ground-breaking projects, among them the *WallyNano MKII* (2016), 152ft ketch *Elfje*, 128ft *Atalante*, 50m ketch *Meraki,* and J-Class yachts *Topaz* and *Svea*. He also became the designated Naval Architect for J-Class *Svea*&nbsp;(2019) which continues to compete and race, while receiving widespread acclaim for its fusion of 1930s design and cutting-edge technology. It was then agreed that Papa would head to Mallorca – the hub of the Mediterranean Superyacht scene – while continuing to work for Hoek. It was an offer he couldn’t refuse.
 
 During his spell working remotely for Hoek, Papa would become more hands-on than ever. Collaborations with the likes of Italian carbon boat builder Mylius Yachts led to successful launches, including the ground-breaking Mylius 60 Canting Keel, *Cippa Lippa X*, while he continued to be closely involved with J-Class yachts.
 
@@ -47,7 +46,7 @@ Those early months of Spinta required Papa, now 36, to call upon all the resilie
 
 “While sailing, I observe all the design aspects and the relationship between features and performance. I gradually developed an intuition for how shifting design parameters affects performance.”
 
-A handful of early design explorations commissioned by experienced owners brought him into contact with Baltic Yachts and Southern Wind Shipyard. The positive feedback from builders and suppliers came as an endorsement to Papa's vision on yacht design.
+A handful of early design explorations commissioned by experienced owners brought him into contact with Baltic Yachts and Southern Wind Shipyard. The positive feedback from builders and suppliers came as an endorsement to Papa’s vision on yacht design.
 
 “I was always sure we could offer a valid alternative to the long established design houses,” he says. The typical profile of a Superyacht owner is moving to people who may have never even owned a boat before. They’re younger, fresh-minded, and have often made their money in the last ten years.”
 
