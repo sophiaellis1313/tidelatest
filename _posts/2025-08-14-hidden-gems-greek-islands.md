@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Hidden-Gems-Greek-Islands '
+permalink: /articles/Hidden-Gems-Greek-Islands
 title: 'Hidden Gems: Greek Islands '
 type: travel
 byline: 'Author: Rick Jordan '

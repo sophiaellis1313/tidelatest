@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/The-beautiful-lightness-of-being '
+permalink: /articles/The-beautiful-lightness-of-being
 title: 'The beautiful lightness of being '
 type: sailing
 byline: 'WORDS: SAMUEL JEFFERSON  |  IMAGES: ORIOL ESTEVE'

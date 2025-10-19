@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Frers-spirit '
+permalink: /articles/Frers-spirit
 title: 'Frers Spirit '
 type: sailing
 byline: 'WORDS: LAURA D REDMAN  |  IMAGES: FRERS STUDIO'

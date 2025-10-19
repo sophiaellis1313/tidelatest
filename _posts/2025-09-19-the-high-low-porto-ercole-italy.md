@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/The-High-Low-Porto-Ercole-Italy '
+permalink: /articles/The-High-Low-Porto-Ercole-Italy
 title: 'The High Low: Porto Ercole, Italy '
 type: travel
 byline: 'Author: Phoebe Hunt'

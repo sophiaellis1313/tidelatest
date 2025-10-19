@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/The-High-Low-the-Greek-Islands '
+permalink: /articles/The-High-Low-the-Greek-Islands
 title: 'The High Low: the Greek Islands '
 type: travel
 byline: 'WORDS: HELEN IATROU  |  IMAGES: DOMES RESORTS & CLAIRE LLOYD'

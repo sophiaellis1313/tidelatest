@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Checking-in-Skinopi-Lodge '
+permalink: /articles/Checking-in-Skinopi-Lodge
 title: 'Checking in: Skinopi Lodge '
 type: travel
 byline: 'Words: Rachel Howard | Images: Lucy Laucht'

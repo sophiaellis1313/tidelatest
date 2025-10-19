@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/The-Appetising-Aeolians   '
+permalink: /articles/The-Appetising-Aeolians
 title: 'The Appetising Aeolians '
 type: lifestyle
 byline: 'WORDS: Phoebe Hunt | IMAGES: Studio Swine'

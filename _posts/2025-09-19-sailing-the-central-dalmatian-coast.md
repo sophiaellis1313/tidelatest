@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Sailing-the-Central-Dalmatian-Coast   '
+permalink: /articles/Sailing-the-Central-Dalmatian-Coast
 title: 'Sailing the Central Dalmatian Coast   '
 type: travel
 byline: "Author: Dayyan Armstrong \L"

@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Restoring-the-Med '
+permalink: /articles/Restoring-the-Med
 title: 'Restoring the Med '
 type: environmental
 byline: 'Author: Danielle Schofield · Illustrations: Jose Walker '

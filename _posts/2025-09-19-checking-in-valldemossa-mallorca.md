@@ -1,6 +1,6 @@
 ---
 layout: blog
-permalink: '/articles/Checking-in-Valldemossa-Mallorca '
+permalink: /articles/Checking-in-Valldemossa-Mallorca
 title: 'Checking in: Valldemossa, Mallorca '
 type: lifestyle
 byline: "WORDS: Becky Lucas \t"
