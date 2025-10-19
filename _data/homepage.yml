@@ -230,7 +230,8 @@ cards4:
     alt: ''
     link: articles/design-jarkko
     tags:
-      - ''
+      - design
+      - number 09
     title: Changing the Game
     description: >-
       You don’t simply emerge from the woods and set to work designing a boat as
@@ -240,18 +241,17 @@ cards4:
       foiling fantasy may be his first sailing boat, but make no mistake: it
       will not be his last.
 cards5:
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
+  - image: /uploads/environ-1.png
     alt: lifestyle number 12 Ocean Breeze
-    link: /articles/ocean-breeze
+    link: /articles/pianosa
     tags:
-      - lifestyle
-      - number 12
-    title: Ocean Breeze
+      - environment
+      - number 10
+    title: 'The Force of Nature '
     description: >-
-      So much of a wine’s identity hinges on its terroir – the growing
-      conditions unique to a particular location. At Bodega Oceánica José
-      Ignacio winery on Uruguay’s Atlantic coast, that’s a trio of clay soils..
+      On the island of Pianosa, surrounded by the vividly cerulean waves of the
+      Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
+      piece of land – just a little more than ten square kilometres... 
   - image: >-
       /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: A Taste of Tuscany
@@ -301,7 +301,7 @@ cards6:
     tags:
       - 'Environment '
       - number 10
-    title: The Force of Nature New
+    title: 'The Force of Nature '
     description: >-
       On the island of Pianosa, surrounded by the vividly cerulean waves of the
       Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
