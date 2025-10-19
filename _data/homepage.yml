@@ -240,7 +240,8 @@ cards5:
   - image: /uploads/environment-example-2-3.png
     alt: The Force of Nature
     link: articles/pianosa
-    tags: []
+    tags:
+      - ''
     title: The Force of Nature
     description: >-
       On the island of Pianosa, surrounded by the vividly cerulean waves of the
