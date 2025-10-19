@@ -3,7 +3,7 @@ posts:
     video: false
     video_path: /uploads/gundari-453-edit.jpg
     featured_image:
-      image: path/to/featured-image.jpg
+      image: /uploads/gundari-453-edit.jpg
       position: center
     title: 'Hidden Gems: Greek Islands'
     short_description: >
