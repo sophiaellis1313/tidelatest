@@ -1,6 +1,6 @@
 posts:
   - category: Lifestyle
-    video: true
+    video: false
     video_path: /uploads/fc5a9854-min.jpg
     featured_image:
       image: path/to/featured-image.jpg

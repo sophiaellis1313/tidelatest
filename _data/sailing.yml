@@ -1,6 +1,6 @@
 posts:
   - category: sailing
-    video: true
+    video: false
     video_path: /uploads/audihirw2017-francolini-1753.jpg
     featured_image:
       image: /uploads/silken-2024-03-07-0953-min.jpg
