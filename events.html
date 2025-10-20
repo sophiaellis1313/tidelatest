@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+
+<style>
+
+  .overlay-work.activee {
+      backdrop-filter: blur(3px);
+  } 
+  
+  
+</style>
+
 <section class="relative banner-img no-margin ">
   <div class="grid">
     <div class="col-12_sm-12 relative">
@@ -91,13 +101,13 @@ layout: default
                       <p class=" font-s font-weight-400">
                         {{ card.popup_description }}
                       </p>
-                      <p class="description2  font-s font-weight-400" style="display: none;">
+                      <p class="description2  font-s font-weight-400">
                         {{ card.popup_description2 }}
                       </p>
                     </div>
                     <div class="mt-mob mt-big d-flex gap-15">
-                      <a  class="dark-btn btn-border readmoree">{{ card.popup_button_label }}</a>
-                      <a href="{{ card.popup_button_link2 }}" class="btn-border">{{ card.popup_button_label2 }} </a>
+                      <!-- <a  class="dark-btn btn-border readmoree">{{ card.popup_button_label }}</a> -->
+                      <a href="{{ card.popup_button_link2 }}" class="dark-btn btn-border readmoree">{{ card.popup_button_label2 }} </a>
                     </div>
                     </div>
                   
