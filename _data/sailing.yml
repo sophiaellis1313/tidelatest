@@ -44,6 +44,18 @@ cards:
       Superyacht Awards, to find out.
 
 
+  - image: /uploads/dsc01506-1-min-1.jpg
+    alt: ''
+    link: articles/Wider-wake
+    tags:
+      - sailing
+      - number 13
+    title: Wider Wake
+    description: >+
+      High speed multihulls have the ability to broaden your horizons in the
+      most extraordinary way. Sea Tilt, a Gunboat 68, is a case in point.
+
+
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' Sailing I number 12'
     link: /articles/sarissa
@@ -60,38 +72,47 @@ cards:
       - I number 11
     title: ' Wind is Power '
     description: ' The latest rig and sail innovations are allowing boatbuilders and designers to think big when it comes to sailing vessels – and that is good news for the environment '
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-nilaya-1.jpg
-    alt: ' Nilaya Rises '
-    link: /articles/nailaya
-    tags:
-      - ' Sailing '
-      - number 11
-    title: ' Nilaya Rises '
-    description: ' Introducing the seaborne giant with the featherlight touch – we meet Captain Romke Loopik and find out the many ways this ‘boat made for sailing’ moves both him and her hands-on owner '
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-spirits-1.jpg
-    alt: ' Competitive Spirits '
-    link: /articles/competitive-spirits
-    tags:
-      - ' Sailing'
-      - number 11
-    title: ' Competitive Spirits '
-    description: ' Two modern 100ft wooden yachts raced head-to-head in Sweden last year. Sam Fortescue hears how history was made '
 content_on_image:
-  image: /uploads/dsc01506-1-min.jpg
-  alt: Wider Wake
+  image: >-
+    /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-nilaya-1.jpg
+  alt: Nilaya Rises
   tags:
     - Sailing
-    - Number 13
-  title: Wider Wake
-  description: >-
-    Sea Tilt is a high-speed multihull that’s opening up, well, any horizon for
-    its owners and crew. Skipper Sabastian Barrett shares the inside track.
+    - Number 11
+  title: Nilaya Rises
+  description: >+
+    Imagine cruising at 18 knots, hard pressed under sail, in total silence. For
+    most of us fortunate enough to have ever sailed at this speed, we know this
+    is a pipe dream; the boat will be groaning, screaming, juddering and
+    slamming as she careers through the seas. Not so, for the owner of Nilaya.
+    His elegant, seductive Superyacht slices silently through the seas at pace,
+    like a knife through butter.
+
   button:
     text: More
-    link: /articles/Wider-wake.html
+    link: articles/nailaya
     class: width-fit btn white-btn
 featured_section:
   cards:
+    - image: >-
+        /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-spirits-1.jpg
+      alt: ''
+      link: articles/competitive-spirits
+      tags:
+        - sailing
+        - number 11
+      title: Competitive Spirits
+      description: >+
+        Some boats provoke stronger reactions than others. Few more so than the
+        aptly named Spirit Yachts, whose flush decks, gleaming brightwork and
+        extensive overhangs anchor them in the aesthetic of the Golden Age of
+        sail. So, when the two largest Spirits in the fleet came head-to-head
+        during the summer of 2024, the emotion was palpable. “It’s an experience
+        that I will never forget – I still haven’t metabolised it yet,”
+        exclaimed the owner of 2020-born Geist (32.9m) as he stepped ashore
+        after two days of match racing in Sweden. Gaia (30.6m) was the other
+        protagonist – the more mature of the two, having been launched in 2007.
+
     - image: >-
         /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-maximus-1.jpg
       alt: Maximus The Ocean Gladiator
@@ -347,14 +368,6 @@ featured_section:
         - number 03
       title: ' A Global Range: The Schooner '
       description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
-    - image: /uploads/lsr8twys.jpg
-      alt: ' A True Classic '
-      link: /articles/a-true-classic
-      tags:
-        - Sailing
-        - number 01
-      title: ' A True Classic '
-      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
     - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
       alt: ' A Touch of Nordic Cool - Sørvind '
       link: /articles/sorvind
@@ -435,6 +448,14 @@ featured_section:
         whilst the industry seeks to meet demand, one yard at the sharp end of
         the market is already raising the bar.
 
+    - image: /uploads/lsr8twys.jpg
+      alt: ' A True Classic '
+      link: /articles/a-true-classic
+      tags:
+        - Sailing
+        - number 01
+      title: ' A True Classic '
+      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
     - image: /uploads/download-51.jpg
       alt: Sailing in the City - New York
       link: articles/new-york
