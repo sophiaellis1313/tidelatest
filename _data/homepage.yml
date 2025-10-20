@@ -497,7 +497,7 @@ image_with_text2:
   button_primary:
     label: Join Now
     link: '#join'
-  image: /uploads/tide-14-multicovers-2.jpg
+  image: /uploads/tideexample.png
   background_class: grey-bg
   paddingclass: padding0tott
 banner_section:
