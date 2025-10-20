@@ -34,7 +34,7 @@
           {% endif %}
 
           {% if include.content_banner.location %}
-          <h3 class="font-ss overpass-font-family d-flex gap-10 justify-center flex-wrap">
+          <h3 class="font-ss overpass-font-family d-block gap-10 justify-center flex-wrap">
             {% if include.content_banner.location.prefix %}
               <i class="crimson">{{ include.content_banner.location.prefix }}</i>
             {% endif %}
@@ -44,6 +44,7 @@
             {% if include.content_banner.location.suffix %}
               <i class="crimson">{{ include.content_banner.location.suffix }}</i>
             {% endif %}
+          
             {% if include.content_banner.location.partners %}
               <span class="font-weight-600">{{ include.content_banner.location.partners }}</span>
             {% endif %}
