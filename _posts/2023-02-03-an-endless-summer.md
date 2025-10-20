@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/an-endless-summer
 title: An endless summer
 type: Lifestyle
 byline: 'WORDS: Jemma F. Harrison'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/rlzed8ta.jpeg
   position: img-center
 video: false
