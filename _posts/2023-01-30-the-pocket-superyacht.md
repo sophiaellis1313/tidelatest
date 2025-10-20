@@ -15,7 +15,6 @@ video_path:
 short-description: "Superyacht\_is an evocative word-enormous craft with lofty rigs and loftier budgets,\_fully\_customised, complex\_creations. But\_the core values of what make a superyacht\_(luxury, style and\_personal expression)are not the sole preserve of\_custom\_vessels\_well\_in excess of24m....let’s\_take\_a\_look at\_the pocket superyacht."
 categories:
   - sailing
-  - all
 images:
   - image: /uploads/bydqgsvi.jpeg
     caption: true

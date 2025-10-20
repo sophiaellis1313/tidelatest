@@ -5,8 +5,9 @@ title: 'Hidden Gems: The Cyclades'
 type: Travel
 byline: 'WORDS: HELEN IATROU |  IMAGES: THOMAS GRAVANIS'
 issue_no: number 05
-featured_image: 
-  image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-hidden-gems2.jpg
+featured_image:
+  image: >-
+    /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-hidden-gems2.jpg
   position: img-center
 video: false
 video_path: ''
@@ -17,7 +18,6 @@ short-description: >-
   adding a sense of adventure, as well as long and pleasant shoulder seasons in
   Spring and Autumn.
 categories:
-  - all
   - travel
 images:
   - image: >-

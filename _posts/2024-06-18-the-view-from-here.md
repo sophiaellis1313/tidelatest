@@ -5,7 +5,7 @@ title: The View From Here
 type: Design
 byline: 'WORDS: MIRIAM CAIN | IMAGES: JASON LUDLOW'
 issue_no: number 08
-featured_image: 
+featured_image:
   image: /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-design-4.jpg
   position: img-center
 video: false
@@ -16,7 +16,6 @@ short-description: >-
   yachts. Here, the award-winning naval architect shares some personal insights
   on his four decades in the industry, as well as his ideas for the future
 categories:
-  - all
   - design
 images:
   - image: >-

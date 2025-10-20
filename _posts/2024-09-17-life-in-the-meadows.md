@@ -15,7 +15,6 @@ short-description: >-
   fighting climate change. But these hidden forests are under threat. Luckily, a
   Mallorcan project is diving in to help save them
 categories:
-  - all
   - environment
 images:
   - image: >-

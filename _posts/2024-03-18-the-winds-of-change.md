@@ -17,7 +17,6 @@ short-description: >-
   sailing cargo ship powered by the wind and clean hydrogen fuel, Veer is
   setting a new standard for eco-responsible practices on the high seas.
 categories:
-  - all
   - environment
 images:
   - image: >-

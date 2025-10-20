@@ -5,7 +5,7 @@ title: The Seas Less Sailed
 type: Sailing
 byline: 'WORDS: SAMUEL JEFFERSON |  IMAGES: OLI RILEY'
 issue_no: number 06
-featured_image: 
+featured_image:
   image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: |-
   as SY Athos on her recent summer cruise through British Columbia. 
   Skipper Tony Brookes and photographer Oli Riley recount the highlights
 categories:
-  - all
   - sailing
 images:
   - image: >-

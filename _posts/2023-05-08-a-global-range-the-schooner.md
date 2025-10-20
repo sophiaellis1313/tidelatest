@@ -5,7 +5,7 @@ title: 'A Global Range: The Schooner'
 type: Sailing
 byline:
 issue_no: number 03
-featured_image: 
+featured_image:
   image: /uploads/glclzrga.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   famous Schooners afloat today, and show how the multi-mast sailing yachts are
   hard to beat for a truly authentic sailing experience.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/scooner2.jpg
@@ -55,7 +54,7 @@ Whether two or three-masted, the arrangement of a modern Schooner, much like its
 
 Speaking about the extensive refit of *Athos*, Hoek explains how the zoning of a Schooner, afforded by the natural placement of the rigs and sail-handling equipment, makes for the perfect creation of separate owner/crew spaces on deck. Hoek’s hallmark of deckhouses and cockpits for the exclusive use of owners and guests, linked to interior cabins, affords a level of privacy not normally associated with even the largest sailing yachts.
 
-It's not all about privacy though. In this year’s Les Voiles de Saint Tropez, twin-masted *Elena of London* once again strutted her stuff in an impressive display of blustery weather performance. With 41.6 by 8.1m of clean flush decks, there are very few who can lay down a stern wave so gracefully. Launched in 2009, she is a replica of Nathaniel Herreshoff’s 1911 original. The modern reincarnation of *Elena* was masterminded by her skipper, the eminent Scottish Captain Steve Mclaren, and is a regular on the Mediterranean classic regatta scene. So too, until recently, was her close counterpart, the ill-fated *Eleonora*.
+It’s not all about privacy though. In this year’s Les Voiles de Saint Tropez, twin-masted *Elena of London* once again strutted her stuff in an impressive display of blustery weather performance. With 41.6 by 8.1m of clean flush decks, there are very few who can lay down a stern wave so gracefully. Launched in 2009, she is a replica of Nathaniel Herreshoff’s 1911 original. The modern reincarnation of *Elena* was masterminded by her skipper, the eminent Scottish Captain Steve Mclaren, and is a regular on the Mediterranean classic regatta scene. So too, until recently, was her close counterpart, the ill-fated *Eleonora*.
 
 The schooner class at this year’s Voiles comprised 7 yachts, with the aforementioned joined by *Shenandoah of Sark* and *Naema;* all racing for the regatta’s Rolex Trophy*.* The 44m three-masted *Shenandoah* was launched in 1902, extensively refitted in 2018, and when not putting in the odd regatta appearance is offered for charter. Hot on her heels the 2013, 35m *Naema* finished third overall, giving due credit to the 1938 Mylne design *Panda* on which she was based.
 

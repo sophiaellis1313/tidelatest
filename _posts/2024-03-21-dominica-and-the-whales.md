@@ -17,7 +17,6 @@ short-description: >-
   danger. But things are set to change thanks to an ambitious plan by an
   unlikely ally
 categories:
-  - all
   - environment
 images:
   - image: >-

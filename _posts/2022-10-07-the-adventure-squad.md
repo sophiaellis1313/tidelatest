@@ -5,32 +5,31 @@ title: The Adventure Squad
 type: Sailing
 byline: 'WORDS: Alex Goldhill | IMAGES: Cory Silken'
 issue_no: number 02
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-sonny-5.jpg
   position: img-center
 video: false
-video_path: 
+video_path:
 short-description: >-
   When time is the ultimate luxury, what does a $2.5 million refurbishment of a
   sailing yacht look like? Patrick Gavin-Brynes, captain of the newly
   re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging
   and hoisting 192 square metres of sail in under 60 seconds
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-sonny-3.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-sonny-6.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-sonny-2.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-sonny-1.jpg
     caption: false
-    credit: 
+    credit:
 ---
 When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds.
 

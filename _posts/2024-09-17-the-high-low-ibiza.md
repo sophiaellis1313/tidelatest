@@ -16,7 +16,6 @@ short-description: >-
   different. This tale of two restaurants is the perfect example of what makes
   the nation’s gastronomic legacy so great: its restaurants are out to impress
 categories:
-  - all
   - travel
 images:
   - image: >-

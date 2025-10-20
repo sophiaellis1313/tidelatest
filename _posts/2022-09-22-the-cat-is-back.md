@@ -21,7 +21,6 @@ short-description: >-
   the market by combining the generous square meterage of the cruising catamaran
   with the thrilling performance of offshore racing multihulls.)
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-the-cat-is-back-1.jpg

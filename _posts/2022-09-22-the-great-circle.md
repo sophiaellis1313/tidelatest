@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/great-circle
 title: The Great Circle
 type: Environment
 byline: 'WORDS: Derek Rielly | PHOTOS: Nick Reed'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-great-circle-1.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   Olympic gold sailing medallists Blair Tuke and Peter Burling on the
   preservation and restoration of the world’s oceans…
 categories:
-  - all
   - environment
 images:
   - image: /images/tide-enviornment-issue1.png

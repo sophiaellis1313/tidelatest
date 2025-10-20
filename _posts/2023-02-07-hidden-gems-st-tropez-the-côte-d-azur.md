@@ -12,7 +12,6 @@ video: false
 video_path:
 short-description: "Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d'Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.\_"
 categories:
-  - all
   - travel
 images:
   - image: /uploads/aqqzzwcc-2.jpeg

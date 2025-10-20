@@ -12,7 +12,6 @@ video: false
 video_path: ''
 short-description: Designer Mark Whiteley explains why he’s keeping it simple
 categories:
-  - all
   - design
 images:
   - image: >-

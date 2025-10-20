@@ -5,8 +5,9 @@ title: The Eagle Has Landed
 type: Sailing
 byline: 'WORDS: SAM FORTESCUE | IMAGES: TIM '
 issue_no: number 05
-featured_image: 
-  image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
+featured_image:
+  image: >-
+    /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -18,7 +19,6 @@ short-description: >-
   recently. Fascinating, then, that the man for whom the yacht was actually
   built reportedly never once sailed her.
 categories:
-  - all
   - sailing
 images:
   - image: >-

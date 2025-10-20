@@ -5,7 +5,7 @@ title: 'Hidden Gems: Naples & The Amalfi Coast'
 type: Travel
 byline: 'WORDS: Phoebe Hunt | Images: Natalie Obradovich '
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-hidden-gems-italy-5.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   from the crowded hotspots with these lesser-known beaches, secret caves and
   waterside trattorias. 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-hidden-gems-italy-6.jpg
@@ -39,7 +38,7 @@ images:
 ---
 The Bay of Naples and its glittering islands need no introduction. Get away from the crowded hotspots with these lesser-known beaches, secret caves and waterside trattorias.
 
-Summers exploring Italy’s Amalfi Coast are a rite of passage for sailors worldwide: languid morning sunbathing on the beach, long lunches of freshly caught shellfish, and balmy sunsets over the Mediterranean Sea are all part of the appeal of *L’Estate Infinita*\: the endless summer. Positano, Ischia, Capri and Sorrento – all a stone’s throw from Naples - have long been the playground for Italy’s well-heeled travellers.
+Summers exploring Italy’s Amalfi Coast are a rite of passage for sailors worldwide: languid morning sunbathing on the beach, long lunches of freshly caught shellfish, and balmy sunsets over the Mediterranean Sea are all part of the appeal of *L’Estate Infinita*: the endless summer. Positano, Ischia, Capri and Sorrento – all a stone’s throw from Naples - have long been the playground for Italy’s well-heeled travellers.
 
 Naturally, though, these places have long since been ‘discovered.’ The Amalfi coast’s pastel clifftop churches and striped beach umbrellas are a thing of magic, but one that you’ll have to share with the rest of the world. Instead, we’re going in search of the tiny secluded coves and simple eateries that only locals know about, many of which can only be discovered by boat. These hidden treasures take us back to the *Costa Amalfitano* in its heyday, before mass tourism forced the rustic charm out of these ancient fishing villages.
 
@@ -69,6 +68,6 @@ Most boats arrive in Marina Grande or picturesque Marina Corricella, a charming 
 
 **Bagni della Regina Giovanna**
 
-In the shadow of Sorrento, this wild and natural swimming and picnic spot has been a well-kept secret for more than two millennia. It’s named after 15th Century Giovanna d'Angio, Queen of the Kingdom of Naples, who allegedly used to escape here to come bathing with her various lovers.
+In the shadow of Sorrento, this wild and natural swimming and picnic spot has been a well-kept secret for more than two millennia. It’s named after 15th Century Giovanna d’Angio, Queen of the Kingdom of Naples, who allegedly used to escape here to come bathing with her various lovers.
 
 Bagni della Regina Giovanna is impossibly picturesque, framed by a natural archway and sheltered from the waves, and has to be seen to be believed. On the cliffs far above, the ruins of a Roman villa date back to the 1st Century BC. To have a chance of finding this place by land, you’ll have to take a train to Sorrento, a bus and a long, steep walk through olive groves. By water, on the other hand, it’s a piece of cake, which is why the mystical sea cave is fairly quiet even in the height of summer. Trust us, you won’t be disappointed.

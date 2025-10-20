@@ -14,7 +14,6 @@ short-description: >-
   Under the careful watch of the Hew family, an untouched strip of sand in the
   Bahamas was transformed into Kamalame Cay, a laidback private-island resort 
 categories:
-  - all
   - travel
 images:
   - image: >-

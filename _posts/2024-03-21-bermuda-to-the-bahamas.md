@@ -16,7 +16,6 @@ short-description: >-
   riches among the Atlantic Oceans’ more remote anchorages. Here we share how to
   find them 
 categories:
-  - all
   - travel
 images:
   - image: >-

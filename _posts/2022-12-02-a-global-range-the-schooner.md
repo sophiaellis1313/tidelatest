@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/schooner
 title: 'A Global Range: The Schooner'
 type: Sailing
 byline: WORDS Jack Gifford | IMAGES James Robinson Taylor and Oli Riley
 issue_no: Number 03
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-schooner-adix-pendennis01.jpg
   position: img-center
 video: false
@@ -15,16 +15,14 @@ short-description: >-
   famous schooners afloat today. Inspired by both past and future, these
   multi-mast vessels are hard to beat for a truly authentic sailing experience.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-schooner-adix-pendennis01-1.jpg
     width: col-12
     height: extralarge
     caption: false
-    credit: 
+    credit:
 ---
-
 With the upcoming launch of 63m Athos, TIDE takes a look at some of the most famous schooners afloat today. Inspired by both past and future, these multi-mast vessels are hard to beat for a truly authentic sailing experience.
 
 In marine lexicon, the word Schooner evokes historic imagery of billowing canvas, forests of spars, rigging and the seamanship of a bygone era. What gets less attention, however, is the contemporary coterie of these special two or three-mast vessels. A handful of Schooners still sail the world over, the crew earning their stripes as some of the most able yachtsmen and women on the water. This select fleet includes well preserved heritage pieces, historical replicas and modern state-of-the-art Superyachts, all sharing two things in common: a generous wardrobe of sails and a need for some serious sailing skill.

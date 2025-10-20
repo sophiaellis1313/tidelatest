@@ -17,7 +17,6 @@ short-description: >-
   delicacies at tiny tavernas, or seek out some of the finest dining the country
   has to offer. 
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

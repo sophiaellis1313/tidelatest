@@ -17,7 +17,6 @@ short-description: >-
   technologically advanced, they continue to prove why the twin rig concept
   ticks all the boxes.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-modern-ketch-1.jpg

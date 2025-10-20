@@ -5,7 +5,7 @@ title: The Future is Now
 type: Sailing
 issue_no: number 01
 byline: 'WORDS: JACK GIFFORD | IMAGES: STUART PEARCE AND CARLO BORLENGHI'
-featured_image: 
+featured_image:
   image: /uploads/futureisnow.jpeg
   position: img-center
 video: false
@@ -17,7 +17,6 @@ short-description: >-
   larger motor yacht builds. So, what does the future hold for the humble
   sailing yacht?
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-future-is-now-1.jpg

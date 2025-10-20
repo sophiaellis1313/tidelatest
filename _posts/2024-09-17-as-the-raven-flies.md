@@ -14,7 +14,6 @@ short-description: >-
   Introducing the pioneering racing Superyacht that’s redefining today’s boating
   limitations – and the many minds that brought it into being
 categories:
-  - all
   - sailing
 images:
   - image: >-

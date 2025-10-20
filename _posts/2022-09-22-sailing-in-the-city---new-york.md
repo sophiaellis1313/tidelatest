@@ -5,7 +5,7 @@ title: Sailing in the City - New York
 type: Travel
 byline: 'WORDS: Bryony McCabe | PHOTOS: Cory Silken'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-new-york-1.jpg
   position: img-center
 video: false
@@ -14,16 +14,14 @@ short-description: >-
   New York City reserves some of its most spectacular panoramas for those lucky
   enough to visit by boat.
 categories:
-  - all
   - travel
-  - sailing
 images:
   - image: /uploads/tide-magazine-travel-new-york-1.jpg
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-travel-new-york-2.jpg
     caption: false
-    credit: 
+    credit:
 ---
 New York City reserves some of its most spectacular panoramas for those lucky enough to visit by boat.
 

@@ -5,7 +5,7 @@ title: 'The High Low: Croatia'
 type: Lifestyle
 byline: 'WORDS: JEMMA HARRISON | IMAGES: RESTAURANT PELEGRINI AND KONOBA DIONIS'
 issue_no: number 04
-featured_image: 
+featured_image:
   image: /uploads/TIDE-Magazine-issue04-high-low-2.jpg
   position: img-center
 video: false
@@ -16,7 +16,6 @@ short-description: >-
   covered if you know where to look. Superyacht chef Jemma Harrison lets you in
   on two of her favourite spots around the glistening waters of the Adriatic
 categories:
-  - all
   - lifestyle
 images:
   - image: /uploads/TIDE-Magazine-issue04-high-low-2.jpg

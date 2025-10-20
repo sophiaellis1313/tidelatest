@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/hidden-gems-caribbean
 title: Hidden Gems in St Vincent and The Grenadines
 type: Travel
 byline: 'WORDS: Jessica Alcock | IMAGES: Stuart Boliter and The Mustique Company'
 number: Number 03
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-hidden-gems-caribbean-1.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   Exclusive and mostly untouched, the tropical waters of this part of the
   Caribbean makes a delightful playground for Superyachts over the winter season
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-hidden-gems-caribbean-1.jpg

@@ -16,7 +16,6 @@ short-description: >
   across the Pacific: luminescent turquoise waters, world class surfing,
   impossibly white beaches and myriad tiny islands teeming with sea life.
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-panama-pacific-9.jpg

@@ -1,50 +1,49 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/supersloop
 title: The Rise of the Supersloop
 type: Sailing
 byline: 'WORDS: Jack Giffard'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-supersloop-1.jpg
   position: img-center
 video: false
-video_path: 
+video_path:
 short-description: The super sloop, the apex of sailing superyachts?
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-supersloop-1.jpg
     width: col-12
     height: extralarge
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-supersloop-3.jpg
     width: col-6
     height: medium
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-supersloop-4.jpg
     width: col-6
     height: medium
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-supersloop-5.jpg
     width: col-12
     height: large
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-supersloop-6.jpg
     width: col-8
     height: small
     caption: false
-    credit: 
+    credit:
   - image: /uploads/tide-magazine-sailing-supersloop-2.jpg
     width: col-4
     height: small
     caption: false
-    credit: 
+    credit:
 ---
 The super sloop, the apex of sailing superyachts?
 
@@ -52,9 +51,9 @@ If the enduring arms race in the motor yacht world is anything to go by, bigger 
 
 Tracing its origins back to the evergreen and ever-graceful J-Class, the large ocean going sloop is continuing its evolution. The industry has witnessed some impressive launches of late, with even more impressive new builds in progress and several bold concepts on the table. But a main focus for many of the world’s leading designers and builders has been to create ever larger sailing machines for ever discerning owners.
 
-Malcolm McKeon Yacht Design, Royal Huisman and Southern Spars are amongst those leading the charge with the next generation of super sloops. It all began in 2014 when Royal Huisman and Dubois Naval Architects were challenged by a client to “Build me a beast\!”. The subsequent 2017 delivery of *Ngoni* set a new standard. At 58m on deck she joined the super sloop ranks of 66m *Ahimsa* (ex *Aglaia*) and 88.5m *M5* (ex *Mirabella V*). Today, several concepts from the likes of Tony Castro, Reichel Pugh/Nauta and Malcolm McKeon are tabled, all 60m+ with the addition of McKeon and Royal Huisman seriously offering the 85m Apex 850.
+Malcolm McKeon Yacht Design, Royal Huisman and Southern Spars are amongst those leading the charge with the next generation of super sloops. It all began in 2014 when Royal Huisman and Dubois Naval Architects were challenged by a client to “Build me a beast!”. The subsequent 2017 delivery of *Ngoni* set a new standard. At 58m on deck she joined the super sloop ranks of 66m *Ahimsa* (ex *Aglaia*) and 88.5m *M5* (ex *Mirabella V*). Today, several concepts from the likes of Tony Castro, Reichel Pugh/Nauta and Malcolm McKeon are tabled, all 60m+ with the addition of McKeon and Royal Huisman seriously offering the 85m Apex 850.
 
-Size brings the obvious benefit of greater interior space, but exactly why are owners pushing the envelope to such extremes? “These are not first-time yacht owners” explains McKeon, who believes the performance potential of larger yachts leads to a world of opportunities for experienced and long standing sailors. “Around 90 per cent of owners begin the process with racing furthest from the agenda, but almost all change their mind\!”
+Size brings the obvious benefit of greater interior space, but exactly why are owners pushing the envelope to such extremes? “These are not first-time yacht owners” explains McKeon, who believes the performance potential of larger yachts leads to a world of opportunities for experienced and long standing sailors. “Around 90 per cent of owners begin the process with racing furthest from the agenda, but almost all change their mind!”
 
 The plethora of superyacht regattas prove an irresistible temptation. With the Offshore Racing Congress’ Superyacht Rule catering specifically to yachts over 30m, the advantages of up-sizing opens the door to some serious competition. Add to that the inherent performance benefits of the high aspect sloop rig and its simplicity compared to ketches or schooners, and the draw of the super sloop starts to make sense.
 
@@ -82,7 +81,7 @@ Such gains are not easily won, however, and *Ngoni* is a case in point. Supporti
 
 “Increasing glass surfaces is an ongoing development, as new technologies in and outside of the yachting industry enable us to realise our clients’ dreams and architects’ ever more futuristic designs.”
 
-Futuristic is certainly one word to describe the new Apex 850 concept put forward by Royal Huisman and McKeon. In a bold move to continue the trajectory set by *Ngoni*, the Apex 850 would be the world’s largest sloop and the world's largest aluminium sailing yacht. Concept designs show large expanses of glass on deck, full-height hull windows and a design that seeks to comprehensively redefine on-board lifestyle and sailing experiences.
+Futuristic is certainly one word to describe the new Apex 850 concept put forward by Royal Huisman and McKeon. In a bold move to continue the trajectory set by *Ngoni*, the Apex 850 would be the world’s largest sloop and the world’s largest aluminium sailing yacht. Concept designs show large expanses of glass on deck, full-height hull windows and a design that seeks to comprehensively redefine on-board lifestyle and sailing experiences.
 
 Whether enjoying the fruits of evolved design and engineering, international competition or increased living space afloat, the super sloop seems the perfect outlet for experienced sailors and progressive thinkers alike. When asked how Royal Huisman approaches the challenges presented by increasingly large projects, Timmermans explains: “Our R&D team is in close contact with Classification to discuss and come up with solutions, which were thought to be impossible a few years back.”
 

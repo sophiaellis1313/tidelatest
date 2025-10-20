@@ -6,7 +6,7 @@ title: 'Portofino: Let''s Meet at the Mare'
 type: Travel
 byline: 'WORDS: Phoebe Hunt | Images: Phoebe Hunt and Belmond'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-portofino-7.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   Portofino’s newly refurbished Splendido Mare is a lesson in the art of
   sprezzatura: the laid-back, effortless charm that defines the Italian Riviera.
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-portofino-1.jpg

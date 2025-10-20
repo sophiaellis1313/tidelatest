@@ -5,7 +5,7 @@ title: The Conscious Traveller
 type: Environment
 byline: 'WORDS: MIRIAM CAIN | IMAGES: ASIA BRYNNE, LUCY KNIGHT, MUSTIQUE COMPANY'
 issue_no: number 04
-featured_image: 
+featured_image:
   image: /uploads/TIDE-Magazine-issue04-conscious-traveller-3.jpg
   position: img-center
 video: false
@@ -17,7 +17,6 @@ short-description: >-
   conservationists, creating a more positive impact on local flora, fauna, and
   communities
 categories:
-  - all
   - environment
 images:
   - image: /uploads/TIDE-Magazine-issue04-conscious-traveller-3.jpg

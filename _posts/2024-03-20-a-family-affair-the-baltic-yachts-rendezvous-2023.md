@@ -17,7 +17,6 @@ short-description: >-
   the large, tight-knit community that gathered for its latest legendary
   Rendezvous 
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

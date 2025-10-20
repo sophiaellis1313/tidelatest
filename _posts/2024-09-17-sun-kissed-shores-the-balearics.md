@@ -5,8 +5,9 @@ title: 'Sun Kissed Shores: The Balearics'
 type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: BIBIANA CRISTINA, ANA LUI '
 issue_no: number 09
-featured_image: 
-  image: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-itinerary-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-itinerary-1.jpg
   position: img-center
 video: false
 video_path: ''
@@ -15,7 +16,6 @@ short-description: >-
   seasoned sailor Spain’s renowned archipelago harbours a treasure trove of
   nautical experiences
 categories:
-  - all
   - travel
 images:
   - image: >-

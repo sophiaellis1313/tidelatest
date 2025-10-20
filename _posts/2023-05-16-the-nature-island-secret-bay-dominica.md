@@ -5,7 +5,7 @@ title: 'The Nature Island: Secret Bay, Dominica'
 type: Travel
 byline: 'WORDS: PHOEBE HUNT | IMAGES: SECRET BAY'
 issue_no: number 03
-featured_image: 
+featured_image:
   image: /uploads/1xinxzhl.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   where night snorkelling, waterfall hiking and stargazing and are a way of
   life.
 categories:
-  - all
   - travel
 images:
   - image: /uploads/1xinxzhl-2.jpg

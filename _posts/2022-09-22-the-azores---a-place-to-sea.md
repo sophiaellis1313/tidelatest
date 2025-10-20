@@ -14,7 +14,6 @@ short-description: >-
   The Azores — Portuguese-speaking, verdant and wild — is that rare destination
   where a remote setting gives way to having it all…
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-azores-1.jpg

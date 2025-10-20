@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/sea-chair
 title: 'Fantastic Plastic: The Sea Chair'
 type: environment
 byline: 'WORDS: Phoebe Hunt | IMAGES: Studio Swine'
 issue_no: number 02
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-environment-seachair-3.jpg
   position: img-center
 video: false
@@ -16,7 +16,6 @@ short-description: >-
   plastic sifted from the oceans to create unique and highly sought-after
   furniture. 
 categories:
-  - all
   - environment
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
@@ -53,7 +52,7 @@ Now though, their energies have shifted, with the launch of another short film a
 
 Having been to the North Atlantic Gyre and witnessed how vast it is and how small the fragments which make up over 90% of the plastic in the oceans are, Groves and Murakami are keen to point out that, in their opinion, collecting at sea is not a feasible way of mitigating the problem. “Collecting from rivers and water treatment before it gets to sea and gets broken into irretrievable fragments is worthwhile. Ultimately though, it’s a given that we need to cut down single use plastics. The problem is they are too cheap, and the cost of clean-up should be incorporated into the material cost. That way, all the many sustainable alternatives would be far more attractive and cost effective.
 
-“Long term, to deal with the plastic that already exists in the environment I think looking towards bacteria and fungi that can eat plastic is really fascinating. However if a house is flooding you first turn off the tap before grabbing a bucket, so there has to be real change to tackle our dependence on plastic."
+“Long term, to deal with the plastic that already exists in the environment I think looking towards bacteria and fungi that can eat plastic is really fascinating. However if a house is flooding you first turn off the tap before grabbing a bucket, so there has to be real change to tackle our dependence on plastic.”
 
 To discover more environmental initiatives which are gaining traction across the sailing world, head to Number Two of [TIDE Magazine](/store.html).&nbsp;
 

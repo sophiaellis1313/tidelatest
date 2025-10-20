@@ -16,7 +16,6 @@ short-description: >-
   the second part of that equation – to be tasted while the America’s Cup’s in
   the Catalan town 
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

@@ -16,7 +16,6 @@ short-description: >-
   of the decade, reveals how he told the owner not to have her made – and why
   she’s just the first of her kind
 categories:
-  - all
   - design
 images:
   - image: >-

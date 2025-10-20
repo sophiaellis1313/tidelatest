@@ -17,7 +17,6 @@ short-description: >-
   there’s more to this archipelago nation than palm trees and beaches, and one
   way to get to know her is through her rich food heritage
 categories:
-  - all
   - travel
 images:
   - image: >-
