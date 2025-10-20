@@ -1,5 +1,5 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/diving-for-dinner
 title: Diving for dinner
 type: Lifestyle
