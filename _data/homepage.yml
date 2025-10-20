@@ -104,6 +104,20 @@ cards:
       storied past, secret bays and sense of discovery. Director and founder of
       Sailing Collective charters, Dayyan Armstrong shares the local intel.
 
+  - image: /uploads/download-14.jpg
+    alt: ''
+    link: articles/project-o
+    tags: []
+    title: 'Hidden Gems: Project Ö, Skjulskäret'
+    description: >-
+      Those few days alone on tiny Skjulskäret, a measle of granite and gneiss
+      among the 40,000 or so islands of the Finnish archipelago, feel like a
+      reverie now. The slow days my partner and I spent in the gable-roofed,
+      Monopoly-esque timber house of Project Ö (“Project Island”): cooking beef
+      and foraged mushroom pot pies; exploring our rocky, forested little
+      universe; watching spiders weave jewel-drop webs that wobbled in the same
+      winds that whooshed over the sea, where the Gulf of Bothnia meets the Gulf
+      of Finland and the Baltic Sea. 
 cards2:
   - image: /uploads/jeff-brown-jcb24539-min.jpg
     alt: A Perfect Re(fit)
@@ -129,7 +143,7 @@ cards2:
   - image: >-
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
     alt: Wind is Power
-    link: /articles/Drumfire-the-boat-to-beat.html
+    link: articles/wind-is-power.html
     tags:
       - Sailing
       - number 11
@@ -139,8 +153,8 @@ cards2:
       designers to think big when it comes to sailing vessels – and that could
       be good news for the environment.
   - image: /uploads/dsc01506-1-min-1.jpg
-    alt: https://peachy-lion.cloudvent.net/articles/Wider-wake.html
-    link: ''
+    alt: wider awake
+    link: /articles/Wider-wake
     tags:
       - ''
     title: Wider Wake
