@@ -16,7 +16,6 @@ short-description: >-
   father-and-son team Juan Ignacio and Ignacio Ramos to find out more about
   their renowned but hushed approach
 categories:
-  - all
   - design
 images:
   - image: >-

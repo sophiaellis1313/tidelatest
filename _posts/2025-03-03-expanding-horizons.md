@@ -16,7 +16,6 @@ short-description: >-
   m2atelier, share insights on their recent move into yacht design, plus what
   inspires their equally pioneering and practical creations 
 categories:
-  - all
   - design
 images:
   - image: >-

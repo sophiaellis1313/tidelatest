@@ -15,7 +15,6 @@ short-description: >-
   In celebration of our tenth issue, we consider the many destinations we’ve
   featured so far to bring you our essential shortlist (in no particular order)
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

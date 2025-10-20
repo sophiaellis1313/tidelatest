@@ -15,7 +15,6 @@ short-description: >-
   think big when it comes to sailing vessels – and that is good news for the
   environment
 categories:
-  - all
   - sailing
 images:
   - image: >-

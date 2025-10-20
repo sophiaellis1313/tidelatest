@@ -15,7 +15,6 @@ short-description: >-
   The Antiguan hideaway is open once more following a large-scale but sensitive
   update. We met with new owner, Daniel Shamoon, to find out more   
 categories:
-  - all
   - travel
 images:
   - image: >-

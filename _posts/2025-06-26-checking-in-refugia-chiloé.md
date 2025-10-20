@@ -15,7 +15,6 @@ short-description: >-
   name suggests. Nicola Chilton shares what to expect following her stay, from
   ravishing sunsets to unique local dishes and bathtubs with a view
 categories:
-  - all
   - travel
 images:
   - image: >-

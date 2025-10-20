@@ -14,7 +14,6 @@ short-description: >-
   This unique eco-resort offers guests a life-giving sojourn in the arms of
   Mother Nature
 categories:
-  - all
   - travel
 images:
   - image: /uploads/issue-11/tide-magazine-sailing-travel-issue11-bawah1.jpg

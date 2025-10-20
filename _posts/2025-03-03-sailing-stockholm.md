@@ -18,7 +18,6 @@ short-description: >-
   slow one down: think straight-forward food and the easy pleasure of days spent
   immersed in nature 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/issue-11/tide-magazine-sailing-travel-issue11-itinerary-2.jpg

@@ -15,7 +15,6 @@ short-description: >-
   travel to see the local landscape each year. We explore how the uniquely wild
   water wonders are currently being future-proofed
 categories:
-  - all
   - environment
 images:
   - image: >-

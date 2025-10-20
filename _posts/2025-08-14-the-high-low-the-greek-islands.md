@@ -11,7 +11,8 @@ featured_image:
 video: false
 video_path:
 short-description: "Choose between a Michelin-starred Chef’s creative, conscious fine-dining and a couple’s heart-felt traditional home-cooking –\_or simply sail between and sample both ."
-categories: []
+categories:
+  - travel
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12

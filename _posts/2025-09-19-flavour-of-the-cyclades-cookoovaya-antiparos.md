@@ -2,7 +2,7 @@
 layout: blog
 permalink: /articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos
 title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
-type: sailing
+type: lifestyle
 byline: 'WORDS: RACHEL HOWARD  |  IMAGES: NIKOS MAMALOS'
 issue_no: number 13
 featured_image:

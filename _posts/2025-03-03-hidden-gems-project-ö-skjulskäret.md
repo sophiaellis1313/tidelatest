@@ -15,7 +15,6 @@ short-description: >-
   archipelago, this little-known part of the world is having a – very quiet –
   moment 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/issue-11/tide-magazine-sailing-travel-issue11-project-o-3.jpg

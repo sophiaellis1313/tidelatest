@@ -15,7 +15,6 @@ short-description: |-
   The hot, new regatta on the summer circuit, Ibiza JoySail has become 
   the go-to event for sailing – and the Balearic’s legendary vibe
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

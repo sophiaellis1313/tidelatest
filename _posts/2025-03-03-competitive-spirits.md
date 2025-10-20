@@ -15,7 +15,6 @@ short-description: >-
   Two modern 100ft wooden yachts raced head-to-head in Sweden last year. Sam
   Fortescue hears how history was made
 categories:
-  - all
   - sailing
 images:
   - image: >-

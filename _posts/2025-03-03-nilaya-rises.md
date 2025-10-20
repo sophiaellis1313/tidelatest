@@ -16,7 +16,6 @@ short-description: >-
   Romke Loopik and find out the many ways this ‘boat made for sailing’ moves
   both him and her hands-on owner
 categories:
-  - all
   - sailing
 images:
   - image: >-
