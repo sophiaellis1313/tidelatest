@@ -90,3 +90,35 @@
     <a href="{{ include.buttonlink }}" class="btn-border">{{ include.buttontext }}</a>
   </div>
 </section>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sliders = document.querySelectorAll('.swiper.visible');
+
+    sliders.forEach((slider, index) => {
+      const sliderId = slider.getAttribute('data-slider-id');
+
+      const prevBtn = document.querySelector(`.swiper-custom-prev[data-slider-id="${sliderId}"]`);
+      const nextBtn = document.querySelector(`.swiper-custom-next[data-slider-id="${sliderId}"]`);
+
+      new Swiper(slider, {
+        loop: false,
+        navigation: {
+          prevEl: prevBtn,
+          nextEl: nextBtn,
+        },
+        slidesPerView: 1,
+        spaceBetween: 10,
+        breakpoints: {
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 20,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 30,
+          }
+        }
+      });
+    });
+  });
+</script>
