@@ -33,6 +33,38 @@ cards:
       that swoops up from not only the Atlantic Ocean but also the two lagoons
       that bookend the once sleepy nearby fishing village of the same name, now
       a bohemian hotspot and starry hangout.
+  - image: >-
+      /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-joysail-1.jpg
+    alt: ''
+    link: articles/joysail
+    tags:
+      - lifestyle
+      - number 11
+    title: A Good Weekend
+    description: >+
+      Ibiza JoySail, one of the newer competitions around today, has quickly
+      become a beloved fixture for sailing enthusiasts. Launched in 2021, just
+      four years later it has caught the heart of even the most discerning
+      sailor thanks to its blend of exhilarating racing and well-liked social
+      events, all set to a backdrop of the beautiful Mediterranean, and along
+      the picturesque coast of Ibiza and Formentera.
+
+  - image: >-
+      /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-top-ten-2.jpg
+    alt: ''
+    link: articles/top-ten
+    tags:
+      - lifestyle
+      - number 10
+    title: TIDE's Top Ten Sailing Destinations
+    description: >-
+      The world offers incredible opportunities for those who want to explore
+      beyond well-sailed waters and into otherwise unreachable spots. Looking
+      back over the
+
+      last two years since our launch, TIDE has visited some of the most
+      breathtaking locations on the planet, so for our first double-digit issue,
+      we’ve looked back to choose a few of the very finest.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: ' A Taste Of Tuscany '
     link: /articles/taste-of-tuscany
@@ -58,71 +90,48 @@ cards:
       and innovative techniques to create a food legacy all of its own.  Here,
       Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta, 
       celebrates her home’s past and present with a much-loved intrinsic dish 
-  - image: >-
-      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
-    alt: ' The Gourmand''s Guide to Barcelona '
-    link: /articles/gourmand-barcelona
-    tags:
-      - 'Lifestyle '
-      - number 09
-    title: ' The Gourmand''s Guide to Barcelona '
-    description: ' Sleep, Eat, Sail, Repeat: here are all the restaurants you need to know for the second part of that equation – to be tasted while the America’s Cup’s in the Catalan town  '
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1-1.jpg
-    alt: ' A Taste Of Tuscany '
-    link: /articles/a-taste-of-tuscany
-    tags:
-      - Lifestyle
-      - number 10
-    title: ' A Taste Of Tuscany '
-    description: >2-
-       In this much-revered Italian region, life’s simple pleasures are celebrated as its most important, starting with its food. Spanish yacht chef Núria Cascante explains the particular culinary magic and cultural appeal of the central area she’s fallen for, both professionally and personally 
-      and innovative techniques to create a food legacy all of its own.  Here,
-      Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta, 
-      celebrates her home’s past and present with a much-loved intrinsic dish 
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-flying-lunch2.jpg
-    alt: ' A Flying Lunch '
-    link: /articles/flying-lunch
-    tags:
-      - Lifestyle
-      - number 07
-    title: ' A Flying Lunch '
-    description: ' TIDE’s Caribbean contingent hops aboard a helicopter with CalvinAir and heads to Barbuda’s most beautiful restaurant, Nobu '
-  - image: >-
-      /uploads/tide-magazine-sailing-lifestyle-travel-issue07-baltic-rendezvous2.jpg
-    alt: ' A Family Affair: The Baltic Yachts Rendezvous 2023 '
-    link: /articles/baltic-rendezvous
-    tags:
-      - Lifestyle
-      - number 07
-    title: ' A Family Affair: The Baltic Yachts Rendezvous 2023 '
-    description: ' There aren’t many shipyards that can still claim to be industry leaders after 50 years in the game. But Baltic Yachts is not most shipyards, showcased by the large, tight-knit community that gathered for its latest legendary Rendezvous  '
 content_on_image:
-  image: /images/tide-banner2.png
-  alt: TIDE's Top Ten Sailing Destinations
+  image: >-
+    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
+  alt: The Gourmand's Guide to Barcelona
   tags:
     - Lifestyle
-    - Number 10
-  title: TIDE's Top Ten Sailing Destinations
-  description: >-
-    For decades, sailors have set a course for the Cyclades, but not only for
-    its myriad cultural attractions, sandy beaches, hidden coves and gin-clear
-    seas.
+    - Number 09
+  title: The Gourmand's Guide to Barcelona
+  description: >+
+    As the 37th America’s Cup approaches, Barcelona is not just preparing for an
+    influx of sailing enthusiasts, but also for food lovers eager to explore its
+    culinary landscape. There is no city quite like Barcelona in terms of
+    dining, where the essence of Catalan cuisine, market-fresh produce,
+    Modernisme design, the Mediterranean Sea and innovative Chefs converge to
+    create a foodie’s dream. With more than 8,000 eateries and 35 Michelin
+    stars, there is much to devour.
+
   button:
     text: More
-    link: articles/top-ten.html
+    link: articles/gourmand-barcelona
     class: width-fit btn white-btn
 featured_section:
   cards:
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-joysail-1-1.jpg
-      alt: ' A Good Weekend '
-      link: /articles/joysail
+    - image: >-
+        /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-baltic-rendezvous2.jpg
+      alt: 'A Family Affair: The Baltic Yachts Rendezvous 2023'
+      link: articles/baltic-rendezvous
       tags:
         - Lifestyle
-        - number 11
-      title: ' A Good Weekend '
-      description: |2-
-         The hot, new regatta on the summer circuit, Ibiza JoySail has become 
-        the go-to event for sailing – and the Balearic’s legendary vibe 
+        - number 07
+      title: 'A Family Affair: The Baltic Yachts Rendezvous 2023'
+      description: >+
+        September saw a special spectacle take place just off the shores of
+        Sardinia: a vision of the latest Superyachts sailing alongside modern
+        classic 1970s sailboats. The occasion? A four-day celebration of
+        everything that Baltic Yachts has achieved in its half-century history
+        so far. More guests than ever before came together, including owners,
+        service and refit friends and industry figures – such as ourselves at
+        TIDE – for a long weekend of sailing and feasting on fantastic Italian
+        food, in this, the culmination of Baltic’s extended anniversary event,
+        known as the Rendezvous.
+
     - image: >-
         /uploads/tide-magazine-sailing-lifestyle-travel-issue06-superyacht-gathering2.jpg
       alt: ' Pacific Time '
