@@ -486,7 +486,7 @@ image_with_text1:
   button_secondary:
     label: Browse All Issues
     link: https://www.mymagazinesub.co.uk/tide/
-  image: /uploads/tide-14-multicovers-min.jpg
+  image: /uploads/tide-14-multicovers-2.jpg
   background_class: grey-bg
   paddingclass: ''
 image_with_text2:
@@ -497,7 +497,7 @@ image_with_text2:
   button_primary:
     label: Join Now
     link: '#join'
-  image: /uploads/tideexample.png
+  image: /uploads/tide-14-multicovers-2.jpg
   background_class: grey-bg
   paddingclass: padding0tott
 banner_section:
