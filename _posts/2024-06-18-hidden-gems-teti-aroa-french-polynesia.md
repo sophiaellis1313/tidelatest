@@ -18,7 +18,6 @@ short-description: >-
   vistas, exceptional food and incredible backstory as an elite royal Tahitian
   retreat
 categories:
-  - all
   - travel
 images:
   - image: >-

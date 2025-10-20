@@ -1,28 +1,27 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/pura-verde
 title: Costa Rica - Pura Verde!
 type: Travel
 byline: 'WORDS: Elizabeth Heath | IMAGES: Carlo Raciti'
 issue_no: Number 03
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-travel-costa-rica-pura-verde-2.jpg
   position: img-center
 video: false
-video_path: 
+video_path:
 short-description: >-
   The pristine national parks of Costa Rica’s rugged Pacific Coast offer
   dramatic scenery, sandy beaches, some sweet surf spots, and wildlife at every
   turn.
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-travel-costa-rica-pura-verde-1.jpg
     width: col-12
     height: extralarge
     caption: false
-    credit: 
+    credit:
 ---
 The pristine national parks of Costa Rica’s rugged Pacific Coast offer dramatic scenery, sandy beaches, some sweet surf spots, and wildlife at every turn.
 

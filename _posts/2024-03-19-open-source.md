@@ -5,8 +5,9 @@ title: Open Source
 type: Environment
 byline: 'WORDS: CHRISSIE MCCLATCHIE |  ILLUSTRATION: JOSE WALKER'
 issue_no: number 06
-featured_image: 
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-environment-1.jpg
+featured_image:
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-environment-1.jpg
   position: img-center
 video: true
 video_path: ''
@@ -14,7 +15,6 @@ short-description: >-
   How Foundation Zero is throwing out the rulebook to build a fossil-free
   sailing yacht
 categories:
-  - all
   - environment
 images:
   - image: >-

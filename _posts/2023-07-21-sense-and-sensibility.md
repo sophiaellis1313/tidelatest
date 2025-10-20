@@ -14,7 +14,6 @@ short-description: >-
   Form always follows function, says designer Adriana Monk, but for the best
   results there should also be an element of fun
 categories:
-  - all
   - design
 images:
   - image: /uploads/TIDE-Magazine-issue04-sense-and-sensibility-2.jpg

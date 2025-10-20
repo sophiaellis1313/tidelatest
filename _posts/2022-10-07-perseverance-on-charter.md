@@ -16,7 +16,6 @@ short-description: >-
   agents, the owners of Perseverance are taking a different approach, bringing
   bespoke yet all-inclusive packages to the ultra-luxury sphere.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-perseverance-4.jpg

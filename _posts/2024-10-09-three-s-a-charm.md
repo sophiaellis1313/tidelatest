@@ -14,7 +14,6 @@ short-description: >-
   On the island of Ischia, one family has brought Italy’s ‘good life’ to a
   historic watchtower – by transforming it into their third smart hotel
 categories:
-  - all
   - travel
 images:
   - image: >-

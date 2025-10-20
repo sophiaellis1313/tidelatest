@@ -17,7 +17,6 @@ short-description: >-
   stunning natural shows on earth. Here are all the places to make the very most
   of all these sensational islands 
 categories:
-  - all
   - travel
 images:
   - image: >-

@@ -15,7 +15,6 @@ short-description: >-
   fjords, Norway is a cruising ground which inspires a mix of trepidation and
   longing among sailors worldwide
 categories:
-  - all
   - travel
 images:
   - image: /uploads/TIDE-Magazine-issue04-finding-fjorland5.jpg

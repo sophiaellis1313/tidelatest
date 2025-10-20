@@ -15,7 +15,6 @@ short-description: >-
   discover many other intriguing twists and tales about this particular
   Tuscany-on-Sea 
 categories:
-  - all
   - travel
 images:
   - image: >-

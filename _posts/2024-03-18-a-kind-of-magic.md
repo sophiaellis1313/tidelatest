@@ -14,7 +14,6 @@ short-description: >-
   For 65 years, Germán Frers has been enchanting the sailing world with his
   designs. TIDE falls under his spell.
 categories:
-  - all
   - design
 images:
   - image: >-

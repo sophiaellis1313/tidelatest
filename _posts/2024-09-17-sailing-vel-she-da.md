@@ -16,7 +16,6 @@ short-description: >-
   here her skipper of 10 years Barney Henshaw-Depledge shares what she’s like to
   handle today
 categories:
-  - all
   - sailing
 images:
   - image: >-

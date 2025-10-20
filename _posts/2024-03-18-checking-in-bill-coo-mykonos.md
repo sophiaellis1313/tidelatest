@@ -17,7 +17,6 @@ short-description: >-
   islands, Bill & Coo is becoming a favourite with in-the-know insiders and
   return Superyacht visitors.
 categories:
-  - all
   - travel
 images:
   - image: >-

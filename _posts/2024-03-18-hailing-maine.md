@@ -5,7 +5,7 @@ title: Hailing Maine
 type: Travel
 byline: 'WORDS AND IMAGES: DAYYAN ARMSTRONG, SAILING COLLECTIVE '
 issue_no: number 05
-featured_image: 
+featured_image:
   image: /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-maine1.jpg
   position: img-center
 video: false
@@ -17,7 +17,6 @@ short-description: >-
   of a plan, the abundance of islands, bays, inlets and passageways will satisfy
   any voyager for a lifetime. 
 categories:
-  - all
   - travel
 images:
   - image: >-

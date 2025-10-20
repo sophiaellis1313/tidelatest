@@ -5,7 +5,7 @@ title: A French-Créole sweet spot - Colibri, Antigua
 type: Travel
 byline: 'WORDS: LOUISE LONG | IMAGES: EMMA MATHIESON AND CATHERINE FERRAZ'
 issue_no: number 03
-featured_image: 
+featured_image:
   image: /uploads/3dcysxj8.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   Run by husband and wife team Didier and Leah Deleau, relaxed yet sophisticated
   Colibri brings French-Créole flair to the island’s culinary scene. 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/3dcysxj8-1.jpg

@@ -5,7 +5,7 @@ title: 'Checking In: Les Regalia, Corsica'
 type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE  |  IMAGES: LOUISE LON'
 issue_no: number 06
-featured_image: 
+featured_image:
   image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-hotel1.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   revealing their secrets: wild interiors, powdery white beaches, delicious
   local cuisine and colourful festivals
 categories:
-  - all
   - travel
 images:
   - image: >-

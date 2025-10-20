@@ -16,7 +16,6 @@ short-description: >-
   a result of leading designers being put into the tightest of spots – and
   flourishing. Here we highlight some of the very finest 
 categories:
-  - all
   - sailing
 images:
   - image: >-

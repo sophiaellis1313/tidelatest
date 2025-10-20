@@ -16,7 +16,6 @@ short-description: >-
   of a shallow lagoon. Ahead: nothing but the horizon. This is Le Taha’a by
   Pearl Resorts, an award-winning resort by a motu of the same name
 categories:
-  - all
   - travel
 images:
   - image: >-

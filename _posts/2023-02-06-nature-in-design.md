@@ -15,7 +15,6 @@ short-description: >-
   the leading yacht designers who are reimagining yacht interiors with a lighter
   carbon footprint.
 categories:
-  - all
   - environment
 images:
   - image: /uploads/TIDE-Magazine-issue02-design-1.jpg

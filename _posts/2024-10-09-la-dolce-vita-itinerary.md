@@ -19,7 +19,6 @@ short-description: >-
   na Toneta,  celebrates her home’s past and present with a much-loved intrinsic
   dish
 categories:
-  - all
   - travel
 images:
   - image: >-

@@ -15,7 +15,6 @@ short-description: >-
   Discover Domaine de Murtoli, a 2,500-hectare ode to slow, sustainable living –
   and simply incredible food
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

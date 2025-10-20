@@ -3,7 +3,7 @@ layout: blog
 permalink: /articles/hidden-gems-st-vincent-the-grenadines
 title: 'Hidden Gems: St Vincent and The Grenadines'
 type: Travel
-byline:
+byline: 'WORDS: Jessica Alcock   |  IMAGES: Stuart Boliter and The Mustique Company'
 issue_no: number 03
 featured_image:
   image: /uploads/6q3-kkn0.jpg

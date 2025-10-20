@@ -16,7 +16,6 @@ short-description: >-
   legendary minds and one historic yard; a story which isn’t ending any time
   yet. We get the inside track from her current owner and Captain  
 categories:
-  - all
   - sailing
 images:
   - image: >-

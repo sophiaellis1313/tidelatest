@@ -16,7 +16,6 @@ short-description: >-
   a Biosphere Reserve, this Balearic may offer as close to an unspoilt paradise
   as you can get 
 categories:
-  - all
   - travel
 images:
   - image: >-

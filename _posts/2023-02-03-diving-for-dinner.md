@@ -5,7 +5,7 @@ title: Diving for dinner
 type: Lifestyle
 byline: 'WORDS: Chadner Navarro | IMAGES: Anna Morassutti'
 issue_no: number 01
-featured_image: 
+featured_image:
   image: /uploads/vrnfwu7c.jpeg
   position: img-center
 video: false
@@ -13,7 +13,6 @@ video_path:
 short-description: Chef Nathan Clements has his boning knife on the pulse
 categories:
   - lifestyle
-  - all
 images:
   - image: /uploads/vrnfwu7c-1.jpeg
     width: col-12
@@ -44,6 +43,6 @@ Over the years Clements has developed a keen appreciation for food, but it wasn�
 
 The classroom continues to grow for this chef. Cruising the inside passage of British Columbia and Alaska yielded a “satisfying and epic” season that included “bartering and learning about the different types of wild salmon from local fisherman and eating and serving fresh salmon roe straight from the belly”.
 
-But there were also orcas and humpback sightings, hikes to bear observatories and fishing by waterfalls. With an active crew like the one aboard *Asahi*, freediving, fishing and energetic watersports are always there to balance out the educational moments. For Chef Clements, they seem to go hand-in-hand. “I’m looking forward to the surf when we head to the Pacific, but I think I'm going to have to bite the bullet and learn how to kite, too.”
+But there were also orcas and humpback sightings, hikes to bear observatories and fishing by waterfalls. With an active crew like the one aboard *Asahi*, freediving, fishing and energetic watersports are always there to balance out the educational moments. For Chef Clements, they seem to go hand-in-hand. “I’m looking forward to the surf when we head to the Pacific, but I think I’m going to have to bite the bullet and learn how to kite, too.”
 
 It doesn’t sound like the Algarve’s seaside villas will be getting him back anytime soon.

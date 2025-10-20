@@ -1,11 +1,11 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/rebuilding-reefs
 title: Rebuilding Reefs
 type: Environment
 byline: 'WORDS: Melissa Hobson | ILLUSTRATION: Molly Wilson'
 issue_no: number 02
-featured_image: 
+featured_image:
   image: /uploads/1-1.png
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   Marine scientists Genevieve Renaud-Byrne and Dr Molly Wilson on their mission
   to save Antigua’s marine ecosystems
 categories:
-  - all
   - environment
 images:
   - image: /uploads/1-2.png
@@ -23,7 +22,7 @@ images:
     caption: false
     credit: 'ILLUSTRATION: Molly Wilson'
 ---
-**Antigua’s white sandy beaches, azure waters, abundant coral reefs, seagrass and mangroves make it an impeccable destination for both novice and experienced sailors, a tropical destination long sought after. But this is all under threat. Once thriving, the island’s ocean habitats are degrading “at an alarming rate,” according to the Elkhorn Marine Conservancy (EMC), a non-profit dedicated to enhancing Antigua's marine ecosystems.**
+**Antigua’s white sandy beaches, azure waters, abundant coral reefs, seagrass and mangroves make it an impeccable destination for both novice and experienced sailors, a tropical destination long sought after. But this is all under threat. Once thriving, the island’s ocean habitats are degrading “at an alarming rate,” according to the Elkhorn Marine Conservancy (EMC), a non-profit dedicated to enhancing Antigua’s marine ecosystems.**
 
 The emblematic Elkhorn coral which EMC is named after is now critically endangered. As the coral suffers, so too do the people who rely on a healthy ocean for food and livelihoods, as well as protection from coastal erosion, hurricanes and storms.
 
@@ -41,7 +40,7 @@ So, is the life of a marine biologist what one might imagine; languid days spent
 
 Actively involving local stakeholders through a grassroots approach has had a positive reception so far. “Most people have seen the degradation of our inshore reefs and want to see change,” says Renaud-Byrne. It’s not just the tour operators. The fishermen also want the reefs to return.
 
-It can be depressing to see so much of what’s lost. However, the impressive resilience of healthy coral ecosystems motivates them to keep going. For example, discovering an epic colony that's survived decades of stresses, seeing a brain coral fight off stony coral tissue loss disease, or finding a hope spot with thousands of fish, massive brain corals, fan corals, and finger corals when you thought all the reefs in the area were nearly dead.
+It can be depressing to see so much of what’s lost. However, the impressive resilience of healthy coral ecosystems motivates them to keep going. For example, discovering an epic colony that’s survived decades of stresses, seeing a brain coral fight off stony coral tissue loss disease, or finding a hope spot with thousands of fish, massive brain corals, fan corals, and finger corals when you thought all the reefs in the area were nearly dead.
 
 And, of course, there’s their own restoration project. The two scientists sparkle when they talk about it. “It’s only been eight or nine months since we put the corals into our nursery and they’ve grown so much,” says Renaud-Byrne, buzzing.
 

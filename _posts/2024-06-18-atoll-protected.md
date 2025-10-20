@@ -16,7 +16,6 @@ short-description: >-
   culture, the hard-working Teti’aroa Society has also sketched out a pathway
   for the restoration of oceanic islands in general
 categories:
-  - all
   - environment
 images:
   - image: >-

@@ -5,7 +5,7 @@ title: From Land to Sea
 type: Design
 byline: 'WORDS: MIRIAM CAIN |  IMAGES: KRISTOFER JONSSON'
 issue_no: number 07
-featured_image: 
+featured_image:
   image: /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-design3.jpg
   position: img-center
 video: false
@@ -16,7 +16,6 @@ short-description: >-
   shore-side designers can adapt to create stunning, boundary-pushing yacht
   interiors
 categories:
-  - all
   - design
 images:
   - image: >-

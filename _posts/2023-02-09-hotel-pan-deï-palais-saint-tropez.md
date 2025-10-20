@@ -16,7 +16,6 @@ short-description: >-
   this Indian-inspired palace-turned-hotel is as rich in magic and romance today
   as it was when it was built in 1835. 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/6afkh780-1.jpeg

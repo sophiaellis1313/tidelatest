@@ -5,7 +5,7 @@ title: Island Five Spice
 type: Travel
 byline: 'WORDS: Chadner Navarro'
 number: number 01
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-five-spice-6.jpg
   position: img-center
 video: false
@@ -17,7 +17,6 @@ short-description: >-
   hunger for adventure that grip today’s intrepid sailors, a getaway to islands
   untrodden could be the perfect antidote to a year spent in lockdown. 
 categories:
-  - all
   - travel
 images:
   - image: /uploads/tide-magazine-sailing-five-spice-1.jpg

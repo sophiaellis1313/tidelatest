@@ -15,7 +15,6 @@ short-description: >-
   TIDE’s Caribbean contingent hops aboard a helicopter with CalvinAir and heads
   to Barbuda’s most beautiful restaurant, Nobu
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

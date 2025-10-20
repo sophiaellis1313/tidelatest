@@ -14,7 +14,6 @@ short-description: |
   Chef Pippa Crowley on spicing up galley life
 categories:
   - lifestyle
-  - all
 images:
   - image: /uploads/rlzed8ta-1.jpeg
     width: col-12

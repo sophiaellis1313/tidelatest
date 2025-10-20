@@ -17,7 +17,6 @@ short-description: >-
   owners Grand Large, explains why and how they did it, and hints at what they
   may revolutionise next   
 categories:
-  - all
   - sailing
 images:
   - image: >-

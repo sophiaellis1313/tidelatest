@@ -3,7 +3,7 @@ layout: blog
 permalink: /articles/a-global-range-the-schooner
 title: 'A Global Range: The Schooner'
 type: Sailing
-byline:
+byline: WORDS Jack Gifford | IMAGES James Robinson Taylor and Oli Riley
 issue_no: number 03
 featured_image:
   image: /uploads/glclzrga.jpg

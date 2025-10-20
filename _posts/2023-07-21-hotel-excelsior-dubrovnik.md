@@ -15,7 +15,6 @@ short-description: >-
   Dubrovnik’s Balkan beauty from the shoreline at Hotel Excelsior ahead of the
   2023 Summer season
 categories:
-  - all
   - travel
 images:
   - image: /uploads/TIDE-Magazine-issue04-hotel-excelsior-1.jpg

@@ -15,7 +15,6 @@ short-description: >-
   Step into a world of tranquillity, where nature reigns and Balearic flavours
   tantalise the palate
 categories:
-  - all
   - travel
 images:
   - image: >-

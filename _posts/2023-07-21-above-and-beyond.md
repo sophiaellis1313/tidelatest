@@ -14,7 +14,6 @@ short-description: >-
   Former Superyacht sailing captain turned helicopter pilot for CalvinAir, Tom
   Hollyhomes, shares his love for aviation and Caribbean life
 categories:
-  - all
   - lifestyle
 images:
   - image: /uploads/TIDE-Magazine-issue04-above-and-beyond-2.jpg

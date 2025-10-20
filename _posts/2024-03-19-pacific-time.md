@@ -5,8 +5,9 @@ title: Pacific Time
 type: Lifestyle
 byline: 'WORDS: ANNABELLE SPRANKLEN  |  IMAGES: MATT CRAWFORD'
 issue_no: number 06
-featured_image: 
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-superyacht-gathering2.jpg
+featured_image:
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-superyacht-gathering2.jpg
   position: img-center
 video: false
 video_path: ''
@@ -15,7 +16,6 @@ short-description: >-
   South Pacific is no easy feat but Linda Berry, founder of The Superyacht
   Gathering, has sparked a ripple…
 categories:
-  - all
   - lifestyle
 images:
   - image: >-

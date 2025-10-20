@@ -15,7 +15,6 @@ short-description: >-
   islets to explore all make for excellent off-grid yachting adventures around
   Croatia and Montenegro
 categories:
-  - all
   - travel
 images:
   - image: /uploads/TIDE-Magazine-issue04-hidden-gems-3.jpg

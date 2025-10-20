@@ -14,7 +14,6 @@ short-description: >-
   Plant-based cooking, food justice, and life in the galley of a Superyacht
   cruising around the atolls of French Polynesia
 categories:
-  - all
   - lifestyle
 images:
   - image: /uploads/TIDE-Magazine-issue04-food-as-medicine-1.jpg

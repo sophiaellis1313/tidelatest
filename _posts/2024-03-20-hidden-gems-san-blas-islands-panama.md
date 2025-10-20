@@ -16,7 +16,6 @@ short-description: >-
   archipelago, otherwise known as the Land of the Guna – and a treasure for all
   that discover it 
 categories:
-  - all
   - travel
 images:
   - image: >-

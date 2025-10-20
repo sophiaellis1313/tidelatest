@@ -16,7 +16,6 @@ short-description: >-
   Farr’s team took on the challenge with outstanding results. But was the man
   behind the initial vision satisfied? We investigate 
 categories:
-  - all
   - sailing
 images:
   - image: >-

@@ -5,8 +5,9 @@ title: 'Hidden Gems: Sardinia and Corsica'
 type: Travel
 byline: 'WORDS: PHOEBE HUNT   |  IMAGES: LOUISE LONG'
 issue_no: number 06
-featured_image: 
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-hidden-gems2.
+featured_image:
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-hidden-gems2.
   position: img-center
 video: false
 video_path: ''
@@ -15,7 +16,6 @@ short-description: >-
   revealing their secrets: wild interiors, powdery white beaches, delicious
   local cuisine and colourful festivals
 categories:
-  - all
   - travel
 images:
   - image: >-

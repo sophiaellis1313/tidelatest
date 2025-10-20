@@ -17,7 +17,6 @@ short-description: >-
   thoroughly Italian La Baia restaurant, which are each as different as they are
   exciting
 categories:
-  - all
   - travel
 images:
   - image: >-

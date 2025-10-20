@@ -5,8 +5,9 @@ title: West Coast Wilderness
 type: Travel
 byline: 'WORDS: GEMMA HARRIS  |  IMAGES: OLI RILEY'
 issue_no: number 06
-featured_image: 
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-itinerary2.jpg
+featured_image:
+  image: >-
+    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-itinerary2.jpg
   position: img-center
 video: false
 video_path: ''
@@ -14,7 +15,6 @@ short-description: >-
   Here are the essential stops to make on a journey along British Columbia’s
   coastline, one of the most naturally magnificent and wildlife-rich on earth
 categories:
-  - all
   - travel
 images:
   - image: >-

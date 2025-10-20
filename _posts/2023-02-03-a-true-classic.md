@@ -17,7 +17,6 @@ short-description: >-
   of the second hull in the series about the joy that Vijonara brings.
 categories:
   - sailing
-  - all
 images:
   - image: /uploads/uzdwrv9s.jpeg
     caption: true

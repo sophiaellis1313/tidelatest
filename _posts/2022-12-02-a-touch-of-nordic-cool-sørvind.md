@@ -1,5 +1,5 @@
 ---
-layout: blog-simple
+layout: blog
 permalink: /articles/sorvind
 title: A Touch of Nordic Cool - Sørvind
 type: Sailing
