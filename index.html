@@ -68,34 +68,28 @@ meta-description: "TIDE is adventure, travel, design, modernity, environment, te
 
 
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  // Initialize each swiper separately
-  document.querySelectorAll('.swiper').forEach((swiperElement) => {
-    // Find the parent container that has both the swiper and buttons
-    const parentContainer = swiperElement.closest('.container');
-    
-    new Swiper(swiperElement, {
-      spaceBetween: 50,
-      slidesPerView: 2.5,
-      navigation: {
-        nextEl: parentContainer.querySelector('.swiper-custom-next'),
-        prevEl: parentContainer.querySelector('.swiper-custom-prev'),
+ document.addEventListener("DOMContentLoaded", function() {
+  new Swiper(".swiper", {
+    spaceBetween: 50, // default
+    slidesPerView: 2.5,
+    navigation: {
+      nextEl: ".swiper-custom-next", // custom button
+      prevEl: '.swiper-custom-prev',
+    },
+    breakpoints: {
+      320: { 
+        slidesPerView: 1.2,
+        spaceBetween: 9   // applied for screen widths >=320px
       },
-      breakpoints: {
-        320: { 
-          slidesPerView: 1.2,
-          spaceBetween: 9
-        },
-        768: { 
-          slidesPerView: 2.2,
-          spaceBetween: 9 
-        },
-        1024: { 
-          slidesPerView: 2.3,
-          spaceBetween: 50 
-        },
+      768: { 
+        slidesPerView: 2.2,
+        spaceBetween: 9 
       },
-    });
+      1024: { 
+        slidesPerView: 2.3,
+        spaceBetween: 50 
+      },
+    },
   });
 });
 </script>
