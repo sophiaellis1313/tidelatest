@@ -5,7 +5,7 @@ content_on_image1:
     link: "#"
   secondary_button:
     text: "BROWSE ALL ISSUES"
-    link: "#"
+    link: "https://www.mymagazinesub.co.uk/tide/back-issues/"
   image: "/assets/images/TIDE-issue-05-multi-cover-mockup.png"
   alt: "Magazine mockup"
   bg_class: "grey-bg"

@@ -25,7 +25,7 @@ image_with_text1:
     link: "https://www.mymagazinesub.co.uk/tide/"
   button_secondary:
     label: "Browse All Issues"
-    link: "#"
+    link: "https://www.mymagazinesub.co.uk/tide/back-issues"
   image: "/uploads/tide-14-multicovers-2.jpg"
   background_class: "grey-bg"
 ---
