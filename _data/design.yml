@@ -21,7 +21,7 @@ cards:
     alt: ' Expanding Horizons '
     link: /articles/expanding-horizons
     tags:
-      - ' Design I '
+      - ' Design '
       - number 11
     title: ' Expanding Horizons '
     description: >-
@@ -33,8 +33,8 @@ cards:
     alt: ' Changing the game '
     link: /articles/design-jarkko
     tags:
-      - ' Design I '
-      - number 11
+      - ' Design '
+      - number 09
     title: ' Changing the game '
     description: ' Jarkko Jämsén, the Finnish designer behind Raven, potentially the boat build of the decade, reveals how he told the owner not to have her made – and why she’s just the first of her kind '
   - image: /uploads/download-2.jpg
@@ -49,18 +49,10 @@ cards:
     alt: ' From Land to Sea '
     link: /articles/zemi
     tags:
-      - ' Design I '
-      - number 11
+      - ' Design '
+      - number 07
     title: ' From Land to Sea '
     description: ' Featuring a contemporary, warm and crafted look by Swedish architects Andreas Martin-Löf Arkitekter, the 34m sailing yacht ZEMI is a fine example of how shore-side designers can adapt to create stunning, boundary-pushing yacht interiors '
-  - image: /uploads/download-4.jpg
-    alt: ' Lighting the Way '
-    link: /articles/mark-whiteley
-    tags:
-      - ' Design I '
-      - number 11
-    title: ' Lighting the Way '
-    description: ' Designer Mark Whiteley explains why he’s keeping it simple '
 content_on_image:
   image: /uploads/modernism-desktop.png
   alt: Evolving Modernism
@@ -81,11 +73,23 @@ content_on_image:
     class: width-fit btn white-btn
 featured_section:
   cards:
+    - image: /uploads/download-4.jpg
+      alt: Lighting the Way
+      link: articles/mark-whiteley
+      tags:
+        - design
+        - number 06
+      title: Lighting the Way
+      description: >+
+        If you want to catch a glimpse of your yachting future, Mark Whiteley’s
+        your man. The esteemed British designer probably knows before you do
+        what you’re going to choose to have onboard your next boat.
+
     - image: /uploads/download-5.jpg
       alt: ' A Kind of Magic '
       link: /articles/german-frers
       tags:
-        - ' Design I'
+        - ' Design '
         - ' number 05'
       title: ' A Kind of Magic '
       description: ' For 65 years, Germán Frers has been enchanting the sailing world with his designs. TIDE falls under his spell. '
@@ -93,7 +97,7 @@ featured_section:
       alt: ' Sense and Sensibility '
       link: /articles/sense-and-sensibility
       tags:
-        - ' Design I '
+        - ' Design '
         - number 04
       title: ' Sense and Sensibility '
       description: ' Form always follows function, says designer Adriana Monk, but for the best results there should also be an element of fun '
@@ -101,20 +105,10 @@ featured_section:
       alt: ' A Fresh Wave - Spinta Studio '
       link: /articles/a-fresh-wave-spinta-studio
       tags:
-        - ' Lifestyle  I '
+        - ' design  '
         - number 03
       title: ' A Fresh Wave - Spinta Studio '
       description: ' With the launch of Spinta Studio, Italian-born naval architect Vittorio Papa balances function and aesthetic with a strong environmental conscience. '
-    - image: /images/Three-a-Charm.png
-      alt: Three's a Charm
-      link: /articles/itinerary-cuba
-      tags:
-        - Travel
-        - Number 11
-      title: Three's a Charm
-      description: >-
-        The day Marie-Louise Sciò first set foot on the island of Ischia in 2018
-        and breathed in the jasmine and wild thyme-fragranced...
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions
   description: >-
