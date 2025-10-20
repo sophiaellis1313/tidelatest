@@ -90,3 +90,30 @@
     <a href="{{ include.buttonlink }}" class="btn-border">{{ include.buttontext }}</a>
   </div>
 </section>
+<script>
+ document.addEventListener("DOMContentLoaded", function() {
+  new Swiper(".swiper", {
+    spaceBetween: 50, // default
+    slidesPerView: 2.5,
+    navigation: {
+      nextEl: ".swiper-custom-next", // custom button
+      prevEl: '.swiper-custom-prev',
+    },
+    breakpoints: {
+      320: { 
+        slidesPerView: 1.2,
+        spaceBetween: 9   // applied for screen widths >=320px
+      },
+      768: { 
+        slidesPerView: 2.2,
+        spaceBetween: 9 
+      },
+      1024: { 
+        slidesPerView: 2.3,
+        spaceBetween: 50 
+      },
+    },
+  });
+});
+</script>
+
