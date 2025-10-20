@@ -9,7 +9,7 @@ buttonlink1: https://www.mymagazinesub.co.uk/tide/
 buttonlabel2: VIEW ALL
 buttonlink2: https://peachy-lion.cloudvent.net/sailing
 buttonlabel3: VIEW ALL
-buttonlink3: /design
+buttonlink3: https://peachy-lion.cloudvent.net/
 buttonlabel4: VIEW ALL
 buttonlink4: https://peachy-lion.cloudvent.net/travel
 buttonlabel5: VIEW ALL
@@ -97,7 +97,8 @@ cards:
     alt: Sailing the Northern Dodecanese
     link: articles/Sailing-the-Northern-Dodecanese.html
     tags:
-      - ''
+      - travel
+      - number 13
     title: Sailing the Northern Dodecanese
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
