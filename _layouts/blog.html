@@ -28,6 +28,9 @@ hide-nav: hide-nav
   .swiper-custom-prev svg {
     display: block;
   }
+  .container {
+    position: relative;
+  }
 </style>
 
 <section class="no-margin">
@@ -88,12 +91,13 @@ hide-nav: hide-nav
 </section>
 
 <section class="slider-section featured-section mx-auto">
-  <div class="container">
-
-    <div class="swiper visible">
   <h3 class="uppercase text-center mb-3 font-bold font-s overpass-font-family">
     {{ site.data.articlecard.mainheading }}
   </h3>
+  <div class="container">
+
+    <div class="swiper visible">
+  
 
   <div class="swiper-wrapper">
     {% assign related_count = 0 %} <!-- Initialize a counter to track related posts -->
