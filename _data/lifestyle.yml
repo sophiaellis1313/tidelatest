@@ -149,7 +149,7 @@ content_on_image:
   alt: TIDE's Top Ten Sailing Destinations
   tags:
     - Lifestyle
-    - Number 11
+    - Number 10
   title: TIDE's Top Ten Sailing Destinations
   description: >-
     For decades, sailors have set a course for the Cyclades, but not only for
@@ -157,7 +157,7 @@ content_on_image:
     seas.
   button:
     text: More
-    link: /destinations
+    link: articles/top-ten.html
     class: width-fit btn white-btn
 featured_section:
   cards:
