@@ -107,7 +107,7 @@ categories:
      {% for card in site.data.sailing.cards %}
         <div class="swiper-slide ">
           <div class="featured-card{% if forloop.first %} {% endif %}">
-            <img src="{{ card.image }}" alt="{{ card.alt }}" class="w-full h-auto mb-20 d-block" />
+            <img src="{{ card.image }}" alt="{{ card.alt }}" class="w-full h-auto mb-20 d-block featured-carousel-image" />
 
             <div class="featured-detail pt-24 px-10">
               <a href="{{ card.link }}">
@@ -517,6 +517,9 @@ document.addEventListener("DOMContentLoaded", function() {
   body .featured-card img {
     height: 600px;
     object-fit: fill;
-} 
+  } 
+  .featured-carousel-image{
+    object-fit: cover !important;
+  }
 </style>
 
