@@ -318,7 +318,7 @@
   <!-- <a class="btn subscribe-btn" href="{{ site.data.footer.footer_logo.subscribe_link }}"> {{ site.data.footer.footer_logo.subscribe_text }} </a> -->
   <div class="mx-1" >
     <a href="{{ site.data.footer.footer_logo.join_now_link | default:'/'}}" class="btn subscribe-btn"> {{ site.data.footer.footer_logo.join_now_text }} </a>
-    <a class="btn btn-border "> {{ site.data.footer.footer_logo.subscribe_text }} </a>
+    <a href="{{ site.data.footer.footer_logo.subscribe_link | default:'/'}}" class="btn btn-border "> {{ site.data.footer.footer_logo.subscribe_text }} </a>
   </div>
 </div>
 
