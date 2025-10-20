@@ -69,17 +69,12 @@ meta-description: "TIDE is adventure, travel, design, modernity, environment, te
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  // Initialize each swiper separately
-  document.querySelectorAll('.swiper').forEach((swiperElement, index) => {
-    // Find the parent section that contains both the swiper and buttons
-    const parentSection = swiperElement.closest('.slider-section');
-    
     new Swiper(swiperElement, {
       spaceBetween: 50,
       slidesPerView: 2.5,
       navigation: {
-        nextEl: parentSection.querySelector('.swiper-custom-next'),
-        prevEl: parentSection.querySelector('.swiper-custom-prev'),
+       nextEl: ".swiper-custom-next", // custom button
+       prevEl: '.swiper-custom-prev',
       },
       breakpoints: {
         320: { 
