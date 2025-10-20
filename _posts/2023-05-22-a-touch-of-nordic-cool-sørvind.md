@@ -5,7 +5,7 @@ title: A Touch of Nordic Cool - Sørvind
 type: 'Sailing '
 byline: 'WORDS: JACK GIFFORD | IMAGES: SOUTHERN WIND'
 issue_no: number 03
-featured_image: 
+featured_image:
   image: /uploads/fs-h8yzu.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   With the latest yachts on show in Monaco, TIDE checks in with South African
   yacht builder Southern Wind to take a close look at their new launch, Sørvind.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/fs-h8yzu-1.jpg
@@ -45,15 +44,13 @@ Following the lead of the first SW105, *Sørvind* has a telescopic keel allowing
 
 Less contentious is the choice of rig; 1 metre taller than the standard 105m mast, the intention was for the yacht to excel even in light winds, enabling her to switch off the engine as soon as possible. Twin mechanically linked rudders make for responsive steering with a very natural feedback to the helm, whilst the single point mainsheet and headsail sheeting points minimise the moving components or deck for a clearer, more charter-friendly setup.
 
-Aside from the contrasting dark and light ‘Nordic Cool’ style of the * * interior, further subtle customisations have been made to the yacht’s exterior. The design brief called for pared-back styling and superior comfort, with a view to optimise her for the charter market.
+Aside from the contrasting dark and light ‘Nordic Cool’ style of the \* \* interior, further subtle customisations have been made to the yacht’s exterior. The design brief called for pared-back styling and superior comfort, with a view to optimise her for the charter market.
 
-Sporting a raised saloon similar to her two sisters, *Wolfhound* and *Kiboko Tres*, the coach roof has been modified to create a unique silhouette and the hallmark chamfered edges radiused into curves. All of these touches combine to give the boat * * a distinctive look both inside and out.
+Sporting a raised saloon similar to her two sisters, *Wolfhound* and *Kiboko Tres*, the coach roof has been modified to create a unique silhouette and the hallmark chamfered edges radiused into curves. All of these touches combine to give the boat \* \* a distinctive look both inside and out.
 
-Delivered in only 20 months, Southern Wind supported the owner throughout the yacht's conception, with remote design sessions, crew selection and the organisation of a full debut charter season. Setting off from Cape Town in April for a 5-week delivery to Mallorca, the programme went from one seamless transition to the next. By the time we catch Jeremy in Mallorca in mid-October, *Sørvind* is about to clock off at the end of her first season, with over 11 thousand miles, two owner cruises and three successful charters completed.
+Delivered in only 20 months, Southern Wind supported the owner throughout the yacht’s conception, with remote design sessions, crew selection and the organisation of a full debut charter season. Setting off from Cape Town in April for a 5-week delivery to Mallorca, the programme went from one seamless transition to the next. By the time we catch Jeremy in Mallorca in mid-October, *Sørvind* is about to clock off at the end of her first season, with over 11 thousand miles, two owner cruises and three successful charters completed.
 
 Despite the modesty and calm professionalism of the team, the success of their ‘smart custom’ platform is no accident. The clue is in the name, and if their production of two highly considered boats a year tells us anything, it’s that this is a yacht builder that prioritises quality.
-
-
 
 For charter go to: pegaso-yachts.com
 

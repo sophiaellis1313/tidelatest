@@ -5,7 +5,7 @@ title: A Touch of Nordic Cool - Sørvind
 type: Sailing
 byline: 'WORDS: Jack Gifford | IMAGES: Southern Wind'
 issue_no: Number 03
-featured_image: 
+featured_image:
   image: /uploads/tide-magazine-sailing-sorvind-1.jpg
   position: img-center
 video: false
@@ -14,7 +14,6 @@ short-description: >-
   With the latest yachts on show in Monaco, TIDE checks in with South African
   yacht builder Southern Wind to take a close look at their new launch, Sørvind.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/tide-magazine-sailing-sorvind-2.jpg
@@ -47,7 +46,7 @@ Aside from the contrasting dark and light ‘Nordic Cool’ style of theinterior
 
 Sporting a raised saloon similar to her two sisters, *Wolfhound* and *Kiboko Tres*, the coach roof has been modified to create a unique silhouette and the hallmark chamfered edges radiused into curves. All of these touches combine to give the boata distinctive look both inside and out.
 
-Delivered in only 20 months, Southern Wind supported the owner throughout the yacht's conception, with remote design sessions, crew selection and the organisation of a full debut charter season. Setting off from Cape Town in April for a 5-week delivery to Mallorca, the programme went from one seamless transition to the next. By the time we catch Jeremy in Mallorca in mid-October, *Sørvind* is about to clock off at the end of her first season, with over 11 thousand miles, two owner cruises and three successful charters completed.
+Delivered in only 20 months, Southern Wind supported the owner throughout the yacht’s conception, with remote design sessions, crew selection and the organisation of a full debut charter season. Setting off from Cape Town in April for a 5-week delivery to Mallorca, the programme went from one seamless transition to the next. By the time we catch Jeremy in Mallorca in mid-October, *Sørvind* is about to clock off at the end of her first season, with over 11 thousand miles, two owner cruises and three successful charters completed.
 
 Despite the modesty and calm professionalism of the team, the success of their ‘smart custom’ platform is no accident. The clue is in the name, and if their production of two highly considered boats a year tells us anything, it’s that this is a yacht builder that prioritises quality.
 

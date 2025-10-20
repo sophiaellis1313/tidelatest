@@ -17,7 +17,6 @@ short-description: >-
   the Finnish-built yachts are widely touted as the best of all worlds. TIDE
   speaks with Nautor Swan’s team to find out what the 98 is all about.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/deiz3z3k-1.jpeg

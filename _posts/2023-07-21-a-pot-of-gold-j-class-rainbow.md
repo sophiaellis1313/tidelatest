@@ -18,7 +18,6 @@ short-description: >-
   behind the lens of one of the most beautiful modern-day J-Class yachts, the
   131ft (39.95m) Rainbow
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/TIDE-Magazine-issue04-pot-of-gold-4.jpg

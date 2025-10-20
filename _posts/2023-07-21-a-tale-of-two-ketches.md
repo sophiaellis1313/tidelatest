@@ -5,7 +5,7 @@ title: A Tale of  Two Ketches
 type: Sailing
 byline: 'WORDS: SAM FORTESCUE | IMAGES: RICK TOMLINSON AND CORY SILKEN'
 issue_no: number 04
-featured_image: 
+featured_image:
   image: /uploads/TIDE-Magazine-issue04-two-ketches-2.jpg
   position: img-center
 video: false
@@ -15,7 +15,6 @@ short-description: >-
   looks back on Adele, who broke the mould 20 years ago and still turns heads
   today.
 categories:
-  - all
   - sailing
 images:
   - image: /uploads/TIDE-Magazine-issue04-two-ketches-2.jpg
