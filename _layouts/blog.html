@@ -31,6 +31,21 @@ hide-nav: hide-nav
   .container {
     position: relative;
   }
+  .title-text {
+    font-size: 42px;
+  }
+  .banner-img .content-on-hover {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100%);
+    height: 400px;
+    z-index: 999;
+  } 
+  .text-center-blogs-banner {
+      height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+  }
 </style>
 
 <section class="no-margin">
@@ -54,9 +69,9 @@ hide-nav: hide-nav
       </div>
 
       <a href="/" class="content-on-hover w-full container-full pt-4 d-flex align-center pb-2 overlay flex-wrap justify-center">
-        <div class="col-12 centered">
+        <div class="col-12 centered text-center-blogs-banner">
           <h4 class="subtitle h4heading mt-2 text-white">{{ page.categories | join: " | " }} <span class="divider extrasdivider"></span> {{ page.issue_no }}</h4>
-          <h2 class="mob-padding mt-1 mb-1 text-white capitalize h2">{{ page.title }}</h2>
+          <h2 class="mob-padding mt-1 mb-1 text-white capitalize h2 title-text">{{ page.title }}</h2>
         </div>
       </a>
 
