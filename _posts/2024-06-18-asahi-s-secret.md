@@ -15,7 +15,6 @@ short-description: >-
   processes that go on behind the scenes to ensure the yacht charter is equally
   magical and unique for every client that steps onboard 
 categories:
-  - all
   - sailing
 images:
   - image: >-

@@ -15,7 +15,6 @@ short-description: >-
   Meet the Superyacht that manages to both dominate at regattas and boast the
   latest in onboard luxury
 categories:
-  - all
   - sailing
 images:
   - image: >-

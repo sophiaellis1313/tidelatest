@@ -15,7 +15,6 @@ short-description: >-
   With Gelliceaux, Southern Wind has successfully created a boat that is almost
   as sustainable as it is stylish. Here we explore how  
 categories:
-  - all
   - sailing
 images:
   - image: >-

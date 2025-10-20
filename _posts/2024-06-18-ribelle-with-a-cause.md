@@ -16,7 +16,6 @@ short-description: >-
   in boat-craft. Here, her Skipper and creator share what makes – and keeps –
   her a cut above
 categories:
-  - all
   - sailing
 images:
   - image: >-

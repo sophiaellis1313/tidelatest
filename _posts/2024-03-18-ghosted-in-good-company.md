@@ -16,7 +16,6 @@ short-description: >-
   catches up with Michael “Hutch” Hutchison, her captain for the last 16 years,
   to learn more.
 categories:
-  - all
   - sailing
 images:
   - image: >-

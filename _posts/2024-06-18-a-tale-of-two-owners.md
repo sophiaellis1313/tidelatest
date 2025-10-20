@@ -16,7 +16,6 @@ short-description: >-
   traditional-yet-contemporary examples, it’s more joyful than usual – thanks,
   in no small part, to the love bestowed on them by their owners
 categories:
-  - all
   - sailing
 images:
   - image: >-

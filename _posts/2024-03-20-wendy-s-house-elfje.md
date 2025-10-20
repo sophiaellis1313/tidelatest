@@ -16,7 +16,6 @@ short-description: >-
   boat. Here, we find out the unique path that American philanthropist Wendy
   Schmidt’s primary Superyacht took into being
 categories:
-  - all
   - sailing
 images:
   - image: >-
