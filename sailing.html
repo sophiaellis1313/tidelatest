@@ -127,20 +127,17 @@ categories:
 
 
 
+<section class="slider-section under-snipptttt relative featured-section mx-auto">
+  <div class="container">
+    <div class="header-block">
+     
+      <h3 class="uppercase left mb:mb-40 mb-1 overpass-family font-s overpass-font-family  font-s overpass-font-family ">Featured</h3>
+   
+    </div>
 
-
-
-<section class="slider-section featured-section mx-auto relative">
-
-  <div class=" container">
-     <h3 class="uppercase text-center mb-3 font-bold overpass-font-family  font-s overpass-font-family ">Featured</h3>
-  </div>
-  <div class=" container">
-
-  <div class="swiper visible">
-     <div class="swiper-wrapper">
-      
-     {% for card in site.data.sailing.cards %}
+    <div class="swiper visible">
+      <div class="swiper-wrapper">
+        {% for card in site.data.sailing.cards %}
         <div class="swiper-slide ">
           <div class="featured-card{% if forloop.first %} {% endif %}">
             <img src="{{ card.image }}" alt="{{ card.alt }}" class="w-full h-auto mb-20 d-block" />
@@ -161,16 +158,10 @@ categories:
           </div>
         </div>
         {% endfor %}
-
-       
-
+      </div>
+     
     </div>
-    
-    
-  </div>
-  </div>
-
-   <button class="swiper-custom-prev">
+     <button class="swiper-custom-prev">
         <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
          <foreignObject x="-10" y="-10" width="90.7107" height="90.7107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);clip-path:url(#bgblur_0_124_665_clip_path);height:100%;width:100%"></div></foreignObject><g data-              figma-bg-blur-radius="10">
          <rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)" fill="black" fill-opacity="0.3"/>
@@ -196,10 +187,10 @@ categories:
      </defs>
      </svg>
     </button>
+    </div>
+
  
 </section>
-
-
 
 
 
