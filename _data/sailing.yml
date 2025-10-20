@@ -238,129 +238,6 @@ featured_section:
         specifically conceived and engineered for hybrid diesel-electric
         propulsion. The results are compelling.
 
-    - image: /uploads/glclzrga-1.jpg
-      alt: ' A Global Range: The Schooner '
-      link: /articles/a-global-range-the-schooner
-      tags:
-        - ' Sailing'
-        - number 03
-      title: ' A Global Range: The Schooner '
-      description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
-    - image: /uploads/lsr8twys.jpg
-      alt: ' A True Classic '
-      link: /articles/a-true-classic
-      tags:
-        - Sailing
-        - number 01
-      title: ' A True Classic '
-      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
-    - image: /uploads/qhxzfote.jpg
-      alt: 'The Pocket Superyacht '
-      link: /articles/the-pocket-superyacht
-      tags:
-        - 'Sailing '
-        - number 02
-      title: 'The Pocket Superyacht '
-      description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht. '
-    - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
-      alt: ' A Touch of Nordic Cool - Sørvind '
-      link: /articles/sorvind
-      tags:
-        - 'Sailing I '
-        - Number 03
-      title: ' A Touch of Nordic Cool - Sørvind '
-      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
-    - image: /uploads/deiz3z3k.jpg
-      alt: ' A Global Range: The Schooner '
-      link: /articles/schooner
-      tags:
-        - Sailing
-        - Number 03
-      title: ' A Global Range: The Schooner '
-      description: ' With the upcoming launch of 63m Athos, TIDE takes a look at some of the most famous schooners afloat today. Inspired by both past and future, these multi-mast vessels are hard to beat for a truly authentic sailing experience. '
-    - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
-      alt: ' The Adventure Squad '
-      link: /articles/sonny
-      tags:
-        - ' Sailing'
-        - number 02
-      title: ' The Adventure Squad '
-      description: ' When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds '
-    - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
-      alt: ' Perseverance on Charter '
-      link: /articles/perseverance
-      tags:
-        - Sailing
-        - number 02
-      title: ' Perseverance on Charter '
-      description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
-    - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
-      alt: The Rise of the Supersloop
-      link: articles/supersloop
-      tags:
-        - sailing
-        - number 01
-      title: The Rise of the Supersloop
-      description: >+
-        If the enduring arms race in the motor yacht world is anything to go by,
-        bigger is better when it comes to luxury yachting. But it’s not just
-        motor yachts that are increasing in size; the rise of the super sloop is
-        shaping our horizon.
-
-    - image: /uploads/tide-magazine-sailing-the-cat-is-back-1-1.jpg
-      alt: The Cat is Black
-      link: articles/the-cat-is-back
-      tags:
-        - sailing
-        - number 01
-      title: The Cat is Black
-      description: >+
-        The insatiable desire for more than one hull continues unabated and
-        whilst the industry seeks to meet demand, one yard at the sharp end of
-        the market is already raising the bar.
-
-    - image: /uploads/download-51.jpg
-      alt: Sailing in the City - New York
-      link: articles/new-york
-      tags:
-        - sailing
-        - number 01
-      title: Sailing in the City - New York
-      description: >+
-        While the industrial waterways of New York City might not be the typical
-        backdrop for a luxury yacht, sailing into New York Harbour is a magical
-        experience that should be on every boat owner’s bucket list. Under 1000
-        nautical miles from the Caribbean and just over 3000 from the
-        Mediterranean, the city offers an extra special welcome to those
-        arriving from the Atlantic Ocean.
-
-    - image: /uploads/tide-magazine-sailing-modern-ketch-1-1.jpg
-      alt: The Modern Ocean Ketch
-      link: articles/modern-ketch
-      tags:
-        - sailing
-        - number 01
-      title: The Modern Ocean Ketch
-      description: >+
-        The heritage of the modern ocean ketch comprises many of the world’s
-        most iconic yachts and, whilst the latest creations are larger, faster
-        and more technologically advanced, they continue to prove why the twin
-        rig concept ticks all the boxes.
-
-    - image: /uploads/futureisnow.jpeg
-      alt: The Future is Now
-      link: articles/future-is-now
-      tags:
-        - sailing
-        - number 01
-      title: The Future is Now
-      description: >+
-        At the dawn of the early Twenties, we find ourselves on the threshold of
-        a new era in sailing; the America’s Cup enacted at speeds in excess of
-        40 knots and the drive towards environmental responsibility set against
-        a backdrop of ever larger motor yacht builds. So, what does the future
-        hold for the humble sailing yacht?
-
     - image: >-
         /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
       alt: The Seas Less Sailed
@@ -460,21 +337,38 @@ featured_section:
         yacht regattas around the world. One such boat is the 2012-built replica
         J-Class Rainbow.
 
-    - image: /uploads/fs-h8yzu-1.jpg
-      alt: A Touch of Nordic Cool - Sørvind
-      link: articles/a-touch-of-nordic-cool-sorvind
+    - image: /uploads/glclzrga-1.jpg
+      alt: ' A Global Range: The Schooner '
+      link: /articles/a-global-range-the-schooner
       tags:
-        - sailing
+        - ' Sailing'
         - number 03
-      title: A Touch of Nordic Cool - Sørvind
-      description: >+
-        Built in Cape Town for a Norwegian with a lifelong passion for sailing,
-        105ft Sørvind is the fifth unit of the successful SW105 mini-series -
-        the result of a solid collaboration between Southern Wind, Nauta Design
-        and Farr Yacht Design. The order came in early 2020; less than two years
-        later, the yacht was making her maiden voyage from South Africa across
-        to the Mediterranean, a shake down sail of over 7,000 miles.
-
+      title: ' A Global Range: The Schooner '
+      description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
+    - image: /uploads/lsr8twys.jpg
+      alt: ' A True Classic '
+      link: /articles/a-true-classic
+      tags:
+        - Sailing
+        - number 01
+      title: ' A True Classic '
+      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
+    - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
+      alt: ' A Touch of Nordic Cool - Sørvind '
+      link: /articles/sorvind
+      tags:
+        - 'Sailing I '
+        - Number 03
+      title: ' A Touch of Nordic Cool - Sørvind '
+      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
+    - image: /uploads/deiz3z3k.jpg
+      alt: ' A Global Range: The Schooner '
+      link: /articles/schooner
+      tags:
+        - Sailing
+        - Number 03
+      title: ' A Global Range: The Schooner '
+      description: ' With the upcoming launch of 63m Athos, TIDE takes a look at some of the most famous schooners afloat today. Inspired by both past and future, these multi-mast vessels are hard to beat for a truly authentic sailing experience. '
     - image: /uploads/deiz3z3k-1.jpeg
       alt: 'Nautor Swan: Innovating through tradition'
       link: articles/nautor-swan
@@ -489,6 +383,97 @@ featured_section:
         the fjords, the Finnish-built yachts are widely touted as the best of
         all worlds. TIDE speaks with Nautor Swan’s team to find out what the 98
         is all about.
+
+    - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
+      alt: ' The Adventure Squad '
+      link: /articles/sonny
+      tags:
+        - ' Sailing'
+        - number 02
+      title: ' The Adventure Squad '
+      description: ' When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds '
+    - image: /uploads/qhxzfote.jpg
+      alt: 'The Pocket Superyacht '
+      link: /articles/the-pocket-superyacht
+      tags:
+        - 'Sailing '
+        - number 02
+      title: 'The Pocket Superyacht '
+      description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht. '
+    - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
+      alt: ' Perseverance on Charter '
+      link: /articles/perseverance
+      tags:
+        - Sailing
+        - number 02
+      title: ' Perseverance on Charter '
+      description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
+    - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
+      alt: The Rise of the Supersloop
+      link: articles/supersloop
+      tags:
+        - sailing
+        - number 01
+      title: The Rise of the Supersloop
+      description: >+
+        If the enduring arms race in the motor yacht world is anything to go by,
+        bigger is better when it comes to luxury yachting. But it’s not just
+        motor yachts that are increasing in size; the rise of the super sloop is
+        shaping our horizon.
+
+    - image: /uploads/tide-magazine-sailing-the-cat-is-back-1-1.jpg
+      alt: The Cat is Black
+      link: articles/the-cat-is-back
+      tags:
+        - sailing
+        - number 01
+      title: The Cat is Black
+      description: >+
+        The insatiable desire for more than one hull continues unabated and
+        whilst the industry seeks to meet demand, one yard at the sharp end of
+        the market is already raising the bar.
+
+    - image: /uploads/download-51.jpg
+      alt: Sailing in the City - New York
+      link: articles/new-york
+      tags:
+        - sailing
+        - number 01
+      title: Sailing in the City - New York
+      description: >+
+        While the industrial waterways of New York City might not be the typical
+        backdrop for a luxury yacht, sailing into New York Harbour is a magical
+        experience that should be on every boat owner’s bucket list. Under 1000
+        nautical miles from the Caribbean and just over 3000 from the
+        Mediterranean, the city offers an extra special welcome to those
+        arriving from the Atlantic Ocean.
+
+    - image: /uploads/tide-magazine-sailing-modern-ketch-1-1.jpg
+      alt: The Modern Ocean Ketch
+      link: articles/modern-ketch
+      tags:
+        - sailing
+        - number 01
+      title: The Modern Ocean Ketch
+      description: >+
+        The heritage of the modern ocean ketch comprises many of the world’s
+        most iconic yachts and, whilst the latest creations are larger, faster
+        and more technologically advanced, they continue to prove why the twin
+        rig concept ticks all the boxes.
+
+    - image: /uploads/futureisnow.jpeg
+      alt: The Future is Now
+      link: articles/future-is-now
+      tags:
+        - sailing
+        - number 01
+      title: The Future is Now
+      description: >+
+        At the dawn of the early Twenties, we find ourselves on the threshold of
+        a new era in sailing; the America’s Cup enacted at speeds in excess of
+        40 knots and the drive towards environmental responsibility set against
+        a backdrop of ever larger motor yacht builds. So, what does the future
+        hold for the humble sailing yacht?
 
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions.
