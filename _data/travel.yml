@@ -19,9 +19,10 @@ posts:
 cards:
   - image: /uploads/high-low-desktop.png
     alt: 'The High Low: the Greek Islands'
-    link: /articles/The-High-Low-the-Greek-Islands%20.html
+    link: articles/The-High-Low-the-Greek-Islands
     tags:
-      - ''
+      - travel
+      - number 13
     title: 'The High Low: The Greek Islands'
     description: >-
       From a Michelin-starred Chef’s scene-changing concoctions and drive to run
@@ -29,9 +30,10 @@ cards:
       some apricot trees.
   - image: /uploads/image00014.jpeg
     alt: 'Checking in: Skinopi Lodge'
-    link: /articles/Checking-in-Skinopi-Lodge%20.html
+    link: articles/Checking-in-Skinopi-Lodge
     tags:
-      - ''
+      - travel
+      - number 13
     title: 'Checking in: Skinopi Lodge'
     description: >+
       Go back to soothingly simpler times in comfort via a stay at one of these
@@ -42,7 +44,8 @@ cards:
     alt: Sailing the Northern Dodecanese
     link: articles/Sailing-the-Northern-Dodecanese.html
     tags:
-      - ''
+      - travel
+      - number 13
     title: Sailing the Northern Dodecanese
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
