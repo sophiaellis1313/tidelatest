@@ -38,7 +38,7 @@ images:
     caption: false
     credit:
 ---
-There’s magic in the air at Refugia Chiloé. Early on my first morning, surrounded by the scent of damp earth on the hotel’s dew-covered backyard trail, a hummingbird stops to peer at me with beady black eyes, iridescent feathers shimmering in the pale light, wings a blur as it hovers in my eyeline. It’s gone in an instant but the image remains, a harbinger of the many precious moments that await guests at this 24-room hotel set on the edge of the remote<br>Rilán Peninsula.
+There’s magic in the air at Refugia Chiloé. Early on my first morning, surrounded by the scent of damp earth on the hotel’s dew-covered backyard trail, a hummingbird stops to peer at me with beady black eyes, iridescent feathers shimmering in the pale light, wings a blur as it hovers in my eyeline. It’s gone in an instant but the image remains, a harbinger of the many precious moments that await guests at this 24-room hotel set on the edge of the remote Rilán Peninsula.
 
 Many visitors to Chile miss out on Chiloé Island completely, sailing past or flying over it on their way down to the jagged peaks and sprawling plains of Patagonia. But stop here and you’ll find a bucolic land of myth and mystery where people welcome sailors with warmth and wit, and encounters with nature – the world’s smallest deer, arrayán trees with trunks cold to the touch, black vultures circling languidly in cloudless skies – feel life-affirming.
 
