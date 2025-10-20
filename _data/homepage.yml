@@ -510,10 +510,10 @@ banner_section:
   logo_width: 300px
   date:
   location:
-    prefix: at
-    place: ANTIGUA + BARBUDA
-    suffix: with
-    partners: HERMITAGE BAY + NOBU BARBUDA
+    prefix:
+    place: HERMITAGE BAY + NOBU BARBUDA
+    suffix:
+    partners: 'ANTIGUA + BARBUDA  '
   button:
     text: Discover More
     link: /events
