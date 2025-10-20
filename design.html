@@ -5,6 +5,33 @@ categories:
   - design
 ---
 
+<style>
+  .swiper-custom-next {
+    display: block;
+    top: 30%;
+    right: 0%;
+    z-index: 999;
+  }
+
+  .swiper-custom-next svg {
+    display: block;
+  }
+  .swiper-custom-prev {
+    display: block;
+    position: absolute;
+    background: transparent;
+    border: none;
+    rotate: 180deg;
+    top: 30%;
+    z-index: 9999;
+    left: 0%;
+    right: unset;
+  }
+  .swiper-custom-prev svg {
+    display: block;
+  }
+</style>
+
 
 <section class="grid-center category-text-on-image">
   <div class="col-12_sm-12">
@@ -132,10 +159,31 @@ categories:
     </div>
 
 
-    <button class="swiper-custom-next">
-      <svg width="36" height="4" viewBox="0 0 36 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M35.1768 1.82322C35.2744 1.92085 35.2744 2.07915 35.1768 2.17678L33.5858 3.76777C33.4882 3.8654 33.3299 3.8654 33.2322 3.76777C33.1346 3.67014 33.1346 3.51184 33.2322 3.41421L34.6464 2L33.2322 0.585786C33.1346 0.488155 33.1346 0.329864 33.2322 0.232233C33.3299 0.134602 33.4882 0.134602 33.5858 0.232233L35.1768 1.82322ZM0 2L0 1.75L35 1.75V2V2.25L0 2.25L0 2Z" fill="black"></path>
+<button class="swiper-custom-prev">
+        <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <foreignObject x="-10" y="-10" width="90.7107" height="90.7107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);clip-path:url(#bgblur_0_124_665_clip_path);height:100%;width:100%"></div></foreignObject><g data-              figma-bg-blur-radius="10">
+         <rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)" fill="black" fill-opacity="0.3"/>
+         <rect x="0.707107" y="35.3553" width="49" height="49" rx="24.5" transform="rotate(-45 0.707107 35.3553)" stroke="black" stroke-opacity="0.3"/>
+         <path d="M45.7089 35.7089C45.9042 35.5136 45.9042 35.1971 45.7089 35.0018L42.5269 31.8198C42.3317 31.6246 42.0151 31.6246 41.8198 31.8198C41.6245 32.0151 41.6245 32.3317 41.8198 32.5269L44.6482 35.3553L41.8198 38.1838C41.6245 38.379                   41.6245 38.6956 41.8198 38.8909C42.0151 39.0861 42.3317 39.0861 42.5269 38.8909L45.7089 35.7089ZM25.3553 35.3553V35.8553H45.3553V35.3553V34.8553H25.3553V35.3553Z" fill="white"/>
+         </g>
+        <defs>
+         <clipPath id="bgblur_0_124_665_clip_path" transform="translate(10 10)"><rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)"/>
+          </clipPath>
+        </defs>
       </svg>
+    </button>
+      <button class="swiper-custom-next">
+      <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <foreignObject x="-10" y="-10" width="90.7107" height="90.7107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);clip-path:url(#bgblur_0_124_665_clip_path);height:100%;width:100%"></div></foreignObject><g data-              figma-bg-blur-radius="10">
+         <rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)" fill="black" fill-opacity="0.3"/>
+         <rect x="0.707107" y="35.3553" width="49" height="49" rx="24.5" transform="rotate(-45 0.707107 35.3553)" stroke="black" stroke-opacity="0.3"/>
+         <path d="M45.7089 35.7089C45.9042 35.5136 45.9042 35.1971 45.7089 35.0018L42.5269 31.8198C42.3317 31.6246 42.0151 31.6246 41.8198 31.8198C41.6245 32.0151 41.6245 32.3317 41.8198 32.5269L44.6482 35.3553L41.8198 38.1838C41.6245 38.379                  41.6245 38.6956 41.8198 38.8909C42.0151 39.0861 42.3317 39.0861 42.5269 38.8909L45.7089 35.7089ZM25.3553 35.3553V35.8553H45.3553V35.3553V34.8553H25.3553V35.3553Z" fill="white"/>
+       </g>
+     <defs>
+        <clipPath id="bgblur_0_124_665_clip_path" transform="translate(10 10)"><rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)"/>
+      </clipPath>
+     </defs>
+     </svg>
     </button>
   </div>
   <!-- <div class="centered mt-4">
@@ -250,15 +298,14 @@ categories:
 
 
 
- <script>
-
-
-document.addEventListener("DOMContentLoaded", function() {
+<script>
+ document.addEventListener("DOMContentLoaded", function() {
   new Swiper(".swiper", {
     spaceBetween: 50, // default
     slidesPerView: 2.5,
     navigation: {
       nextEl: ".swiper-custom-next", // custom button
+      prevEl: '.swiper-custom-prev',
     },
     breakpoints: {
       320: { 
@@ -267,7 +314,7 @@ document.addEventListener("DOMContentLoaded", function() {
       },
       768: { 
         slidesPerView: 2.2,
-        spaceBetween: 9
+        spaceBetween: 9 
       },
       1024: { 
         slidesPerView: 2.3,
