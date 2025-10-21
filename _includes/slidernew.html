@@ -42,7 +42,7 @@
       {% endif %}
     </div>
 
-    <div class="swiper visible">
+    <div class="swiper visible swiper-desktop">
       <div class="swiper-wrapper">
         {% for card in include.cards %}
         <div class="swiper-slide ">
@@ -105,7 +105,7 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll('.slider-section').forEach(section => {
-    const swiperEl = section.querySelector('.swiper');
+    const swiperEl = section.querySelector('.swiper-desktop');
     const prevArrow = section.querySelector('.swiper-custom-prev');
     const nextArrow = section.querySelector('.swiper-custom-next');
     
