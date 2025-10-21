@@ -108,7 +108,7 @@ cards:
   - image: /uploads/download-14.jpg
     alt: ''
     link: articles/project-o
-    tags: 
+    tags:
       - Travel
       - Number 11
     title: 'Hidden Gems: Project Ö, Skjulskäret'
@@ -159,7 +159,7 @@ cards2:
     alt: wider awake
     link: /articles/Wider-wake
     tags:
-      - ''
+      -
     title: Wider Wake
     description: >
       High speed multihulls have the ability to broaden your horizons in the
@@ -194,7 +194,8 @@ cards3:
     alt: ''
     link: /articles/Sailing-the-Northern-Dodecanese.html
     tags:
-      - ''
+      - Travel
+      - Number 10
     title: Sailing the Northern Dodecanese
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
