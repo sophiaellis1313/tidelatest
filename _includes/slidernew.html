@@ -126,43 +126,43 @@
         spaceBetween: 50 
       },
     },
-    on: {
-      init: function() {
-        updateArrowVisibility(this);
-      },
-      slideChange: function() {
-        updateArrowVisibility(this);
-      },
-      reachEnd: function() {
-        updateArrowVisibility(this);
-      },
-      fromEdge: function() {
-        updateArrowVisibility(this);
-      }
-    }
+    // on: {
+    //   init: function() {
+    //     updateArrowVisibility(this);
+    //   },
+    //   slideChange: function() {
+    //     updateArrowVisibility(this);
+    //   },
+    //   reachEnd: function() {
+    //     updateArrowVisibility(this);
+    //   },
+    //   fromEdge: function() {
+    //     updateArrowVisibility(this);
+    //   }
+    // }
   });
 
-  function updateArrowVisibility(swiperInstance) {
-    const prevArrow = document.querySelector('.swiper-custom-prev');
-    const nextArrow = document.querySelector('.swiper-custom-next');
+  // function updateArrowVisibility(swiperInstance) {
+  //   const prevArrow = document.querySelector('.swiper-custom-prev');
+  //   const nextArrow = document.querySelector('.swiper-custom-next');
     
-    // Remove active classes first
-    prevArrow.classList.remove('active');
-    nextArrow.classList.remove('active');
+  //   // Remove active classes first
+  //   prevArrow.classList.remove('active');
+  //   nextArrow.classList.remove('active');
     
-    // Apply visibility logic
-    if (swiperInstance.isBeginning) {
-      // Start - only show next arrow
-      nextArrow.classList.add('active');
-    } else if (swiperInstance.isEnd) {
-      // End - only show prev arrow
-      prevArrow.classList.add('active');
-    } else {
-      // Middle - show both arrows
-      prevArrow.classList.add('active');
-      nextArrow.classList.add('active');
-    }
-  }
+  //   // Apply visibility logic
+  //   if (swiperInstance.isBeginning) {
+  //     // Start - only show next arrow
+  //     nextArrow.classList.add('active');
+  //   } else if (swiperInstance.isEnd) {
+  //     // End - only show prev arrow
+  //     prevArrow.classList.add('active');
+  //   } else {
+  //     // Middle - show both arrows
+  //     prevArrow.classList.add('active');
+  //     nextArrow.classList.add('active');
+  //   }
+  // }
 });
 </script>
 
