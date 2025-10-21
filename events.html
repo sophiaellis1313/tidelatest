@@ -32,12 +32,23 @@ layout: default
     over-flow: auto;
   }
   .image-container {
-    heigh
+    height: 100%;
+    width: 100%;
+    positions: absolute;
+  }
+  image-container .image-block {
+    height: 100%;
+    width: 100%;
+    object-fit: unset;
   }
   @media (max-width: 992px) {
     .blog-details {
       max-height: unset;
    }
+   .event-popup .newsletter-section .content-block {
+    padding: 35px 10px 35px 30px;
+   }
+    
   }
  
 </style>
