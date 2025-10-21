@@ -4,6 +4,7 @@ title: "Blog"
 categories: ["travel"]
 type: "Feature"
 issue_no: "23"
+cards_title: Featured
 
 # Media
 video: false

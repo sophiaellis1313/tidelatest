@@ -5,37 +5,6 @@ categories:
   - lifestyle
 ---
 
-<style>
-  .swiper-custom-next {
-    display: block;
-    top: 30%;
-    right: 0%;
-    z-index: 999;
-  }
-
-  .swiper-custom-next svg {
-    display: block;
-  }
-  .swiper-custom-prev {
-    display: block;
-    position: absolute;
-    background: transparent;
-    border: none;
-    rotate: 180deg;
-    top: 30%;
-    z-index: 9999;
-    left: 0%;
-    right: unset;
-  }
-  .swiper-custom-prev svg {
-    display: block;
-  }
-  .padded0 container-padding-zero {
-  
-  
-  }
-</style>
-
 <section class="grid-center category-text-on-image">
   <div class="col-12_sm-12">
     {% assign targetCat = 'Lifestyle' %}
@@ -129,78 +98,8 @@ categories:
 
 
 
-<section class="slider-section featured-section mx-auto relative">
-  <div class="container">
-     <h3 class="uppercase text-center mb-3 font-bold  font-s overpass-font-family ">Featured</h3>
-    </div>
-  
-  <div class="container" >
-
-  <div class="swiper visible">
-
-
-     <div class="swiper-wrapper">
-      
-     {% for card in site.data.lifestyle.cards %}
-        <div class="swiper-slide ">
-          <div class="featured-card{% if forloop.first %} {% endif %}">
-            <img src="{{ card.image }}" alt="{{ card.alt }}" class="w-full h-auto mb-20 d-block" />
-
-            <div class="featured-detail pt-24 px-10">
-              <a href="{{ card.link }}">
-                <div class="d-flex gap-10 uppercase font-xs normal-letter-spacing mb-1 align-center overpass-font-family card-tags">
-                  {% for tag in card.tags %}
-                    <span>{{ tag }}</span>
-                    {% unless forloop.last %}<span class="divider"></span>{% endunless %}
-                  {% endfor %}
-                </div>
-
-                <h2 class="mob-padding title-block h2">{{ card.title }}</h2>
-                <p class="mob-padding long-text w-36">{{ card.description }}</p>
-              </a>
-            </div>
-          </div>
-        </div>
-        {% endfor %}
-      <!-- Add more swiper-slide blocks as needed -->
-
-    </div>
-
-
-   
-  </div>
-  <!-- <div class="centered mt-4">
-    <a href="#" class="btn-border  ">VIEW ALL TRAVEL STORIES</a>
-  </div> -->
-  </div>
-
-  <button class="swiper-custom-prev">
-        <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
-         <foreignObject x="-10" y="-10" width="90.7107" height="90.7107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);clip-path:url(#bgblur_0_124_665_clip_path);height:100%;width:100%"></div></foreignObject><g data-              figma-bg-blur-radius="10">
-         <rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)" fill="black" fill-opacity="0.3"/>
-         <rect x="0.707107" y="35.3553" width="49" height="49" rx="24.5" transform="rotate(-45 0.707107 35.3553)" stroke="black" stroke-opacity="0.3"/>
-         <path d="M45.7089 35.7089C45.9042 35.5136 45.9042 35.1971 45.7089 35.0018L42.5269 31.8198C42.3317 31.6246 42.0151 31.6246 41.8198 31.8198C41.6245 32.0151 41.6245 32.3317 41.8198 32.5269L44.6482 35.3553L41.8198 38.1838C41.6245 38.379                   41.6245 38.6956 41.8198 38.8909C42.0151 39.0861 42.3317 39.0861 42.5269 38.8909L45.7089 35.7089ZM25.3553 35.3553V35.8553H45.3553V35.3553V34.8553H25.3553V35.3553Z" fill="white"/>
-         </g>
-        <defs>
-         <clipPath id="bgblur_0_124_665_clip_path" transform="translate(10 10)"><rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)"/>
-          </clipPath>
-        </defs>
-      </svg>
-    </button>
-      <button class="swiper-custom-next">
-      <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <foreignObject x="-10" y="-10" width="90.7107" height="90.7107"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(5px);clip-path:url(#bgblur_0_124_665_clip_path);height:100%;width:100%"></div></foreignObject><g data-              figma-bg-blur-radius="10">
-         <rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)" fill="black" fill-opacity="0.3"/>
-         <rect x="0.707107" y="35.3553" width="49" height="49" rx="24.5" transform="rotate(-45 0.707107 35.3553)" stroke="black" stroke-opacity="0.3"/>
-         <path d="M45.7089 35.7089C45.9042 35.5136 45.9042 35.1971 45.7089 35.0018L42.5269 31.8198C42.3317 31.6246 42.0151 31.6246 41.8198 31.8198C41.6245 32.0151 41.6245 32.3317 41.8198 32.5269L44.6482 35.3553L41.8198 38.1838C41.6245 38.379                  41.6245 38.6956 41.8198 38.8909C42.0151 39.0861 42.3317 39.0861 42.5269 38.8909L45.7089 35.7089ZM25.3553 35.3553V35.8553H45.3553V35.3553V34.8553H25.3553V35.3553Z" fill="white"/>
-       </g>
-     <defs>
-        <clipPath id="bgblur_0_124_665_clip_path" transform="translate(10 10)"><rect y="35.3553" width="50" height="50" rx="25" transform="rotate(-45 0 35.3553)"/>
-      </clipPath>
-     </defs>
-     </svg>
-    </button>
-</section>
+{% assign maintitle1 = site.data.lifestyle.cards_title %}
+{% include slidernew.html cards=site.data.lifestyle.cards buttontext=buttontext1 maintitle=maintitle1}
 
 
 <section class="content_on_image position-relative w-full">
@@ -349,33 +248,4 @@ categories:
     <img src="{{ site.data.lifestyle.subscribe_section.right_image }}" alt="Tablet" class="media-image">
   </div>
 </section> -->
-
-
-
-<script>
- document.addEventListener("DOMContentLoaded", function() {
-  new Swiper(".swiper", {
-    spaceBetween: 50, // default
-    slidesPerView: 2.5,
-    navigation: {
-      nextEl: ".swiper-custom-next", // custom button
-      prevEl: '.swiper-custom-prev',
-    },
-    breakpoints: {
-      320: { 
-        slidesPerView: 1.2,
-        spaceBetween: 9   // applied for screen widths >=320px
-      },
-      768: { 
-        slidesPerView: 2.2,
-        spaceBetween: 9 
-      },
-      1024: { 
-        slidesPerView: 2.3,
-        spaceBetween: 50 
-      },
-    },
-  });
-});
-</script>
 
