@@ -15,10 +15,14 @@ layout: default
     top: -55px;
     right: 10px;
     color: #fff;
-    border: 1px solid #fff;
+    border: 1px solid #FFFFFF66;
     height: 40px;
     width: 40px;
     border-radius: 100px;
+  }
+  .image-block {
+    height: 690px;
+    background-position: center;
   }
   
 </style>
@@ -91,9 +95,10 @@ layout: default
      {% for card in site.data.event.cards %}
         <div class="swiper-slide selectedthiss">
           <div class="data-popup" style="display: none;">
-          <button class="popup-close" id="closePopup">&times;</button>
           
             <div class="event-popup newsletter-popup w-full grey-bg" id="eventPopup">
+              
+          <button class="popup-close" id="closePopup">&times;</button>
             <div class="newsletter-popup-content w-full grey-bg">
               
               <section class="newsletter-section w-full">
