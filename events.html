@@ -125,9 +125,11 @@ layout: default
                   
                   </div>  
 
-                  <div class="image-block">
+                  <!-- <div class="image-block" >
                     <img src="{{ card.image }}" alt="{{ card.alt }}" />
-                  </div>
+                  </div> -->
+
+                  <div class="image-block" style="background-image: url('{{ card.image }}');" role="img" aria-label="{{ card.alt }}"></div>
                 </div>
               </section>
             </div>
