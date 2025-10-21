@@ -72,7 +72,8 @@ categories:
   </div>
 </section>
 
-
+{% assign maintitle1 = site.data.environment.cards_title %}
+{% include slidernew.html cards=site.data.environment.cards buttontext=buttontext1 maintitle=maintitle1 show_arrows=true %}
 
 <!-- <section class="grid-center category-text-on-image">
   <div class="col-12_sm-12">
@@ -119,12 +120,11 @@ categories:
 
 
 
-  </div>
-</section>
+  <!-- </div> -->
+<!-- </section> -->
 
-
-
-<section class="slider-section featured-section mx-auto relative">
+<!-- Manual Section for Slider starts here  -->
+<!-- <section class="slider-section featured-section mx-auto relative">
   <div class=" container">
 
   <div class="swiper visible">
@@ -153,17 +153,29 @@ categories:
             </div>
           </div>
         </div>
-        {% endfor %}
+        {% endfor %} -->
       <!-- Add more swiper-slide blocks as needed -->
 
+
+
+
+<!-- 
     </div>
 
 
-  </div>
-  <!-- <div class="centered mt-4">
+  </div> -->
+
+
+
+
+<!-- <div class="centered mt-4">
     <a href="#" class="btn-border  ">VIEW ALL TRAVEL STORIES</a>
   </div> -->
-  </div>
+
+
+
+
+  <!-- </div>
   
     <button class="swiper-custom-prev">
         <svg width="71" height="71" viewBox="0 0 71 71" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -191,8 +203,9 @@ categories:
      </defs>
      </svg>
     </button>
-</section>
+</section> -->
 
+<!-- Manual Section for Slider ends here  -->
 
 <section class="content_on_image position-relative w-full">
   <img src="{{ site.data.environment.content_on_image.image }}"
