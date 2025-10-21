@@ -1,6 +1,6 @@
 <style>
-  .swiper-custom-next {
-    display: block;
+ .swiper-custom-next {
+    display: none; /* Start hidden */
     top: 30%;
     right: 0%;
     z-index: 999;
@@ -10,7 +10,7 @@
     display: block;
   }
   .swiper-custom-prev {
-    display: block;
+    display: none; /* Start hidden */
     position: absolute;
     background: transparent;
     border: none;
@@ -21,6 +21,12 @@
     right: unset;
   }
   .swiper-custom-prev svg {
+    display: block;
+  }
+
+  /* Active states for arrows */
+  .swiper-custom-next.active,
+  .swiper-custom-prev.active {
     display: block;
   }
 </style>
@@ -93,7 +99,7 @@
 </section>
 <script>
  document.addEventListener("DOMContentLoaded", function() {
-  new Swiper(".swiper", {
+  const swiper = new Swiper(".swiper", {
     spaceBetween: 50, // default
     slidesPerView: 2.5,
     navigation: {
@@ -114,7 +120,43 @@
         spaceBetween: 50 
       },
     },
+    on: {
+      init: function() {
+        updateArrowVisibility(this);
+      },
+      slideChange: function() {
+        updateArrowVisibility(this);
+      },
+      reachEnd: function() {
+        updateArrowVisibility(this);
+      },
+      fromEdge: function() {
+        updateArrowVisibility(this);
+      }
+    }
   });
+
+  function updateArrowVisibility(swiperInstance) {
+    const prevArrow = document.querySelector('.swiper-custom-prev');
+    const nextArrow = document.querySelector('.swiper-custom-next');
+    
+    // Remove active classes first
+    prevArrow.classList.remove('active');
+    nextArrow.classList.remove('active');
+    
+    // Apply visibility logic
+    if (swiperInstance.isBeginning) {
+      // Start - only show next arrow
+      nextArrow.classList.add('active');
+    } else if (swiperInstance.isEnd) {
+      // End - only show prev arrow
+      prevArrow.classList.add('active');
+    } else {
+      // Middle - show both arrows
+      prevArrow.classList.add('active');
+      nextArrow.classList.add('active');
+    }
+  }
 });
 </script>
 
