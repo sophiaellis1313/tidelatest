@@ -167,9 +167,7 @@ featured_section:
 
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions
-  description: >-
-    Stay in the loop with curated updates featuring new issues, exclusive
-    articles, and upcoming events.
+  description:
   button_primary:
     label: Subscribe Now
     link: https://www.mymagazinesub.co.uk/tide/
