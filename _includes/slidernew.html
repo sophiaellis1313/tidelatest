@@ -42,7 +42,7 @@
       {% endif %}
     </div>
 
-    <div class="swiper visible swiper-desktop">
+    <div class="swiper visible">
       <div class="swiper-wrapper">
         {% for card in include.cards %}
         <div class="swiper-slide ">
@@ -101,7 +101,7 @@
     </div>
   {% endunless %}
 </section>
-
+<!-- 
 <script>
  document.addEventListener("DOMContentLoaded", function() {
   new Swiper(".swiper", {
@@ -142,7 +142,7 @@
   });
 
   function updateArrowVisibility(swiperInstance) {
-    const prevArrow = document.querySelector('.swiper-custom-prev');
+    const prevArrow = swiperInstance.querySelector('.swiper-custom-prev');
     const nextArrow = document.querySelector('.swiper-custom-next');
     
     // Remove active classes first
@@ -163,5 +163,5 @@
     }
   }
 });
-</script>
+</script> -->
 
