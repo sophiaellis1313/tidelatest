@@ -98,65 +98,62 @@
   {% endunless %}
 </section>
 <script>
- document.addEventListener("DOMContentLoaded", function() {
-  const swiper = new Swiper(".swiper", {
-    spaceBetween: 50, // default
-    slidesPerView: 2.5,
-    navigation: {
-      nextEl: ".swiper-custom-next", // custom button
-      prevEl: '.swiper-custom-prev',
-    },
-    breakpoints: {
-      320: { 
-        slidesPerView: 1.2,
-        spaceBetween: 9   // applied for screen widths >=320px
-      },
-      768: { 
-        slidesPerView: 2.2,
-        spaceBetween: 9 
-      },
-      1024: { 
-        slidesPerView: 2.3,
-        spaceBetween: 50 
-      },
-    },
-    on: {
-      init: function() {
-        updateArrowVisibility(this);
-      },
-      slideChange: function() {
-        updateArrowVisibility(this);
-      },
-      reachEnd: function() {
-        updateArrowVisibility(this);
-      },
-      fromEdge: function() {
-        updateArrowVisibility(this);
+
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('.slider-section').forEach(section => {
+    const swiperEl = section.querySelector('.swiper');
+    const prevArrow = section.querySelector('.swiper-custom-prev');
+    const nextArrow = section.querySelector('.swiper-custom-next');
+    
+    if (swiperEl && prevArrow && nextArrow) {
+      const swiper = new Swiper(swiperEl, {
+        // ... your swiper config ...
+        spaceBetween: 50, // default
+        slidesPerView: 2.5,
+        navigation: {
+          nextEl: nextArrow,
+          prevEl: prevArrow,
+        },
+        breakpoints: {
+          320: { 
+            slidesPerView: 1.2,
+            spaceBetween: 9   // applied for screen widths >=320px
+            },
+          768: { 
+            slidesPerView: 2.2,
+            spaceBetween: 9 
+          },
+          1024: { 
+            slidesPerView: 2.3,
+            spaceBetween: 50 
+          },
+        },
+        on: {
+          init: function() {
+            updateArrowVisibility(this);
+          },
+          slideChange: function() {
+            updateArrowVisibility(this);
+          }
+        }
+      });
+      
+      function updateArrowVisibility() {
+        // Use the specific arrows for this section
+        if (swiper.isBeginning) {
+          nextArrow.classList.add('active');
+          prevArrow.classList.remove('active');
+        } else if (swiper.isEnd) {
+          prevArrow.classList.add('active');
+          nextArrow.classList.remove('active');
+        } else {
+          prevArrow.classList.add('active');
+          nextArrow.classList.add('active');
+        }
       }
     }
   });
-
-  function updateArrowVisibility(swiperInstance) {
-    const prevArrow = document.querySelector('.swiper-custom-prev');
-    const nextArrow = document.querySelector('.swiper-custom-next');
-    
-    // Remove active classes first
-    prevArrow.classList.remove('active');
-    nextArrow.classList.remove('active');
-    
-    // Apply visibility logic
-    if (swiperInstance.isBeginning) {
-      // Start - only show next arrow
-      nextArrow.classList.add('active');
-    } else if (swiperInstance.isEnd) {
-      // End - only show prev arrow
-      prevArrow.classList.add('active');
-    } else {
-      // Middle - show both arrows
-      prevArrow.classList.add('active');
-      nextArrow.classList.add('active');
-    }
-  }
 });
+
 </script>
 
