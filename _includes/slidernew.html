@@ -95,17 +95,16 @@
      </svg>
     </button>
     </div>
-  <!-- {% unless include.show_arrows %}
+  {% unless include.show_arrows %}
     <div class="centered mt-3 mb:mt-4">
       <a href="{{ include.buttonlink }}" class="btn-border">{{ include.buttontext }}</a>
     </div>
-  {% endunless %} -->
+  {% endunless %}
 </section>
 
 <script>
  document.addEventListener("DOMContentLoaded", function() {
   new Swiper(".swiper", {
-  const swiper = new Swiper(".swiper", {
     spaceBetween: 50, // default
     slidesPerView: 2.5,
     navigation: {
