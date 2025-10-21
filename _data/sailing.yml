@@ -1,7 +1,7 @@
 posts:
   - category: sailing
     video: false
-    video_path: /uploads/audihirw2017-francolini-1753.jpg
+    video_path: /uploads/drumfire-1-min.png
     featured_image:
       image: /uploads/silken-2024-03-07-0953-min.jpg
       position: center
@@ -376,7 +376,7 @@ featured_section:
         - Number 03
       title: ' A Touch of Nordic Cool - Sørvind '
       description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
-    - image: /uploads/deiz3z3k.jpg
+    - image: /uploads/tide-magazine-sailing-schooner-adix-pendennis01-1.jpg
       alt: ' A Global Range: The Schooner '
       link: /articles/schooner
       tags:
