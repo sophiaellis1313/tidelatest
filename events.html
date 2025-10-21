@@ -34,7 +34,9 @@ layout: default
   .image-container {
     height: 100%;
     width: 100%;
-    positions: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   image-container .image-block {
     height: 100%;
@@ -166,8 +168,8 @@ layout: default
                   </div> -->
 
                   <div class="image-block relative">
-                    <div class="image-container">
-                      <img class="image-block" src="{{ card.image }}" alt="{{ card.alt }}" />
+                    <div class="image-container" style="background-image: url('{{ card.image }}');" role="img" aria-label="{{ card.alt }}">
+                      <!-- <img class="image-block" src="{{ card.image }}" alt="{{ card.alt }}" /> -->
                     </div>
                     
                   </div>
