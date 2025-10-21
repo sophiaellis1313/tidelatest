@@ -12,6 +12,13 @@ layout: default
   }
   .popup-close {
     opacity : 1;
+    top: -55px;
+    right: 10px;
+    color: #fff;
+    border: 1px solid #fff;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
   }
   
 </style>
@@ -84,6 +91,7 @@ layout: default
      {% for card in site.data.event.cards %}
         <div class="swiper-slide selectedthiss">
           <div class="data-popup" style="display: none;">
+          <button class="popup-close" id="closePopup">&times;</button>
           
             <div class="event-popup newsletter-popup w-full grey-bg" id="eventPopup">
             <div class="newsletter-popup-content w-full grey-bg">
@@ -125,7 +133,6 @@ layout: default
             </div>
           </div>
 
-          <button class="popup-close" id="closePopup">&times;</button>
 
           </div>
           <div class="featured-card{% if forloop.first %} {% endif %} not-trigger">
