@@ -82,6 +82,30 @@
   <!-- our own custom stylesheet -->
   <link rel="stylesheet" href="/style.css"/>
 
+  <style> 
+    .smaller-screen-footer-buttons {
+      display: none;
+    }
+    .social-buttons-mobile {
+      display: none;
+    }
+    @media screen and (max-width: 768px){
+      .larger-screen-footer-buttons {
+          display: none;
+       }
+       .smaller-screen-footer-buttons {
+          display: block;
+        }
+      .social-buttons-mobile {
+         display: block;
+       }
+      .social-buttons-desktop {
+         display: none; 
+       }
+    }
+      
+    </style>
+
 </head>
 <body class="{{page.colour-bg}} {% if page.name == 'about.html' %}aboutus{% endif %}">
 <div class="overlay-work"></div>
@@ -316,15 +340,27 @@
 <div class="container footer-logo w-full justify-between d-flex centered align-center container-full">
   <img src="{{ site.data.footer.footer_logo.image }}" style="height: {{ site.data.footer.footer_logo.height }}" />
   <!-- <a class="btn subscribe-btn" href="{{ site.data.footer.footer_logo.subscribe_link }}"> {{ site.data.footer.footer_logo.subscribe_text }} </a> -->
-  <div class="mx-1" >
+  <div class="mx-1 larger-screen-footer-buttons" >
     <a href="{{ site.data.footer.footer_logo.join_now_link | default:'/'}}" class="btn subscribe-btn"> {{ site.data.footer.footer_logo.join_now_text }} </a>
     <a href="{{ site.data.footer.footer_logo.subscribe_link | default:'/'}}" class="btn btn-border "> {{ site.data.footer.footer_logo.subscribe_text }} </a>
+  </div>
+  <div class="col-4_sm-12 right footer-column-2 social-buttons-mobile">
+    <div class="mob-center px-4 social-links">
+      {% for social in site.data.footer.social_links %}
+      <a class="black block social-link" href="{{ social.url }}" target="_blank">
+        <i class="{{ social.icon_class }}"></i>
+      </a>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
 <div class="container w-full d-flex footer-main">
 
-
+<div class="mx-1 smaller-screen-footer-buttons" >
+    <a href="{{ site.data.footer.footer_logo.join_now_link | default:'/'}}" class="btn subscribe-btn"> {{ site.data.footer.footer_logo.join_now_text }} </a>
+    <a href="{{ site.data.footer.footer_logo.subscribe_link | default:'/'}}" class="btn btn-border "> {{ site.data.footer.footer_logo.subscribe_text }} </a>
+  </div>
     {% for column in site.data.footer.footer_columns %}
   <div class="col-2_sm-12 left footer-column">
     <nav class="block">
@@ -338,7 +374,7 @@
 
 
   
-   <div class="col-4_sm-12 right footer-column-2">
+   <div class="col-4_sm-12 right footer-column-2 social-buttons-desktop">
     <div class="mob-center px-4 social-links">
       {% for social in site.data.footer.social_links %}
       <a class="black block social-link" href="{{ social.url }}" target="_blank">
