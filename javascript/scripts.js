@@ -4,7 +4,7 @@ $(document).ready(function(){
 document.addEventListener("DOMContentLoaded", function() {
   // Initialize all swipers on the page
   document.querySelectorAll('.slider-section').forEach(section => {
-    const swiperEl = section.querySelector('.swiper-desktop');
+    const swiperEl = section.querySelector('.swiper');
     const prevArrow = section.querySelector('.swiper-custom-prev');
     const nextArrow = section.querySelector('.swiper-custom-next');
     if (swiperEl && prevArrow && nextArrow) {
