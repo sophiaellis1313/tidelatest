@@ -85,10 +85,11 @@
      </svg>
     </button>
     </div>
-
-  <div class="centered mt-3 mb:mt-4">
-    <a href="{{ include.buttonlink }}" class="btn-border">{{ include.buttontext }}</a>
-  </div>
+  {% unless include.show_arrows %}
+    <div class="centered mt-3 mb:mt-4">
+      <a href="{{ include.buttonlink }}" class="btn-border">{{ include.buttontext }}</a>
+    </div>
+  {% endunless %}
 </section>
 <script>
  document.addEventListener("DOMContentLoaded", function() {
