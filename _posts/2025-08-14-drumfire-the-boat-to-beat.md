@@ -6,7 +6,7 @@ type: sailing
 byline: 'Author: Sam Fortescue'
 issue_no: number 13
 featured_image:
-  image: /uploads/audihirw2017-francolini-1753.jpg
+  image: /uploads/drumfire-1-min.png
   position: img-center
 video: false
 video_path:
