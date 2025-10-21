@@ -75,7 +75,7 @@ cards:
     link: articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos
     tags:
       - Travel
-      - number 13
+      - Number 13
     title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
     description: >+
       Chef Periklis Koskinas explains what lies at the core of his purely
@@ -98,7 +98,7 @@ cards:
     link: articles/Sailing-the-Northern-Dodecanese.html
     tags:
       - travel
-      - number 13
+      - Number 13
     title: Sailing the Northern Dodecanese
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
@@ -108,7 +108,9 @@ cards:
   - image: /uploads/download-14.jpg
     alt: ''
     link: articles/project-o
-    tags: []
+    tags: 
+      - Travel
+      - Number 11
     title: 'Hidden Gems: Project Ö, Skjulskäret'
     description: >-
       Those few days alone on tiny Skjulskäret, a measle of granite and gneiss
