@@ -101,6 +101,79 @@
     </div>
   {% endunless %}
 </section>
+
+
+
+<script>
+
+  document.addEventListener("DOMContentLoaded", function() {
+  // Initialize all swipers on the page
+  document.querySelectorAll('.slider-section').forEach(section => {
+    const swiperEl = section.querySelector('.swiper');
+    const prevArrow = section.querySelector('.swiper-custom-prev');
+    const nextArrow = section.querySelector('.swiper-custom-next');
+    if (swiperEl && prevArrow && nextArrow) {
+      new Swiper(swiperEl, {
+        spaceBetween: 50,
+        slidesPerView: 2.5,
+        navigation: {
+          nextEl: nextArrow,
+          prevEl: prevArrow,
+        },
+        breakpoints: {
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 9
+          },
+          768: {
+            slidesPerView: 2.2,
+            spaceBetween: 9
+          },
+          1024: {
+            slidesPerView: 2.3,
+            spaceBetween: 50
+          },
+        },
+        on: {
+          init: function() {
+            updateArrowVisibility(this);
+          },
+          slideChange: function() {
+            updateArrowVisibility(this);
+          },
+          resize: function() {
+            updateArrowVisibility(this);
+          }
+        }
+      });
+      
+      function updateArrowVisibility(swiperInstance) {
+        // Show arrows only when there are multiple slides
+        const totalSlides = swiperInstance.slides.length;
+        const slidesPerView = swiperInstance.params.slidesPerView;
+        if (totalSlides <= slidesPerView) {
+          // Hide both arrows if not enough slides
+          prevArrow.style.display = 'none';
+          nextArrow.style.display = 'none';
+        } else {
+          // Show/hide based on position
+          if (swiperInstance.isBeginning) {
+            prevArrow.classList.remove('active');
+            nextArrow.classList.add('active');
+          } else if (swiperInstance.isEnd) {
+            nextArrow.classList.remove('active');
+            prevArrow.classList.add('active');
+          } else {
+            prevArrow.classList.add('active');
+            nextArrow.classList.add('active');
+          }
+        }
+      }
+    }
+  });
+});
+  
+</script>
 <!-- 
 <script>
  document.addEventListener("DOMContentLoaded", function() {
