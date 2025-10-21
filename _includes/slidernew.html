@@ -101,8 +101,8 @@
     </div>
   {% endunless %}
 </section>
-<script>
 
+<script>
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll('.slider-section').forEach(section => {
     const swiperEl = section.querySelector('.swiper');
@@ -134,10 +134,10 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         on: {
           init: function() {
-            updateArrowVisibility(this);
+            updateArrowVisibility();
           },
           slideChange: function() {
-            updateArrowVisibility(this);
+            updateArrowVisibility();
           }
         }
       });
