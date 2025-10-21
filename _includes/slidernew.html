@@ -132,13 +132,18 @@ document.addEventListener("DOMContentLoaded", function() {
             spaceBetween: 50 
           },
         },
-        on: {
-          init: function() {
-            updateArrowVisibility();
-          },
-          slideChange: function() {
-            updateArrowVisibility();
-          }
+       on: {
+        init: function() {
+          updateArrowVisibility(this);
+        },
+        slideChange: function() {
+          updateArrowVisibility(this);
+        },
+        reachEnd: function() {
+          updateArrowVisibility(this);
+        },
+        fromEdge: function() {
+          updateArrowVisibility(this);
         }
       });
       
