@@ -6,7 +6,7 @@ type: Travel
 byline: 'WORDS: RICK JORDAN |  IMAGES: FRITS MEYST'
 issue_no: number 10
 featured_image:
-  image: /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-elba-1.jpg
+  image: /uploads/hidden-gems-elba.png
   position: img-center
 video: false
 video_path: ''

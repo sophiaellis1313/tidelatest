@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: ERIC TROELS WIBERG | IMAGES: OLI RILEY AND GREG LYON'
 issue_no: number 07
 featured_image:
-  image: >-
-    /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-itinerary2.jpg
+  image: /uploads/bermuda.png
   position: img-center
 video: false
 video_path: ''

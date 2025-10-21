@@ -6,7 +6,7 @@ type: Design
 byline: 'WORDS: LAURA D. REDMAN | IMAGES: ESTUDIO RAMOS'
 issue_no: number 12
 featured_image:
-  image: /uploads/modernism-desktop.png
+  image: /uploads/modernism.png
   position: img-center
 video: false
 video_path: ''

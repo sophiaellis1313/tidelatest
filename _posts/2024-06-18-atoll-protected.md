@@ -6,8 +6,7 @@ type: Environment
 byline: 'WORDS: CHRISSIE MCCLATCHIE  | ILLUSTRATOR: JOSE WALKER'
 issue_no: number 08
 featured_image:
-  image: >-
-    /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-environment-1.jpg
+  image: /uploads/atoll-protected.png
   position: img-center
 video: false
 video_path: ''

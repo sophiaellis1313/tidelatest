@@ -6,7 +6,7 @@ type: Sailing
 byline: 'WORDS: Jack Gifford | IMAGES: Stella Gommans'
 issue_no: number 02
 featured_image:
-  image: /uploads/tide-magazine-sailing-perseverance-3.jpg
+  image: /uploads/perseverance.png
   position: img-left
 video: false
 video_path:

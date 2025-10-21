@@ -6,7 +6,7 @@ type: travel
 byline: 'Author: Rick Jordan '
 issue_no: number 14
 featured_image:
-  image: /uploads/astarea-54-min.jpg
+  image: /uploads/hidden-gems-rovini.png
   position: img-center
 video: false
 video_path:

@@ -6,7 +6,7 @@ type: Sailing
 byline: 'WORDS: SAMUEL JEFFERSON |  IMAGES: OLI RILEY'
 issue_no: number 06
 featured_image:
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
+  image: /uploads/the-seas-less-sailed.png
   position: img-center
 video: false
 video_path: ''

@@ -6,7 +6,7 @@ type: environmental
 byline: 'Author: Danielle Schofield · Illustrations: Jose Walker '
 issue_no: number 14
 featured_image:
-  image: /uploads/scuba-6.jpg
+  image: /uploads/restoring-the-med-1.png
   position: img-center
 video: false
 video_path:

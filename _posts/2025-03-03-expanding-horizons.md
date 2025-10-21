@@ -6,8 +6,7 @@ type: Design
 byline: 'WORDS: MIRIAM CAIN |  IMAGES: LORENZO PENNATI'
 issue_no: number 11
 featured_image:
-  image: >-
-    /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-design-1.jpg
+  image: /uploads/expanding-horizons.png
   position: img-center
 video: false
 video_path: ''

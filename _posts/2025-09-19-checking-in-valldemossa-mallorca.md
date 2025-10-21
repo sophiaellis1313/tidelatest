@@ -14,6 +14,7 @@ short-description: >-
   Secreted away at the heart of an UNESCO site, this exclusive, restorative
   adult-only hotel offers simplicity and sophistication in equal measure.
 categories:
+  - travel
 images:
   - image: /uploads/tide-magazine-environment-seachair-4.jpg
     width: col-12

@@ -6,7 +6,7 @@ type: Sailing
 byline: 'WORDS: SAM FORTESCUE | IMAGES: RICK TOMLINSON AND CORY SILKEN'
 issue_no: number 04
 featured_image:
-  image: /uploads/TIDE-Magazine-issue04-two-ketches-2.jpg
+  image: /uploads/tale-of-two-ketches.png
   position: img-center
 video: false
 video_path: ''

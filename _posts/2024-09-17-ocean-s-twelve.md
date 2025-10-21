@@ -6,8 +6,7 @@ type: Sailing
 byline: 'WORDS: SAMUEL JEFFERSON | IMAGES: JÖRAN BUBKE & CORY SILKEN'
 issue_no: number 09
 featured_image:
-  image: >-
-    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-oceans-twelve-1.jpg
+  image: /uploads/oceans-twelve.png
   position: img-left-center
 video: false
 video_path: ''

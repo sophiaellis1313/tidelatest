@@ -6,8 +6,7 @@ type: Sailing
 byline: 'WORDS: SAMUEL JEFFERSON | IMAGES: CHRIS HUGHES + CORY SILKEN'
 issue_no: number 10
 featured_image:
-  image: >-
-    /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-kokomo-4.jpg
+  image: /uploads/kokomo-1.png
   position: img-center
 video: false
 video_path: ''

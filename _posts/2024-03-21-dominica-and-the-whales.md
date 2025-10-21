@@ -6,8 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATIONS: MOLLY WILSON'
 issue_no: number 07
 featured_image:
-  image: >-
-    /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-environment3.jpg
+  image: /uploads/dominica.png
   position: img-center
 video: false
 video_path: ''

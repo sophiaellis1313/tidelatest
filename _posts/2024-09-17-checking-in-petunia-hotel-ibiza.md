@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: BENOIT LINERO, ANA LUI'
 issue_no: number 09
 featured_image:
-  image: >-
-    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-hotel-petunia-1.jpg
+  image: /uploads/hotel-petunia-ibiza.png
   position: img-center
 video: false
 video_path: ''

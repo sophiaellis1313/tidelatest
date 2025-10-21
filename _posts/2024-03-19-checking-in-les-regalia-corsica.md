@@ -6,7 +6,7 @@ type: Travel
 byline: 'WORDS: CHLOÉ BRAITHWAITE  |  IMAGES: LOUISE LON'
 issue_no: number 06
 featured_image:
-  image: /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-hotel1.jpg
+  image: /uploads/les-regalia.png
   position: img-center
 video: false
 video_path: ''

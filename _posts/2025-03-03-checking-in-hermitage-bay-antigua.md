@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: ANTONIA WINDSOR | IMAGES: ALEXIS ANDREWS & KIRA TURNBALL '
 issue_no: number 11
 featured_image:
-  image: >-
-    /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-hermitage-2.jpg
+  image: /uploads/hermitage-bay.png
   position: img-center
 video: false
 video_path: ''

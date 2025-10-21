@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: PHOEBE HUNT   |  IMAGES: LOUISE LONG'
 issue_no: number 06
 featured_image:
-  image: >-
-    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-hidden-gems2.
+  image: /uploads/corsica.png
   position: img-center
 video: false
 video_path: ''

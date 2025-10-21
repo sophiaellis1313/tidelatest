@@ -6,7 +6,7 @@ type: Lifestyle
 byline: 'WORDS: CHLOÉ BRAITHWAITE | IMAGES: KATE DEVINE'
 issue_no: number 10
 featured_image:
-  image: /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
+  image: /uploads/taste-of-tuscany.png
   position: img-center
 video: false
 video_path: ''

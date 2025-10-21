@@ -6,7 +6,7 @@ type: Travel
 byline: 'WORDS: PHOEBE HUNT |  IMAGES: NATALIE OBRADOVICH'
 issue_no: number 04
 featured_image:
-  image: /uploads/TIDE-Magazine-issue04-hidden-gems-3.jpg
+  image: /uploads/croatia-hidden.png
   position: img-center
 video: false
 video_path: ''

@@ -6,8 +6,7 @@ type: Travel
 byline: 'WORDS: GEMMA HARRIS  |  IMAGES: OLI RILEY'
 issue_no: number 06
 featured_image:
-  image: >-
-    /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-itinerary2.jpg
+  image: /uploads/west-coast-wilderness.png
   position: img-center
 video: false
 video_path: ''

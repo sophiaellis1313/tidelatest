@@ -6,8 +6,7 @@ type: Lifestyle
 byline: 'WORDS:  PIA MANOURY  |  IMAGES: NOBU BARBUDA'
 issue_no: number 07
 featured_image:
-  image: >-
-    /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-flying-lunch2.jpg
+  image: /uploads/a-flying-lunch.png
   position: img-center
 video: false
 video_path: ''

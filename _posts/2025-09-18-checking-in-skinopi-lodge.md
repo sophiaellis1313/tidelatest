@@ -6,7 +6,7 @@ type: travel
 byline: 'Words: Rachel Howard | Images: Lucy Laucht'
 issue_no: number 13
 featured_image:
-  image: /uploads/image00014.jpeg
+  image: /uploads/skinopi-lodge.png
   position: img-center
 video: false
 video_path:
