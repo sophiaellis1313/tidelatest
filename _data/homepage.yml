@@ -477,9 +477,7 @@ subscribe:
       position: right
 image_with_text1:
   title: Subscribe to our latest issue, browse and purchase back issues.
-  description: >-
-    Stay in the loop with curated emails featuring new issues, articles, and
-    upcoming events.
+  description:
   button_primary:
     label: Subscribe Now
     link: https://www.mymagazinesub.co.uk/tide/
