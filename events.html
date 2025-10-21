@@ -8,12 +8,20 @@ layout: default
       backdrop-filter: blur(3px);
   } 
   .description2 {
-      padding-top: 27px;
+      padding-top: 22px;
   }
   
   .image-block {
     height: 690px;
     background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 0px 8px 0px 0px;
+  }
+  .event-popup .newsletter-section .content-block {
+    padding: 35px 10px 35px 70px;
+  }
+  .date_time {
+    margin-block: 15px;
   }
 </style>
 
@@ -88,7 +96,7 @@ layout: default
           
             <div class="event-popup newsletter-popup w-full grey-bg" id="eventPopup">
                <button class="popup-close" onclick="handleModalClose()" id="closePopup" style="opacity: 1; display: block; z-index: 10;">
-                <img src="/images/cancel-image.png" alt="close-iocn" style="width: 50px; height: 50px;">
+                <img src="/images/cross-icon-white.png" alt="close-iocn" style="width: 50px; height: 50px;">
               </button>
          
             <div class="newsletter-popup-content w-full grey-bg">
