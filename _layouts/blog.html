@@ -90,12 +90,13 @@ hide-nav: hide-nav
   <div class="border-btm"></div>
 </section>
 
-{% assign maintitle1 = site.data.blog.cards_title %}
-{% if site.data.blog.cards and site.data.blog.cards.size > 0 %}
+{% assign maintitle1 = site.data.articlecard.mainheading %}
+{% if site.data.articlecard.cards and site.data.articlecard.cards.size > 0 %}
   {% include slidernew.html 
-     cards=site.data.blog.cards 
+     cards=site.data.articlecard.cards 
      buttontext=buttontext1 
      maintitle=maintitle1 
+     show_arrows=true
   %}
 {% endif %}
 
