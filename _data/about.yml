@@ -249,6 +249,8 @@ image_with_text3:
     label: CONTACT OUR MEDIA TEAM
     link: /articles/Hidden-Gems-Greek-Islands.html
   image: /uploads/A-good-weekend-image.png
+  background_class: grey-bg
+  
 
 
   

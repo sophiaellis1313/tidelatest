@@ -2,7 +2,22 @@
 layout: default
 ---
 
-<div class="container-full">
+<style>
+  .custom-digital-print-section .newsletter-section .image-block {
+      margin-right: 0px;
+  }
+  .custom-digital-print-section .image-with-text-section p {
+    max-width: 100%;
+    padding-right: 46px;
+  }
+  .custom-affluent-travelled .image-with-text-section p {
+    max-width: 100%;
+    padding-right: 46px;
+  }
+  
+</style>
+
+<div class="">
     <div class="relative banner-img">
         <div class="grid">
             <div class="col-12_sm-12 relative">
@@ -38,13 +53,13 @@ layout: default
 
 
 <section class="relative no-margin sticky-section">
-  <div class="navigation-bar flex-display w-full sticky--bar">
+  <!-- <div class="navigation-bar flex-display w-full sticky--bar">
   {% for item in site.data.about.navigation %}
     <a href="{{ item.href }}" class="{{ item.class }} {% if forloop.index == 1 %}active{% endif %} filter-grid-button uppercase">
       {{ item.label }}
     </a>
   {% endfor %}
-</div>
+ </div> -->
 
 <div class="tab-section container">
   <div class="target__links" id="about_about"></div>
@@ -133,11 +148,13 @@ layout: default
   </div>
 </section> -->
 
-  {% include image-with-content.html content_on_image=site.data.about.image_with_text2 %}
+  <div class="custom-affluent-travelled">
+       {% include image-with-content.html content_on_image=site.data.about.image_with_text2 %}
+  </div>
 
-
-  {% include image-with-content.html content_on_image=site.data.about.image_with_text3 %}
-  
+  <div class="custom-digital-print-section">
+    {% include image-with-content.html content_on_image=site.data.about.image_with_text3 %}
+  </div>
 
 
    <!-- <div class="d-flex gap-70 mb:gap-100 main-block align-center">
