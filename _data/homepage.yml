@@ -413,7 +413,7 @@ content_on_image:
     link: https://peachy-lion.cloudvent.net/articles/Drumfire-the-boat-to-beat
     style: white-btn
 content_on_image2:
-  mobile_direction: top
+  mobile_direction: bottom
   desktop_direction: start
   image:
     src: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
