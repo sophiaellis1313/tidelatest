@@ -1,9 +1,9 @@
 posts:
   - category: sailing
-    video: false
+    video: true
     video_path: /uploads/drumfire-1-min.png
     featured_image:
-      image: /uploads/silken-2024-03-07-0953-min.jpg
+      image: /uploads/drumfire-1-min.png
       position: center
     title: 'Drumfire: the Boat to Beat '
     short_description: >
