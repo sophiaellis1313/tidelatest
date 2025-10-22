@@ -34,7 +34,7 @@ categories:
                   <span>{{ post.issue_no }}</span>
                 </div>
                 <h2 class="mob-padding mt-1 mb-1 text-white h2">{{ post.title }}</h2>
-                <p class="mob-padding long-text mt-1 no-margin text-white mb-0">{{ post.short_description }}</p>
+                <p class="mob-padding long-text mt-1 no-margin text-white mb-0" id="environment-hero-description">{{ post.short_description }}</p>
               </div>
               <span class="btn white-btn mt-1">{{ post.buttontitle }}</span>
             </a>
@@ -46,7 +46,7 @@ categories:
 </section>
 
 {% assign maintitle1 = site.data.environment.cards_title %}
-{% include slidernew.html cards=site.data.environment.cards buttontext=buttontext1 maintitle=maintitle1 %}
+{% include slidernew.html cards=site.data.environment.cards buttontext=buttontext1 maintitle=maintitle1 show_arrows=true %}
 
 <!-- <section class="grid-center category-text-on-image">
   <div class="col-12_sm-12">
@@ -243,3 +243,20 @@ categories:
   </div>
 </section> -->
 
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.innerWidth <= 768) {
+      const descriptions = document.querySelectorAll("#environment-hero-description"); // change selector as needed
+      descriptions.forEach((el) => {
+        const fullText = el.textContent.trim();
+        if (fullText.length > 100) {
+          const trimmed = fullText.substring(0, 100);
+          const lastSpace = trimmed.lastIndexOf(" ");
+          const cleanText = trimmed.substring(0, lastSpace) + "...";
+          el.textContent = cleanText;
+        }
+      });
+    }
+  });
+</script>

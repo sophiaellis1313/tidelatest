@@ -1066,6 +1066,17 @@ p.blog-content ol {
   margin-left: 1rem;
 }
 
+.blog-content ul {
+  max-width: 631px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+}
+
+.blog-content ul li {
+  padding-left: 0;
+}
+
 .blog-content li:last-child {
   margin-bottom: 1.2rem;
 }
@@ -3242,7 +3253,7 @@ body.active-header .overlay-work {
 .category-btn {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 .category-btn img {
   width: 50px;
@@ -3273,11 +3284,12 @@ body.active-header .overlay-work {
 .newsletter-section .categories {
   display: flex;
   flex-wrap: wrap;
-  gap: 21px 24px;
+  gap: 25px 25px;
   margin: 20px 0;
 }
 .newsletter-section h2 {
-  font-size: 38px;
+  font-size: 36px;
+  line-height: 35px;
 }
 .event-popup .newsletter-section h2{
   font-size: 28px;
@@ -3290,7 +3302,8 @@ body.active-header .overlay-work {
   border: none;
   background: #fff;
   border-radius: 25px;
-  padding-right: 10px;
+  padding-right: 25px;
+  border: 1px solid transparent;
   /* padding: 10px 20px; */
   font-size: 18px;
   cursor: pointer;
@@ -3303,7 +3316,7 @@ body.active-header .overlay-work {
 .category-btn.active {
   background: #5d6d7e;
   color: #fff;
-  padding-right: 20px;
+  border: 1px solid #001C38;
 }
 
 /* Form */
@@ -3632,7 +3645,7 @@ header.scrolled .block-header-menu {
   .columns-section .grid-wrapper {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 20px;
+    gap: 50px;
   }
   /* .content-on-hover .main-wrapper{
     margin-left: 0;
@@ -3646,7 +3659,6 @@ header.scrolled .block-header-menu {
   .banner-img .content-on-hover {
     padding-inline: 20px;
     flex-direction: column;
-    align-items: baseline;
   }
   .logo-block {
     flex: 1;
@@ -3739,7 +3751,7 @@ header.scrolled .block-header-menu {
     width: 94%;
 }
   .newsletter-section .categories {
-    margin: 20px 0 100px;
+    margin: 57px 0 43px;
   }
   .tab-nav .tab-content-area {
     display: block;

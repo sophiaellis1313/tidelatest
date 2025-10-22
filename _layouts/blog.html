@@ -91,7 +91,14 @@ hide-nav: hide-nav
 </section>
 
 {% assign maintitle1 = site.data.blog.cards_title %}
-{% include slidernew.html cards=site.data.blog.cards buttontext=buttontext1 maintitle=maintitle1 %}
+{% if site.data.blog.cards and site.data.blog.cards.size > 0 %}
+  {% include slidernew.html 
+     cards=site.data.blog.cards 
+     buttontext=buttontext1 
+     maintitle=maintitle1 
+  %}
+{% endif %}
+
 
   {% include image-with-content.html content_on_image=site.data.blog.image_with_text1 %}
 
