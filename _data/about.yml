@@ -229,13 +229,11 @@ legal_tabs:
     content: |
       This is the return policy content. You can update it with real text.
 image_with_text2:
-  title: Join the community and discover exclusive content.
+  title: An affluent, well-travelled and adventure-seeking readership
   description: >-
-    Get access to bonus interviews, downloadable archives, and special
-    newsletters.
-  button_primary:
-    label: Join Now
-    link: '#join'
-  image: /uploads/tideexample.png
+    TIDE is accessible to a wide demographic, including: high net-worth first-time and long-term yacht owners, professional sailors, captains,  crew and to a broader, general public – all who share a common love and passion of the ocean, an            adventurous spirit, and an appreciation of sustainability, to protect this environment.  
+   description: >-
+    We provide high-net-worth readers with a medium that captures the excitement of the sailing lifestyles of the yachting community, while retaining a strong emphasis on travel, design, environment and sustainability.
+  image: /uploads/tide-14-multicovers-2.jpg
   background_class: grey-bg
   paddingclass: padding0tott
