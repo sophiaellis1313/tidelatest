@@ -228,3 +228,14 @@ legal_tabs:
   - title: Return Policy
     content: |
       This is the return policy content. You can update it with real text.
+image_with_text2:
+  title: Join the community and discover exclusive content.
+  description: >-
+    Get access to bonus interviews, downloadable archives, and special
+    newsletters.
+  button_primary:
+    label: Join Now
+    link: '#join'
+  image: /uploads/tideexample.png
+  background_class: grey-bg
+  paddingclass: padding0tott
