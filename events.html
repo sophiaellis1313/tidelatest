@@ -12,16 +12,25 @@ layout: default
   }
   
   .image-block {
-    height: 695px;
+    height: 650px;
     background-position: center;
     border-radius: 0px 8px 0px 0px;
     background-repeat: no-repeat;
   }
   .event-popup .newsletter-section .content-block {
-    padding: 35px 10px 35px 70px;
+    padding: 25px 10px 25px 70px;
+  }
+  .event-popup .content-container {
+     margin-top: 17px; 
   }
   .date_time {
-    margin-block: 15px;
+    margin-block: 13px;
+  }
+  .description2 {
+     padding-top: 22px; 
+  }
+  .content-container .mt-big {
+    margin-top: 2rem;
   }
   .popup-close {
      top: -52px;
@@ -55,7 +64,7 @@ layout: default
       over-flow: auto;
    }
    .event-popup .newsletter-section .content-block {
-    padding: 35px 10px 35px 30px;
+    padding: 25px 10px 25px 30px;
    }
     
   }
@@ -65,9 +74,12 @@ layout: default
    } 
   }
 
+
   @media screen and (max-width: 400px), screen and (max-height: 800px) {
-         max-height: 174px;
-       }
+  .blog-details {
+    max-height: 174px;
+  }
+}
   
  
 </style>
@@ -250,7 +262,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 function handleEventsModalClose(){
-  const modal = document.querySelector("appendhereee");
+  const modal = document.querySelector(".appendhereee");
   const overlay = document.querySelector(".overlay-work")
   modal.classList.remove('active')
   overlay.classList.remove('activee')
