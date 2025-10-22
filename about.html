@@ -14,10 +14,13 @@ layout: default
   .custom-digital-print-section .image-with-text-section p {
     max-width: 100%;
     padding-right: 46px;
+    font-size: 16px;
   }
   .custom-affluent-travelled .image-with-text-section p {
     max-width: 100%;
     padding-right: 46px;
+    font-size: 16px;
+    
   }
   .custom-digital-print-section .newsletter-popup-content {
     padding-top: 70px;
@@ -28,6 +31,9 @@ layout: default
   }
   .custom-digital-print-section .image-with-content-buttons {
     flex-wrap: wrap;
+  }
+  .tab-section-container-heading {
+    font-size: 26px;
   }
 
   @media (max-width: 992px) {
@@ -89,7 +95,7 @@ layout: default
   <div class="target__links" id="about_about"></div>
   <section class="no-margin about-section w-70 margin-auto centered">
     {% if site.data.about.about_section.title %}
-    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600; font-size: 26px">
+    <h2 class="overpass-font-family font-weight-600 tab-section-container-heading" style="font-weight: 600; font-size: 26px">
       {{ site.data.about.about_section.title }}
     </h2>
     <div class="underline"></div>
