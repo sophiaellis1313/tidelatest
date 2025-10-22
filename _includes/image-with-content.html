@@ -6,7 +6,7 @@
       <section class="newsletter-section w-full">
         <div class="newsletter-wrapper w-full">
           
-          <div class="content-block">
+          <div class="content-block order-{{ include.content_on_image.text_direction | default: '' }} ">
             <div class="content-container global-line-height">
               <h2>{{ include.content_on_image.title }}</h2>
             </div>
