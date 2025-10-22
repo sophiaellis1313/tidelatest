@@ -73,8 +73,7 @@ cards:
 content_on_image:
   mobile_direction: bottom
   desktop_direction: end
-  image: >-
-    /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-nilaya-1.jpg
+  image: /uploads/nilaya-231005-nm-9752-nicomartinez-for-studio-borlenghi.jpg
   alt: Nilaya Rises
   tags:
     - Sailing
