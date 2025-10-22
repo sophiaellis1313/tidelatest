@@ -406,8 +406,7 @@ content_on_image:
   title: 'Drumfire: the boat to beat'
   description: >
     The first of Andre Hoek’s Truly Classic 78s has come into her own Down Under
-    following decades spent in the shadow of others in Europe. The boatbuilder,
-    her Captain and new owners each share the secrets to her newfound success.
+    following decades spent in the shadow of others in Europe. 
   button:
     text: More
     link: https://peachy-lion.cloudvent.net/articles/Drumfire-the-boat-to-beat
@@ -423,11 +422,9 @@ content_on_image2:
     - NUMBER 4
   title: The Conscious Traveller
   description: >
-    A recent trend report published by luxury travel specialists Pelorus, in
-    association with the travel trend forecasting agency Globetrotter, predicts
-    that over the next five years there will be substantially increased demand
-    for high-impact conservation from high net worth clients who really want to
-    make a difference and not just pay lip service. 
+    A recent trend report predicts over the next five years there will be
+    substantially increased demand for high-impact conservation from high net
+    worth clients...
   button:
     text: More
     link: https://peachy-lion.cloudvent.net/articles/conscious-traveller.html
@@ -445,8 +442,7 @@ content_on_image3:
   description: >
     The sun-soaked isles are renowned for being naturally beautiful,
     produce-rich and ripe with history – but now they’re also becoming known for
-    their eco-hotels, cutting-edge architecture and groundbreaking art, if you
-    know where to look...
+    their eco-hotels, cutting-edge architecture and groundbreaking art...
   button:
     text: More
     link: /articles/Hidden-Gems-Greek-Islands.html
