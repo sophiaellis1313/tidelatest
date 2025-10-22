@@ -302,8 +302,10 @@
 
 
 <div class="newsletter-popup w-full" id="newsletterPopup">
-  <div class="newsletter-popup-content w-full">
-    <button class="popup-close" id="closePopup">&times;</button>
+  <div class="newsletter-popup-content w-full" style="overflow: visible;">
+       <button class="popup-close" onclick="handleModalClose()" id="closePopup" style="opacity: 1; display: block; z-index: 10; top: -60px;">
+          <img src="/images/cancel-white-icon.png" alt="close-iocn" style="width: 50px; height: 50px;">
+        </button>
 
     <section class="newsletter-section w-full">
       <div class="newsletter-wrapper w-full">
@@ -455,6 +457,12 @@ document.getElementById("newsletterPopup").addEventListener("click", function(e)
   }
 });
 
+function handleModalClose(){
+  const modal = document.querySelector("#newsletterPopup")
+  const overlay = document.querySelector(".overlay-work")
+  modal.style.display = "none"
+  overlay.classList.remove('activee')
+}
 
   function toggleActiveClass(button) {
     // Remove the 'active' class from all category buttons
