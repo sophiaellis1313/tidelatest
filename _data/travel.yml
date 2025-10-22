@@ -69,7 +69,7 @@ cards:
     title: ' Hidden Gems: Islas Secas '
     description: ' Explore this relatively undiscovered archipelago off Panama’s Gulf of Chiriquí for both natural, untamed wonders and the last word in eco-luxe '
 content_on_image:
-  mobile_direction: top
+  mobile_direction: bottom
   desktop_direction: end
   image: /uploads/highlow-southamerica-1-min.png
   alt: The High Low
