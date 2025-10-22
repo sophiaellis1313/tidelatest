@@ -11,6 +11,11 @@
               <h2>{{ include.content_on_image.title }}</h2>
             </div>
             <p>{{ include.content_on_image.description }}</p>
+
+             {% if include.content_on_image.description2 %}
+               <p class="pt-4">{{ include.content_on_image.description2 }}</p>
+            {% endif %}
+            
             <div class="mt-mob mt-big d-flex gap-15">
               {% if include.content_on_image.button_primary %}
                 <a href="{{ include.content_on_image.button_primary.link }}" target="_blank" class="dark-btn btn-border {{ include.content_on_image.button_primary.label | remove: ' ' }}">
