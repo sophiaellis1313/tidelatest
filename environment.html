@@ -246,14 +246,34 @@ categories:
 
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    // Only run this on mobile (under 768px wide)
     if (window.innerWidth <= 768) {
-      const descriptions = document.querySelectorAll("#environment-hero-description"); // change selector as needed
+      const descriptions = document.querySelectorAll("#environment-hero-description"); // adjust selector as needed
+
       descriptions.forEach((el) => {
         const fullText = el.textContent.trim();
-        if (fullText.length > 100) {
-          const trimmed = fullText.substring(0, 100);
+
+        // Remove spaces for counting, but keep original text for display
+        const textWithoutSpaces = fullText.replace(/\s+/g, "");
+        const maxChars = 100; // excluding spaces
+
+        if (textWithoutSpaces.length > maxChars) {
+          let currentCount = 0;
+          let cutoffIndex = fullText.length;
+
+          for (let i = 0; i < fullText.length; i++) {
+            if (fullText[i] !== " ") currentCount++;
+            if (currentCount >= maxChars) {
+              cutoffIndex = i;
+              break;
+            }
+          }
+
+          // Trim to nearest word
+          const trimmed = fullText.substring(0, cutoffIndex);
           const lastSpace = trimmed.lastIndexOf(" ");
           const cleanText = trimmed.substring(0, lastSpace) + "...";
+
           el.textContent = cleanText;
         }
       });
