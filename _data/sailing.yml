@@ -6,12 +6,9 @@ posts:
       image: /uploads/silken-2024-03-07-0953-min.jpg
       position: center
     title: 'Drumfire: the Boat to Beat '
-    short_description: >+
+    short_description: >
       The first of Andre Hoek’s Truly Classic 78s has come into her own Down
-      Under following decades spent in the shadow of others in Europe. The
-      boatbuilder, her Captain and new owners each share the secrets to her
-      newfound success.
-
+      Under following decades spent in the shadow of others in Europe. 
     type: Sailing
     issue_no: Number 13
     url: articles/Drumfire-the-boat-to-beat
@@ -74,7 +71,7 @@ cards:
     title: ' Wind is Power '
     description: ' The latest rig and sail innovations are allowing boatbuilders and designers to think big when it comes to sailing vessels – and that is good news for the environment '
 content_on_image:
-  mobile_direction: top
+  mobile_direction: bottom
   desktop_direction: end
   image: >-
     /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-nilaya-1.jpg
@@ -83,14 +80,10 @@ content_on_image:
     - Sailing
     - Number 11
   title: Nilaya Rises
-  description: >+
+  description: >-
     Imagine cruising at 18 knots, hard pressed under sail, in total silence. For
     most of us fortunate enough to have ever sailed at this speed, we know this
-    is a pipe dream; the boat will be groaning, screaming, juddering and
-    slamming as she careers through the seas. Not so, for the owner of Nilaya.
-    His elegant, seductive Superyacht slices silently through the seas at pace,
-    like a knife through butter.
-
+    is a pipe dream...
   button:
     text: More
     link: articles/nailaya
