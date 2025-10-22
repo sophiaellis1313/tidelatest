@@ -69,11 +69,13 @@ cards:
       - number 07
     title: ' From Land to Sea '
     description: ' Featuring a contemporary, warm and crafted look by Swedish architects Andreas Martin-Löf Arkitekter, the 34m sailing yacht ZEMI is a fine example of how shore-side designers can adapt to create stunning, boundary-pushing yacht interiors '
+    
 content_on_image:
   mobile_direction: bottom
   desktop_direction: end
-  image: /uploads/download-5.jpg
-  alt: design number 05 A Kind of Magic
+  image:
+    src: /uploads/download-5.jpg
+    alt: design number 05 A Kind of Magic
   tags:
     - Design
     - Number 05

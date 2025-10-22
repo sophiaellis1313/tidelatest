@@ -89,8 +89,9 @@ cards:
 content_on_image:
   mobile_direction: bottom
   desktop_direction: end
-  image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
-  alt: The Winds of Change
+  image:
+    src: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+    alt: The Winds of Change
   tags:
     - Environmental
     - Number 05

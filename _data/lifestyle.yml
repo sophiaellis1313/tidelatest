@@ -92,9 +92,9 @@ cards:
 content_on_image:
   mobile_direction: top
   desktop_direction: end
-  image: >-
-    /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
-  alt: The Gourmand's Guide to Barcelona
+  image:
+    src: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
+    alt: The Gourmand's Guide to Barcelona
   tags:
     - Lifestyle
     - Number 09
