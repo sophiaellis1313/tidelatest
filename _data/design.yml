@@ -70,7 +70,7 @@ cards:
     title: ' From Land to Sea '
     description: ' Featuring a contemporary, warm and crafted look by Swedish architects Andreas Martin-Löf Arkitekter, the 34m sailing yacht ZEMI is a fine example of how shore-side designers can adapt to create stunning, boundary-pushing yacht interiors '
 content_on_image:
-  mobile_direction: top
+  mobile_direction: bottom
   desktop_direction: end
   image: /uploads/download-5.jpg
   alt: design number 05 A Kind of Magic
@@ -78,12 +78,10 @@ content_on_image:
     - Design
     - Number 05
   title: A Kind of Magic
-  description: >+
-    I’ve been writing about sailing for more than a decade now, and the one
-    astonishing fact that stood out to me beyond any other is that when the
-    beautiful 42.4 metre Spirit of Tradition ketch Rebecca was first being
-    designed, she had no bow.
-
+  description: >
+    When the beautiful 42.4 metre Spirit of Tradition ketch Rebecca was first
+    being designed, she had no bow. Looking at Rebecca today, you’d have no
+    clue. Her long lines are graceful, natural, streamlined...
   button:
     text: More
     link: articles/german-frers
