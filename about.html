@@ -71,9 +71,9 @@ layout: default
 
 <div class="tab-section container">
   <div class="target__links" id="about_about"></div>
-  <section class="no-margin about-section w-60 margin-auto centered">
+  <section class="no-margin about-section w-70 margin-auto centered">
     {% if site.data.about.about_section.title %}
-    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
+    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600; font-size: 26px">
       {{ site.data.about.about_section.title }}
     </h2>
     <div class="underline"></div>
@@ -102,12 +102,12 @@ layout: default
     <div class="content-block mb:column-5 gap-20 mb:gap-60 align-top d-flex ">
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.issue_count }}</h2>
-        <p style="max-width: 288px;" class="medium-line-height">Copies in high-wealth areas, ports of call and sailing destinations throughout Europe, the USA and the Pacific.</p>
+        <p style="max-width: 288px;" class="medium-line-height">{{ site.data.about.image_with_text_section.stats.issue_count_description }}</p>
       </div>
 
       <div>
         <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.monthly_orders }}</h2>
-        <p style="max-width: 400px;" class="medium-line-height">by monthly, per year</p>
+        <p style="max-width: 400px;" class="medium-line-height">{{ site.data.about.image_with_text_section.stats.monthly_orders_description }}</p>
       </div>
     </div>
   </div>

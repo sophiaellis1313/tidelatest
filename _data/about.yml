@@ -43,9 +43,11 @@ image_with_text_section:
   image_1: ../images/greek_islands.png
   image_2: ../images/tablet.png
   stats:
-    issue_count: 10,000
+    issue_count: 10,000 copies
+    issue_count_description: Circulated into high wealth areas, ports of call and sailing destinations and cities throughout the United Kingdom, Europe, the USA and the Pacific. 
     issue_frequency: ANNUALLY
-    monthly_orders: 4 issues
+    monthly_orders: 4 issues quarterly
+    monthly_orders_description: With a 70% content to 30% advertising ratio, with 40 exclusive advertising positions targeting individual readers on a global level. 
     page_views: 4 million
     digital_subscribers: 55,000
 partner_with_tide_section:

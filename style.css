@@ -101,6 +101,10 @@ section.no-margin {
   max-width: 600px;
   width: 100%;
 }
+.w-70 {
+  max-width: 700px;
+  width: 100%;
+}
 /*---- Flexbox ----*/
 .d-flex {
   display: flex;
