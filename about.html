@@ -84,13 +84,6 @@ layout: default
 
 
 <section class="relative no-margin">
-  <!-- <div class="navigation-bar flex-display w-full sticky--bar">
-  {% for item in site.data.about.navigation %}
-    <a href="{{ item.href }}" class="{{ item.class }} {% if forloop.index == 1 %}active{% endif %} filter-grid-button uppercase">
-      {{ item.label }}
-    </a>
-  {% endfor %}
- </div> -->
 
 <div class="tab-section container">
   <div class="target__links" id="about_about"></div>
@@ -140,45 +133,6 @@ layout: default
 
 
  <div class="target__links" id="about_partner"></div>
-
-<!-- <section class="container">
-  <div class="about-section w-60 margin-auto centered">
-    <h2 class="overpass-font-family font-weight-600 font-xxs" style="font-weight: 600;">
-      {{ site.data.about.partner_with_tide_section.heading }}
-    </h2>
-    <div class="underline"></div>
-    <h2 class="h2">{{ site.data.about.partner_with_tide_section.subheading }}</h2>
-    <p class="my-25">
-      {{ site.data.about.partner_with_tide_section.description }}
-    </p>
-    <a href="{{ site.data.about.partner_with_tide_section.button_url }}" class="btn">
-      {{ site.data.about.partner_with_tide_section.button_text }}
-    </a>
-  </div>
-</section> -->
-
-
-<!-- <section class="partner-with-tide mb-0 no-margin">
-  <div class="magazine-background">
-    <img src="../images/above-banner.png" alt="TIDE magazines" />
-  </div>
-
-  <div class="content-box ">
-    <p class="small-heading overpass-font-family font-weight-600">PARTNER WITH TIDE</p>
-    <h2 class="h2 mt-2">Reach a tailored and discerning audience in a tasteful way</h2>
-    <p class="description font-weight-400 mt-2">
-      TIDE collaborates with top writers, photographers, and creatives from the
-      Superyachting world to produce honest, visually striking content that
-      speaks directly to a highly engaged, curated audience. Each issue blends
-      in-depth industry insights with award-winning storytelling, captivating
-      visuals, and timeless inspiration. Our content aligns with the yachting
-      calendar, ensuring timely, relevant storytelling that keeps readers
-      inspired—and advertisers front of mind.
-    </p>
-    <a href="#" class="btn-border mt-2">Get Started</a>
-  </div>
-</section> -->
-
   <div class="custom-affluent-travelled">
        {% include image-with-content.html content_on_image=site.data.about.image_with_text2 %}
   </div>
@@ -187,83 +141,9 @@ layout: default
     {% include image-with-content.html content_on_image=site.data.about.image_with_text3 %}
   </div>
 
-
-   <!-- <div class="d-flex gap-70 mb:gap-100 main-block align-center">
-    <div class="content-block mb:column-5 gap-20 mb:gap-60 align-top d-flex justify-end">
-      <div class="firsthandler">
-        <h2 class="font-large crimson">A diverse  digital audience</h2>
-        <p style="max-width: 400px;" class="medium-line-height">TIDE is read by a diverse audience—from high-net-worth individuals and yacht owners to sailors, crew, and ocean-loving adventurers—all united by a passion for the sea, exploration, and sustainability.</p>
-      </div>
-
-      {% if site.data.about.image_with_text_section.stats.digital_subscribers != blank %}
-      <div class="firsthandler" style="display: none;">
-        <h2 class="font-large crimson">{{ site.data.about.image_with_text_section.stats.digital_subscribers }}</h2>
-        <p class=" large-line-height">DIGITAL SUBSCRIBERS</p>
-      </div>
-      {% endif %}
-    </div>
-    <div class="mb:column-5 right right-sideimage">
-      <img src="{{ site.data.about.image_with_text_section.image_2 }}" alt="Tablet">
-    </div>
-  </div> -->
-
-
-
 <div class="target__links" id="about_contact"></div>
    {% include contact-form.html %}
   
-<!-- <section class="content_on_image position-relative w-full  no-margin bg-grey" >
-  <img 
-    src="./images/contact-form.png"
-    alt="Supersloop"
-    class="w-full h-full cover banner block min-heigh"
-  />
-  
-  <div class="w-full d-flex align-end justify-start xs:h-full top-0 end-0 position-absolute no-margin z-index-1" > 
-    <div class="md:padded-6 h-full mb:w-65 blur blur-darker text-on-image content-wrapper text-white mb:py-60 p-container px-30 d-flex flex-column justify-center z-index-1">
-        
-        <div class="content-block w-full xs:margin-auto" style="max-width: 435px;">
-           <div class="contact-header">
-              <h2 class="h2 large-line-height grey-white" style="margin-bottom: 4px;">Contact us</h2>
-              <div class="contact-info d-flex justify-between centered align-center">
-                <a href="mailto:info@tide-magazine.com" class="email-link medium-line-height crimson-pro grey-white">info@tide-magazine.com</a>
-                <div class="social-icons d-flex gap-10">
-                  <a class="black block social-link bg-grey-white" href="https://www.instagram.com/thetidemagazine" target="_blank" class="editable">
-                      <svg width="10" height="10" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M4.50146 2.25391C3.25928 2.25391 2.25732 3.25586 2.25732 4.49805C2.25732 5.74023 3.25928 6.74219 4.50146 6.74219C5.74365 6.74219 6.74561 5.74023 6.74561 4.49805C6.74561 3.25586 5.74365 2.25391 4.50146 2.25391ZM4.50146 5.95703C3.69873 5.95703 3.04248 5.30273 3.04248 4.49805C3.04248 3.69336 3.69678 3.03906 4.50146 3.03906C5.30615 3.03906 5.96045 3.69336 5.96045 4.49805C5.96045 5.30273 5.3042 5.95703 4.50146 5.95703ZM7.36084 2.16211C7.36084 2.45312 7.12647 2.68555 6.8374 2.68555C6.54639 2.68555 6.31396 2.45117 6.31396 2.16211C6.31396 1.87305 6.54834 1.63867 6.8374 1.63867C7.12647 1.63867 7.36084 1.87305 7.36084 2.16211ZM8.84717 2.69336C8.81396 1.99219 8.65381 1.37109 8.14014 0.859375C7.62842 0.347656 7.00732 0.1875 6.30615 0.152344C5.5835 0.111328 3.41748 0.111328 2.69482 0.152344C1.99561 0.185547 1.37451 0.345703 0.86084 0.857422C0.347168 1.36914 0.188965 1.99023 0.153809 2.69141C0.112793 3.41406 0.112793 5.58008 0.153809 6.30273C0.187012 7.00391 0.347168 7.625 0.86084 8.13672C1.37451 8.64844 1.99365 8.80859 2.69482 8.84375C3.41748 8.88477 5.5835 8.88477 6.30615 8.84375C7.00732 8.81055 7.62842 8.65039 8.14014 8.13672C8.65186 7.625 8.81201 7.00391 8.84717 6.30273C8.88818 5.58008 8.88818 3.41602 8.84717 2.69336ZM7.91357 7.07812C7.76123 7.46094 7.46631 7.75586 7.08154 7.91016C6.50537 8.13867 5.13818 8.08594 4.50146 8.08594C3.86475 8.08594 2.49561 8.13672 1.92139 7.91016C1.53857 7.75781 1.24365 7.46289 1.08936 7.07812C0.86084 6.50195 0.913574 5.13477 0.913574 4.49805C0.913574 3.86133 0.862793 2.49219 1.08936 1.91797C1.2417 1.53516 1.53662 1.24023 1.92139 1.08594C2.49756 0.857422 3.86475 0.910156 4.50146 0.910156C5.13818 0.910156 6.50732 0.859375 7.08154 1.08594C7.46436 1.23828 7.75928 1.5332 7.91357 1.91797C8.14209 2.49414 8.08936 3.86133 8.08936 4.49805C8.08936 5.13477 8.14209 6.50391 7.91357 7.07812Z" fill="white"/>
-                      </svg>
-                   </a>
-               
-                  <a class="black block social-link bg-grey-white" href="https://www.facebook.com/thetidemagazine/" target="_blank" class="editable"> 
-                      <svg width="10" height="10" viewBox="0 0 5 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M4.24585 4.96875L4.45415 3.61143H3.15176V2.73062C3.15176 2.35928 3.33369 1.99731 3.91699 1.99731H4.50908V0.841699C4.50908 0.841699 3.97178 0.75 3.45806 0.75C2.3855 0.75 1.68442 1.4001 1.68442 2.57695V3.61143H0.492188V4.96875H1.68442V8.25H3.15176V4.96875H4.24585Z" fill="white"/>
-                      </svg>
-                      </a>
-                
-                </div>
-              </div>
-            </div>
-
-            <form class="contact-form pt-2 mb:pt-50 gap-15">
-              <div class="form-row  xs:d-flex gap-15 ">
-                <input class="mb-1" type="text" placeholder="name" name="name">
-                <input class="mb-1" type="email" placeholder="email" name="email">
-              </div>
-              <div class="form-row xs:d-flex gap-15">
-                <input class="mb-1" type="text" placeholder="phone" name="phone">
-                <input class="mb-1" type="text" placeholder="subject of enquiry" name="subject">
-              </div>
-              <textarea name="message" placeholder="message"></textarea>
-              <div class="form-submit right">
-                <button class="width-fit btn white-btn mt-2px" type="submit">SEND</button>
-              </div>
-            </form>
-        </div>
-    </div>
-  </div>
-</section> -->
-
-
 <div class="target__links" id="about_legal"></div>
 
 {% comment %}
