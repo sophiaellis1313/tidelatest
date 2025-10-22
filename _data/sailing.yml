@@ -74,6 +74,8 @@ cards:
     title: ' Wind is Power '
     description: ' The latest rig and sail innovations are allowing boatbuilders and designers to think big when it comes to sailing vessels – and that is good news for the environment '
 content_on_image:
+  mobile_direction: top
+  desktop_direction: end
   image: >-
     /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-nilaya-1.jpg
   alt: Nilaya Rises

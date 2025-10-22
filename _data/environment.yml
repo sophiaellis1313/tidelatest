@@ -87,6 +87,8 @@ cards:
     title: ' The Great Circle '
     description: ' Olympic gold sailing medallists Blair Tuke and Peter Burling on the preservation and restoration of the world’s oceans… '
 content_on_image:
+  mobile_direction: top
+  desktop_direction: end
   image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
   alt: The Winds of Change
   tags:

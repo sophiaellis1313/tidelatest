@@ -404,7 +404,6 @@ content_on_image:
     - Sailing
     - Number 13
   title: 'Drumfire: the boat to beat'
-  direction: end
   description: >
     The first of Andre Hoek’s Truly Classic 78s has come into her own Down Under
     following decades spent in the shadow of others in Europe. The boatbuilder,
@@ -414,6 +413,8 @@ content_on_image:
     link: https://peachy-lion.cloudvent.net/articles/Drumfire-the-boat-to-beat
     style: white-btn
 content_on_image2:
+  mobile_direction: top
+  desktop_direction: start
   image:
     src: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
     alt: 'Gundari Resort TIDE Magazine '
@@ -421,7 +422,6 @@ content_on_image2:
     - ENVIRONMENT
     - NUMBER 4
   title: The Conscious Traveller
-  direction: start
   description: >
     A recent trend report published by luxury travel specialists Pelorus, in
     association with the travel trend forecasting agency Globetrotter, predicts
@@ -433,6 +433,8 @@ content_on_image2:
     link: https://peachy-lion.cloudvent.net/articles/conscious-traveller.html
     style: white-btn
 content_on_image3:
+  mobile_direction: top
+  desktop_direction: end
   image:
     src: /uploads/gundari_453-Edit-min.jpg
     alt: Gundari Resort Greece
@@ -440,7 +442,6 @@ content_on_image3:
     - Travel
     - NUMBER 13
   title: 'Hidden Gems: Greek Islands '
-  direction: end
   description: >
     The sun-soaked isles are renowned for being naturally beautiful,
     produce-rich and ripe with history – but now they’re also becoming known for
@@ -451,6 +452,8 @@ content_on_image3:
     link: /articles/Hidden-Gems-Greek-Islands.html
     style: white-btn
 content_on_image4:
+  mobile_direction: top
+  desktop_direction: start
   image:
     src: /images/travellers.png
     alt: travellers
@@ -458,7 +461,6 @@ content_on_image4:
     - ENVIRONMENT
     - NUMBER 2
   title: The Conscious Traveller
-  direction: start
   description: >
     Responsible, light-touch travel has come a long way since the obligatory
     note on your pillow offering the opportunity to save water by reusing your

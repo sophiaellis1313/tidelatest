@@ -92,6 +92,8 @@ cards:
       Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta, 
       celebrates her home’s past and present with a much-loved intrinsic dish 
 content_on_image:
+  mobile_direction: top
+  desktop_direction: end
   image: >-
     /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
   alt: The Gourmand's Guide to Barcelona
