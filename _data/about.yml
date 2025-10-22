@@ -349,6 +349,6 @@ image_with_text3:
   button_secondary:
     label: CONTACT OUR MEDIA TEAM
     link_target: ''
-    link: mailto:katie@thepursuitinvitational.com
+    link: /contact.html
   image: /uploads/A-good-weekend-image.png
   background_class: grey-bg
