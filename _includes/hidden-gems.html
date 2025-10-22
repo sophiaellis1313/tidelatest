@@ -1,7 +1,7 @@
 <section class="content_on_image position-relative w-full no-margin">
   <img src="{{ include.content_on_image.image.src }}" alt="{{ include.content_on_image.image.alt }}" class="w-full h-full cover banner block min-heigh" />
   
-  <div class="w-full d-flex align-end justify-{{ include.content_on_image.direction }} xs:h-full top-0 end-0 position-absolute no-margin z-index-1"> 
+  <div class="w-full d-flex align-end justify-{{ include.content_on_image.desktop_direction | default: 'end' }} xs:h-full {{ include.content_on_image.mobile_direction | default: 'top' }}-0 end-0 position-absolute no-margin z-index-1"> 
     <div class="md:padded-4 h-full blur text-on-image content-wrapper text-white z-index-2 mb:py-60 p-container mb:px-60 d-flex flex-column mb:justify-between justify-center">
 
       <div class="d-flex gap-10 uppercase mb-60 font-xs normal-letter-spacing mb-1 align-center overpass-font-family card-tags">

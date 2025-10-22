@@ -395,6 +395,8 @@ cards6:
       Michelin stars, there is much to devour.
 
 content_on_image:
+  mobile_direction:bottom
+  desktop_direction:start
   image:
     src: /uploads/drumfire-1-min.png
     alt: Drumfire
