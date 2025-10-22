@@ -189,6 +189,9 @@ section.no-margin {
 .gap-10 {
   gap: 10px;
 }
+.order-2 {
+  order: 2;
+}
 
 /*---- Position ----*/
 .position-relative {
