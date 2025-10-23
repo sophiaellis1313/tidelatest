@@ -112,6 +112,7 @@ $('.featured-card').not('.not-trigger').click(function() {
 
 $(document).on('click','.featured-card.not-trigger',function(event){
   event.preventDefault();
+  $('body').addClass('hide-sc');
   $('.overlay-work').addClass('activee');
   var datahtml = $(this).parents('.selectedthiss').find('.data-popup .event-popup.newsletter-popup').html();
   $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(datahtml).addClass('active');
