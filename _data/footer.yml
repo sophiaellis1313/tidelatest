@@ -30,12 +30,6 @@ footer_columns:
         url: /contact
   - heading:
     links:
-      - name: About Us
-        url: /about
-      - name: Contact
-        url: /contact
-  - heading:
-    links:
       - name: Terms & Conditions
         url: /terms-and-conditions
       - name: Privacy Policy
