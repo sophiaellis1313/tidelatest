@@ -6,7 +6,7 @@ type: Sailing
 byline: 'WORDS: GEMMA HARRIS | IMAGES: ALEXIS ANDREWS'
 issue_no: number 08
 featured_image:
-  image: /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-asahi-3.jpg
+  image: /uploads/aa-9a0568-enhanced-nr.jpg
   position: img-center
 video: false
 video_path: ''
@@ -42,7 +42,7 @@ What makes one charter sailing yacht more appealing than another? Is it the crew
 
 Ensuring every day is unforgettable is a responsibility said team takes in its stride. “Each charter is unique, and as a result, we are completely flexible in how we plan and prepare,” he says. “We have a watersports inventory like no other in our class, motor or sail”. This catalogue includes new wing foiling equipment, towable inflatables, Reverso sailing dinghies, Fliteboards, scuba gear and Seabobs, to name just a few. Guests have never requested an activity that couldn’t be arranged.
 
-![](/uploads/aa-9a0568-enhanced-nr.jpg)
+![](/uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-asahi-3.jpg)
 
 “We receive preferences from the client before they arrive and are sometimes even in contact with the crew of previous yachts they’ve chartered,” says Biff. A day can look however a client wants, from the adrenaline-inducing to the utterly de-stressing. Whether that’s enjoying a sunrise paddle board, trying your hand at the kites and wings, exploring Caribbean bays on a Seabob snorkel safari, or heading to dry land with the mountain E-bikes. “We look for the best locations directly downwind of where we are anchored, and our tender meets the guests once they reach there on the kites or wing foils. Sometimes we arrange this to be at a beach for a unique barbecue experience.” To unwind afterwards, guests can sink into the flybridge Jacuzzi, settle down to an al-fresco movie night or sip sundowners in one of the many lounging spaces.
 
