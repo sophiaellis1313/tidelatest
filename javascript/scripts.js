@@ -112,7 +112,7 @@ $('.featured-card').not('.not-trigger').click(function() {
 
 $(document).on('click','.featured-card.not-trigger',function(event){
   event.preventDefault();
-  $('body').addClass('hide-sc');
+  $('body').addClass('hide-scroll-bar');
   $('.overlay-work').addClass('activee');
   var datahtml = $(this).parents('.selectedthiss').find('.data-popup .event-popup.newsletter-popup').html();
   $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html(datahtml).addClass('active');
@@ -121,6 +121,7 @@ $(document).on('click','.featured-card.not-trigger',function(event){
 
 
 $(document).on('click','.overlay-work.activee',function(){
+$('body').removeClass('hide-scroll-bar');
 $('.overlay-work').removeClass('activee');
 $(this).parents('body').find('.event-popup.newsletter-popup.appendhereee').html('').removeClass('active');
 $(this).parents('body').find('.newsletter-popup').css('display','none');
