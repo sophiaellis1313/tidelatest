@@ -18,18 +18,6 @@ posts:
     buttontitle: More
 cards_title: Featured
 cards:
-  - image: /uploads/download.jpg
-    alt: ' Expanding Horizons '
-    link: /articles/expanding-horizons
-    tags:
-      - ' Design '
-      - number 11
-    title: ' Expanding Horizons '
-    description: >-
-      T Marco Bonelli and Marijana Radovic, the duo behind Milan-based studio
-      m2atelier, share insights on their recent move into yacht design, plus
-      what inspires their equally pioneering and practical creations  he day
-      Marie-Louise Sciò...
   - image: /uploads/modernism-desktop.png
     alt: ''
     link: articles/estudio-ramos
@@ -45,6 +33,18 @@ cards:
       “scream anything” with their work, Ramos and his son and partner, Ignacio
       Ramos, have certainly caught the design world’s attention.
 
+  - image: /uploads/download.jpg
+    alt: ' Expanding Horizons '
+    link: /articles/expanding-horizons
+    tags:
+      - ' Design '
+      - number 11
+    title: ' Expanding Horizons '
+    description: >-
+      T Marco Bonelli and Marijana Radovic, the duo behind Milan-based studio
+      m2atelier, share insights on their recent move into yacht design, plus
+      what inspires their equally pioneering and practical creations  he day
+      Marie-Louise Sciò...
   - image: /uploads/download-1.jpg
     alt: ' Changing the game '
     link: /articles/design-jarkko
@@ -61,52 +61,52 @@ cards:
       - number 08
     title: ' The View From Here '
     description: ' Having spent his younger years messing about in dinghies, self-taught sailor and world-class designer Malcolm McKeon knows a thing or two about sailing yachts. Here, the award-winning naval architect shares some personal insights on his four decades in the industry, as well as his ideas for the future '
+  - image: /uploads/download-3.jpg
+    alt: ''
+    link: articles/zemi
+    tags:
+      - design
+      - number 07
+    title: From Land to Sea
+    description: >-
+      Forward-thinking shipyards and owners are becoming increasingly creative
+      and inviting designers from outside the yachting industry to make their
+      mark on board. One such example is Swedish architectural firm Andreas
+      Martin-Löf Arkitekter. 
 content_on_image:
   mobile_direction: bottom
   desktop_direction: end
   image:
-    src: /uploads/download-5.jpg
+    src: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-design1.jpg
     alt: design number 05 A Kind of Magic
   tags:
     - Design
-    - Number 05
-  title: A Kind of Magic
-  description: >
-    When the beautiful 42.4 metre Spirit of Tradition ketch Rebecca was first
-    being designed, she had no bow. Looking at Rebecca today, you’d have no
-    clue. Her long lines are graceful, natural, streamlined...
+    - Number 06
+  title: Lighting the Way
+  description: >+
+    If you want to catch a glimpse of your yachting future, Mark Whiteley’s your
+    man. The esteemed British designer probably knows before you do what you’re
+    going to choose to have onboard your next boat.
+
   button:
     text: More
-    link: articles/german-frers
+    link: articles/mark-whiteley
     class: width-fit btn white-btn
 featured_section:
   cards:
-    - image: /uploads/download-3.jpg
+    - image: /uploads/download-5.jpg
       alt: ''
-      link: articles/zemi
+      link: articles/german-frers
       tags:
         - design
-        - number 07
-      title: From Land to Sea
+        - number 05
+      title: A Kind of Magic
       description: >+
-        Forward-thinking shipyards and owners are becoming increasingly creative
-        and inviting designers from outside the yachting industry to make their
-        mark on board. One such example is Swedish architectural firm Andreas
-        Martin-Löf Arkitekter. Well-known for its high-end residential projects,
-        the Stockholm-based design firm has more recently also turned its hand
-        to a few yacht interiors, including Baltic’s latest delivery, ZEMI.
+        I’ve been writing about sailing for more than a decade now, and the one
+        astonishing fact that stood out to me beyond any other is that when the
+        beautiful 42.4 metre Spirit of Tradition ketch Rebecca was first being
+        designed, she had no bow.
 
-    - image: /uploads/download-4.jpg
-      alt: Lighting the Way
-      link: articles/mark-whiteley
-      tags:
-        - design
-        - number 06
-      title: Lighting the Way
-      description: >+
-        If you want to catch a glimpse of your yachting future, Mark Whiteley’s
-        your man. The esteemed British designer probably knows before you do
-        what you’re going to choose to have onboard your next boat.
 
     - image: /uploads/download-6.jpg
       alt: ' Sense and Sensibility '
