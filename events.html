@@ -32,20 +32,28 @@ layout: default
   .content-container .mt-big {
     margin-top: 2rem;
   }
-  .popup-close {
-     top: -52px;
+  .another-styling-event {
+     top: -0px;
      right: 10px;
+     width: 100%;
+     justify-content: end;
+     position: static !important;
   }
-  .blog-details {
-    max-height: 300px;
-    over-flow: auto;
-  }
+ 
   .image-container {
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+  }
+  .event-modal-wrapper{
+    background-color: transparent !important;
+    overflow: auto;
+    max-height: calc(100vh - 130px);
+  }
+  .inner-wrapper-event-modal{
+    align-items: stretch;
   }
   image-container .image-block {
     height: 100%;
@@ -59,11 +67,12 @@ layout: default
      border-radius: 8px; 
      max-height: 80vh;
   }
+  @media (min-width:768px) {
+    .event-modal-wrapper{
+      max-height: calc(100vh - 80px);
+    }
+  }
   @media (max-width: 992px) {
-    .blog-details {
-      max-height: 300px;
-      over-flow: auto;
-   }
    .event-popup .newsletter-section .content-block {
     padding: 25px 10px 25px 30px !important;
    }
@@ -74,13 +83,6 @@ layout: default
      margin-top: 1rem;
    } 
   }
-  
-  @media screen and (max-width: 400px), screen and (max-height: 800px) {
-  .blog-details {
-    max-height: 125px;
-  }
-}
-  
  
 </style>
 
@@ -154,17 +156,18 @@ layout: default
         <div class="swiper-slide selectedthiss">
           <div class="data-popup" style="display: none;">
           
-            <div class="event-popup newsletter-popup w-full grey-bg" id="eventPopup">
-               <button class="popup-close" onclick="handleEventsModalClose()" id="closePopup" style="opacity: 1; display: block; z-index: 10;">
+            <div class="event-popup newsletter-popup w-full grey-bg event-modal-wrapper" id="eventPopup">
+
+               <button class="popup-close another-styling-event" onclick="handleEventModalClose()" id="closePopup" style="opacity: 1; display: flex; z-index: 10;">
                 <img src="/images/cross-icon-white.png" alt="close-iocn" style="width: 50px; height: 50px;">
               </button>
          
-            <div class="newsletter-popup-content w-full grey-bg">
+            <div class="newsletter-popup-content w-full grey-bg event-modal-main-container">
              
               <section class="newsletter-section w-full">
-                <div class="newsletter-wrapper w-full">
+                <div class="newsletter-wrapper w-full inner-wrapper-event-modal">
                   
-                  <div class="content-block">
+                  <div class="content-block" style="place-content: center;">
                     <span class="font-xs overpass-font-family block font-weight-400"> TIDE <b>EVENT</b> </span>
                     <div class="content-container global-line-height font-weight-400">
                       <h2 class="h2 font-weight-400">{{ card.popup_title }}</h2>
@@ -174,7 +177,7 @@ layout: default
                       <p class="large-line-height overpass-font-family font-s font-weight-400" >{{ card.popup_name }}</p>
                     </div>
 
-                    <div class="blog-details" style="overflow: auto;">
+                    <div>
                       <p class=" font-s font-weight-400">
                         {{ card.popup_description }}
                       </p>
@@ -262,8 +265,8 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-function handleEventsModalClose(){
-  const modal = document.querySelector(".appendhereee");
+function handleEventModalClose(){
+  const modal = document.querySelector(".appendhereee")
   const overlay = document.querySelector(".overlay-work")
   modal.classList.remove('active')
   overlay.classList.remove('activee')

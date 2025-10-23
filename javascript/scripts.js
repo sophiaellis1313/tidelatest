@@ -131,16 +131,16 @@ $(this).parents('body').find('.newsletter-popup').css('display','flex');
 $('.overlay-work').addClass('activee'); 
 });
 
-$(document).on('click','a.readmoree',function(){
-    var $this = $(this);
-    var $parent = $this.parents('.newsletter-popup-content');
-    $parent.toggleClass('showmore');
-    if ($parent.hasClass('showmore')) {
-        $this.html('Read Less');
-    } else {
-        $this.html('Read More');
-    } 
-});
+// $(document).on('click','a.readmoree',function(){
+//     var $this = $(this);
+//     var $parent = $this.parents('.newsletter-popup-content');
+//     $parent.toggleClass('showmore');
+//     if ($parent.hasClass('showmore')) {
+//         $this.html('Read Less');
+//     } else {
+//         $this.html('Read More');
+//     } 
+// });
 
 
 

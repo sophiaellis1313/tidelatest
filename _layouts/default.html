@@ -327,10 +327,33 @@
             </div>
 
             <!-- Subscribe -->
-            <form class="subscribe-form" action="https://formspree.io/f/yourFormID" method="POST">
-              <input type="email" name="email" placeholder="{{ site.data.signup.email_placeholder }}" required style="height: 50px; font-size: 16px;"/>
-              <button target="_blank" style=" max-width: 141px; height: 50px; padding: 0px; margin: 0px; " class="dark-btn btn-border width-fit" type="submit">{{ site.data.signup.button_text }}</button>
-            </form>
+          <form class="subscribe-form" data-cms="form" data-inbox="subscribe-form" method="POST">
+            <!-- Email Input -->
+            <input 
+              type="email" 
+              name="email" 
+              placeholder="{{ site.data.signup.email_placeholder }}" 
+              required 
+              style="height: 50px; font-size: 16px;"
+            />
+
+            <!-- Hidden field to identify form for CloudCannon -->
+            <input type="hidden" name="form-name" value="subscribe-form">
+
+            <!-- Spam bot trap -->
+            <input type="text" name="_gotcha" style="display: none;">
+
+            <!-- Submit Button -->
+            <button 
+              type="submit" 
+              class="dark-btn btn-border width-fit" 
+              style="max-width: 141px; height: 50px; padding: 0; margin: 0;"
+            >
+              {{ site.data.signup.button_text }}
+            </button>
+          </form>
+
+
           </div>
         </div>
 
