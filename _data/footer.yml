@@ -24,6 +24,10 @@ footer_columns:
         url: /events
       - name: Print Magazine
         url: https://www.mymagazinesub.co.uk/tide/
+      - name: About us
+        url: /about
+      - name: 'Contact '
+        url: /contact
   - heading:
     links:
       - name: About Us
