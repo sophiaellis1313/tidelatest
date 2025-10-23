@@ -523,7 +523,6 @@ document.addEventListener('DOMContentLoaded', () => {
        document.getElementById("error-messege").style.display = 'none'
        var request = new XMLHttpRequest();
        request.addEventListener("load", function () {
-         console.log(request);
          if (request.status === 200) { 
            console.log("success");
            formEl.reset()
