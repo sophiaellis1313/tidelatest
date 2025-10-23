@@ -50,7 +50,6 @@ layout: default
   .event-modal-wrapper{
     background-color: transparent !important;
     overflow: auto;
-    max-height: calc(100vh - 130px);
   }
   .inner-wrapper-event-modal{
     align-items: stretch;
@@ -68,7 +67,10 @@ layout: default
   }
    @media (min-width: 991px) {
     .event-popup.newsletter-popup.appendhereee.active {
-     max-height: 80vh;
+      max-height: 80vh;
+   }
+    .event-modal-wrapper {
+      max-height: calc(100vh - 130px);
    }
   }
  
