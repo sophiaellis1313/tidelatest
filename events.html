@@ -65,8 +65,13 @@ layout: default
   }
   .event-popup.newsletter-popup.appendhereee.active {
      border-radius: 8px; 
-     max-height: 80vh;
   }
+   @media (min-width: 991px) {
+    .event-popup.newsletter-popup.appendhereee.active {
+     max-height: 80vh;
+   }
+  }
+ 
   @media (min-width:768px) {
     .event-modal-wrapper{
       max-height: calc(100vh - 80px);
