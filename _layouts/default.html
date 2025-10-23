@@ -325,20 +325,21 @@
                 </button>
               {% endfor %}
             </div>
+            <p id="error-messege" style="display: none; font-size: 16px; font-weight: 600; color: red; font-family: 'Overpass', sans-serif;">Please select at least one.</p>
 
             <!-- Subscribe -->
-          <form class="subscribe-form"  data-cms="form" data-inbox="subscribe-form" id="cloud-cannon-subscribe-form" method="POST">
+          <form class="subscribe-form"  data-cms="form" data-inbox="subscribe-form" id="cloud-cannon-subscribe-form" method="POST" style="position: relative;">
             <!-- Email Input -->
             <input 
-              type="email"
-              name="email" 
-              placeholder="{{ site.data.signup.email_placeholder }}" 
-              required 
-              style="height: 50px; font-size: 16px;"
+            type="email"
+            name="email" 
+            placeholder="{{ site.data.signup.email_placeholder }}" 
+            required 
+            style="height: 50px; font-size: 16px;"
             />
-
+            
             <!-- Hidden field to identify form for CloudCannon -->
-           <input type="text" name="categories" style="display: none;">
+            <input type="text" name="categories" style="display: none;">
            <input type="hidden" name="inbox_key" value="subscribe-form">
 
             <!-- Spam bot trap -->
@@ -353,8 +354,7 @@
               {{ site.data.signup.button_text }}
             </button>
           </form>
-
-
+            <p id="success-messege" style="display: none; margin-top: 14px; font-size: 16px; font-weight: 600; color: rgb(19, 171, 19); font-family: 'Overpass', sans-serif;">Thank you! Your subscription has been received.</p>
           </div>
         </div>
 
@@ -490,53 +490,12 @@ function handleModalClose(){
 
 function toggleActiveClass(button) {
   button.classList.toggle('active');
+  document.getElementById("error-messege").style.display = 'none'
 }
 
 
-// function submitCloudCannonForm(form, onSuccess, onError) {
-//   form.addEventListener('submit', async function (e) {
-//     e.preventDefault(); // Prevent default form submission
-
-//     const formData = new FormData(form);
-//     const buttons = document.querySelectorAll('.category-btn.active');
-//     const activeButtonNames = Array.from(buttons).map(button => button.name);
-//     // formData.set('categories', activeButtonNames.join(', '));
-
-//     const inboxKey = form.dataset.inbox;
-  
-//     try {
-//       const response = await fetch(`https://submit.cloudcannon.com/inboxes/${inboxKey}`, {
-//         method: 'POST',
-//         body: formData // ✅ Must be FormData, not a JS object
-//       });
-
-//       if (response.ok) {
-//         if (typeof onSuccess === 'function') onSuccess();
-//         form.reset();
-//         document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
-//       } else {
-//         if (typeof onError === 'function') onError();
-//       }
-//     } catch (error) {
-//       console.error('Form submission error:', error);
-//       if (typeof onError === 'function') onError(error);
-//     }
-//   });
-// }
-
-// // Initialize
-// document.addEventListener('DOMContentLoaded', () => {
-//   const subscribeForm = document.querySelector('#cloud-cannon-subscribe-form');
-//   submitCloudCannonForm(
-//     subscribeForm,
-//     () => alert('✅ Thank you! Your subscription has been received.'),
-//     (err) => alert('⚠️ There was a problem submitting your form.')
-//   );
-// });
 
 
-
-// Helper function to get form data in the supported format
 function getFormDataString(formEl) {
     const buttons = document.querySelectorAll('.category-btn.active');
     const activeButtonNames = Array.from(buttons).map(button => button.name);
@@ -555,21 +514,32 @@ document.addEventListener('DOMContentLoaded', () => {
   var formEl = document.getElementById("cloud-cannon-subscribe-form");
   formEl.addEventListener("submit", function (e) {
     e.preventDefault();
-    var request = new XMLHttpRequest();
-    request.addEventListener("load", function () {
-      console.log(request);
-      if (request.status === 200) { 
-        console.log("succes");
-        formEl.reset()
-        document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
-      }else{
-        console.log("error");
-
-      }
-    });
-    request.open(formEl.method, formEl.action);
-    request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-    request.send(getFormDataString(formEl));
+    var formData = new FormData(formEl)
+    const buttons = document.querySelectorAll('.category-btn.active');
+    const activeButtonNames = Array.from(buttons).map(button => button.name) || [];
+     if(activeButtonNames?.length === 0){
+        document.getElementById("error-messege").style.display = 'block'
+     } else {
+       document.getElementById("error-messege").style.display = 'none'
+       var request = new XMLHttpRequest();
+       request.addEventListener("load", function () {
+         console.log(request);
+         if (request.status === 200) { 
+           console.log("success");
+           formEl.reset()
+           document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
+           document.getElementById("success-messege").style.display = 'block'
+           setTimeout(() => {
+             document.getElementById("success-messege").style.display = 'none'
+           }, 5000);
+         } else {
+           console.error("There is some thing went wrong");
+         }
+       });
+       request.open(formEl.method, formEl.action);
+       request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+       request.send(getFormDataString(formEl));
+     }
   });
 });
 

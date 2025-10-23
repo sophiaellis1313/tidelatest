@@ -344,18 +344,20 @@ a {
   background: linear-gradient(
     180deg,
     rgba(0, 0, 0, 0) 0%,
-    rgba(0, 0, 0, 0.6) 100%
-  );
-
-  /* background: hsl(0deg 0% 0% / 30%); */
-}
-.lifestyle-banner-darker {
-    background: linear-gradient(
-    180deg,
-    rgba(0, 0, 0, 0) 0%,
     rgba(0, 0, 0, 0.6) 20%
-  ) !important;
+  )
 }
+
+@media (min-width:786px) {
+  .banner-img .content-on-hover {
+    background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.6) 100%
+    );
+  }
+}
+
 .dark-overlay {
   background: hsl(0deg 0% 0% / 30%);
 }
