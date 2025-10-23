@@ -338,7 +338,7 @@
             />
 
             <!-- Hidden field to identify form for CloudCannon -->
-           <!-- <input type="text" name="categories" style="display: none;"> -->
+           <input type="text" name="categories" style="display: none;">
            <input type="hidden" name="inbox_key" value="subscribe-form">
 
             <!-- Spam bot trap -->
@@ -538,12 +538,14 @@ function toggleActiveClass(button) {
 
 // Helper function to get form data in the supported format
 function getFormDataString(formEl) {
+    const buttons = document.querySelectorAll('.category-btn.active');
+    const activeButtonNames = Array.from(buttons).map(button => button.name);
     var formData = new FormData(formEl),
       data = [];
-
-  for (var keyValue of formData) {
-      data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
-  }
+    formData.set('categories', activeButtonNames.join(', '));
+    for (var keyValue of formData) {
+        data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
+    }
 
   return data.join("&");
 }
@@ -555,15 +557,16 @@ document.addEventListener('DOMContentLoaded', () => {
     e.preventDefault();
     var request = new XMLHttpRequest();
     request.addEventListener("load", function () {
-      if (request.status === 303) { // CloudCannon redirects on success
+      console.log(request);
+      if (request.status === 200) { 
         console.log("succes");
+        formEl.reset()
+        document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
       }else{
-        console.log("erro");
-        
+        console.log("error");
+
       }
     });
-
-    
     request.open(formEl.method, formEl.action);
     request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
     request.send(getFormDataString(formEl));
