@@ -3578,6 +3578,10 @@ h3.h3eeee {
   .text-on-image.content-wrapper{
   padding-inline: 15px;
 }
+.newsletter-section .content-block {
+  max-height: 80vh;
+  overflow: auto;
+}
 h3.h3eeee {
     font-size: 30px;
     line-height: 32px;

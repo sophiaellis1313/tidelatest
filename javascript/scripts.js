@@ -129,6 +129,7 @@ $(this).parents('body').find('.newsletter-popup').css('display','none');
 
 $('a.dark-btn.btn-border.JoinNow').click(function(event){
  event.preventDefault();
+  $('body').addClass('hide-scroll-bar');
 $(this).parents('body').find('.newsletter-popup').css('display','flex');
 $('.overlay-work').addClass('activee'); 
 });
