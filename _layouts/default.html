@@ -338,7 +338,7 @@
             />
 
             <!-- Hidden field to identify form for CloudCannon -->
-           <input type="text" name="categories" style="display: none;">
+           <!-- <input type="text" name="categories" style="display: none;"> -->
            <input type="hidden" name="inbox_key" value="subscribe-form">
 
             <!-- Spam bot trap -->
@@ -500,7 +500,7 @@ function submitCloudCannonForm(form, onSuccess, onError) {
     const formData = new FormData(form);
     const buttons = document.querySelectorAll('.category-btn.active');
     const activeButtonNames = Array.from(buttons).map(button => button.name);
-    formData.set('categories', activeButtonNames.join(', '));
+    // formData.set('categories', activeButtonNames.join(', '));
 
     const inboxKey = form.dataset.inbox;
   
