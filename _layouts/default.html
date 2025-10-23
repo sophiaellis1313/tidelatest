@@ -319,7 +319,7 @@
             <!-- Categories -->
            <div class="categories">
               {% for category in site.data.signup.categories %}
-                <button class="category-btn crimson" onclick="toggleActiveClass(this)">
+                <button name=" {{ category.name }}" class="category-btn crimson" onclick="toggleActiveClass(this)">
                   <img src="{{ category.image }}" alt="{{ category.name }}" />
                   {{ category.name }}
                 </button>
@@ -327,10 +327,10 @@
             </div>
 
             <!-- Subscribe -->
-          <form class="subscribe-form" data-cms="form" data-inbox="subscribe-form" method="POST">
+          <form class="subscribe-form"  data-cms="form" data-inbox="subscribe-form" id="cloud-cannon-subscribe-form" method="POST">
             <!-- Email Input -->
             <input 
-              type="email" 
+              type="email"
               name="email" 
               placeholder="{{ site.data.signup.email_placeholder }}" 
               required 
@@ -338,6 +338,7 @@
             />
 
             <!-- Hidden field to identify form for CloudCannon -->
+           <input type="text" name="categories" style="display: none;">
            <input type="hidden" name="inbox_key" value="subscribe-form">
 
             <!-- Spam bot trap -->
@@ -487,14 +488,55 @@ function handleModalClose(){
   overlay.classList.remove('activee')
 }
 
-  function toggleActiveClass(button) {
-    // Remove the 'active' class from all category buttons
-    const buttons = document.querySelectorAll('.category-btn');
-    // buttons.forEach(btn => btn.classList.remove('active'));
+function toggleActiveClass(button) {
+  button.classList.toggle('active');
+}
 
-    // Add the 'active' class to the clicked button
-    button.classList.add('active');
-  }
+
+  function submitCloudCannonForm(form, onSuccess, onError) {
+    form.addEventListener('submit', async function (e) {
+    e.preventDefault(); // Prevent default submission
+    const formData = new FormData(form);
+    const email = formData.get('email');
+    const categories = formData.get('categories');
+    const buttons = document.querySelectorAll('.category-btn.active');
+    const activeButtonHTMLs = Array.from(buttons).map(button => button.name);
+     
+    const inboxKey = form.dataset.inbox;
+    
+    try {
+      const response = await fetch(`https://submit.cloudcannon.com/inboxes/${inboxKey}`, {
+        method: 'POST',
+        body: {
+          email,
+          categories:activeButtonHTMLs?.join(", ")
+        }
+      });
+
+      if (response.ok) {
+        if (typeof onSuccess === 'function') onSuccess();
+        form.reset();
+      } else {
+        if (typeof onError === 'function') onError();
+      }
+    } catch (error) {
+      console.error('Form submission error:', error);
+      if (typeof onError === 'function') onError(error);
+    }
+  });
+}
+
+// Initialize the form
+document.addEventListener('DOMContentLoaded', () => {
+  const subscribeForm = document.querySelector('#cloud-cannon-subscribe-form');
+  submitCloudCannonForm(
+    subscribeForm,
+    () => alert('Thank you! Your subscription has been received.'),
+    (err) => alert('There was a problem submitting your form.')
+  );
+});
+
+
 </script>
 
   
