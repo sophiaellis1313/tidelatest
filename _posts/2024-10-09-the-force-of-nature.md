@@ -6,7 +6,7 @@ type: Environment
 byline: 'WORDS: CHLOÉ BRAITHWAITE | ILLUSTRATION: JOSE WALKER'
 issue_no: number 10
 featured_image:
-  image: /uploads/environ-1.png
+  image: /uploads/force.png
   position: img-center
 video: false
 video_path: ''
