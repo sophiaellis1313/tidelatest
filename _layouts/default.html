@@ -493,47 +493,82 @@ function toggleActiveClass(button) {
 }
 
 
-function submitCloudCannonForm(form, onSuccess, onError) {
-  form.addEventListener('submit', async function (e) {
-    e.preventDefault(); // Prevent default form submission
+// function submitCloudCannonForm(form, onSuccess, onError) {
+//   form.addEventListener('submit', async function (e) {
+//     e.preventDefault(); // Prevent default form submission
 
-    const formData = new FormData(form);
-    const buttons = document.querySelectorAll('.category-btn.active');
-    const activeButtonNames = Array.from(buttons).map(button => button.name);
-    // formData.set('categories', activeButtonNames.join(', '));
+//     const formData = new FormData(form);
+//     const buttons = document.querySelectorAll('.category-btn.active');
+//     const activeButtonNames = Array.from(buttons).map(button => button.name);
+//     // formData.set('categories', activeButtonNames.join(', '));
 
-    const inboxKey = form.dataset.inbox;
+//     const inboxKey = form.dataset.inbox;
   
-    try {
-      const response = await fetch(`https://submit.cloudcannon.com/inboxes/${inboxKey}`, {
-        method: 'POST',
-        body: formData // ✅ Must be FormData, not a JS object
-      });
+//     try {
+//       const response = await fetch(`https://submit.cloudcannon.com/inboxes/${inboxKey}`, {
+//         method: 'POST',
+//         body: formData // ✅ Must be FormData, not a JS object
+//       });
 
-      if (response.ok) {
-        if (typeof onSuccess === 'function') onSuccess();
-        form.reset();
-        document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
-      } else {
-        if (typeof onError === 'function') onError();
-      }
-    } catch (error) {
-      console.error('Form submission error:', error);
-      if (typeof onError === 'function') onError(error);
-    }
-  });
+//       if (response.ok) {
+//         if (typeof onSuccess === 'function') onSuccess();
+//         form.reset();
+//         document.querySelectorAll('.category-btn').forEach(btn => btn.classList.remove('active'));
+//       } else {
+//         if (typeof onError === 'function') onError();
+//       }
+//     } catch (error) {
+//       console.error('Form submission error:', error);
+//       if (typeof onError === 'function') onError(error);
+//     }
+//   });
+// }
+
+// // Initialize
+// document.addEventListener('DOMContentLoaded', () => {
+//   const subscribeForm = document.querySelector('#cloud-cannon-subscribe-form');
+//   submitCloudCannonForm(
+//     subscribeForm,
+//     () => alert('✅ Thank you! Your subscription has been received.'),
+//     (err) => alert('⚠️ There was a problem submitting your form.')
+//   );
+// });
+
+
+
+// Helper function to get form data in the supported format
+function getFormDataString(formEl) {
+    var formData = new FormData(formEl),
+      data = [];
+
+  for (var keyValue of formData) {
+      data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
+  }
+
+  return data.join("&");
 }
 
-// Initialize
-document.addEventListener('DOMContentLoaded', () => {
-  const subscribeForm = document.querySelector('#cloud-cannon-subscribe-form');
-  submitCloudCannonForm(
-    subscribeForm,
-    () => alert('✅ Thank you! Your subscription has been received.'),
-    (err) => alert('⚠️ There was a problem submitting your form.')
-  );
-});
 
+document.addEventListener('DOMContentLoaded', () => {
+  var formEl = document.getElementById("cloud-cannon-subscribe-form");
+  formEl.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var request = new XMLHttpRequest();
+    request.addEventListener("load", function () {
+      if (request.status === 303) { // CloudCannon redirects on success
+        console.log("succes");
+      }else{
+        console.log("erro");
+        
+      }
+    });
+
+    
+    request.open(formEl.method, formEl.action);
+    request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    request.send(getFormDataString(formEl));
+  });
+});
 
 
 </script>
