@@ -90,7 +90,7 @@ content_on_image:
   mobile_direction: bottom
   desktop_direction: end
   image:
-    src: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+    src: /uploads/Winds-of-change.png
     alt: The Winds of Change
   tags:
     - Environmental
