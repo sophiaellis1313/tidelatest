@@ -71,7 +71,7 @@ banner:
     width: 200
   heading: TIDE
   subheading: COLLECTIVE
-  smallheading: events and more
+  smallheading:
   date: FEBRUARY 26TH-28TH, 2026
   location:
     prefix:
