@@ -461,6 +461,7 @@ $(document).on('mouseenter', '.targettedparent a.link', function() {
 document.querySelectorAll(".subscribe-btn").forEach(btn => {
   btn.addEventListener("click", function(e) {
     e.preventDefault(); // prevent page jump if it's a link
+    $('body').addClass('hide-scroll-bar');
     document.getElementById("newsletterPopup").style.display = "flex";
     var itemss = document.querySelector('.overlay-work');
     if(itemss){
@@ -482,10 +483,12 @@ document.getElementById("newsletterPopup").addEventListener("click", function(e)
 });
 
 function handleModalClose(){
+  const viewScrollbar = document.querySelector(".hide-scroll-bar")
   const modal = document.querySelector("#newsletterPopup")
   const overlay = document.querySelector(".overlay-work")
   modal.style.display = "none"
   overlay.classList.remove('activee')
+  viewScrollbar.classList.remove('hide-scroll-bar')
 }
 
 function toggleActiveClass(button) {
