@@ -6,7 +6,7 @@ posts:
       image: /uploads/environment-example-1.png
       position: center
     title: '  A Letter from Norway  '
-    short_description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed.'
+    short_description: ' The Nordic country’s dramatic fjords are a major drawcard for the millions who travel to see the local landscape each year. We explore how the uniquely wild water wonders are currently being future-proofed'
     type: Environment
     issue_no: 'Number 11 '
     url: https://peachy-lion.cloudvent.net/articles/letter-from-norway.html
@@ -65,7 +65,7 @@ cards:
     description: >-
       Is it really possible to have a sustainable superyacht? TIDE talks to some
       of the leading yacht designers who are reimagining yacht interiors with a
-      lighter carbon footprint. 
+      lighter carbon footprint
   - image: /uploads/tide-magazine-environment-seachair-3-1.jpg
     alt: 'Fantastic Plastic: The Sea Chair '
     link: /articles/sea-chair
@@ -77,7 +77,7 @@ cards:
       In the face of an overwhelming plastic waste disaster in our oceans, a
       small design initiative called Studio Swine offers a glimmer of
       positivity, using plastic sifted from the oceans to create unique and
-      highly sought-after furniture.  
+      highly sought-after furniture
   - image: /uploads/tide-magazine-sailing-great-circle-1-1.jpg
     alt: ' The Great Circle '
     link: /articles/great-circle
@@ -85,7 +85,7 @@ cards:
       - 'Environment '
       - number 01
     title: ' The Great Circle '
-    description: ' Olympic gold sailing medallists Blair Tuke and Peter Burling on the preservation and restoration of the world’s oceans… '
+    description: ' Olympic gold sailing medallists Blair Tuke and Peter Burling on the preservation and restoration of the world’s oceans'
 content_on_image:
   mobile_direction: bottom
   desktop_direction: end
@@ -98,7 +98,7 @@ content_on_image:
   title: The Winds of Change
   description: >
     In a world grappling with the early devastating effects of a warming
-    climate, the maritime world stands apart as an oft-overlooked contributor...
+    climate, the maritime world stands apart as an oft-overlooked contributor
   button:
     text: More
     link: /articles/veer
@@ -121,7 +121,10 @@ featured_section:
         - 'Environment '
         - number 04
       title: ' The Conscious Traveller '
-      description: ' More and more, the sailing Superyacht community are looking for ways to add meaning and purpose to their travels without compromising on luxury. Here, we look at a few companies working to connect owners and sailors with conservationists, creating a more positive impact on local flora, fauna, and communities '
+      description: >-
+        We look at a few companies working to connect owners and sailors with
+        conservationists, creating a more positive impact on local flora, fauna,
+        and communities 
     - image: /uploads/tide-magazine-issue04-11th-hour.jpg
       alt: Three's a Charm
       link: /articles/11th-hour
@@ -137,7 +140,7 @@ featured_section:
         - 'Environment '
         - number 03
       title: ' Rewilding the Sea '
-      description: ' Environmental campaigner and acclaimed author Charles Clover explains how – with a little patience and optimism – simply leaving the oceans alone to heal themselves is the best thing we can do.  '
+      description: ' Environmental campaigner and acclaimed author Charles Clover explains how – with a little patience and optimism – simply leaving the oceans alone to heal themselves is the best thing we can do'
     - image: /uploads/tide-magazine-rebuilding-reefs.png
       alt: ''
       link: articles/rebuilding-reefs
@@ -145,15 +148,11 @@ featured_section:
         - 'Environment '
         - number 02
       title: Rebuilding Reefs
-      description: >+
+      description: >-
         Antigua’s white sandy beaches, azure waters, abundant coral reefs,
         seagrass and mangroves make it an impeccable destination for both novice
         and experienced sailors, a tropical destination long sought after. But
-        this is all under threat. Once thriving, the island’s ocean habitats are
-        degrading “at an alarming rate,” according to the Elkhorn Marine
-        Conservancy (EMC), a non-profit dedicated to enhancing Antigua’s marine
-        ecosystems.
-
+        this is all under threat
     - image: /uploads/tide-magazine-great-circle.png
       alt: The Great Circle
       link: articles/great-circle
@@ -163,7 +162,7 @@ featured_section:
       title: The Great Circle
       description: >+
         Olympic gold sailing medallists Blair Tuke and Peter Burling on the
-        preservation and restoration of the world’s oceans…
+        preservation and restoration of the world’s oceans
 
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions
