@@ -91,14 +91,26 @@ hide-nav: hide-nav
 </section>
 
 {% assign maintitle1 = site.data.articlecard.mainheading %}
-{% if site.data.articlecard.cards and site.data.articlecard.cards.size > 0 %}
+
+{% assign dataFor = page.type %}  // Assign dynamic value from page.type
+
+{% if dataFor and site.data[dataFor].cards and site.data[dataFor].cards.size > 0 %}
+  {% include slidernew.html 
+     cards=site.data[dataFor].cards 
+     buttontext=buttontext1 
+     maintitle=maintitle1 
+     show_arrows=true
+  %}
+{% endif %}
+
+<!-- {% if site.data.articlecard.cards and site.data.articlecard.cards.size > 0 %}
   {% include slidernew.html 
      cards=site.data.articlecard.cards 
      buttontext=buttontext1 
      maintitle=maintitle1 
      show_arrows=true
   %}
-{% endif %}
+{% endif %} -->
 
 
   {% include image-with-content.html content_on_image=site.data.blog.image_with_text1 %}
