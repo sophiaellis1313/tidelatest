@@ -8,7 +8,7 @@ posts:
     title: 'Drumfire: the Boat to Beat '
     short_description: >
       The first of Andre Hoek’s Truly Classic 78s has come into her own Down
-      Under following decades spent in the shadow of others in Europe. 
+      Under following decades spent in the shadow of others in Europe
     type: Sailing
     issue_no: Number 13
     url: articles/Drumfire-the-boat-to-beat
@@ -27,7 +27,7 @@ cards:
       Compromise is a part of life – except when you have a 108’, smart,
       comfortable Superyacht that simultaneously handles with the daintiness of
       a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
-      2025 – explain how she does it.
+      2025 – explain how she does it
   - image: /uploads/jeff-brown-jcb24539-min.jpg
     alt: ''
     link: /articles/A-Perfect-refit.html
@@ -39,7 +39,7 @@ cards:
       What are the benefits and pitfalls of having a yacht refresh, and where
       should you go? Miriam Cain talks to various experts, including the people
       behind Ravenger, winner of the refit category at this year’s World
-      Superyacht Awards, to find out.
+      Superyacht Awards, to find out
 
 
   - image: /uploads/dsc01506-1-min-1.jpg
@@ -51,7 +51,7 @@ cards:
     title: Wider Wake
     description: >+
       High speed multihulls have the ability to broaden your horizons in the
-      most extraordinary way. Sea Tilt, a Gunboat 68, is a case in point.
+      most extraordinary way. Sea Tilt, a Gunboat 68, is a case in point
 
 
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
@@ -61,7 +61,7 @@ cards:
       - ' Sailing '
       - number 12
     title: ' On Point:  Supersloop Sarissa '
-    description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness. We meet her designer Malcolm McKeon and Captain Iain Cook to find out her secret '
+    description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness'
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
     alt: Three's a Charm
     link: /articles/wind-is-power
@@ -83,7 +83,7 @@ content_on_image:
   description: >-
     Imagine cruising at 18 knots, hard pressed under sail, in total silence. For
     most of us fortunate enough to have ever sailed at this speed, we know this
-    is a pipe dream...
+    is a pipe dream
   button:
     text: More
     link: articles/nailaya
@@ -98,17 +98,11 @@ featured_section:
         - sailing
         - number 11
       title: Competitive Spirits
-      description: >+
+      description: >-
         Some boats provoke stronger reactions than others. Few more so than the
         aptly named Spirit Yachts, whose flush decks, gleaming brightwork and
         extensive overhangs anchor them in the aesthetic of the Golden Age of
-        sail. So, when the two largest Spirits in the fleet came head-to-head
-        during the summer of 2024, the emotion was palpable. “It’s an experience
-        that I will never forget – I still haven’t metabolised it yet,”
-        exclaimed the owner of 2020-born Geist (32.9m) as he stepped ashore
-        after two days of match racing in Sweden. Gaia (30.6m) was the other
-        protagonist – the more mature of the two, having been launched in 2007.
-
+        sail
     - image: >-
         /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-maximus-1.jpg
       alt: Maximus The Ocean Gladiator
@@ -122,7 +116,7 @@ featured_section:
         died with the Romans. But you’d be wrong. Last year, Vitters shipyard
         delivered a striking 59m ketch that has been tearing up the yachting
         racecourse ever since. This is the story of Maximus, a gladiator of our
-        times.
+        times
 
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-gunboat-2-1.jpg
       alt: ' Building a Brand: Gunboat '
@@ -164,14 +158,11 @@ featured_section:
         - sailing
         - number 08
       title: Ribelle with a Cause
-      description: >+
+      description: >-
         Designing a beautiful yacht takes more than just technical nous; the
         naval architect must master the fine art of achieving equilibrium. That
         delicate precarious struggle between speed, comfort, style and
-        practicality. The designer is always walking a tightrope as they try to
-        find the magic formula. It’s a fine art and only a true artist can
-        create a masterpiece.
-
+        practicality
     - image: /uploads/aa-0013.jpg
       alt: Asahi's Secret
       link: articles/asahi
@@ -179,17 +170,11 @@ featured_section:
         - sailing
         - number 08
       title: Asahi's Secret
-      description: >+
+      description: >-
         What makes one charter sailing yacht more appealing than another? Is it
         the crew, amenities, food or destination? Or all of that, in equal
         measure? Whatever the exact recipe, the ketch-rigged 56-metre Perini
-        Navi, Asahi, seems to have struck somewhere close to the right balance.
-        Beginning life in 2009 with a renowned Ron Holland racing design and
-        timeless Remi Tessier interiors, the award-winning boat is part of the
-        56-metre sailing series. Today, she is fresh from an extensive refit and
-        bringing a new lease of life to the Caribbean circuit. Fittingly, her
-        name, translated from Japanese, means ‘morning sun’.
-
+        Navi, Asahi, seems to have struck somewhere close to the right balance
     - image: >-
         /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.jpg
       alt: A Tale of Two Owners
@@ -198,15 +183,12 @@ featured_section:
         - sailing
         - number 08
       title: A Tale of Two Owners
-      description: >+
+      description: >
         This is the story of a couple of boat-owning sailors, plus two designers
         and – the main characters and plot – two extraordinary yachts and the
         sailing pleasure they bring. One of these remarkable sloops was built in
         Turkey, the other in the Netherlands, but they both share a classic look
-        that is allied to distinctly modern handling, courtesy of what could be
-        called the Dutch school of design. And TIDE shot each of them sailing
-        off Nelson’s Dockyard, Antigua.
-
+        that is allied to distinctly modern handling
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.jpg
       alt: 'Wendy’s House: Elfje'
@@ -215,16 +197,11 @@ featured_section:
         - sailing
         - number 07
       title: 'Wendy’s House: Elfje'
-      description: >+
+      description: >-
         Wendy Schmidt’s first sailing experience did little to foreshadow the
         role that boats would later come to play in her life. In fact, I can
         almost hear her shrugging when I ask her about it. “I have a memory from
-        my childhood when I was nine years old,” she recounts. “We took a family
-        trip to Bermuda – it was the only aeroplane trip we ever took. My three
-        brothers were in the cockpit of a 20ft sailboat on some sort of tourist
-        experience. I’m sitting behind – my head is tossed back and I’m super
-        relaxed. I was having a different experience to them.”
-
+        my childhood when I was nine years old,” she recounts
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-canova2.jpg
       alt: Creating Canova
@@ -253,7 +230,7 @@ featured_section:
         one in this range of high-performance luxury cruisers from the South
         African yard and the first boat they have built that has been
         specifically conceived and engineered for hybrid diesel-electric
-        propulsion. The results are compelling.
+        propulsion
 
     - image: >-
         /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
@@ -263,14 +240,12 @@ featured_section:
         - sailing
         - number 06
       title: The Seas Less Sailed
-      description: >+
+      description: >-
         “That couldn’t be further from the case on this trip; the whole area is
         just packed with nature. You see bears, tons of whales and we’ve been
         catching lots of Ling cod, salmon, rockfish, pollock, yellow tail, black
         cod, crabs, prawns, squat lobster (especially delicious) and various
-        other fish. We may be sailing a luxury yacht, but this is real
-        ‘backwoods, living-off-the-sea’ stuff.”
-
+        other fish
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
       alt: Why Not!
@@ -279,14 +254,10 @@ featured_section:
         - sailing
         - number 05
       title: Why Not!
-      description: >+
+      description: >-
         Owning a yacht can be about so many things: often, the actual art of
         going sailing is not top of the list. Yet a boat like the Y9
-        demonstrates precisely why it should be. In addition to being elegant
-        and artfully furnished, this 97’ vessel has a habit of reminding you how
-        joyous and vital the act of unfurling sails, pointing the bow towards
-        the horizon and leaning into the wind can be.
-
+        demonstrates precisely why it should be
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
       alt:
@@ -295,14 +266,11 @@ featured_section:
         - sailing
         - number 05
       title: The Eagle Has Landed
-      description: >+
+      description: >-
         That’s already changing, with the advent of ambitious new owners who
         want to put the yacht through her paces. They’ve spent the winter in the
         Caribbean and have a programme of refit work to transform her into a
-        family yacht. So, what better opportunity to delve back into the story
-        of this undoubted masterpiece, quietly snuck out under the blanket of
-        lockdown.
-
+        family yacht
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.jpg
       alt: 'Ghosted: In Good Company'
@@ -311,15 +279,12 @@ featured_section:
         - sailing
         - number 05
       title: 'Ghosted: In Good Company'
-      description: >+
+      description: >-
         A long period in the hands of a very private owner and an even longer
         spell under a single captain probably has more to do with this than
         anything occult. With Michael “Hutch” Hutchinson’s hand on the helm for
         more than 16 years, Ghost quietly criss-crossed the globe, racking up
-        experiences of which most can only dream. Now in the hands of a new
-        owner and captain, she now begins a fresh chapter, and Hutch is at last
-        able to talk about the yacht’s rare attributes.
-
+        experiences of which most can only dream
     - image: /uploads/tide-magazine-issue04-two-ketches-2-1.jpg
       alt: all | sailing number 04 A Tale of Two Ketches
       link: articles/two-ketches
@@ -333,7 +298,7 @@ featured_section:
         J-Class era, from 1929 to 1939, is often referred to as the premier
         decade of Superyacht racing. Their designers could not have imagined
         then that well over one hundred years later, their creations would still
-        be drawing admiring looks and causing Billionaires to swoon.
+        be drawing admiring looks and causing Billionaires to swoon
     - image: /uploads/TIDE-Magazine-issue04-pot-of-gold-1.jpg
       alt: 'A Pot of Gold: J Class Rainbow'
       link: articles/a-pot-of-gold
@@ -341,19 +306,11 @@ featured_section:
         - sailing
         - number 04
       title: 'A Pot of Gold: J Class Rainbow'
-      description: >+
+      description: >-
         Possessing both classic lines and thoroughbred racing credentials, a J
         in some ways epitomises the high romance of yachting. In fact, the
         J-Class era, from 1929 to 1939, is often referred to as the premier
-        decade of Superyacht racing. Their designers could not have imagined
-        then that well over one hundred years later, their creations would still
-        be drawing admiring looks and causing Billionaires to swoon. Whether an
-        original yacht which has been rebuilt for the modern-era, or replica
-        incarnations reconstructed more recently from 1930s designs, a number of
-        these magnificent vessels are still racing at a serious level in classic
-        yacht regattas around the world. One such boat is the 2012-built replica
-        J-Class Rainbow.
-
+        decade of Superyacht racing
     - image: /uploads/glclzrga-1.jpg
       alt: ' A Global Range: The Schooner '
       link: /articles/a-global-range-the-schooner
@@ -361,7 +318,7 @@ featured_section:
         - ' Sailing'
         - number 03
       title: ' A Global Range: The Schooner '
-      description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience. '
+      description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience'
     - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
       alt: ' A Touch of Nordic Cool - Sørvind '
       link: /articles/sorvind
@@ -369,7 +326,7 @@ featured_section:
         - 'Sailing I '
         - Number 03
       title: ' A Touch of Nordic Cool - Sørvind '
-      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind. '
+      description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind'
     - image: /uploads/deiz3z3k-1.jpeg
       alt: 'Nautor Swan: Innovating through tradition'
       link: articles/nautor-swan
@@ -377,14 +334,12 @@ featured_section:
         - sailing
         - number 03
       title: 'Nautor Swan: Innovating through tradition'
-      description: >+
+      description: >-
         Redefining high-performance cruising, the new generation of Swan 98
         offers speed and luxury. Just as comfortable crossing oceans as hopping
         between shallow tropical islands, racing around headlands or navigating
         the fjords, the Finnish-built yachts are widely touted as the best of
-        all worlds. TIDE speaks with Nautor Swan’s team to find out what the 98
-        is all about.
-
+        all worlds
     - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
       alt: ' The Adventure Squad '
       link: /articles/sonny
@@ -400,7 +355,7 @@ featured_section:
         - 'Sailing '
         - number 02
       title: 'The Pocket Superyacht '
-      description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht. '
+      description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht '
     - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
       alt: ' Perseverance on Charter '
       link: /articles/perseverance
@@ -408,7 +363,7 @@ featured_section:
         - Sailing
         - number 02
       title: ' Perseverance on Charter '
-      description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere. '
+      description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere'
     - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
       alt: The Rise of the Supersloop
       link: articles/supersloop
@@ -420,7 +375,7 @@ featured_section:
         If the enduring arms race in the motor yacht world is anything to go by,
         bigger is better when it comes to luxury yachting. But it’s not just
         motor yachts that are increasing in size; the rise of the super sloop is
-        shaping our horizon.
+        shaping our horizon
 
     - image: /uploads/tide-magazine-sailing-the-cat-is-back-1-1.jpg
       alt: The Cat is Black
@@ -432,7 +387,7 @@ featured_section:
       description: >+
         The insatiable desire for more than one hull continues unabated and
         whilst the industry seeks to meet demand, one yard at the sharp end of
-        the market is already raising the bar.
+        the market is already raising the bar
 
     - image: /uploads/lsr8twys.jpg
       alt: ' A True Classic '
@@ -441,7 +396,7 @@ featured_section:
         - Sailing
         - number 01
       title: ' A True Classic '
-      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings. '
+      description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings'
     - image: /uploads/download-51.jpg
       alt: Sailing in the City - New York
       link: articles/new-york
@@ -449,14 +404,10 @@ featured_section:
         - sailing
         - number 01
       title: Sailing in the City - New York
-      description: >+
+      description: >-
         While the industrial waterways of New York City might not be the typical
         backdrop for a luxury yacht, sailing into New York Harbour is a magical
-        experience that should be on every boat owner’s bucket list. Under 1000
-        nautical miles from the Caribbean and just over 3000 from the
-        Mediterranean, the city offers an extra special welcome to those
-        arriving from the Atlantic Ocean.
-
+        experience that should be on every boat owner’s bucket list
     - image: /uploads/tide-magazine-sailing-modern-ketch-1-1.jpg
       alt: The Modern Ocean Ketch
       link: articles/modern-ketch
@@ -468,7 +419,7 @@ featured_section:
         The heritage of the modern ocean ketch comprises many of the world’s
         most iconic yachts and, whilst the latest creations are larger, faster
         and more technologically advanced, they continue to prove why the twin
-        rig concept ticks all the boxes.
+        rig concept ticks all the boxes
 
     - image: /uploads/futureisnow.jpeg
       alt: The Future is Now
@@ -477,13 +428,11 @@ featured_section:
         - sailing
         - number 01
       title: The Future is Now
-      description: >+
+      description: >-
         At the dawn of the early Twenties, we find ourselves on the threshold of
         a new era in sailing; the America’s Cup enacted at speeds in excess of
         40 knots and the drive towards environmental responsibility set against
-        a backdrop of ever larger motor yacht builds. So, what does the future
-        hold for the humble sailing yacht?
-
+        a backdrop of ever larger motor yacht builds
 image_with_text1:
   title: Subscribe to Our Latest Issue — or Browse and Purchase Past Editions.
   description:
