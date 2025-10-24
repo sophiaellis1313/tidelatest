@@ -92,11 +92,12 @@ hide-nav: hide-nav
 
 {% assign maintitle1 = site.data.articlecard.mainheading %}
 
-{% assign dataFor = page.type %}  // Assign dynamic value from page.type
+{% assign dataFor = page.type | downcase %}
+{% assign dynamicCards = site.data[dataFor].cards %}
 
-{% if dataFor and site.data[dataFor].cards and site.data[dataFor].cards.size > 0 %}
+{% if dynamicCards and dynamicCards.size > 0 %}
   {% include slidernew.html 
-     cards=site.data[dataFor].cards 
+     cards=dynamicCards
      buttontext=buttontext1 
      maintitle=maintitle1 
      show_arrows=true
