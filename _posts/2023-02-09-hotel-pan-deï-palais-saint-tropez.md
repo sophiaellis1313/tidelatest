@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/hotel-pan-deï-palais
-title: 'HOTEL: Pan Deï Palais, Saint Tropez'
+title: 'Hotel: Pan Deï Palais, Saint Tropez'
 type: Travel
 byline: 'WORDS: Phoebe Hunt and Louise Long | IMAGES: Louise Long'
 issue_no: number 02
