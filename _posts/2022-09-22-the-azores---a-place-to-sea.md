@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/azores
-title: The Azores - A Place to Sea
+title: 'The Azores: A Place to Sea'
 type: Travel
 byline: 'WORDS: Chadner Navarro & Roxanne Hughes | PHOTOS: Damir Babacic'
 issue_no: number 01

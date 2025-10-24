@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/new-york
-title: Sailing in the City - New York
+title: 'Sailing in the City: New York'
 type: Travel
 byline: 'WORDS: Bryony McCabe | PHOTOS: Cory Silken'
 issue_no: number 01
