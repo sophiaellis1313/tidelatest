@@ -9,7 +9,7 @@ posts:
     short_description: >
       The sun-soaked isles are renowned for being naturally beautiful,
       produce-rich and ripe with history – but now they’re also becoming known
-      for their eco-hotels, cutting-edge architecture and groundbreaking art...
+      for their eco-hotels, cutting-edge architecture and groundbreaking art
     type: Travel
     issue_no: Number 13
     url: /articles/Hidden-Gems-Greek-Islands.html
@@ -27,7 +27,7 @@ cards:
     description: >-
       From a Michelin-starred Chef’s scene-changing concoctions and drive to run
       a zero-waste kitchen to a local couple’s much-loved new taverna set under
-      some apricot trees.
+      some apricot trees
   - image: /uploads/image00014.jpeg
     alt: 'Checking in: Skinopi Lodge'
     link: articles/Checking-in-Skinopi-Lodge
@@ -38,7 +38,7 @@ cards:
     description: >+
       Go back to soothingly simpler times in comfort via a stay at one of these
       eco-chic boathouse-villas, located on arguably the most stunning of all
-      the Cyclades islands. Owner Nausika Georgiadou gives us the downlow.
+      the Cyclades islands. Owner Nausika Georgiadou gives us the downlow
 
   - image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
     alt: Sailing the Northern Dodecanese
@@ -50,7 +50,7 @@ cards:
     description: >+
       Welcome to the top of the “twelve islands”, an archipelago revered for its
       storied past, secret bays and sense of discovery. Director and founder of
-      Sailing Collective charters, Dayyan Armstrong shares the local intel.
+      Sailing Collective charters, Dayyan Armstrong shares the local intel
 
   - image: /uploads/download-9.jpg
     alt: ' Sailing Cuba '
@@ -81,7 +81,7 @@ content_on_image:
   description: >-
     Salty, sun-kissed dining on two sides of the South American continent: we
     head to Uruguay and Colombia to check out a pair of establishments that are
-    equally iconic, but in different ways.
+    equally iconic, but in different ways
   button:
     text: More
     link: /articles/high-low-south-america
@@ -95,14 +95,11 @@ featured_section:
         - travel
         - number 12
       title: Sailing Cuba
-      description: >+
+      description: >-
         Author, photographer and long-time Cubanophile and specialist Cynthia
         Carris Alonso describes the island nation as being “in a surreal state,
         paused in time with classic cars, neoclassical architecture, antiques
-        and other ubiquitous homages to the past. However, if one looks into the
-        soul of Cuba today, one finds a rapidly changing and developing culture
-        of entrepreneurship, bubbling with hope, excitement and opportunity.”
-
+        and other ubiquitous homages to the past
     - image: /uploads/checkin-5-min-1.png
       alt: ''
       link: articles/refugia-chiloe
@@ -110,14 +107,12 @@ featured_section:
         - travel
         - number 12
       title: 'Checking in: Refugia Chiloé'
-      description: >
+      description: >-
         There’s magic in the air at Refugia Chiloé. Early on my first morning,
         surrounded by the scent of damp earth on the hotel’s dew-covered
         backyard trail, a hummingbird stops to peer at me with beady black eyes,
         iridescent feathers shimmering in the pale light, wings a blur as it
-        hovers in my eyeline. It’s gone in an instant but the image remains, a
-        harbinger of the many precious moments that await guests at this 24-room
-        hotel set on the edge of the remote
+        hovers in my eyeline
     - image: /uploads/download-12.jpg
       alt: ''
       link: articles/posada-ayana
@@ -130,9 +125,7 @@ featured_section:
         Ignacio is located. The little fishing village, relatively unknown until
         recently, has a slower pace of life. In winter, the population is less
         than 300 permanent residents, according to the most recent census. In
-        summer, however, the population swells. Historically, the town welcomed
-        South American elite – mostly from Argentina – today, anyone in the
-        know, from anywhere, stops by.
+        summer, however, the population swells
 
     - image: /uploads/download-13.jpg
       alt: 'Sailing Stockholm '
@@ -141,16 +134,11 @@ featured_section:
         - travel
         - number 11
       title: Sailing Stockholm
-      description: >+
+      description: >-
         An ethereal group of 30,000 islands, the Stockholm archipelago – called
         the skärgården by locals – is a little piece of bliss in the Baltic Sea.
         These lands are perfect for slow travel: long days spent in the
-        outdoors, living by the gentle rhythms of the sea and the sun.
-        Itineraries here are often left by the wayside, given the number of
-        possible stops; anchorages abound, as do pretty views and opportunities
-        to get out and explore, so take this as a rough guide for you to play
-        with.
-
+        outdoors, living by the gentle rhythms of the sea and the sun
     - image: /uploads/download-14.jpg
       alt: ''
       link: articles/project-o
@@ -158,21 +146,13 @@ featured_section:
         - travel
         - number 11
       title: 'Hidden Gems: Project Ö, Skjulskäret'
-      description: >+
+      description: >-
         Those few days alone on tiny Skjulskäret, a measle of granite and gneiss
         among the 40,000 or so islands of the Finnish archipelago, feel like a
         reverie now. The slow days my partner and I spent in the gable-roofed,
         Monopoly-esque timber house of Project Ö (“Project Island”): cooking
         beef and foraged mushroom pot pies; exploring our rocky, forested little
-        universe; watching spiders weave jewel-drop webs that wobbled in the
-        same winds that whooshed over the sea, where the Gulf of Bothnia meets
-        the Gulf of Finland and the Baltic Sea. During sauna sessions
-        interspersed with goosebumped leaps from the little jetty into the
-        frigid water, we’d see sailing boats in the distance beyond other tiny
-        islands. But real life felt like an almost absurd abstraction; something
-        that was happening somewhere else, as the Mondaine clock rotated
-        silently in our little world.
-
+        universe
     - image: >-
         /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-hermitage-2.jpg
       alt: ''
@@ -181,16 +161,12 @@ featured_section:
         - travel
         - number 11
       title: 'Checking In: Hermitage Bay, Antigua'
-      description: >+
+      description: >-
         Situated at the foot of a hill on Antigua’s unspoilt west coast,
         Hermitage Bay has long held a reputation for setting the bar in barefoot
         luxury. Now, under the leadership of new owner Daniel Shamoon of Luxury
         Hotels Partners (LHP) – who is also part-owner of Nobu on Antigua’s twin
-        island Barbuda – the resort has entered a thoughtful next chapter.
-        Following an extensive refurbishment, yet with its natural environment
-        preserved, Hermitage Bay is poised to redefine what travellers can
-        expect from a Caribbean retreat.
-
+        island Barbuda – the resort has entered a thoughtful next chapter
     - image: /uploads/download-15.jpg
       alt: ' Checking In: Bawah Reserve, Indonesia '
       link: /articles/bawah-reserve
@@ -214,17 +190,11 @@ featured_section:
         - travel
         - number 09
       title: 'The High Low: Ibiza'
-      description: >+
+      description: >-
         Ibiza’s reputation precedes it: a sun-drenched island paradise
         synonymous with a vibrant, bohemian spirit. This same energy infuses its
         restaurant scene, where talented Chefs are reimagining what traditional
-        Ibizan food is in 2024. Today, global influences weave seamlessly with
-        local flavours and produce; fresh-caught seafood plucked straight from
-        the Mediterranean mingles with sun-ripened fruits, plump vegetables and
-        natural wines. This typical dedication to local bounty translates into
-        dishes that are not only wonderfully satisfying, but also deeply
-        connected to the island’s identity.
-
+        Ibizan food is in 2024
     - image: /uploads/download-17.jpg
       alt: ' The High Low: Elba '
       link: /articles/high-low-elba
@@ -240,15 +210,11 @@ featured_section:
         - travel
         - number 09
       title: 'Sun Kissed Shores: The Balearics'
-      description: >+
+      description: >-
         As is the way with many Mediterranean isles, the Mallorcan heritage is a
         tapestry woven by invaders and ingredients, occupations and innovations.
         The complex layers of its past are seen in the architecture, the
-        agriculture, the traditions and, of course, in the food. The Balearic
-        Islands, representing a mid-point between Africa, Spain, France and
-        Italy, were particularly sought after and consequently jostled from one
-        ruling power to the next.
-
+        agriculture, the traditions and, of course, in the food
     - image: /uploads/download-22.jpg
       alt: ''
       link: articles/hidden-gems-menorca
@@ -256,14 +222,10 @@ featured_section:
         - travel
         - number 09
       title: 'Hidden Gems: Menorca'
-      description: >+
+      description: >-
         Menorca’s old soul is etched with stories of civilisations past. The
         tranquil isle has been a coveted prize, ruled by everyone from the
-        Carthaginians, Romans and Moors to the French and the British. Each era
-        left an indelible mark, yet the Menorquís retain an independent spirit,
-        protective of their paradisiacal home and traditions passed down over
-        generations.
-
+        Carthaginians, Romans and Moors to the French and the British
     - image: /uploads/download-23.jpg
       alt: ''
       link: articles/petunia-hotel
@@ -271,15 +233,13 @@ featured_section:
         - travel
         - number 09
       title: 'Checking In: Petunia Hotel, Ibiza'
-      description: >+
+      description: >-
         Ibiza is one of those mystical, mythical places. It conjures up images
         of salty, sea-wet skin, warm, sultry breezes and pulsing, airy
         electronic beats. But there are two sides to this hedonists’ paradise:
         the glittery part where Pacha reigns supreme and primal bass beats on a
         soul-deep level, where revellers embrace every whim with all Ibiza has
-        on offer. Then there’s the peaceful, indulgent side – at Petunia Hotel
-        by Beaumier.
-
+        on offer
     - image: /uploads/download-24.jpg
       alt: ''
       link: articles/the-brando
@@ -287,18 +247,12 @@ featured_section:
         - travel
         - number 08
       title: 'The High Low: French Polynesia'
-      description: >+
+      description: >-
         As you’d expect for an archipelago nation, much of French Polynesia’s
         gastronomic tradition is influenced by the sea – and not just thanks to
         the abundance of fresh fish. After the French colonisation in 1842,
         these islands saw waves of immigration from all over the world, with a
-        significant influx from Asia. Coupled with an array of colourful produce
-        – think coconut, guava, and papaya – French Polynesia’s cuisine is
-        bright, punchy and layered with delicate, complex flavours. This
-        dichotomy – soft yet strong, bold yet subtle – creates a culinary
-        experience that’s reflective of the region’s diversity and cultural
-        fusion.
-
+        significant influx from Asia
     - image: /uploads/download-25.jpg
       alt:
       link: articles/tetiaroa
@@ -306,13 +260,10 @@ featured_section:
         - travel
         - number 08
       title: 'Hidden Gems: Teti’aroa, French Polynesia'
-      description: >+
+      description: >-
         Thirty miles north of Tahiti, an ethereal atoll surrounded by opaline
         waters comes into view. Located in the Windward group of the Society
-        Islands, Teti’aroa was once the vacation spot for Tahitian royalty.
-        Today, they are under a 99-year lease by Marlon Brando’s estate and home
-        to The Brando, an upscale eco-friendly resort.
-
+        Islands, Teti’aroa was once the vacation spot for Tahitian royalty
     - image: /uploads/download-26.jpg
       alt: ''
       link: articles/french-polynesia
@@ -320,17 +271,11 @@ featured_section:
         - travel
         - '08'
       title: French Polynesia
-      description: >+
+      description: >-
         The islands of French Polynesia are scattered across an area roughly the
         size of Western Europe, distributed throughout several distinct
         archipelagos each with their own unique landscapes, ecosystems and
-        cultures. From the wild mountainous islands of the Marquesas, to the
-        sunken atolls of the Tuamotus, this is truly a seafarer’s paradise.
-        Pristine coral reef, abundant marine life, lush green mountains and a
-        proud culture steeped in ancient Polynesian traditions – these islands
-        have so very much to offer. Indeed – with more than 120 different
-        islands and atolls, you could spend years exploring.
-
+        cultures
     - image: /uploads/download-27.jpg
       alt: ''
       link: articles/le-tahaa
@@ -338,17 +283,11 @@ featured_section:
         - travel
         - number 08
       title: 'Checking In: Le Taha''a'
-      description: >+
+      description: >-
         French Polynesia is, for many, the ultimate in escapism. Tucked away
         islands, sultry, warm sunlight, sugar-soft sand and a somehow powerfully
         restorative culture – these are all the things that beckon visitors to
-        this far-away land. The food happens to be exceptional too, and many
-        also love the fact that a lot of its locations offer little in the way
-        of phone reception – a rare benefit in today’s hyperconnected world –
-        resulting in the archipelago nation becoming known for off-the-grid
-        retreats, the kind that truly allow people to disengage from the
-        everyday and relearn how to relax.
-
+        this far-away land
     - image: /uploads/download-28.jpg
       alt: ''
       link: articles/kamalame-cay
@@ -361,8 +300,7 @@ featured_section:
         island in the Andros archipelago, the Bahamas. Swept away by the
         untouched charm of the location – separated by a shallow channel from
         the sparsely-populated Andros Island and a mere mile away from the
-        world’s third largest Great Barrier Reef – their hearts soon set on
-        buying the 96-acre stretch of sand.
+        world’s third largest Great Barrier Reef 
 
     - image: /uploads/download-29.jpg
       alt: ' Bermuda to the Bahamas '
@@ -408,10 +346,7 @@ featured_section:
         beaches, turquoise waters and a blend of natural beauty and in-depth
         history combine to create an idyllic playground. But beyond her
         breathtaking landscapes – between a dash of glamour and a splash of
-        adventure – Corsica offers a refined Mediterranean lifestyle with
-        charming coastal towns and world-class dining to explore. In the midst
-        of all this is Les Regalia, where the island’s ancient traditions
-        intertwine with a modern, minimalist feel.
+        adventure
     - image: /uploads/download-33.jpg
       alt: ''
       link: articles/cyclades-hidden-gems
@@ -419,18 +354,11 @@ featured_section:
         - travel
         - number 05
       title: 'Hidden Gems: The Cyclades'
-      description: >+
+      description: >-
         For decades, sailors have set a course for the Cyclades, but not only
         for its myriad cultural attractions, sandy beaches, hidden coves and
         gin-clear seas. In spite of a predominantly dry, rocky landscape, this
-        island region grows some spectacularly delicious and versatile produce,
-        such as Santorini’s cherry tomato and crisp katsouni cucumber, and
-        Serifos’ wild fennel and capers. These fine raw materials lend
-        themselves to a wealth of traditional dishes that, thankfully, can still
-        be found at tavernas and reinterpreted at high end restaurants. Here, we
-        explore dining at two destinations, one well-known and the other less
-        so, which are worth incorporating into your Cycladic sojourn.
-
+        island region grows some spectacularly delicious and versatile produce
     - image: /uploads/download-34.jpg
       alt: ''
       link: articles/maine
@@ -441,7 +369,7 @@ featured_section:
       description: >+
         Clustered with classic sailboats and wooden Windjammer schooners that
         navigate the winding channels as they have been doing for hundreds of
-        years, Maine is no stranger to the nautical way of life.
+        years, Maine is no stranger to the nautical way of life
 
     - image: /uploads/download-35.jpg
       alt: 'Checking In: Bill & Coo, Mykonos'
@@ -455,7 +383,7 @@ featured_section:
         every mile of the best-known island in the Cyclades reveals yet more
         magical corners and luxury hangouts. This makes it all the more
         challenging for a newcomer to do something differently, and carve out an
-        individually tailored experience.
+        individually tailored experience
 
     - image: /uploads/download-36.jpg
       alt: ''
@@ -464,14 +392,11 @@ featured_section:
         - travel
         - number 04
       title: Hotel Excelsior Dubrovnik
-      description: >+
+      description: >-
         It all started with a photograph. Flicking through an album of
         whimsical, white-washed photographs by Natalie Obradovich, who shot our
         Italian hidden gems along the Amalfi Coast in the first issue of TIDE, I
-        stumbled upon this image one grizzly January evening. It was of an
-        aquamarine, marble-lined swimming pool built into the rocks, the bay of
-        Dubrovnik stretching out in the foreground.
-
+        stumbled upon this image one grizzly January evening
     - image: /uploads/download-37.jpg
       alt: ''
       link: articles/hidden-gems-croatia
@@ -479,22 +404,12 @@ featured_section:
         - travel
         - number 04
       title: 'Hidden Gems: Croatia and Montenegro'
-      description: >+
+      description: >-
         One of the four historical regions of Croatia, the Dalmatian Coast is
         fast surpassing Greece, Italy and the South of France as far as the
         elite sailing community are concerned. This section of the famously
         beautiful Adriatic coastline has hundreds of sandy islands, walled
-        citadels, and among the most spectacular turquoise waters in Europe. The
-        region is also home to some of the most famous cities, towns and tourist
-        attractions in Croatia, including Dubrovnik, Šibenik, Split and Zadar,
-        as well as an array of UNESCO World Heritage Sites. Aside from these
-        main attractions, though, there are still countless hidden gems to be
-        found if you know where to look. Just down the coast in little
-        Montenegro, meanwhile, adventurous sailors are rewarded with steep,
-        dramatic mountain landscapes sloping straight down into the water. The
-        sea here is cool, clean and impossibly deep blue, a world apart from the
-        Italian coastline just a short hop across the Adriatic sea.
-
+        citadels, and among the most spectacular turquoise waters in Europe
     - image: /uploads/download-38.jpg
       alt: ''
       link: articles/finding-fjorland
@@ -502,14 +417,11 @@ featured_section:
         - travel
         - number 04
       title: Finding Fjorland
-      description: >+
+      description: >-
         Arriving in Norway by boat often feels like half the battle won, after a
         long passage across the choppy North Sea. Boats coming from outside the
         Schengen zone should head into one of the dozen-or-so ports of entry –
-        perhaps the easiest being Tanager and Bergen on the crinkly west coast.
-        These are also the best places to make crew changes or take on guests,
-        and for replenishing the fridges.
-
+        perhaps the easiest being Tanager and Bergen on the crinkly west coast
     - image: /uploads/3dcysxj8-1.jpg
       alt: ''
       link: articles/colibri-antigua
@@ -517,16 +429,11 @@ featured_section:
         - travel
         - number 03
       title: A French-Créole sweet spot - Colibri, Antigua
-      description: >+
+      description: >-
         Even returning visitors can’t help but be taken aback by the scene that
         greets them at Colibri: a lush garden shaded by 60 year-old Flamboyant
         trees, a ‘cabana’ bar, and an elegant wooden-clad restaurant, housed in
-        one of the oldest wooden cottages in the village. Despite its location
-        in the heart of Antigua’s historic English Harbour, Colibri is as
-        secluded as it is special – treasured not only for its beautiful
-        setting, but for its refined menu, personal charm, and of course, the
-        peerless cocktail list.
-
+        one of the oldest wooden cottages in the village
     - image: /uploads/download-41.jpg
       alt: ' The Nature Island: Secret Bay, Dominica '
       link: /articles/secret-bay-dominica
@@ -534,7 +441,7 @@ featured_section:
         - ' Travel I number 03'
         - number 03
       title: ' The Nature Island: Secret Bay, Dominica '
-      description: ' Discover eco-luxury at its finest on the verdant Caribbean island of Dominica, where night snorkelling, waterfall hiking and stargazing and are a way of life. '
+      description: ' Discover eco-luxury at its finest on the verdant Caribbean island of Dominica, where night snorkelling, waterfall hiking and stargazing and are a way of life'
     - image: /uploads/download-42.jpg
       alt: ' Hidden Gems: St Vincent and The Grenadines '
       link: /articles/hidden-gems-st-vincent-the-grenadines
@@ -542,7 +449,7 @@ featured_section:
         - ' Travel '
         - number 03
       title: ' Hidden Gems: St Vincent and The Grenadines '
-      description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season. '
+      description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season'
     - image: /uploads/download-43.jpg
       alt: ' HOTEL: Pan Deï Palais, Saint Tropez '
       link: /articles/hotel-pan-deï-palais
@@ -550,7 +457,7 @@ featured_section:
         - ' Travel '
         - number 02
       title: ' HOTEL: Pan Deï Palais, Saint Tropez '
-      description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835.  '
+      description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835'
     - image: /uploads/download-44.jpg
       alt: ' Hidden Gems: St Tropez & the Côte d’Azur '
       link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur
@@ -558,7 +465,7 @@ featured_section:
         - ' Travel '
         - ' number 02'
       title: ' Hidden Gems: St Tropez & the Côte d’Azur '
-      description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques. But beyond this sparkling veneer, there are secret beach cafes and snorkelling spots to be uncovered in and around the Côte d''Azur jewel. Balancing the best of rugged Provence and Riviera dazzle, the Gulf and its environs are blessed with as much tranquillity and authenticity as you’re willing to seek out. What remains at the heart of it all? The sea. In all its worshipped turquoise glory.  '
+      description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques'
     - image: /uploads/download-46.jpg
       alt: ''
       link: articles/pura-verde
@@ -569,7 +476,7 @@ featured_section:
       description: >+
         The pristine national parks of Costa Rica’s rugged Pacific Coast offer
         dramatic scenery, sandy beaches, some sweet surf spots, and wildlife at
-        every turn.
+        every turn
 
     - image: /uploads/download-47.jpg
       alt: ''
@@ -583,7 +490,7 @@ featured_section:
         Stuart M Boliter to bring you to our favourite destinations in Panama
         and across the Pacific: luminescent turquoise waters, world class
         surfing, impossibly white beaches and myriad tiny islands teeming with
-        sea life.
+        sea life
 
     - image: /uploads/download-48.jpg
       alt: ''
@@ -592,14 +499,10 @@ featured_section:
         - travel
         - number 01
       title: Island Five Spice
-      description: >+
+      description: >-
         If armed with fearless curiosity and a sailing yacht as a chariot, the
         world opens up in unimaginable ways. Taking to the open seas to chase
-        the unfamiliar can lead to discoveries otherwise inaccessible.
-        Considering the excitement and hunger for adventure that grip today’s
-        intrepid sailors, a getaway to islands untrodden could be the perfect
-        antidote to a year spent in lockdown.
-
+        the unfamiliar can lead to discoveries otherwise inaccessible
     - image: /uploads/download-49.jpg
       alt: 'travel number 01 Hidden Gems: Naples & The Amalfi Coast'
       link: articles/hidden-gems-naples-amalfi
@@ -607,14 +510,11 @@ featured_section:
         - travel
         - '01'
       title: 'Hidden Gems: Naples & The Amalfi Coast'
-      description: >+
+      description: >-
         Summers exploring Italy’s Amalfi Coast are a rite of passage for sailors
         worldwide: languid morning sunbathing on the beach, long lunches of
         freshly caught shellfish, and balmy sunsets over the Mediterranean Sea
-        are all part of the appeal of L’Estate Infinita: the endless summer.
-        Positano, Ischia, Capri and Sorrento – all a stone’s throw from Naples -
-        have long been the playground for Italy’s well-heeled travellers.
-
+        are all part of the appeal of L’Estate Infinita: the endless summer
     - image: /uploads/download-50.jpg
       alt: ''
       link: articles/azores
@@ -624,7 +524,7 @@ featured_section:
       title: The Azores - A Place to Sea
       description: >+
         The Azores — Portuguese-speaking, verdant and wild — is that rare
-        destination where a remote setting gives way to having it all…
+        destination where a remote setting gives way to having it all
 
     - image: /uploads/download-51.jpg
       alt: ''
@@ -633,14 +533,10 @@ featured_section:
         - travel
         - number 01
       title: Sailing in the City - New York
-      description: >+
+      description: >-
         While the industrial waterways of New York City might not be the typical
         backdrop for a luxury yacht, sailing into New York Harbour is a magical
-        experience that should be on every boat owner’s bucket list. Under 1000
-        nautical miles from the Caribbean and just over 3000 from the
-        Mediterranean, the city offers an extra special welcome to those
-        arriving from the Atlantic Ocean.
-
+        experience that should be on every boat owner’s bucket list
     - image: /uploads/download-18.jpg
       alt: ' La Dolce Vita Itinerary '
       link: /articles/dolce-vita
@@ -648,7 +544,7 @@ featured_section:
         - ' Travel '
         - ' number 01'
       title: ' La Dolce Vita Itinerary '
-      description: ' From imperial Elba to rustic Ponza, here’s a sailing schedule that serves up the innately Italian ‘good life’ via idyllic landscapes, laid-back living and consistently phenomenal food and innovative techniques to create a food legacy all of its own.  Here, Maria Sollivellas, Chef and co-owner of Restaurant Ca na Toneta,  celebrates her home’s past and present with a much-loved intrinsic dish '
+      description: ' From imperial Elba to rustic Ponza, here’s a sailing schedule that serves up the innately Italian ‘good life’ via idyllic landscapes, laid-back living and consistently phenomenal food and innovative techniques to create a food legacy all of its own'
 cards3:
   - image: /uploads/download-32.jpg
     alt: ' Checking In: Les Regalia, Corsica '
