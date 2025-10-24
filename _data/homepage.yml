@@ -480,7 +480,8 @@ subscribe:
       link: '#'
       position: right
 image_with_text1:
-  title: Subscribe to our latest issue, browse and purchase back issues.
+  title: Subscribe to Our Latest Issue – or Browse and Purchase Past Editions
+
   description:
   button_primary:
     label: Subscribe Now
