@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/pura-verde
-title: Costa Rica - Pura Verde!
+title: 'Costa Rica: Pura Verde'
 type: Travel
 byline: 'WORDS: Elizabeth Heath | IMAGES: Carlo Raciti'
 issue_no: Number 03

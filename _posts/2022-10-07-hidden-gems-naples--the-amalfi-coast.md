@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /articles/hidden-gems-naples-amalfi
-title: 'Hidden Gems: Naples & The Amalfi Coast'
+title: 'Hidden Gems: Naples and The Amalfi Coast'
 type: Travel
 byline: 'WORDS: Phoebe Hunt | Images: Natalie Obradovich '
 issue_no: number 01

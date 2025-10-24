@@ -39,7 +39,7 @@ homepage_banner:
     video: false
     video_path: Issue Number Fourteen | 14 in store now
     poster: /images/homepage-poster.jpg
-    fallback_image: /uploads/issue-14-tide-desktop.png
+    fallback_image: /uploads/tide-issue-14.png
     image_position: center
     title: Issue 14 is in stores now.
     tags:
@@ -481,7 +481,6 @@ subscribe:
       position: right
 image_with_text1:
   title: Subscribe to Our Latest Issue – or Browse and Purchase Past Editions
-
   description:
   button_primary:
     label: Subscribe Now
