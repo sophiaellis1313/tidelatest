@@ -30,21 +30,105 @@
               </div>
             </div>
 
-            <form class="contact-form pt-2 mb:pt-50 gap-15">
+            <form method="post" id="cloud-cannon-contact-form" class="pt-2 mb:pt-50 gap-15">
               <div class="form-row  xs:d-flex gap-15 ">
                 <input class="mb-1" type="text" placeholder="name" name="name">
                 <input class="mb-1" type="email" placeholder="email" name="email">
               </div>
               <div class="form-row xs:d-flex gap-15">
+                
+                <input type="text" name="form_type" value="contact_form" style="display: none;"
+                
                 <input class="mb-1" type="text" placeholder="phone" name="phone">
                 <input class="mb-1" type="text" placeholder="subject of enquiry" name="subject">
+                
+                <input type="text" name="_gotcha" style="display: none;">
+                
+                <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div>
+                
+                <input type="hidden" name="inbox_key" value="contact-and-subscribe-inbox">
+
               </div>
               <textarea name="message" placeholder="message"></textarea>
               <div class="form-submit right">
                 <button class="width-fit btn white-btn mt-2px" type="submit">SEND</button>
+              </div>
+              <!-- // form error or success message -->
+              <div>
+                <p id="contact-form-success-messege" style="display: none; margin-top: 14px; font-size: 16px; font-weight: 600; color: rgb(19, 171, 19); font-family: 'Overpass', sans-serif;">Thank you for contacting us. We're reviewing your message and will respond as soon as possible.</p>
+                <p id="contact-form-error-messege" style="display: none; font-size: 16px; font-weight: 600; color: red; font-family: 'Overpass', sans-serif;">Something went wrong!</p>
               </div>
             </form>
         </div>
     </div>
   </div>
 </section>
+
+<script>
+
+  // Helper function to get form data in the supported format
+function getFormDataString(formEl) {
+    var formData = new FormData(formEl),
+      data = [];
+
+  for (var keyValue of formData) {
+      data.push(encodeURIComponent(keyValue[0]) + "=" + encodeURIComponent(keyValue[1]));
+  }
+
+  return data.join("&");
+}
+
+// Fetch the form element
+var formEl = document.getElementById("cloud-cannon-contact-form");
+
+// Override the submit event
+formEl.addEventListener("submit", function (e) {
+    e.preventDefault();
+
+  if (grecaptcha) {
+      var recaptchaResponse = grecaptcha.getResponse();
+    if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+      return false;
+    }
+  }
+
+  var request = new XMLHttpRequest();
+
+  var successEl = document.getElementById("contact-form-success-messege")
+  var errorEl = document.getElementById("contact-form-error-messege")
+
+  request.addEventListener("load", function () {
+    if (request.status === 303) { // CloudCannon redirects on success
+      // It worked
+      formEl.reset()
+      successEl.style.display = 'block'
+    }else {
+      errorEl.style.display = 'block'
+    }
+    
+    setTimeout(() => {
+      successEl.style.display = 'none'
+      errorEl.style.display = 'none'
+    }, 5000);
+    
+  });
+
+  request.open(formEl.method, formEl.action);
+  request.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+  request.send(getFormDataString(formEl));
+});
+
+
+
+  
+</script>
+
+
+
+
+
+
+
+
+
+  

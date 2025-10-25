@@ -3,6 +3,7 @@
 <head>
 <head  profile="http://www.w3.org/2005/10/profile">
 
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <link rel="icon"
         type="image/png"
         href="/images/favicon-57.png" />
@@ -340,10 +341,18 @@
             
             <!-- Hidden field to identify form for CloudCannon -->
             <input type="text" name="categories" style="display: none;">
-           <input type="hidden" name="inbox_key" value="subscribe-form">
 
             <!-- Spam bot trap -->
+            <input type="text" name="form_type" value="subscribe_form" style="display: none;">
+
+            <!-- _gotcha -->
             <input type="text" name="_gotcha" style="display: none;">
+
+            <!-- // g-recaptcha -->
+            <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div>
+
+            <!-- Cloud cannon form inbox key -->
+            <input type="hidden" name="inbox_key" value="contact-and-subscribe-inbox">
 
             <!-- Submit Button -->
             <button 
@@ -523,6 +532,15 @@ document.addEventListener('DOMContentLoaded', () => {
      if(activeButtonNames?.length === 0){
         document.getElementById("error-messege").style.display = 'block'
      } else {
+
+       if (grecaptcha) {
+        var recaptchaResponse = grecaptcha.getResponse();
+        if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+          return false;
+        }
+      }
+
+       
        document.getElementById("error-messege").style.display = 'none'
        var request = new XMLHttpRequest();
        request.addEventListener("load", function () {
