@@ -44,7 +44,7 @@
                 
                 <input type="text" name="_gotcha" style="display: none;">
                 
-                <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div>
+                <!-- <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div> -->
                 
                 <input type="hidden" name="inbox_key" value="contact-and-subscribe-inbox">
 
@@ -85,12 +85,12 @@ var formEl = document.getElementById("cloud-cannon-contact-form");
 formEl.addEventListener("submit", function (e) {
     e.preventDefault();
 
-  if (grecaptcha) {
-      var recaptchaResponse = grecaptcha.getResponse();
-    if (!recaptchaResponse) { // reCAPTCHA not clicked yet
-      return false;
-    }
-  }
+  // if (grecaptcha) {
+  //     var recaptchaResponse = grecaptcha.getResponse();
+  //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+  //     return false;
+  //   }
+  // }
 
   var request = new XMLHttpRequest();
 

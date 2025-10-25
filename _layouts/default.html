@@ -349,7 +349,7 @@
             <input type="text" name="_gotcha" style="display: none;">
 
             <!-- // g-recaptcha -->
-            <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div>
+            <!-- <div class="g-recaptcha" data-sitekey="6Lc49_YrAAAAAFphOy8qEfNQWE_Kqlnd1w2vU3zf"></div> -->
 
             <!-- Cloud cannon form inbox key -->
             <input type="hidden" name="inbox_key" value="contact-and-subscribe-inbox">
@@ -533,12 +533,12 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById("error-messege").style.display = 'block'
      } else {
 
-       if (grecaptcha) {
-        var recaptchaResponse = grecaptcha.getResponse();
-        if (!recaptchaResponse) { // reCAPTCHA not clicked yet
-          return false;
-        }
-      }
+      //  if (grecaptcha) {
+      //   var recaptchaResponse = grecaptcha.getResponse();
+      //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
+      //     return false;
+      //   }
+      // }
 
        
        document.getElementById("error-messege").style.display = 'none'
