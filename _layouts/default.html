@@ -532,15 +532,6 @@ document.addEventListener('DOMContentLoaded', () => {
      if(activeButtonNames?.length === 0){
         document.getElementById("error-messege").style.display = 'block'
      } else {
-
-      //  if (grecaptcha) {
-      //   var recaptchaResponse = grecaptcha.getResponse();
-      //   if (!recaptchaResponse) { // reCAPTCHA not clicked yet
-      //     return false;
-      //   }
-      // }
-
-       
        document.getElementById("error-messege").style.display = 'none'
        var request = new XMLHttpRequest();
        request.addEventListener("load", function () {
