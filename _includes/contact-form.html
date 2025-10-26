@@ -98,7 +98,7 @@ formEl.addEventListener("submit", function (e) {
   var errorEl = document.getElementById("contact-form-error-messege")
 
   request.addEventListener("load", function () {
-    if (request.status === 303) { // CloudCannon redirects on success
+    if (request.status === 200) { // CloudCannon redirects on success
       // It worked
       formEl.reset()
       successEl.style.display = 'block'
