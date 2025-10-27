@@ -391,7 +391,7 @@ content_on_image:
     following decades spent in the shadow of others in Europe
   button:
     text: More
-    link: https://peachy-lion.cloudvent.net/articles/Drumfire-the-boat-to-beat
+    link: articles/Drumfire-the-boat-to-beat
     style: white-btn
 content_on_image2:
   mobile_direction: bottom
@@ -409,7 +409,7 @@ content_on_image2:
     worth clients
   button:
     text: More
-    link: https://peachy-lion.cloudvent.net/articles/conscious-traveller.html
+    link: articles/conscious-traveller.html
     style: white-btn
 content_on_image3:
   mobile_direction: top
