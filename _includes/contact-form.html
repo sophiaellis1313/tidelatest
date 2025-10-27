@@ -1,3 +1,13 @@
+<style>
+  .contact-form-main input {
+    color: white;
+  }
+  .contact-form-main input[type=text]:focus {
+    border: none;
+    outline: none;
+}
+</style>
+
 <section class="content_on_image position-relative w-full  no-margin bg-grey" >
   <img 
     src="./images/contact-form.png"
@@ -30,7 +40,7 @@
               </div>
             </div>
 
-            <form method="post" id="cloud-cannon-contact-form" class="pt-2 mb:pt-50 gap-15">
+            <form method="post" id="cloud-cannon-contact-form" class="pt-2 mb:pt-50 gap-15 contact-form-main">
               <div class="form-row  xs:d-flex gap-15 ">
                 <input class="mb-1" type="text" placeholder="name" name="name">
                 <input class="mb-1" type="email" placeholder="email" name="email">
