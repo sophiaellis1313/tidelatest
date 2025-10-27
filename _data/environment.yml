@@ -17,7 +17,7 @@ cards_title: Featured
 cards:
   - image: /uploads/environment-example-2-3.png
     alt: ' Evolving Modernism '
-    link: /articles/pianosa
+    link: /articles/pianosa.html
     tags:
       - Environment
       - number 10
@@ -25,7 +25,7 @@ cards:
     description: ' After centuries of being both fought over and neglected, today the tiny isle of Pianosa has become a precious international case in the promising power of rewilding. We investigate how such an evolution came about '
   - image: /uploads/tide-magazine-life-in-the-meadows-1.png
     alt: ' Life in the Meadows '
-    link: /articles/sea-trees
+    link: /articles/sea-trees.html
     tags:
       - 'Environment '
       - number 09
@@ -33,7 +33,7 @@ cards:
     description: ' Seagrass meadows, among the oldest life on earth, are our secret weapon in fighting climate change. But these hidden forests are under threat. Luckily, a Mallorcan project is diving in to help save them '
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue08-environment-1.jpg
     alt: ' Atoll Protected '
-    link: /articles/atoll-protected
+    link: /articles/atoll-protected.html
     tags:
       - 'Environment '
       - number 08
@@ -41,7 +41,7 @@ cards:
     description: ' As it undertakes its mission to conserve the islet’s special environment and culture, the hard-working Teti’aroa Society has also sketched out a pathway for the restoration of oceanic islands in general '
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-environment3.jpg
     alt: ' Dominica And The Whales '
-    link: /articles/dominica-whales
+    link: /articles/dominica-whales.html
     tags:
       - Environment
       - number 07
@@ -49,7 +49,7 @@ cards:
     description: ' With a massive decline in the global Sperm whale population caused by a combination of hunting, pollution and climate change, the species is in grave danger. But things are set to change thanks to an ambitious plan by an unlikely ally '
   - image: /uploads/1-1-1.png
     alt: 'Rebuilding Reefs '
-    link: /articles/rebuilding-reefs
+    link: /articles/rebuilding-reefs.html
     tags:
       - 'Environment '
       - ' number 02'
@@ -57,7 +57,7 @@ cards:
     description: ' Marine scientists Genevieve Renaud-Byrne and Dr Molly Wilson on their mission to save Antigua’s marine ecosystems '
   - image: /uploads/tide-magazine-issue02-design-1-1.jpg
     alt: 'Nature In Design '
-    link: /articles/nature-in-design
+    link: /articles/nature-in-design.html
     tags:
       - 'Environment '
       - number 02
@@ -68,7 +68,7 @@ cards:
       lighter carbon footprint
   - image: /uploads/tide-magazine-environment-seachair-3-1.jpg
     alt: 'Fantastic Plastic: The Sea Chair '
-    link: /articles/sea-chair
+    link: /articles/sea-chair.html
     tags:
       - environment
       - number 02
@@ -80,7 +80,7 @@ cards:
       highly sought-after furniture
   - image: /uploads/tide-magazine-sailing-great-circle-1-1.jpg
     alt: ' The Great Circle '
-    link: /articles/great-circle
+    link: /articles/great-circle.html
     tags:
       - 'Environment '
       - number 01
@@ -108,7 +108,7 @@ featured_section:
     - image: >-
         /uploads/tide-magazine-sailing-lifestyle-travel-issue06-environment-1.jpg
       alt: ' Open Source '
-      link: /articles/foundation-zero
+      link: /articles/foundation-zero.html
       tags:
         - Environment
         - number 06
@@ -116,7 +116,7 @@ featured_section:
       description: ' How Foundation Zero is throwing out the rulebook to build a fossil-free sailing yacht '
     - image: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
       alt: ' The Conscious Traveller '
-      link: /articles/conscious-traveller
+      link: /articles/conscious-traveller.html
       tags:
         - 'Environment '
         - number 04
@@ -127,7 +127,7 @@ featured_section:
         and communities 
     - image: /uploads/tide-magazine-issue04-11th-hour.jpg
       alt: Three's a Charm
-      link: /articles/11th-hour
+      link: /articles/11th-hour.html
       tags:
         - Environment
         - number 04
@@ -135,7 +135,7 @@ featured_section:
       description: ' Using the power of sport and travel to restore a balanced relationship between people and planet, 11th Hour Racing are working against the clock to enable others to protect and restore the health of our ocean '
     - image: /uploads/untitled-design-50-1.png
       alt: ' Rewilding the Sea '
-      link: /articles/rewilding-the-sea
+      link: /articles/rewilding-the-sea.html
       tags:
         - 'Environment '
         - number 03
@@ -143,7 +143,7 @@ featured_section:
       description: ' Environmental campaigner and acclaimed author Charles Clover explains how – with a little patience and optimism – simply leaving the oceans alone to heal themselves is the best thing we can do'
     - image: /uploads/tide-magazine-rebuilding-reefs.png
       alt: ''
-      link: articles/rebuilding-reefs
+      link: /articles/rebuilding-reefs.html
       tags:
         - 'Environment '
         - number 02
@@ -155,7 +155,7 @@ featured_section:
         this is all under threat
     - image: /uploads/tide-magazine-great-circle.png
       alt: The Great Circle
-      link: articles/great-circle
+      link: /articles/great-circle.html
       tags:
         - environment
         - number 01

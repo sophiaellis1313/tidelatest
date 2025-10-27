@@ -44,7 +44,7 @@ cards:
 
   - image: /uploads/dsc01506-1-min-1.jpg
     alt: ''
-    link: articles/Wider-wake
+    link: /articles/Wider-wake.html
     tags:
       - sailing
       - number 13
@@ -56,7 +56,7 @@ cards:
 
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' Sailing I number 12'
-    link: /articles/sarissa
+    link: /articles/sarissa.html
     tags:
       - ' Sailing '
       - number 12
@@ -64,7 +64,7 @@ cards:
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness'
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
     alt: Three's a Charm
-    link: /articles/wind-is-power
+    link: /articles/wind-is-power.html
     tags:
       - Sailing
       - I number 11
@@ -93,7 +93,7 @@ featured_section:
     - image: >-
         /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-spirits-1.jpg
       alt: ''
-      link: articles/competitive-spirits
+      link: /articles/competitive-spirits.html
       tags:
         - sailing
         - number 11
@@ -106,7 +106,7 @@ featured_section:
     - image: >-
         /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-maximus-1.jpg
       alt: Maximus The Ocean Gladiator
-      link: articles/maximus
+      link: /articles/maximus.html
       tags:
         - sailing
         - number 10
@@ -120,7 +120,7 @@ featured_section:
 
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-gunboat-2-1.jpg
       alt: ' Building a Brand: Gunboat '
-      link: /articles/gunboat
+      link: /articles/gunboat.html
       tags:
         - ' Sailing '
         - number 10
@@ -128,7 +128,7 @@ featured_section:
       description: ' Few boatbuilders out there can claim to have changed the face of yachting. Gunboat is one of them. Rodolphe Cadoret, Marketing Director for the brand’s owners Grand Large, explains why and how they did it, and hints at what they may revolutionise next    '
     - image: /uploads/kokomo.png
       alt: ' A Sailing Legacy Kokomo '
-      link: /articles/kokomo
+      link: /articles/kokomo.html
       tags:
         - ' Sailing '
         - number 10
@@ -136,7 +136,7 @@ featured_section:
       description: ' Super-sized, fast and sleek – this is the story of a Superyacht born from two legendary minds and one historic yard; a story which isn’t ending any time yet. We get the inside track from her current owner and Captain   '
     - image: /uploads/michaelkurtzphoto-j-class-velsheda-st-barth-2012-11-x3.jpg
       alt: ' Sailing Vel-She-Da '
-      link: /articles/velsheda
+      link: /articles/velsheda.html
       tags:
         - ' Sailing '
         - number 09
@@ -145,7 +145,7 @@ featured_section:
     - image: >-
         /uploads/tide-magazine-sailing-lifestyle-travel-issue09-oceans-twelve-1.jpg
       alt: ' Ocean’s Twelve '
-      link: /articles/oceans-twelve
+      link: /articles/oceans-twelve.html
       tags:
         - ' Sailing '
         - number 09
@@ -153,7 +153,7 @@ featured_section:
       description: ' Famed for their beauty as well as their brawn, Twelve Metre Class yachts were a result of leading designers being put into the tightest of spots – and flourishing. Here we highlight some of the very finest  '
     - image: /uploads/ribelle-lp-2019-11.jpg
       alt: Ribelle with a cause
-      link: articles/ribelle
+      link: /articles/ribelle.html
       tags:
         - sailing
         - number 08
@@ -165,7 +165,7 @@ featured_section:
         practicality
     - image: /uploads/aa-0013.jpg
       alt: Asahi's Secret
-      link: articles/asahi
+      link: /articles/asahi.html
       tags:
         - sailing
         - number 08
@@ -178,7 +178,7 @@ featured_section:
     - image: >-
         /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.jpg
       alt: A Tale of Two Owners
-      link: articles/two-owners
+      link: /articles/two-owners.html
       tags:
         - sailing
         - number 08
@@ -192,7 +192,7 @@ featured_section:
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.jpg
       alt: 'Wendy’s House: Elfje'
-      link: articles/wendys-house
+      link: /articles/wendys-house.html
       tags:
         - sailing
         - number 07
@@ -205,7 +205,7 @@ featured_section:
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-canova2.jpg
       alt: Creating Canova
-      link: articles/canova
+      link: /articles/canova.html
       tags:
         - sailing
         - number 07
@@ -219,7 +219,7 @@ featured_section:
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-gelliceaux1.jpg
       alt: 'A Green Revolution: Gelliceaux'
-      link: articles/gelliceaux
+      link: /articles/gelliceaux.html
       tags:
         - sailing
         - number 07
@@ -235,7 +235,7 @@ featured_section:
     - image: >-
         /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
       alt: The Seas Less Sailed
-      link: articles/athos
+      link: /articles/athos.html
       tags:
         - sailing
         - number 06
@@ -249,7 +249,7 @@ featured_section:
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
       alt: Why Not!
-      link: articles/why-not
+      link: /articles/why-not.html
       tags:
         - sailing
         - number 05
@@ -261,7 +261,7 @@ featured_section:
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
       alt:
-      link: articles/the-eagle
+      link: /articles/the-eagle.html
       tags:
         - sailing
         - number 05
@@ -274,7 +274,7 @@ featured_section:
     - image: >-
         /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.jpg
       alt: 'Ghosted: In Good Company'
-      link: articles/ghosted
+      link: /articles/ghosted.html
       tags:
         - sailing
         - number 05
@@ -287,7 +287,7 @@ featured_section:
         experiences of which most can only dream
     - image: /uploads/tide-magazine-issue04-two-ketches-2-1.jpg
       alt: all | sailing number 04 A Tale of Two Ketches
-      link: articles/two-ketches
+      link: /articles/two-ketches.html
       tags:
         - sailing
         - number 04
@@ -301,7 +301,7 @@ featured_section:
         be drawing admiring looks and causing Billionaires to swoon
     - image: /uploads/TIDE-Magazine-issue04-pot-of-gold-1.jpg
       alt: 'A Pot of Gold: J Class Rainbow'
-      link: articles/a-pot-of-gold
+      link: /articles/a-pot-of-gold.html
       tags:
         - sailing
         - number 04
@@ -313,7 +313,7 @@ featured_section:
         decade of Superyacht racing
     - image: /uploads/glclzrga-1.jpg
       alt: ' A Global Range: The Schooner '
-      link: /articles/a-global-range-the-schooner
+      link: /articles/a-global-range-the-schooner.html
       tags:
         - ' Sailing'
         - number 03
@@ -321,7 +321,7 @@ featured_section:
       description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience'
     - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
       alt: ' A Touch of Nordic Cool - Sørvind '
-      link: /articles/sorvind
+      link: /articles/sorvind.html
       tags:
         - 'Sailing I '
         - Number 03
@@ -329,7 +329,7 @@ featured_section:
       description: ' With the latest yachts on show in Monaco, TIDE checks in with South African yacht builder Southern Wind to take a close look at their new launch, Sørvind'
     - image: /uploads/deiz3z3k-1.jpeg
       alt: 'Nautor Swan: Innovating through tradition'
-      link: articles/nautor-swan
+      link: /articles/nautor-swan.html
       tags:
         - sailing
         - number 03
@@ -342,7 +342,7 @@ featured_section:
         all worlds
     - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
       alt: ' The Adventure Squad '
-      link: /articles/sonny
+      link: /articles/sonny.html
       tags:
         - ' Sailing'
         - number 02
@@ -350,7 +350,7 @@ featured_section:
       description: ' When time is the ultimate luxury, what does a $2.5 million refurbishment of a sailing yacht look like? Patrick Gavin-Brynes, captain of the newly re-launched Sonny III, talks hydraulic systems, custom carbon-fibre rigging and hoisting 192 square metres of sail in under 60 seconds '
     - image: /uploads/qhxzfote.jpg
       alt: 'The Pocket Superyacht '
-      link: /articles/the-pocket-superyacht
+      link: /articles/the-pocket-superyacht.html
       tags:
         - 'Sailing '
         - number 02
@@ -358,7 +358,7 @@ featured_section:
       description: ' Superyacht is an evocative word-enormous craft with lofty rigs and loftier budgets, fully customised, complex creations. But the core values of what make a superyacht (luxury, style and personal expression)are not the sole preserve of custom vessels well in excess of24m....let’s take a look at the pocket superyacht '
     - image: /uploads/tide-magazine-sailing-perseverance-3-1.jpg
       alt: ' Perseverance on Charter '
-      link: /articles/perseverance
+      link: /articles/perseverance.html
       tags:
         - Sailing
         - number 02
@@ -366,7 +366,7 @@ featured_section:
       description: ' The price put on superyacht charters is famously opaque, with unexpected add-ons making it hard to predict how much you’ll spend. Bypassing brokers and agents, the owners of Perseverance are taking a different approach, bringing bespoke yet all-inclusive packages to the ultra-luxury sphere'
     - image: /uploads/tide-magazine-sailing-supersloop-1-1.jpg
       alt: The Rise of the Supersloop
-      link: articles/supersloop
+      link: /articles/supersloop.html
       tags:
         - sailing
         - number 01
@@ -379,7 +379,7 @@ featured_section:
 
     - image: /uploads/tide-magazine-sailing-the-cat-is-back-1-1.jpg
       alt: The Cat is Black
-      link: articles/the-cat-is-back
+      link: /articles/the-cat-is-back.html
       tags:
         - sailing
         - number 01
@@ -391,7 +391,7 @@ featured_section:
 
     - image: /uploads/lsr8twys.jpg
       alt: ' A True Classic '
-      link: /articles/a-true-classic
+      link: /articles/a-true-classic.html
       tags:
         - Sailing
         - number 01
@@ -399,7 +399,7 @@ featured_section:
       description: ' Invoking memories of a bygone era, the charm of the Truly Classic 128 has been proven by the realisation of four builds (and a fifth on its way). TIDE explores the success of the concept with Hoek Design and hears from the owners of the second hull in the series about the joy that Vijonara brings'
     - image: /uploads/download-51.jpg
       alt: Sailing in the City - New York
-      link: articles/new-york
+      link: /articles/new-york.html
       tags:
         - sailing
         - number 01
@@ -410,7 +410,7 @@ featured_section:
         experience that should be on every boat owner’s bucket list
     - image: /uploads/tide-magazine-sailing-modern-ketch-1-1.jpg
       alt: The Modern Ocean Ketch
-      link: articles/modern-ketch
+      link: /articles/modern-ketch.html
       tags:
         - sailing
         - number 01
@@ -423,7 +423,7 @@ featured_section:
 
     - image: /uploads/futureisnow.jpeg
       alt: The Future is Now
-      link: articles/future-is-now
+      link: /articles/future-is-now.html
       tags:
         - sailing
         - number 01

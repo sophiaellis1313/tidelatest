@@ -72,7 +72,7 @@ homepage_banner:
 cards:
   - image: /uploads/fc5a9854-min.jpg
     alt: 'Flavour of the Cyclades: Cookoovaya Antiparos'
-    link: articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos
+    link: /articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos.html
     tags:
       - Travel
       - Number 13
@@ -95,7 +95,7 @@ cards:
       2025 – explain how she does it
   - image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
     alt: Sailing the Northern Dodecanese
-    link: articles/Sailing-the-Northern-Dodecanese.html
+    link: /articles/Sailing-the-Northern-Dodecanese.html
     tags:
       - travel
       - Number 13
@@ -107,7 +107,7 @@ cards:
 
   - image: /uploads/download-14.jpg
     alt: ''
-    link: articles/project-o
+    link: /articles/project-o.html
     tags:
       - Travel
       - Number 11
@@ -124,7 +124,7 @@ cards:
 cards2:
   - image: /uploads/jeff-brown-jcb24539-min.jpg
     alt: A Perfect Re(fit)
-    link: articles/A-Perfect-refit.html
+    link: /articles/A-Perfect-refit.html
     tags:
       - Sailing
       - number 13
@@ -137,7 +137,7 @@ cards2:
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
     alt: ' On Point:  Supersloop Sarissa '
-    link: /articles/sarissa
+    link: /articles/sarissa.html
     tags:
       - Sailing
       - number 12
@@ -146,7 +146,7 @@ cards2:
   - image: >-
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
     alt: Wind is Power
-    link: articles/wind-is-power.html
+    link: /articles/wind-is-power.html
     tags:
       - Sailing
       - number 11
@@ -157,7 +157,7 @@ cards2:
       be good news for the environment
   - image: /uploads/dsc01506-1-min-1.jpg
     alt: wider awake
-    link: /articles/Wider-wake
+    link: /articles/Wider-wake.html
     tags:
       - SAILING
       - NUMBER 10
@@ -206,7 +206,7 @@ cards3:
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.jpg
     alt: 'Hidden Gems: Islas Secas'
-    link: articles/hidden-gems-islas-secas
+    link: /articles/hidden-gems-islas-secas.html
     tags:
       - Travel
       - number 12
@@ -220,7 +220,7 @@ cards3:
 cards4:
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
     alt: 'Designing for the Future   '
-    link: articles/estudio-ramos.html
+    link: /articles/estudio-ramos.html
     tags:
       - Design
       - number 12
@@ -232,7 +232,7 @@ cards4:
       bases in New York City and Buenos Aires
   - image: /uploads/download.jpg
     alt: Expanding Horizons
-    link: articles/expanding-horizons.html
+    link: /articles/expanding-horizons.html
     tags:
       - Design
       - Number 11
@@ -247,7 +247,7 @@ cards4:
   - image: >-
       /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-design-jarkko-1.jpg
     alt: ''
-    link: articles/design-jarkko
+    link: /articles/design-jarkko.html
     tags:
       - design
       - number 09
@@ -261,7 +261,7 @@ cards4:
       will not be his last
   - image: /uploads/download-2.jpg
     alt: The View From Here
-    link: articles/design-mckeon
+    link: /articles/design-mckeon.html
     tags:
       - design
       - number 08
@@ -278,7 +278,7 @@ cards4:
 cards5:
   - image: /uploads/environ-1.png
     alt: lifestyle number 12 Ocean Breeze
-    link: /articles/pianosa
+    link: /articles/pianosa.html
     tags:
       - environment
       - number 10
@@ -289,7 +289,7 @@ cards5:
       piece of land – just a little more than ten square kilometres
   - image: /uploads/environment-example-1.png
     alt: A Letter from Norway
-    link: articles/letter-from-norway.html
+    link: /articles/letter-from-norway.html
     tags:
       - ENVIRONMENT
       - number 11
@@ -301,7 +301,7 @@ cards5:
   - image: >-
       /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
     alt: The Winds of Change
-    link: articles/veer
+    link: /articles/veer.html
     tags:
       - Environment
       - Number 05
@@ -311,7 +311,7 @@ cards5:
       climate, the maritime world stands apart as an oft-overlooked contributor
   - image: /uploads/environ-2.png
     alt: Life in the Meadows
-    link: articles/sea-trees
+    link: /articles/sea-trees.html
     tags:
       - environment
       - number 09
@@ -324,7 +324,7 @@ cards6:
   - image: >-
       /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
     alt: Ocean Breeze
-    link: articles/ocean-breeze
+    link: /articles/ocean-breeze.html
     tags:
       - Lifestyle
       - number 12
@@ -340,7 +340,7 @@ cards6:
   - image: >-
       /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: A Taste of Tuscany
-    link: articles/taste-of-tuscany
+    link: /articles/taste-of-tuscany.html
     tags:
       - Lifestyle
       - number 10
@@ -354,7 +354,7 @@ cards6:
   - image: >-
       /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
     alt: The Spirit Of Mallorca In A Recipe
-    link: articles/mallorcan-food
+    link: /articles/mallorcan-food.html
     tags:
       - 'Lifestyle '
       - Number 09
@@ -367,7 +367,7 @@ cards6:
   - image: >-
       /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
     alt: The Gourmand's Guide to Barcelona
-    link: articles/gourmand-barcelona
+    link: /articles/gourmand-barcelona.html
     tags:
       - lifestyle
       - number 09

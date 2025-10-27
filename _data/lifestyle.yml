@@ -35,7 +35,7 @@ cards:
   - image: >-
       /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-joysail-1.jpg
     alt: ''
-    link: articles/joysail
+    link: /articles/joysail.html
     tags:
       - lifestyle
       - number 11
@@ -51,7 +51,7 @@ cards:
   - image: >-
       /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-top-ten-2.jpg
     alt: ''
-    link: articles/top-ten
+    link: /articles/top-ten.html
     tags:
       - lifestyle
       - number 10
@@ -66,7 +66,7 @@ cards:
       we’ve looked back to choose a few of the very finest.
   - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
     alt: ' A Taste Of Tuscany '
-    link: /articles/taste-of-tuscany
+    link: /articles/taste-of-tuscany.html
     tags:
       - 'Lifestyle '
       - number 10
@@ -79,7 +79,7 @@ cards:
   - image: >-
       /uploads/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
     alt: ' The Spirit Of  Mallorca In A Recipe '
-    link: /articles/mallorcan-food
+    link: /articles/mallorcan-food.html
     tags:
       - 'Lifestyle '
       - number 09
@@ -93,7 +93,8 @@ content_on_image:
   mobile_direction: top
   desktop_direction: end
   image:
-    src: /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
+    src: >-
+      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
     alt: The Gourmand's Guide to Barcelona
   tags:
     - Lifestyle
@@ -112,7 +113,7 @@ featured_section:
     - image: >-
         /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-baltic-rendezvous2.jpg
       alt: 'A Family Affair: The Baltic Yachts Rendezvous 2023'
-      link: articles/baltic-rendezvous
+      link: /articles/baltic-rendezvous.html
       tags:
         - Lifestyle
         - number 07
@@ -131,7 +132,7 @@ featured_section:
     - image: >-
         /uploads/tide-magazine-sailing-lifestyle-travel-issue06-superyacht-gathering2.jpg
       alt: ' Pacific Time '
-      link: /articles/superyacht-gathering
+      link: /articles/superyacht-gathering.html
       tags:
         - 'Lifestyle '
         - number 06
@@ -139,7 +140,7 @@ featured_section:
       description: ' Luring sailors away from the Mediterranean and Caribbean to the wild of the South Pacific is no easy feat but Linda Berry, founder of The Superyacht Gathering, has sparked a ripple… '
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-restaurant1.jpg
       alt: ' Corsican Bounty '
-      link: /articles/restaurant-corsica
+      link: /articles/restaurant-corsica.html
       tags:
         - Lifestyle
         - number 06
@@ -147,7 +148,7 @@ featured_section:
       description: ' Discover Domaine de Murtoli, a 2,500-hectare ode to slow, sustainable living – and simply incredible food '
     - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-cyclades1.jpg
       alt: 'The High Low: Cyclades '
-      link: /articles/cyclades
+      link: /articles/cyclades.html
       tags:
         - Lifestyle
         - number 05
@@ -155,7 +156,7 @@ featured_section:
       description: ' Greece’s Cyclades islands are an absolute joy to sail, but strong winds can also make them a challenge. Slow down, take your time and savour local delicacies at tiny tavernas, or seek out some of the finest dining the country has to offer.  '
     - image: /uploads/tide-magazine-issue04-high-low-2-1.jpg
       alt:
-      link: articles/high-low-croatia.html
+      link: /articles/high-low-croatia.html
       tags:
         - lifestyle
         - number 04
@@ -173,7 +174,7 @@ featured_section:
 
     - image: /uploads/tide-magazine-issue04-food-as-medicine-1-1.jpg
       alt:
-      link: articles/food-as-medicine
+      link: /articles/food-as-medicine.html
       tags:
         - lifestyle
         - number 04
@@ -188,7 +189,7 @@ featured_section:
 
     - image: /uploads/tide-magazine-issue04-above-and-beyond-2-1.jpg
       alt:
-      link: articles/above-and-beyond
+      link: /articles/above-and-beyond.html
       tags:
         - lifestyle
         - number 04
@@ -206,7 +207,7 @@ featured_section:
 
     - image: /uploads/wlitymjm-1.jpg
       alt:
-      link: articles/a-cooking-collaboration-the-galley-gang
+      link: /articles/a-cooking-collaboration-the-galley-gang.html
       tags:
         - lifestyle
         - number 03
@@ -221,7 +222,7 @@ featured_section:
 
     - image: /uploads/rlzed8ta-1.jpeg
       alt:
-      link: articles/an-endless-summer
+      link: /articles/an-endless-summer.html
       tags:
         - lifestyle
         - number 01
@@ -232,7 +233,7 @@ featured_section:
 
     - image: /uploads/vrnfwu7c-1.jpeg
       alt:
-      link: articles/diving-for-dinner
+      link: /articles/diving-for-dinner.html
       tags:
         - lifestyle
         - number 01

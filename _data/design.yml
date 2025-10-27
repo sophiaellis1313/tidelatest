@@ -20,7 +20,7 @@ cards_title: Featured
 cards:
   - image: /uploads/modernism-desktop.png
     alt: ''
-    link: articles/estudio-ramos
+    link: /articles/estudio-ramos.html
     tags:
       - design
       - number 12
@@ -35,7 +35,7 @@ cards:
 
   - image: /uploads/download.jpg
     alt: ' Expanding Horizons '
-    link: /articles/expanding-horizons
+    link: /articles/expanding-horizons.html
     tags:
       - ' Design '
       - number 11
@@ -47,7 +47,7 @@ cards:
       Marie-Louise Sciò...
   - image: /uploads/download-1.jpg
     alt: ' Changing the game '
-    link: /articles/design-jarkko
+    link: /articles/design-jarkko.html
     tags:
       - ' Design '
       - number 09
@@ -55,7 +55,7 @@ cards:
     description: ' Jarkko Jämsén, the Finnish designer behind Raven, potentially the boat build of the decade, reveals how he told the owner not to have her made – and why she’s just the first of her kind '
   - image: /uploads/download-2.jpg
     alt: ' The View From Here '
-    link: /articles/design-mckeon
+    link: /articles/design-mckeon.html
     tags:
       - ' Design I '
       - number 08
@@ -63,7 +63,7 @@ cards:
     description: ' Having spent his younger years messing about in dinghies, self-taught sailor and world-class designer Malcolm McKeon knows a thing or two about sailing yachts. Here, the award-winning naval architect shares some personal insights on his four decades in the industry, as well as his ideas for the future '
   - image: /uploads/download-3.jpg
     alt: ''
-    link: articles/zemi
+    link: /articles/zemi.html
     tags:
       - design
       - number 07
@@ -96,7 +96,7 @@ featured_section:
   cards:
     - image: /uploads/download-5.jpg
       alt: ''
-      link: articles/german-frers
+      link: /articles/german-frers.html
       tags:
         - design
         - number 05
@@ -110,7 +110,7 @@ featured_section:
 
     - image: /uploads/download-6.jpg
       alt: ' Sense and Sensibility '
-      link: /articles/sense-and-sensibility
+      link: /articles/sense-and-sensibility.html
       tags:
         - ' Design '
         - number 04
@@ -118,7 +118,7 @@ featured_section:
       description: ' Form always follows function, says designer Adriana Monk, but for the best results there should also be an element of fun '
     - image: /uploads/download-7.jpg
       alt: ' A Fresh Wave - Spinta Studio '
-      link: /articles/a-fresh-wave-spinta-studio
+      link: /articles/a-fresh-wave-spinta-studio.html
       tags:
         - ' design  '
         - number 03
