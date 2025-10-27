@@ -19,7 +19,7 @@ cards_title: Featured
 cards:
   - image: /uploads/high-low-desktop.png
     alt: 'The High Low: the Greek Islands'
-    link: articles/The-High-Low-the-Greek-Islands
+    link: /articles/The-High-Low-the-Greek-Islands.html
     tags:
       - travel
       - number 13
@@ -30,7 +30,7 @@ cards:
       some apricot trees
   - image: /uploads/image00014.jpeg
     alt: 'Checking in: Skinopi Lodge'
-    link: articles/Checking-in-Skinopi-Lodge
+    link: /articles/Checking-in-Skinopi-Lodge.html
     tags:
       - travel
       - number 13
@@ -42,7 +42,7 @@ cards:
 
   - image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
     alt: Sailing the Northern Dodecanese
-    link: articles/Sailing-the-Northern-Dodecanese.html
+    link: /articles/Sailing-the-Northern-Dodecanese.html
     tags:
       - travel
       - number 13
@@ -54,7 +54,7 @@ cards:
 
   - image: /uploads/download-9.jpg
     alt: ' Sailing Cuba '
-    link: /articles/itinerary-cuba
+    link: /articles/itinerary-cuba.html
     tags:
       - ' Travel '
       - number 12
@@ -62,7 +62,7 @@ cards:
     description: ' The North American island nation has so much more beyond Havana, from isolated sandy cays to lively, vibrant city centres. Here, Cuba-born Maria Romeu, founder of CubaPlus Travel agency, has planned your visit for you '
   - image: /uploads/download-10.jpg
     alt: ' Hidden Gems: Islas Secas '
-    link: /articles/hidden-gems-islas-secas
+    link: /articles/hidden-gems-islas-secas.html
     tags:
       - ' Travel '
       - number 12
@@ -90,7 +90,7 @@ featured_section:
   cards:
     - image: /uploads/download-9.jpg
       alt: ''
-      link: articles/itinerary-cuba
+      link: /articles/itinerary-cuba.html
       tags:
         - travel
         - number 12
@@ -102,7 +102,7 @@ featured_section:
         and other ubiquitous homages to the past
     - image: /uploads/checkin-5-min-1.png
       alt: ''
-      link: articles/refugia-chiloe
+      link: /articles/refugia-chiloe.html
       tags:
         - travel
         - number 12
@@ -115,7 +115,7 @@ featured_section:
         hovers in my eyeline
     - image: /uploads/download-12.jpg
       alt: ''
-      link: articles/posada-ayana
+      link: /articles/posada-ayana.html
       tags:
         - travel
         - number 12
@@ -129,7 +129,7 @@ featured_section:
 
     - image: /uploads/download-13.jpg
       alt: 'Sailing Stockholm '
-      link: articles/sailing-stockholm
+      link: /articles/sailing-stockholm.html
       tags:
         - travel
         - number 11
@@ -141,7 +141,7 @@ featured_section:
         outdoors, living by the gentle rhythms of the sea and the sun
     - image: /uploads/download-14.jpg
       alt: ''
-      link: articles/project-o
+      link: /articles/project-o.html
       tags:
         - travel
         - number 11
@@ -156,7 +156,7 @@ featured_section:
     - image: >-
         /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-hermitage-2.jpg
       alt: ''
-      link: articles/hermitage-bay
+      link: /articles/hermitage-bay.html
       tags:
         - travel
         - number 11
@@ -169,7 +169,7 @@ featured_section:
         island Barbuda – the resort has entered a thoughtful next chapter
     - image: /uploads/download-15.jpg
       alt: ' Checking In: Bawah Reserve, Indonesia '
-      link: /articles/bawah-reserve
+      link: /articles/bawah-reserve.html
       tags:
         - ' Travel '
         - ' number 11'
@@ -177,7 +177,7 @@ featured_section:
       description: ' This unique eco-resort offers guests a life-giving sojourn in the arms of Mother Nature '
     - image: /uploads/download-16.jpg
       alt: ' Three''s a Charm '
-      link: /articles/hotel-mezzatore
+      link: /articles/hotel-mezzatore.html
       tags:
         - ' Travel '
         - number 10
@@ -185,7 +185,7 @@ featured_section:
       description: ' On the island of Ischia, one family has brought Italy’s ‘good life’ to a historic watchtower – by transforming it into their third smart hotel '
     - image: /uploads/download-20.jpg
       alt: ''
-      link: articles/high-low-ibiza
+      link: /articles/high-low-ibiza.html
       tags:
         - travel
         - number 09
@@ -197,7 +197,7 @@ featured_section:
         Ibizan food is in 2024
     - image: /uploads/download-17.jpg
       alt: ' The High Low: Elba '
-      link: /articles/high-low-elba
+      link: /articles/high-low-elba.html
       tags:
         - ' Travel '
         - number 10
@@ -205,7 +205,7 @@ featured_section:
       description: ' If you’re going to drink sundowners overlooking the Med and eat pasta in Italy – do it right. Introducing Elba’s Ibiza-infused Bleep bar and Ischia’s thoroughly Italian La Baia restaurant, which are each as different as they are exciting '
     - image: /uploads/download-21.jpg
       alt: 'Sun Kissed Shores: The Balearics'
-      link: articles/balearics
+      link: /articles/balearics.html
       tags:
         - travel
         - number 09
@@ -217,7 +217,7 @@ featured_section:
         agriculture, the traditions and, of course, in the food
     - image: /uploads/download-22.jpg
       alt: ''
-      link: articles/hidden-gems-menorca
+      link: /articles/hidden-gems-menorca.html
       tags:
         - travel
         - number 09
@@ -228,7 +228,7 @@ featured_section:
         Carthaginians, Romans and Moors to the French and the British
     - image: /uploads/download-23.jpg
       alt: ''
-      link: articles/petunia-hotel
+      link: /articles/petunia-hotel.html
       tags:
         - travel
         - number 09
@@ -242,7 +242,7 @@ featured_section:
         on offer
     - image: /uploads/download-24.jpg
       alt: ''
-      link: articles/the-brando
+      link: /articles/the-brando.html
       tags:
         - travel
         - number 08
@@ -255,7 +255,7 @@ featured_section:
         significant influx from Asia
     - image: /uploads/download-25.jpg
       alt:
-      link: articles/tetiaroa
+      link: /articles/tetiaroa.html
       tags:
         - travel
         - number 08
@@ -266,7 +266,7 @@ featured_section:
         Islands, Teti’aroa was once the vacation spot for Tahitian royalty
     - image: /uploads/download-26.jpg
       alt: ''
-      link: articles/french-polynesia
+      link: /articles/french-polynesia.html
       tags:
         - travel
         - '08'
@@ -278,7 +278,7 @@ featured_section:
         cultures
     - image: /uploads/download-27.jpg
       alt: ''
-      link: articles/le-tahaa
+      link: /articles/le-tahaa.html
       tags:
         - travel
         - number 08
@@ -290,7 +290,7 @@ featured_section:
         this far-away land
     - image: /uploads/download-28.jpg
       alt: ''
-      link: articles/kamalame-cay
+      link: /articles/kamalame-cay.html
       tags:
         - travel
         - number 07
@@ -304,7 +304,7 @@ featured_section:
 
     - image: /uploads/download-29.jpg
       alt: ' Bermuda to the Bahamas '
-      link: /articles/bermuda-bahamas
+      link: /articles/bermuda-bahamas.html
       tags:
         - ' Travel '
         - number 07
@@ -312,7 +312,7 @@ featured_section:
       description: ' From antique cavalry to secret beaches, it’s possible to experience some real riches among the Atlantic Oceans’ more remote anchorages. Here we share how to find them  '
     - image: /uploads/download-30.jpg
       alt: ' Hidden Gems: San Blas Islands, Panama '
-      link: /articles/san-blas
+      link: /articles/san-blas.html
       tags:
         - ' Travel '
         - ' number 07'
@@ -320,7 +320,7 @@ featured_section:
       description: ' Nestled in the azure embrace of the Caribbean Sea is this timeless, pristine archipelago, otherwise known as the Land of the Guna – and a treasure for all that discover it  '
     - image: /uploads/download-31.jpg
       alt: ' West Coast Wilderness '
-      link: /articles/itinerary-canada
+      link: /articles/itinerary-canada.html
       tags:
         - ' Travel '
         - ' number 06'
@@ -328,7 +328,7 @@ featured_section:
       description: ' Here are the essential stops to make on a journey along British Columbia’s coastline, one of the most naturally magnificent and wildlife-rich on earth '
     - image: /images/Three-a-Charm.png
       alt: ' Hidden Gems: Sardinia and Corsica '
-      link: /articles/sardinia-corsica
+      link: /articles/sardinia-corsica.html
       tags:
         - ' Travel '
         - number 06
@@ -336,7 +336,7 @@ featured_section:
       description: ' The Mediterranean islands reward those who explore off the beaten track by revealing their secrets: wild interiors, powdery white beaches, delicious local cuisine and colourful festivals '
     - image: /uploads/download-32.jpg
       alt: ''
-      link: articles/les-regalia
+      link: /articles/les-regalia.html
       tags:
         - travel
         - number 06
@@ -349,7 +349,7 @@ featured_section:
         adventure
     - image: /uploads/download-33.jpg
       alt: ''
-      link: articles/cyclades-hidden-gems
+      link: /articles/cyclades-hidden-gems.html
       tags:
         - travel
         - number 05
@@ -361,7 +361,7 @@ featured_section:
         island region grows some spectacularly delicious and versatile produce
     - image: /uploads/download-34.jpg
       alt: ''
-      link: articles/maine
+      link: /articles/maine.html
       tags:
         - travel
         - number 05
@@ -373,7 +373,7 @@ featured_section:
 
     - image: /uploads/download-35.jpg
       alt: 'Checking In: Bill & Coo, Mykonos'
-      link: articles/bill-and-coo
+      link: /articles/bill-and-coo.html
       tags:
         - travel
         - number 05
@@ -387,7 +387,7 @@ featured_section:
 
     - image: /uploads/download-36.jpg
       alt: ''
-      link: articles/hotel-excelsior
+      link: /articles/hotel-excelsior.html
       tags:
         - travel
         - number 04
@@ -399,7 +399,7 @@ featured_section:
         stumbled upon this image one grizzly January evening
     - image: /uploads/download-37.jpg
       alt: ''
-      link: articles/hidden-gems-croatia
+      link: /articles/hidden-gems-croatia.html
       tags:
         - travel
         - number 04
@@ -412,7 +412,7 @@ featured_section:
         citadels, and among the most spectacular turquoise waters in Europe
     - image: /uploads/download-38.jpg
       alt: ''
-      link: articles/finding-fjorland
+      link: /articles/finding-fjorland.html
       tags:
         - travel
         - number 04
@@ -424,7 +424,7 @@ featured_section:
         perhaps the easiest being Tanager and Bergen on the crinkly west coast
     - image: /uploads/3dcysxj8-1.jpg
       alt: ''
-      link: articles/colibri-antigua
+      link: /articles/colibri-antigua.html
       tags:
         - travel
         - number 03
@@ -436,7 +436,7 @@ featured_section:
         one of the oldest wooden cottages in the village
     - image: /uploads/download-41.jpg
       alt: ' The Nature Island: Secret Bay, Dominica '
-      link: /articles/secret-bay-dominica
+      link: /articles/secret-bay-dominica.html
       tags:
         - ' Travel I number 03'
         - number 03
@@ -444,7 +444,7 @@ featured_section:
       description: ' Discover eco-luxury at its finest on the verdant Caribbean island of Dominica, where night snorkelling, waterfall hiking and stargazing and are a way of life'
     - image: /uploads/download-42.jpg
       alt: ' Hidden Gems: St Vincent and The Grenadines '
-      link: /articles/hidden-gems-st-vincent-the-grenadines
+      link: /articles/hidden-gems-st-vincent-the-grenadines.html
       tags:
         - ' Travel '
         - number 03
@@ -452,7 +452,7 @@ featured_section:
       description: ' Caribbean Hidden Gems: Exclusive and mostly untouched, the tropical waters of St Vincent and The Grenadines are a delightful playground for Superyachts over the winter season'
     - image: /uploads/download-43.jpg
       alt: ' HOTEL: Pan Deï Palais, Saint Tropez '
-      link: /articles/hotel-pan-deï-palais
+      link: /articles/hotel-pan-deï-palais.html
       tags:
         - ' Travel '
         - number 02
@@ -460,7 +460,7 @@ featured_section:
       description: ' A gloriously private oasis with just 12 bedrooms in the heart of Saint Tropez, this Indian-inspired palace-turned-hotel is as rich in magic and romance today as it was when it was built in 1835'
     - image: /uploads/download-44.jpg
       alt: ' Hidden Gems: St Tropez & the Côte d’Azur '
-      link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur
+      link: /articles/Hidden-Gems-St-Tropez-&-the-Côte-dAzur.html
       tags:
         - ' Travel '
         - ' number 02'
@@ -468,7 +468,7 @@ featured_section:
       description: ' Saint-Tropez is known more for its international yachting lifestyle than its authentic French culture: a honey-pot for celebrity beach clubs, world-class regattas and luxury boutiques'
     - image: /uploads/download-46.jpg
       alt: ''
-      link: articles/pura-verde
+      link: /articles/pura-verde.html
       tags:
         - travel
         - number 03
@@ -480,7 +480,7 @@ featured_section:
 
     - image: /uploads/download-47.jpg
       alt: ''
-      link: articles/panama-pacific
+      link: /articles/panama-pacific.html
       tags:
         - travel
         - number 02
@@ -494,7 +494,7 @@ featured_section:
 
     - image: /uploads/download-48.jpg
       alt: ''
-      link: articles/four-islands
+      link: /articles/four-islands.html
       tags:
         - travel
         - number 01
@@ -505,7 +505,7 @@ featured_section:
         the unfamiliar can lead to discoveries otherwise inaccessible
     - image: /uploads/download-49.jpg
       alt: 'travel number 01 Hidden Gems: Naples & The Amalfi Coast'
-      link: articles/hidden-gems-naples-amalfi
+      link: /articles/hidden-gems-naples-amalfi.html
       tags:
         - travel
         - '01'
@@ -517,7 +517,7 @@ featured_section:
         are all part of the appeal of L’Estate Infinita: the endless summer
     - image: /uploads/download-50.jpg
       alt: ''
-      link: articles/azores
+      link: /articles/azores.html
       tags:
         - travel
         - number 01
@@ -528,7 +528,7 @@ featured_section:
 
     - image: /uploads/download-51.jpg
       alt: ''
-      link: articles/new-york
+      link: /articles/new-york.html
       tags:
         - travel
         - number 01
@@ -539,7 +539,7 @@ featured_section:
         experience that should be on every boat owner’s bucket list
     - image: /uploads/download-18.jpg
       alt: ' La Dolce Vita Itinerary '
-      link: /articles/dolce-vita
+      link: /articles/dolce-vita.html
       tags:
         - ' Travel '
         - ' number 01'
@@ -548,7 +548,7 @@ featured_section:
 cards3:
   - image: /uploads/download-32.jpg
     alt: ' Checking In: Les Regalia, Corsica '
-    link: /articles/les-regalia
+    link: /articles/les-regalia.html
     tags:
       - ' Travel '
       - number 06
@@ -556,7 +556,7 @@ cards3:
     description: ' The Mediterranean islands reward those who explore off the beaten track by revealing their secrets: wild interiors, powdery white beaches, delicious local cuisine and colourful festivals '
   - image: /uploads/download-33.jpg
     alt: ' Hidden Gems: The Cyclades '
-    link: /articles/cyclades-hidden-gems
+    link: /articles/cyclades-hidden-gems.html
     tags:
       - ' Travel '
       - number 05
@@ -564,7 +564,7 @@ cards3:
     description: ' Challenging sailing conditions in this corner of the Greek islands during July and August means they’re not always the first choice for sailors. Those who do take them on are rewarded with azure waters, excellent food and strong winds adding a sense of adventure, as well as long and pleasant shoulder seasons in Spring and Autumn. '
   - image: /uploads/download-34.jpg
     alt: ' Hailing Maine '
-    link: /articles/maine
+    link: /articles/maine.html
     tags:
       - ' Travel '
       - number 05
@@ -572,7 +572,7 @@ cards3:
     description: ' Maine is a place with a humble appreciation for fine craftsmanship and a love for the sea. Its coast lures the sailor in with its quaint nautical heritage and bountiful charm. Whether these are familiar waters or the first inklings of a plan, the abundance of islands, bays, inlets and passageways will satisfy any voyager for a lifetime.  '
   - image: /uploads/download-35.jpg
     alt: ' Checking In: Bill & Coo, Mykonos  '
-    link: /articles/bill-and-coo
+    link: /articles/bill-and-coo.html
     tags:
       - travel
       - number 05
@@ -580,7 +580,7 @@ cards3:
     description: ' Escape the crowds on the hedonistic Greek island of Mykonos with pared-back architecture and unbridled luxury at Bill & Coo, a sun-drenched oasis tucked away on the edge of Mykonos town. On the most stylish of all the Greek islands, Bill & Coo is becoming a favourite with in-the-know insiders and return Superyacht visitors. '
   - image: /uploads/download-36.jpg
     alt: ' Hotel Excelsior Dubrovnik '
-    link: /articles/hotel-excelsior
+    link: /articles/hotel-excelsior.html
     tags:
       - travel
       - number 04
@@ -588,7 +588,7 @@ cards3:
     description: ' Dreaming of panoramic views and sun-drenched afternoons, TIDE checks out Dubrovnik’s Balkan beauty from the shoreline at Hotel Excelsior ahead of the 2023 Summer season '
   - image: /uploads/download-37.jpg
     alt: ' Hidden Gems: Croatia and Montenegro '
-    link: ''
+    link: /articles/hidden-gems-croatia.html
     tags:
       - travel
       - number 04
@@ -599,7 +599,7 @@ cards3:
       around Croatia and Montenegro 
   - image: /uploads/download-39.jpg
     alt: ' Finding Fjorland '
-    link: /articles/finding-fjorland
+    link: /articles/finding-fjorland.html
     tags:
       - travel
       - number 04
@@ -607,7 +607,7 @@ cards3:
     description: ' Half inside the Arctic Circle and bristling with glaciers, sea cliffs and deep fjords, Norway is a cruising ground which inspires a mix of trepidation and longing among sailors worldwide '
   - image: /uploads/download-40.jpg
     alt: ' A French-Créole sweet spot - Colibri, Antigua '
-    link: /articles/colibri-antigua
+    link: /articles/colibri-antigua.html
     tags:
       - travel
       - number 03
@@ -615,7 +615,7 @@ cards3:
     description: ' Run by husband and wife team Didier and Leah Deleau, relaxed yet sophisticated Colibri brings French-Créole flair to the island’s culinary scene.  '
   - image: /uploads/download-45.jpg
     alt: ' Hidden Gems in St Vincent and The Grenadines '
-    link: /articles/hidden-gems-caribbean
+    link: /articles/hidden-gems-caribbean.html
     tags:
       - ' Travel '
       - number 03
@@ -623,7 +623,7 @@ cards3:
     description: ' Exclusive and mostly untouched, the tropical waters of this part of the Caribbean makes a delightful playground for Superyachts over the winter season '
   - image: /uploads/download-46.jpg
     alt: ' Costa Rica - Pura Verde! '
-    link: /articles/pura-verde
+    link: /articles/pura-verde.html
     tags:
       - ' Travel '
       - Number 03
@@ -631,7 +631,7 @@ cards3:
     description: ' The pristine national parks of Costa Rica’s rugged Pacific Coast offer dramatic scenery, sandy beaches, some sweet surf spots, and wildlife at every turn. '
   - image: /uploads/download-47.jpg
     alt: ' Panama to the Pacific '
-    link: /articles/panama-pacific
+    link: /articles/panama-pacific.html
     tags:
       - ' Travel '
       - number 02
@@ -640,7 +640,7 @@ cards3:
        An epic voyage spanning over 7000 nautical miles, we follow photographer Stuart M Boliter to bring you to our favourite destinations in Panama and across the Pacific: luminescent turquoise waters, world class surfing, impossibly white beaches and myriad tiny islands teeming with sea life.
   - image: /uploads/download-48.jpg
     alt: ' Island Five Spice '
-    link: /articles/four-islands
+    link: /articles/four-islands.html
     tags:
       - travel
       - number 01
@@ -648,7 +648,7 @@ cards3:
     description: ' If armed with fearless curiosity and a sailing yacht as a chariot, the world opens up in unimaginable ways. Taking to the open seas to chase the unfamiliar can lead to discoveries otherwise inaccessible. Considering the excitement and hunger for adventure that grip today’s intrepid sailors, a getaway to islands untrodden could be the perfect antidote to a year spent in lockdown.  '
   - image: /uploads/download-49.jpg
     alt: ' Hidden Gems: Naples & The Amalfi Coast '
-    link: /articles/hidden-gems-naples-amalfi
+    link: /articles/hidden-gems-naples-amalfi.html
     tags:
       - travel
       - number 01
@@ -656,7 +656,7 @@ cards3:
     description: ' The Bay of Naples and its glittering islands need no introduction. Get away from the crowded hotspots with these lesser-known beaches, secret caves and waterside trattorias.  '
   - image: /uploads/download-50.jpg
     alt: ' The Azores - A Place to Sea '
-    link: /articles/azores
+    link: /articles/azores.html
     tags:
       - travel
       - number 01
@@ -664,7 +664,7 @@ cards3:
     description: ' The Azores — Portuguese-speaking, verdant and wild — is that rare destination where a remote setting gives way to having it all… '
   - image: /uploads/download-51.jpg
     alt: ' Sailing in the City - New York '
-    link: /articles/new-york
+    link: /articles/new-york.html
     tags:
       - travel
       - number 01
@@ -672,7 +672,7 @@ cards3:
     description: ' New York City reserves some of its most spectacular panoramas for those lucky enough to visit by boat. '
   - image: /uploads/download-52.jpg
     alt: ' Portofino: Let''s Meet at the Mare '
-    link: /articles/portofino
+    link: /articles/portofino.html
     tags:
       - travel
       - number 01
