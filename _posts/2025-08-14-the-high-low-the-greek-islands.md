@@ -6,7 +6,7 @@ type: travel
 byline: 'WORDS: HELEN IATROU  |  IMAGES: DOMES RESORTS & CLAIRE LLOYD'
 issue_no: number 13
 featured_image:
-  image: /uploads/high-low-desktop.png
+  image: /uploads/culinary-creations-1-min.jpg
   position: img-center
 video: false
 video_path:
