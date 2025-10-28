@@ -103,9 +103,8 @@ hide-nav: hide-nav
 
 
 
-<!-- assign variable pageCategory to the first category on the post (page) -->
 {% assign pageCategory = page.categories[0] %}
-<!-- assign relevant to the first category on the page and if the post url matches the page url do not assign relevant-->
+
 {% assign relevant = site.categories[pageCategory] | where_exp: "post", "post.url != page.url" %}
 
 <!-- output those with the variable relevant -->
