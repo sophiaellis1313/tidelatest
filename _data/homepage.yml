@@ -39,7 +39,7 @@ homepage_banner:
     video: false
     video_path: Issue Number Fourteen | 14 in store now
     poster: /images/homepage-poster.jpg
-    fallback_image: /uploads/tide-issue-14.png
+    fallback_image: /uploads/tide-issue-14.webp
     image_position: center
     title: Issue 14 is in stores now.
     tags:
