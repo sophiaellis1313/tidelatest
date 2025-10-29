@@ -479,7 +479,7 @@ image_with_text2:
   background_class: grey-bg
   paddingclass: padding0tott
 banner_section:
-  image: /uploads/pursuitcover-min.png
+  image: /uploads/pursuitcover-min.webp
   image_position: left
   tags:
     - EVENTS
