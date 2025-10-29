@@ -1,9 +1,9 @@
 posts:
   - category: sailing
     video: true
-    video_path: /uploads/drumfire-1-min.png
+    video_path: /uploads/drumfire-1-min.webp
     featured_image:
-      image: /uploads/drumfire-1-min.png
+      image: /uploads/drumfire-1-min.webp
       position: center
     title: 'Drumfire: the Boat to Beat '
     short_description: >
@@ -12,11 +12,11 @@ posts:
     type: Sailing
     issue_no: Number 13
     url: articles/Drumfire-the-boat-to-beat
-    cover_image: /uploads/audihirw2017-francolini-1753.jpg
+    cover_image: /uploads/drumfire-1-min.webp
     buttontitle: More
 cards_title: Featured
 cards:
-  - image: /uploads/sw108-02-deck-24.jpg
+  - image: /uploads/sw108-02-deck-24-1.webp
     alt: ''
     link: /articles/The-beautiful-lightness-of-being.html
     tags:
@@ -28,7 +28,7 @@ cards:
       comfortable Superyacht that simultaneously handles with the daintiness of
       a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
       2025 – explain how she does it
-  - image: /uploads/jeff-brown-jcb24539-min.jpg
+  - image: /uploads/jeff-brown-jcb24539-min.webp
     alt: ''
     link: /articles/A-Perfect-refit.html
     tags:
@@ -42,7 +42,7 @@ cards:
       Superyacht Awards, to find out
 
 
-  - image: /uploads/dsc01506-1-min-1.jpg
+  - image: /uploads/dsc01506-1-min-1-1.webp
     alt: ''
     link: /articles/Wider-wake.html
     tags:
@@ -54,7 +54,7 @@ cards:
       most extraordinary way. Sea Tilt, a Gunboat 68, is a case in point
 
 
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.webp
     alt: ' Sailing I number 12'
     link: /articles/sarissa.html
     tags:
@@ -62,7 +62,7 @@ cards:
       - number 12
     title: ' On Point:  Supersloop Sarissa '
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness'
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.webp
     alt: Three's a Charm
     link: /articles/wind-is-power.html
     tags:
@@ -74,7 +74,7 @@ content_on_image:
   mobile_direction: bottom
   desktop_direction: end
   image:
-    src: /uploads/nilaya154-cb2324311-carloborlenghi.jpg
+    src: /uploads/nilaya154-cb2324311-carloborlenghi.webp
     alt: Nilaya Rises
   tags:
     - Sailing
@@ -90,8 +90,7 @@ content_on_image:
     class: width-fit btn white-btn
 featured_section:
   cards:
-    - image: >-
-        /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-spirits-1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-spirits-1.webp
       alt: ''
       link: /articles/competitive-spirits.html
       tags:
@@ -103,8 +102,7 @@ featured_section:
         aptly named Spirit Yachts, whose flush decks, gleaming brightwork and
         extensive overhangs anchor them in the aesthetic of the Golden Age of
         sail
-    - image: >-
-        /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-maximus-1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-maximus-1.webp
       alt: Maximus The Ocean Gladiator
       link: /articles/maximus.html
       tags:
@@ -118,7 +116,7 @@ featured_section:
         racecourse ever since. This is the story of Maximus, a gladiator of our
         times
 
-    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-gunboat-2-1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-gunboat-2-1.webp
       alt: ' Building a Brand: Gunboat '
       link: /articles/gunboat.html
       tags:
@@ -126,7 +124,7 @@ featured_section:
         - number 10
       title: ' Building a Brand: Gunboat '
       description: ' Few boatbuilders out there can claim to have changed the face of yachting. Gunboat is one of them. Rodolphe Cadoret, Marketing Director for the brand’s owners Grand Large, explains why and how they did it, and hints at what they may revolutionise next    '
-    - image: /uploads/kokomo.png
+    - image: /uploads/kokomo (1).webp
       alt: ' A Sailing Legacy Kokomo '
       link: /articles/kokomo.html
       tags:
@@ -134,7 +132,7 @@ featured_section:
         - number 10
       title: ' A Sailing Legacy Kokomo '
       description: ' Super-sized, fast and sleek – this is the story of a Superyacht born from two legendary minds and one historic yard; a story which isn’t ending any time yet. We get the inside track from her current owner and Captain   '
-    - image: /uploads/michaelkurtzphoto-j-class-velsheda-st-barth-2012-11-x3.jpg
+    - image: /uploads/michaelkurtzphoto-j-class-velsheda-st-barth-2012-11-x3.webp
       alt: ' Sailing Vel-She-Da '
       link: /articles/velsheda.html
       tags:
@@ -143,7 +141,8 @@ featured_section:
       title: ' Sailing Vel-She-Da '
       description: ' Velsheda is one of only three survivors of the prestigious 1930s boat group – here her skipper of 10 years Barney Henshaw-Depledge shares what she’s like to handle today '
     - image: >-
-        /uploads/tide-magazine-sailing-lifestyle-travel-issue09-oceans-twelve-1.jpg
+        /uploads/tide-magazine-sailing-lifestyle-travel-issue09-oceans-twelve-1
+        (1).webp
       alt: ' Ocean’s Twelve '
       link: /articles/oceans-twelve.html
       tags:
@@ -151,7 +150,7 @@ featured_section:
         - number 09
       title: ' Ocean’s Twelve '
       description: ' Famed for their beauty as well as their brawn, Twelve Metre Class yachts were a result of leading designers being put into the tightest of spots – and flourishing. Here we highlight some of the very finest  '
-    - image: /uploads/ribelle-lp-2019-11.jpg
+    - image: /uploads/ribelle-lp-2019-11.webp
       alt: Ribelle with a cause
       link: /articles/ribelle.html
       tags:
@@ -163,7 +162,7 @@ featured_section:
         naval architect must master the fine art of achieving equilibrium. That
         delicate precarious struggle between speed, comfort, style and
         practicality
-    - image: /uploads/aa-0013.jpg
+    - image: /uploads/aa-0013.webp
       alt: Asahi's Secret
       link: /articles/asahi.html
       tags:
@@ -176,7 +175,7 @@ featured_section:
         measure? Whatever the exact recipe, the ketch-rigged 56-metre Perini
         Navi, Asahi, seems to have struck somewhere close to the right balance
     - image: >-
-        /uploads/issue08/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.jpg
+        /uploads/tide-magazine-sailing-lifestyle-travel-issue08-two-owners-2.webp
       alt: A Tale of Two Owners
       link: /articles/two-owners.html
       tags:
@@ -190,7 +189,7 @@ featured_section:
         Turkey, the other in the Netherlands, but they both share a classic look
         that is allied to distinctly modern handling
     - image: >-
-        /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.jpg
+        /uploads/tide-magazine-sailing-lifestyle-travel-issue07-wendys-house1.webp
       alt: 'Wendy’s House: Elfje'
       link: /articles/wendys-house.html
       tags:
@@ -216,8 +215,7 @@ featured_section:
         doesn’t work for your purposes. Then a boat is the opposite; it doesn’t
         set you free, it is a burden.”
 
-    - image: >-
-        /uploads/issue-07/tide-magazine-sailing-lifestyle-travel-issue07-gelliceaux1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue07-gelliceaux1.webp
       alt: 'A Green Revolution: Gelliceaux'
       link: /articles/gelliceaux.html
       tags:
@@ -232,8 +230,7 @@ featured_section:
         specifically conceived and engineered for hybrid diesel-electric
         propulsion
 
-    - image: >-
-        /uploads/issue-06/tide-magazine-sailing-lifestyle-travel-issue06-athos2.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue06-athos2 (1).webp
       alt: The Seas Less Sailed
       link: /articles/athos.html
       tags:
@@ -247,7 +244,8 @@ featured_section:
         cod, crabs, prawns, squat lobster (especially delicious) and various
         other fish
     - image: >-
-        /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-why-not1.jpg
+        /uploads/tide-magazine-sailing-lifestyle-travel-issue05-why-not1
+        (1).webp
       alt: Why Not!
       link: /articles/why-not.html
       tags:
@@ -258,8 +256,7 @@ featured_section:
         Owning a yacht can be about so many things: often, the actual art of
         going sailing is not top of the list. Yet a boat like the Y9
         demonstrates precisely why it should be
-    - image: >-
-        /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-sea-eagle1.webp
       alt:
       link: /articles/the-eagle.html
       tags:
@@ -271,8 +268,7 @@ featured_section:
         want to put the yacht through her paces. They’ve spent the winter in the
         Caribbean and have a programme of refit work to transform her into a
         family yacht
-    - image: >-
-        /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.jpg
+    - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-ghosted1.webp
       alt: 'Ghosted: In Good Company'
       link: /articles/ghosted.html
       tags:
@@ -285,7 +281,7 @@ featured_section:
         anything occult. With Michael “Hutch” Hutchinson’s hand on the helm for
         more than 16 years, Ghost quietly criss-crossed the globe, racking up
         experiences of which most can only dream
-    - image: /uploads/tide-magazine-issue04-two-ketches-2-1.jpg
+    - image: /uploads/tide-magazine-issue04-two-ketches-2-1.webp
       alt: all | sailing number 04 A Tale of Two Ketches
       link: /articles/two-ketches.html
       tags:
@@ -299,7 +295,7 @@ featured_section:
         decade of Superyacht racing. Their designers could not have imagined
         then that well over one hundred years later, their creations would still
         be drawing admiring looks and causing Billionaires to swoon
-    - image: /uploads/TIDE-Magazine-issue04-pot-of-gold-1.jpg
+    - image: /uploads/TIDE-Magazine-issue04-pot-of-gold-1.webp
       alt: 'A Pot of Gold: J Class Rainbow'
       link: /articles/a-pot-of-gold.html
       tags:
@@ -311,7 +307,7 @@ featured_section:
         in some ways epitomises the high romance of yachting. In fact, the
         J-Class era, from 1929 to 1939, is often referred to as the premier
         decade of Superyacht racing
-    - image: /uploads/glclzrga-1.jpg
+    - image: /uploads/glclzrga-1.webp
       alt: ' A Global Range: The Schooner '
       link: /articles/a-global-range-the-schooner.html
       tags:
@@ -319,7 +315,7 @@ featured_section:
         - number 03
       title: ' A Global Range: The Schooner '
       description: ' With the forthcoming re-launch of ATHOS, we take a look at some of the most famous Schooners afloat today, and show how the multi-mast sailing yachts are hard to beat for a truly authentic sailing experience'
-    - image: /uploads/tide-magazine-sailing-sorvind-1-1.jpg
+    - image: /uploads/tide-magazine-sailing-sorvind-1-1.webp
       alt: ' A Touch of Nordic Cool - Sørvind '
       link: /articles/sorvind.html
       tags:
@@ -340,7 +336,7 @@ featured_section:
         between shallow tropical islands, racing around headlands or navigating
         the fjords, the Finnish-built yachts are widely touted as the best of
         all worlds
-    - image: /uploads/tide-magazine-sailing-sonny-5-1.jpg
+    - image: /uploads/tide-magazine-sailing-sonny-5-1.webp
       alt: ' The Adventure Squad '
       link: /articles/sonny.html
       tags:
