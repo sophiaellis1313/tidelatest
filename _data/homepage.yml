@@ -69,7 +69,7 @@ homepage_banner:
       text: PURCHASE NOW
       style: white-btn
 cards:
-  - image: /uploads/fc5a9854-min.jpg
+  - image: /uploads/fc5a9854-min.webp
     alt: 'Flavour of the Cyclades: Cookoovaya Antiparos'
     link: /articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos.html
     tags:
@@ -80,7 +80,7 @@ cards:
       Chef Periklis Koskinas explains what lies at the core of his purely
       homegrown cuisine
 
-  - image: /uploads/sw108-02-deck-24.jpg
+  - image: /uploads/sw108-02-deck-24-1.webp
     alt: ' Sailing Cuba '
     link: /articles/The-beautiful-lightness-of-being.html
     tags:
@@ -92,7 +92,7 @@ cards:
       comfortable Superyacht that simultaneously handles with the daintiness of
       a dinghy. The Skipper and owner of Kiboko 4 – just voted Sailing Yacht of
       2025 – explain how she does it
-  - image: /uploads/dodecanese-tide-mag-dja-87-1.jpg
+  - image: /uploads/dodecanese-tide-mag-dja-87-1-min-1.webp
     alt: Sailing the Northern Dodecanese
     link: /articles/Sailing-the-Northern-Dodecanese.html
     tags:
@@ -104,7 +104,7 @@ cards:
       storied past, secret bays and sense of discovery. Director and founder of
       Sailing Collective charters, Dayyan Armstrong shares the local intel
 
-  - image: /uploads/download-14.jpg
+  - image: /uploads/download-14.webp
     alt: ''
     link: /articles/project-o.html
     tags:
@@ -121,7 +121,7 @@ cards:
       winds that whooshed over the sea, where the Gulf of Bothnia meets the Gulf
       of Finland and the Baltic Sea
 cards2:
-  - image: /uploads/jeff-brown-jcb24539-min.jpg
+  - image: /uploads/jeff-brown-jcb24539-min.webp
     alt: A Perfect Re(fit)
     link: /articles/A-Perfect-refit.html
     tags:
@@ -133,8 +133,7 @@ cards2:
       should you go? Miriam Cain talks to various experts, including the people
       behind Ravenger, winner of the refit category at this year’s World
       Superyacht Awards, to find out
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-sarissa-1.webp
     alt: ' On Point:  Supersloop Sarissa '
     link: /articles/sarissa.html
     tags:
@@ -142,8 +141,7 @@ cards2:
       - number 12
     title: ' On Point:  Supersloop Sarissa '
     description: ' The 60m Sarissa, named after the ancient Greek word for a long, sharp spear, is cutting-edge in every way, from her record-holding square-top mainsail to her impressive speed and unique quietness. We meet her designer Malcolm McKeon and Captain Iain Cook to find out her secret '
-  - image: >-
-      /uploads/issue-11/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue11-wind-4.webp
     alt: Wind is Power
     link: /articles/wind-is-power.html
     tags:
@@ -154,7 +152,7 @@ cards2:
       The latest rig and sail innovations are allowing boatbuilders and
       designers to think big when it comes to sailing vessels – and that could
       be good news for the environment
-  - image: /uploads/dsc01506-1-min-1.jpg
+  - image: /uploads/dsc01506-1-min-1-1.webp
     alt: wider awake
     link: /articles/Wider-wake.html
     tags:
@@ -165,7 +163,7 @@ cards2:
       High speed multihulls have the ability to broaden your horizons in the
       most extraordinary way. Sea Tilt, a Gunboat 68, is a case in point
 cards3:
-  - image: /uploads/makris-fine-dining-restaurant-2.jpg
+  - image: /uploads/makris-fine-dining-restaurant-2.webp
     alt: 'The High Low: The Greek Islands'
     link: /articles/The-High-Low-the-Greek-Islands.html
     tags:
@@ -178,7 +176,7 @@ cards3:
       calm, sapphire waters of the Ionian Sea, dropping anchor in protected
       coves that scallop the coastlines of places like Corfu, Kefalonia and
       Ithaki
-  - image: /uploads/image00014.jpeg
+  - image: /uploads/image00014-1.webp
     alt: 'Checking In: Skinopi Lodge'
     link: /articles/Checking-in-Skinopi-Lodge.html
     tags:
@@ -190,7 +188,7 @@ cards3:
       eco-chic boathouse-villas, located on arguably the most stunning of all
       the Cyclades islands. Owner Nausika Georgiadou gives us the downlow
 
-  - image: /uploads/dodecanese-tide-mag-dja-87-1-min-1.jpg
+  - image: /uploads/dodecanese-tide-mag-dja-87-1-min-1-1.webp
     alt: ''
     link: /articles/Sailing-the-Northern-Dodecanese.html
     tags:
@@ -202,8 +200,7 @@ cards3:
       storied past, secret bays and sense of discovery. Director and founder of
       Sailing Collective charters, Dayyan Armstrong shares the local intel
 
-  - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-hidden-gems-3.webp
     alt: 'Hidden Gems: Islas Secas'
     link: /articles/hidden-gems-islas-secas.html
     tags:
@@ -217,7 +214,7 @@ cards3:
       virgin coastal rainforest in the region, it’s a world unto its own, thanks
       to its isolated position and topography unfazed by El Niño’s colder winds
 cards4:
-  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue12-design-1.webp
     alt: 'Designing for the Future   '
     link: /articles/estudio-ramos.html
     tags:
@@ -229,7 +226,7 @@ cards4:
       don’t want our architecture to be loud,” says Juan Ignacio Ramos, the
       figure behind Estudio Ramos, a 35-year-strong family-run firm with dual
       bases in New York City and Buenos Aires
-  - image: /uploads/download.jpg
+  - image: /uploads/download.webp
     alt: Expanding Horizons
     link: /articles/expanding-horizons.html
     tags:
@@ -244,7 +241,7 @@ cards4:
       residential projects or commercial fields and grown to include yachts in
       their portfolios
   - image: >-
-      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-design-jarkko-1.jpg
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-design-jarkko-1.webp
     alt: ''
     link: /articles/design-jarkko.html
     tags:
@@ -258,7 +255,7 @@ cards4:
       a certain Finnish modesty, as well as a track record in motorboats. This
       foiling fantasy may be his first sailing boat, but make no mistake: it
       will not be his last
-  - image: /uploads/download-2.jpg
+  - image: /uploads/download-2.webp
     alt: The View From Here
     link: /articles/design-mckeon.html
     tags:
@@ -275,7 +272,7 @@ cards4:
       exterior lines
 
 cards5:
-  - image: /uploads/environ-1.png
+  - image: /uploads/environ-1.webp
     alt: lifestyle number 12 Ocean Breeze
     link: /articles/pianosa.html
     tags:
@@ -286,7 +283,7 @@ cards5:
       On the island of Pianosa, surrounded by the vividly cerulean waves of the
       Tyrrhenian Sea, there is an empty prison. The isle is a relatively small
       piece of land – just a little more than ten square kilometres
-  - image: /uploads/environment-example-1.png
+  - image: /uploads/environment-example-1.webp
     alt: A Letter from Norway
     link: /articles/letter-from-norway.html
     tags:
@@ -297,8 +294,7 @@ cards5:
       Pale, sunny yellow buildings dance on the surface of the dark, calm water;
       a gap, then its neighbour, white, moves in a chaotic sort of synchrony
       with it
-  - image: >-
-      /uploads/issue-05/tide-magazine-sailing-lifestyle-travel-issue05-environment1.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue05-environment1.webp
     alt: The Winds of Change
     link: /articles/veer.html
     tags:
@@ -308,7 +304,7 @@ cards5:
     description: >-
       In a world grappling with the early devastating effects of a warming
       climate, the maritime world stands apart as an oft-overlooked contributor
-  - image: /uploads/environ-2.png
+  - image: /uploads/environ-2.webp
     alt: Life in the Meadows
     link: /articles/sea-trees.html
     tags:
@@ -321,7 +317,7 @@ cards5:
       the sun’s rays; flickering between shadows, he’s easy to spot
 cards6:
   - image: >-
-      /uploads/issue-12/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.jpg
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue12-ocean-breeze-1.webp
     alt: Ocean Breeze
     link: /articles/ocean-breeze.html
     tags:
@@ -336,8 +332,7 @@ cards6:
       that swoops up from not only the Atlantic Ocean but also the two lagoons
       that bookend the once sleepy nearby fishing village of the same name, now
       a bohemian hotspot and starry hangout
-  - image: >-
-      /uploads/issue-10/tide-magazine-sailing-lifestyle-travel-issue10-chef-1.jpg
+  - image: /uploads/tide-magazine-sailing-lifestyle-travel-issue10-chef-1-2.webp
     alt: A Taste of Tuscany
     link: /articles/taste-of-tuscany.html
     tags:
@@ -351,7 +346,7 @@ cards6:
       plump grapes ready to be crushed and fermented into bottles of heady
       Tuscan reds
   - image: >-
-      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.jpg
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-mallorcan-food-1.webp
     alt: The Spirit Of Mallorca In A Recipe
     link: /articles/mallorcan-food.html
     tags:
@@ -364,7 +359,7 @@ cards6:
       The complex layers of its past are seen in the architecture, the
       agriculture, the traditions and, of course, in the food
   - image: >-
-      /uploads/issue09/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.jpg
+      /uploads/tide-magazine-sailing-lifestyle-travel-issue09-gourmand-barcelona-1.webp
     alt: The Gourmand's Guide to Barcelona
     link: /articles/gourmand-barcelona.html
     tags:
@@ -379,7 +374,7 @@ content_on_image:
   mobile_direction: bottom
   desktop_direction: start
   image:
-    src: /uploads/drumfire-1-min.png
+    src: /uploads/drumfire-1-min.webp
     alt: Drumfire
   tags:
     - Sailing
@@ -396,7 +391,7 @@ content_on_image2:
   mobile_direction: bottom
   desktop_direction: start
   image:
-    src: /uploads/tide-magazine-issue04-conscious-traveller-3-1.jpg
+    src: /uploads/tide-magazine-issue04-conscious-traveller-3-1.webp
     alt: 'Gundari Resort TIDE Magazine '
   tags:
     - ENVIRONMENT
@@ -414,7 +409,7 @@ content_on_image3:
   mobile_direction: top
   desktop_direction: end
   image:
-    src: /uploads/gundari_453-Edit-min.jpg
+    src: /uploads/gundari_453-Edit-min.webp
     alt: Gundari Resort Greece
   tags:
     - Travel
@@ -469,7 +464,7 @@ image_with_text1:
   button_secondary:
     label: Browse All Issues
     link: https://www.mymagazinesub.co.uk/tide/back-issues/
-  image: /uploads/tide-14-multicovers-2.jpg
+  image: /uploads/tide-14-multicovers-2.webp
   background_class: grey-bg
   paddingclass: ''
 image_with_text2:
@@ -480,7 +475,7 @@ image_with_text2:
   button_primary:
     label: Join Now
     link: '#join'
-  image: /uploads/tideexample.png
+  image: /uploads/tideexample.webp
   background_class: grey-bg
   paddingclass: padding0tott
 banner_section:
