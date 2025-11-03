@@ -1,9 +1,9 @@
 posts:
   - category: Lifestyle
     video: false
-    video_path: /uploads/fc5a9854-min.jpg
+    video_path: /uploads/fc5a9854-min-1.webp
     featured_image:
-      image: /uploads/fc5a9854-min.jpg
+      image: /uploads/fc5a9854-min-1.webp
       position: center
     title: 'Flavour of the Cyclades: Cookoovaya Antiparos'
     short_description: >-
@@ -13,7 +13,7 @@ posts:
     issue_no: Number 13
     url: >-
       https://peachy-lion.cloudvent.net/articles/Flavour-of-the-Cyclades-Cookoovaya-Antiparos.html
-    cover_image: /uploads/fc5a9854-min.jpg
+    cover_image: /uploads/fc5a9854-min-1.webp
     buttontitle: More
 cards_title: Featured
 cards:
